@@ -24,6 +24,8 @@ document.getElementById('filter-min').oninput = renderLayer;
 document.getElementById('filter-max').oninput = renderLayer;
 document.getElementById('searchPlaceInput').oninput = renderLayer
 document.getElementById('searchAdesseInput').oninput = renderLayer
+document.getElementById('correspondenceInput').oninput = renderLayer
+
 
 
 function renderLayer() {
@@ -41,7 +43,7 @@ function renderLayer() {
     });
     const searchString = document.getElementById('searchPlaceInput').value;
     const myData = data.filter(function (el) {
-        return el.from.name.includes(searchString) && el.from.name_sender.includes(document.getElementById('searchAdesseInput').value);
+        return el.from.name.includes(searchString) && el.from.name_sender.includes(document.getElementById('searchAdesseInput').value) && el.from.cor_title.includes(document.getElementById('correspondenceInput').value);
     });
     // myData = data.filter(function (el) {
     //     return el.from.name_sender.includes(document.getElementById('searchAdesseInput').value);
@@ -67,7 +69,7 @@ function renderLayer() {
 
     deckgl.setProps({
         layers: [greatCircleLayer],
-        getTooltip: ({ object }) => object && `Von ${object.from.name_sender} aus ${object.from.name} an ${object.to.name_receiver} nach ${object.to.name} im Jahr ${object.from.year}`
+        getTooltip: ({ object }) => object && `Von ${object.from.name_sender} aus ${object.from.name} an ${object.to.name_receiver} nach ${object.to.name} im Jahr ${object.from.year}, in: ${object.from.cor_title}` 
     });
 }
 
