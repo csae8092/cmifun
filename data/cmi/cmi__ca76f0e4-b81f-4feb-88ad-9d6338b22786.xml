@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital index of letters from Fanny Lewald (and Adolf Stahr) to Hermann
+                    Hettner, 1847-1857</title>
+                <editor>Frederike Neuber <email>neuber@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</ref>
+                </publisher>
+                <idno type="url">https://zenodo.org/record/4666039/files/lewald-hettner-1847.xml</idno>
+                <date when="2015-01-01"/>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative Commons Licence CC BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="ca76f0e4-b81f-4feb-88ad-9d6338b22786" type="print">Frederike Neuber:
+                    „Fanny Lewald an Hermann Hettner. Briefe aus den Jahren 1847-1857”. In: Opera
+                    minora editorica. Editorische Beiträge zur Kulturwissenschaft (Berliner Beiträge
+                    zur Editionswissenschaft 17). Hrsg. Jörg Jungmayr und Marcus Schotte. Berlin:
+                    Weidler, 2017.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1847-08-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName ref="http://www.geonames.org/2939951">Koburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1847-09-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName ref="http://www.geonames.org/2939951">Koburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1847-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1848-06-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1849-03-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1849-04-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1849-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-01-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-02-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-02-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-03-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1850-04-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                    <date when="1850-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1850-10-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-02-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Marie Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1857-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ca76f0e4-b81f-4feb-88ad-9d6338b22786" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1857-04-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118704281">Hermann Hettner</persName>
+                    <placeName/>
+                </correspAction>
+            </correspDesc>
+            <!-- usw -->
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

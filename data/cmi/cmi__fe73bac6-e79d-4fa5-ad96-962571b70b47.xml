@@ -1,0 +1,543 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- Generated from table of letters with csv2cmi 2.1.0 -->
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="title-ad21-3e52-a534c0db12">Johann Gottfried Walther: Briefe</title>
+        <editor>Klaus Rettinghaus</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sächsische Akademie der Wissenschaften zu Leipzig</publisher>
+        <publisher>Bach-Archiv Leipzig</publisher>
+        <idno type="url">https://www.bach-digital.de/letters/WaltherLetters.xml</idno>
+        <date when="2020-04-20T14:42:12.883613"/>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="print" xml:id="fe73bac6-e79d-4fa5-ad96-962571b70b47">Beckmann, Klaus, Schulze, Hans-Joachim, Hrsg., 1987. Johann Gottfried Walther: Briefe. Leipzig: Deutscher Verlag für Musik. ISBN 3-370-00154-3</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc key="1" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-40eb-d140-17a2645f38">
+        <correspAction type="sent" xml:id="sender-394d-3c1a-e154d36c2a">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+          <date when="1702-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-c5b1-8afd-25348e176d">
+          <persName>Gemeindevorstand der Thomaskirche Erfurt</persName>
+          <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="2" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-a6fd-8b7e-d9b2e4c0f6">
+        <correspAction type="sent" xml:id="sender-cf14-6cfb-6c4538af10">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1707-07-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-091f-80c7-c4fa0d7523">
+          <persName>Rat der Stadt Weimar</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="3" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-1297-e12c-723d8cbf59">
+        <correspAction type="sent" xml:id="sender-413d-f63c-1953ca2b76">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1726-04-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-52fd-82a3-a18c2e7059">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="4" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-b439-146d-aed4261f85">
+        <correspAction type="sent" xml:id="sender-84e6-0ed4-82510ed94b">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1729-03-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-d3c1-6372-a05726c4fe">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="5" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-f4de-b896-978dba3405">
+        <correspAction type="sent" xml:id="sender-1873-35c2-374ba5c6e8">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1729-04-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-9d1f-f573-b91c30487d">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="6" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-20df-250d-6270b14d8f">
+        <correspAction type="sent" xml:id="sender-68c9-edc6-872cfbd940">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1729-06-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-4f9b-f04c-e45132cafd">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="7" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-cedf-7ac6-fcae761925">
+        <correspAction type="sent" xml:id="sender-c152-acbd-c1309754f2">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1729-08-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-6c8e-ba24-124adc098f">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="8" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-7941-23fc-afb346815e">
+        <correspAction type="sent" xml:id="sender-7d18-7c09-42ec8d16ab">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1729-08-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-c154-8dc9-a5216e984f">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="9" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-6c4e-d1af-31956e0b2c">
+        <correspAction type="sent" xml:id="sender-8b10-024a-1bdec97254">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1729-10-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-d364-d475-d18be9c467">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="10" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-7048-9e42-ad9275fe6c">
+        <correspAction type="sent" xml:id="sender-f563-72d0-0f7b516cda">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1729-10-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-f8b2-b1d5-f304c8b1ea">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="11" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-5b2f-abce-0a9b5dfe3c">
+        <correspAction type="sent" xml:id="sender-28be-b397-0a9412bc8f">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date notAfter="1730"/>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="12" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-3e02-1b40-c54621379d">
+        <correspAction type="sent" xml:id="sender-f92b-781b-b84cd73096">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1730-02-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-e0c7-396c-8b394ae120">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="13" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-1fc2-fc80-bca6357ed0">
+        <correspAction type="sent" xml:id="sender-9db8-64c3-ac913de475">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1730-04-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-174e-05f6-d17948c0ab">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="14" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-2f90-a857-5e6b08f943">
+        <correspAction type="sent" xml:id="sender-c7f3-31d4-05bf89da27">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1730-07-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-9eb3-578b-47d5a93860">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="15" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-61d8-173c-581bea9630">
+        <correspAction type="sent" xml:id="sender-b019-5a1f-70825df94e">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1730-08-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-40c9-c6d9-76f82d435c">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="16" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-6e54-4d86-c1b2f53970">
+        <correspAction type="sent" xml:id="sender-d746-3c87-f594087a3d">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1731-03-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-cf5a-c574-fde0924cb6">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="17" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-c3d6-1f36-a1d2fec397">
+        <correspAction type="sent" xml:id="sender-b390-2703-cb9fe2a375">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1731-08-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-ad27-42d5-c57e349b10">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="18" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-a9fc-c42d-268730fdae">
+        <correspAction type="sent" xml:id="sender-dc98-41b7-4bd7c2a35e">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1731-08-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-2743-ea8f-ce620d9b7a">
+          <persName ref="http://d-nb.info/gnd/118578995">Johann Mattheson</persName>
+          <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="19" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-5279-4eb0-a0d6593f2e">
+        <correspAction type="sent" xml:id="sender-ef35-8fb9-dbae42930c">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1732-01-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-89eb-8731-e861f09d2b">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="20" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-6d58-3ead-06b74df185">
+        <correspAction type="sent" xml:id="sender-ecdf-f491-608ced275f">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1732-03-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-6ecb-68b0-721de35609">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="21" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-24f7-649b-59f0a3eb12">
+        <correspAction type="sent" xml:id="sender-154c-f6d5-a6fc792035">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1732-08-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-b825-0bf7-df4ca85e13">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="22" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-d90a-ba40-897fae4315">
+        <correspAction type="sent" xml:id="sender-1952-df34-672c10afe9">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1732-10-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-0516-59d6-58923daecb">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="23" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-cf62-7d81-4521b6ae97">
+        <correspAction type="sent" xml:id="sender-a28d-8d62-7a1c4ef902">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1732-12-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-29c4-795c-a510ce3479">
+          <persName ref="http://d-nb.info/gnd/118578995">Johann Mattheson</persName>
+          <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="24" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-d567-a589-b162f4dca0">
+        <correspAction type="sent" xml:id="sender-2180-e29c-e9db234f10">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1733-07-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-f5de-302b-c13f7d28e0">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="25" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-91c7-bc39-82c065f19a">
+        <correspAction type="sent" xml:id="sender-6127-bcf4-0ed617f8c2">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1734-01-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-a326-60ca-61bacf93d8">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="26" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-a624-fc1a-7f1cb62e43">
+        <correspAction type="sent" xml:id="sender-e916-21ac-9057cad2f1">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1734-11-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-ca29-fa1b-abc249785e">
+          <persName>Lorenz Christoph Mizler</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="27" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-9760-ba12-f37b0ad569">
+        <correspAction type="sent" xml:id="sender-83e7-dea9-dc0bfe678a">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1735-01-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-3250-4d63-5ae4c60fd3">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="28" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-7c1e-46e3-fe85c47b0d">
+        <correspAction type="sent" xml:id="sender-37d5-ed95-09768edbc2">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1735-04-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-b729-73a6-e38f4dc506">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="29" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-7c01-af03-41df5e8a03">
+        <correspAction type="sent" xml:id="sender-d467-2713-3c2d485a6f">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1735-08-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-bd19-0271-1cd56e32a0">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="30" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-68e5-b803-8ce7b135fd">
+        <correspAction type="sent" xml:id="sender-8179-ae0d-e785f92dab">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1736-01-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-d7ce-a4c2-08237c6feb">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="31" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-468b-c180-ea5bc4076d">
+        <correspAction type="sent" xml:id="sender-e4d2-3451-571d640eb3">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1736-08-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-a8d0-0bca-bf16c894ae">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="32" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-9f0a-7d69-d70b294a6e">
+        <correspAction type="sent" xml:id="sender-0239-1dcf-a34fb8105e">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1737-01-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-35e2-68c5-5ac60e792f">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="33" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-9b52-7c32-297f0a3e4c">
+        <correspAction type="sent" xml:id="sender-293c-a36d-ec6f327a41">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1737-08-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-7d92-e5c1-d915e248ba">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="34" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-1764-fdcb-d6cfb8a942">
+        <correspAction type="sent" xml:id="sender-012e-7925-1eb4c7658f">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1738-01-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-d75b-96df-cd89a253f0">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="35" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-cb5e-23e5-e5f43b8a7d">
+        <correspAction type="sent" xml:id="sender-95a3-5db3-603fcb7de5">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1738-07-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-86f2-27e6-b716d8fe2a">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="36" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-f0e9-7d93-c2f6e8014b">
+        <correspAction type="sent" xml:id="sender-a4f6-8d21-7a308cd12e">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1739-08-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-60ad-762b-f69a3d548b">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="37" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-675c-9d2a-d8a9eb5372">
+        <correspAction type="sent" xml:id="sender-1984-fbc9-8e9c142f35">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1739-12-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-93ba-ea35-0e1bfc4a75">
+          <persName ref="http://d-nb.info/gnd/118578995">Johann Mattheson</persName>
+          <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="38" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-3e1a-1793-7908c43afe">
+        <correspAction type="sent" xml:id="sender-15d2-a82f-5cd462eb90">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1740-01-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-4ab6-0b32-7bde8ca491">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="39" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-9a5f-85a9-4b0e31a98d">
+        <correspAction type="sent" xml:id="sender-618c-b630-0df35b8947">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1740-08-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-bfdc-0d76-31f0da2cb6">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="40" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-5708-c16b-9860da4ec2">
+        <correspAction type="sent" xml:id="sender-fab5-c453-c80bf92436">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1740-09-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-ecdf-537d-a1dec78b90">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="41" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-623a-5807-06cfa93e57">
+        <correspAction type="sent" xml:id="sender-53b7-dc5a-2dae57c418">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1741-01-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-93b1-f682-1a06be3fd8">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="42" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-80d5-5f80-0e3ac92641">
+        <correspAction type="sent" xml:id="sender-13df-6853-a3ed9682c5">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1742-08-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-ea26-356e-a853291c60">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="43" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-f4bc-6538-4ef9d635ba">
+        <correspAction type="sent" xml:id="sender-e1d4-8c3a-25b6841dfc">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1742-09-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-1f2c-07be-1ad2c6b789">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="44" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-8d9a-198b-1ab36ec7f2">
+        <correspAction type="sent" xml:id="sender-2f7d-09d6-7a9b8e4df5">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1743-04-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-c312-a147-20b7ecf91d">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="45" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-b3de-247b-dafc0369e1">
+        <correspAction type="sent" xml:id="sender-d4b9-2987-7a31e902f6">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1744-01-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-f9e5-ea6f-8c675b3941">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="46" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-8c1a-c1fb-975ab642e0">
+        <correspAction type="sent" xml:id="sender-1867-3f41-96d57fba4e">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1745-08-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-6af1-8be3-12d08643ef">
+          <persName ref="http://d-nb.info/gnd/123286484">Heinrich Bokemeyer</persName>
+          <placeName ref="http://www.geonames.org/2806914">Wolfenbüttel</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="47" source="#fe73bac6-e79d-4fa5-ad96-962571b70b47" xml:id="letter-6e02-2847-2379adeb68">
+        <correspAction type="sent" xml:id="sender-4d52-1a2e-89fdb4602e">
+          <persName ref="http://d-nb.info/gnd/11882581X">Johann Gottfried Walther</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1747-04-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee-e27a-85e0-a9653eb8f0">
+          <persName ref="http://d-nb.info/gnd/104175931">Herzog Ernst August von Sachsen-Weimar</persName>
+          <placeName evidence="conjecture" ref="http://www.geonames.org/2931574">Eisenach</placeName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>

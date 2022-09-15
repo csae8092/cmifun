@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Unveröffentlichtes aus Arthur Schnitzlers Nachlaß</title>
+                <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Martin Anton
+                        Müller</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2020-08-05T15:51:36.813-02:00"/>
+                <idno type="url"
+                    >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1966_Unveroeffentlichtes-aus-Arthur-Schnitzlers-Nachlass.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="na653b61-01d5-462f-98b4-115c7771d181">Unveröffentlichtes
+                    aus Arthur Schnitzlers Nachlaß. In: Neue Zürcher Zeitung, Beilage Literatur und
+                    Kunst, Nr. 91/92, 9. Januar 1966, S. 4–5.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#na653b61-01d5-462f-98b4-115c7771d181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1924-07-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/136335357">Ausubel, Nathan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#na653b61-01d5-462f-98b4-115c7771d181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1927-01-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118507818">Beach, Sylvia</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#na653b61-01d5-462f-98b4-115c7771d181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1915-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Bock, Paul</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#na653b61-01d5-462f-98b4-115c7771d181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1912-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118528262">Durieux, Tilla</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#na653b61-01d5-462f-98b4-115c7771d181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1912-02-12"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118542664">Großmann, Stefan</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#na653b61-01d5-462f-98b4-115c7771d181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1930-09-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118544101">Haas, Willy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#na653b61-01d5-462f-98b4-115c7771d181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1892-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#na653b61-01d5-462f-98b4-115c7771d181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1925-05-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/139319417">Lippowitz, Jakob</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#na653b61-01d5-462f-98b4-115c7771d181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1917-10-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118577131">Mann, Heinrich</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

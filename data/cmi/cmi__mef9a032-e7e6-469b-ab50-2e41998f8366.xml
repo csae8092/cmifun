@@ -1,0 +1,723 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Achille Valenciennes</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburg Academy of Sciences and Humanities</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2019-04-30T17:14:42.677-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Valenciennes.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="mef9a032-e7e6-469b-ab50-2e41998f8366">Une amitié de savants au siècle dernier: Alexander von Humboldt et Achille Valenciennes (Correspondance inédite). Hg. v. Jean Theodorides. Paris: 1965.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="I">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1818-11-25"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="II">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1822-11-04"/>
+                    <placeName ref="http://www.geonames.org/3164527">Verona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="III">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1822-12-06" to="1822-12-11"/>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <placeName ref="http://www.geonames.org/3176438">Gaeta</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="IV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1825-07-30" notBefore="1825-07-01">juillet 1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="V">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1825-07-13"/>
+                    <placeName>Brest</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="VI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1825-07-30" notBefore="1825-07-20">fin juillet 1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="VII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1825-12-31" notBefore="1825-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="VIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1825-09-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="IX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1825-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="X">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1825-12-31" notBefore="1825-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="X bis">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1825-09-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="X ter">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1826-12-31" notBefore="1826-01-01">1826 ?</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-05-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-07-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-07-19"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-01-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-03-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-05-06"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-02-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-01-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1830-04-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-05-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1832-06-07"/>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-06-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-09-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-01-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2855433">Paretz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-04-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-04-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-11-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-07-29"/>
+                    <placeName ref="http://www.geonames.org/2823472">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXXI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-08-22"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXXII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-08-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXXIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1835-12-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXXIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXXV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-12-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXXVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838-08-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXXVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838-10-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXXVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838-11-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XXXIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838-11-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XL">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-03-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XLI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-09-29"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XLII (2)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-11-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XLIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1841-10-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XLIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-07-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XLV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1842-09-07"/>
+                    <placeName ref="http://www.geonames.org/2943320">Brühl</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XLVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1842-10-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XLVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1842-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Alphonsine Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XLVIII (1)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-11-03"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="XLIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Alphonsine Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="L">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1842-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1843-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1843-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1843-02-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-05-18"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-08-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1845-03-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1845-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1847-12-31" notBefore="1847-01-01">1847 ?</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1847-12-31" notBefore="1847-01-01">1847 ?</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1847-12-31" notBefore="1847-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LXI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-07-22"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LXII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-05-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Alphonsine Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LXIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1858-02-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LXIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838-12-31" notBefore="1838-01">1838</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LXV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1848"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LXVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LXVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LXIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Alphonsine Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mef9a032-e7e6-469b-ab50-2e41998f8366" key="LXX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1848"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117339385">Achille Valenciennes</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

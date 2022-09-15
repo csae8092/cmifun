@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel Jean Henri Samuel Formey - Elie Bertrand</title>
+                <editor>Annelie Große<email>annelie.grosse@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Annelie Große</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/Formey-Bertrand.xml</idno>
+                <date when="2020-11-20T15:15:17.909-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="mda7db56-a999-4f29-89ca-346410bce5c7">Renate Petermann, "Briefe eines Berners an J.H.S. Formey", Beiträge zur romanischen Philologie 24:1 (1985), S. 43-64.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1753-03-10"/>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1753-12-08"/>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date from="1753-12-09" evidence="conjecture" to="1754-05-29"/>
+                    <placeName ref="http://www.geonames.org/2661552" evidence="conjecture">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1754-05-30"/>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1756-05-18"/>
+                    <placeName ref="http://www.geonames.org/2661552" evidence="conjecture">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1756-09-12"/>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1758-05-26"/>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1758-09-09"/>
+                    <placeName ref="http://www.geonames.org/2661552" evidence="conjecture">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1758-11-22"/>
+                    <placeName ref="http://www.geonames.org/2661552" evidence="conjecture">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date evidence="conjecture" when="1760-04-16"/>
+                    <placeName ref="http://www.geonames.org/2661552" evidence="conjecture">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1760-08-03"/>
+                    <placeName ref="http://www.geonames.org/2661552" evidence="conjecture">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1764-10-21"/>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1765-12-27"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#mda7db56-a999-4f29-89ca-346410bce5c7" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132748827">Bertrand, Élie</persName>
+                    <date when="1766-05-10"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119353210">Formey, Jean Henri Samuel</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel Rainer Maria Rilke – Arthur Schnitzler</title>
+                <editor>Carmen Reisinger<email>carmen.reisinger@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Carmen Reisinger</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2020-07-04T18:01:34.10-02:00"/>
+                <idno type="url"
+                    >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1958_Rilke_Schnitzler.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="zd58d226-ca44-4dfa-b10c-81551ef4de77">Heinrich Schnitzler
+                    (Hg.): Rainer Maria Rilke und Arthur Schnitzler. Ihr Briefwechsel mit
+                    Anmerkungen. In: Wort und Wahrheit, 13. Jahrgang 1958, S. 283-298.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                    <date when="1902-01-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                    <date when="1901-12-07"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <date when="1902-01-14"/>
+                    <placeName ref="http://www.geonames.org/2810164">Westerwede bei
+                        Worpswede</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <date when="1901-12-03"/>
+                    <placeName ref="http://www.geonames.org/2810164">Westerwede bei
+                        Bremen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                    <date when="1901-07-04"/>
+                    <placeName ref="http://www.geonames.org/2766757">St. Anton am
+                        Arlberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <date when="1902-01-19"/>
+                    <placeName ref="http://www.geonames.org/2810164">Westerwede bei
+                        Worpswede</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <date when="1911-05"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <date when="1901-06-24"/>
+                    <placeName ref="http://www.geonames.org/2810164/westerwede.html">Westerwede bei
+                        Bremen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                    <date when="1900-01-02"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369"
+                        evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                    <date when="1899-04-13"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <date when="1899-03-30"/>
+                    <placeName ref="http://www.geonames.org/2838009">Schmargendorf bei
+                        Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <date when="1896-04"/>
+                    <placeName ref="http://www.geonames.org/3067696">Prag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <date notAfter="1902-01-14" notBefore="1902-01-01">Anfang 1902</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2810164"
+                        evidence="conjecture">Westerwede</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <date when="1899-04-15"/>
+                    <placeName ref="http://www.geonames.org/2838009/">Schmargendorf bei
+                        Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

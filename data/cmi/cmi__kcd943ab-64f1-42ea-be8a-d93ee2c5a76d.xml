@@ -1,0 +1,869 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl August Böttiger – Désiré Raoul-Rochette</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburg Academy of Sciences and Humanities</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2019-03-12T16:22:21.677-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/boettiger-rochette.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="kcd943ab-64f1-42ea-be8a-d93ee2c5a76d">Karl August Böttiger – Briefwechsel Mit Désiré Raoul-Rochette. Hg. v. René Sternke und Klaus Gerlach. Berlin, Boston: De Gruyter, 2018.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1824-11-24"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1824-12-16"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1825-05-21"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1825-09-19"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1825-11-26"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1826-01-20"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1826-02-07"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1826-02-22"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1826-03-29"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1826-05-01"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1826-10-11"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1827-09-21"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1827-10-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1827-11-04"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1827-12-21"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date from="1827-12-21" to="1828-01-04"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1828-01-04"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1828-02-24"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1828-02-28"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1828-03-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1828-03-28"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1828-04-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1828-09-07"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1828-09-21"/>
+                    <placeName ref="http://www.geonames.org/2994126">Meung-sur-Loire, Loiret</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1828-10-08"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date from="1828-12-12" to="1828-12-16"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date notAfter="1829-02-13" notBefore="1828-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1829-02-13"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1829-03-03"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1829-03-26"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>karl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1829-04-02"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1829-04-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1829-06-05"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date notAfter="1830-03-02" notBefore="1829-06-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1830-03-02"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1830-03-13"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1830-03-27"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1830-03-29"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date from="1830-07-08" to="1830-07-21"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1830-08-29"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1830-10-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1831-03-19"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1831-07-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1831-07-20"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date from="1831-11-28" to="1831-12-05"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1832-01-28"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1832-03-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1832-03-12"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1832-08-15"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1832-08-19"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1832-08-28"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1832-10-14"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1833-02-09"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1833-02-23"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1833-03-02"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1833-04-01"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1833-04-19"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1833-05-23"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1833-06-22"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1833-07-07"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1833-11-15"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1833-11-22"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1834-01-10"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1834-01-13"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1834-03-28"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1834-04-04"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1834-04-06"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1834-04-26"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1834-09-02"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1834-09-10"/>
+                    <placeName ref="http://www.geonames.org/2994126">Meung-sur-Loire, Loiret</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date from="1834-10-02" to="1834-11-19"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1834-12-04"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1834-12-30"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1835-01-09"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1835-03-02"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1835-03-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1835-04-07"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1835-04-14"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1835-04-30"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1835-05-06"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1835-05-27"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1835-07-28"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date when="1835-09-30"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#kcd943ab-64f1-42ea-be8a-d93ee2c5a76d" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115431241">Désiré Raoul-Rochette</persName>
+                    <date when="1835-11-12"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

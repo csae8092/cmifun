@@ -1,0 +1,1716 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - August Boeckh</title>
+                <editor>Philipp Linß<email>phliipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <idno type="url">https://correspsearch.net/storage/HumboldtBoeckh.xml</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2018-04-24T18:07:34.128-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="u560aaae-32b5-4574-9e02-89ed08fa99d4">Humboldt, Alexander von (2011): Alexander von Humboldt - August Böckh: Briefwechsel. Herausgegeben von Romy Werther. (Beiträge zur Alexander-von-Humboldt-Forschung 33). Akademie Verlag: Berlin.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1829-03-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken </persName>
+                    <date when="1832-06-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1832-06-23" to="1832-06-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1832-06-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1832-11-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1832-11-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833-03-31" notBefore="1833-03-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1833-03-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833-06-01" notBefore="1833-02-01">Frühjahr 1833</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833-06-01" notBefore="1833-02-01">Frühjahr 1833</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date notAfter="1833-06-01" notBefore="1833-02-01">Frühjahr 1833</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1833-10-24"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833-11-30" notBefore="1833-11-01">November 1833</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1834-06-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-07-22"/>
+                    <placeName ref="http://www.geonames.org/2823472">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1835-01-27"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1835-05-05"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1836-06-10" notBefore="1836-05-20">Ende Mai/ Anfang Juni 1836</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1837-01-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837-02-28" notBefore="1837-02-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-07-24"/>
+                    <placeName ref="http://www.geonames.org/2823472">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1837-12-07"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838-06-30" notBefore="1838-01-01">erste Hälfte 1838</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1839-09-30" notBefore="1839-09-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1839-12-31" notBefore="1839-01-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1840-02-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-07-18"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1840-10-31" notBefore="1840-10-01">Oktober 1840</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1840-12-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1841-04-06" to="1841-04-26"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1841-04-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1841-05-05"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1842-02-28" notBefore="1842-02-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1843-01-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1843-01-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1843-03-24"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-03-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1843-04-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1843-05-15" notBefore="1843-05-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1843-05-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1843-06-30" notBefore="1843-06-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1843-07-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-02-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1844-02-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1844-02-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1844-03-03"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1844-06-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1844-07-02"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1844-07-04"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-07-15"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1844-08-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1844-09-15" notBefore="1844-09-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1844-09-15" notBefore="1844-09-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1844-09-18"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1844-11-30"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-12-14"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1844-12-16"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1844-12-18"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1844-12-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1845-07-11"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1845-07-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1845-07-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1845-07-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date evidence="conjecture" when="1845-07-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1845-07-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1845-11-27"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1845-12-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date notBefore="1845-12-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date from="1845-12-26" to="1846-01-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1846-01-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-02-28"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-03-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846-04-30" notBefore="1846-04-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="91">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1846-05-02"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846-05-31" notBefore="1846-05-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="93">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846-05-31" notBefore="1846-05-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="94">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1846-07">Juli 1846</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="95">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1846-11-16"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="96">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-02-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="97">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-03-07"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="98">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-03-11"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="99">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1847-04-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="101">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1847-04-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="102">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1847-04-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="103">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-07-22"/>
+                    <placeName ref="http://www.geonames.org/2841443">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="104">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1847-08-07" to="1847-08-14">7. oder 14.8-1847</date>
+                    <placeName ref="http://www.geonames.org/2841443">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="105">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1847-08-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="106">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-09-06"/>
+                    <placeName ref="http://www.geonames.org/2841443">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="107">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1847-09-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="108">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1847-09-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="109">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1847-09-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="110">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date notAfter="1847-09-10" notBefore="1847-09-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="111">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1847-09-30" notBefore="1847-09-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="112">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1849-04-21"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="113">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1849-05-10" evidence="conjecture" to="1849-05-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="114">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1849-05-14"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="115">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-08-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="116">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-08-10"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="117">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="118">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1850-03-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="119">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-04-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="120">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-05-03"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="121">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-05-06"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="122">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-06-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="123">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1850-07-09"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="124">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-07-19"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="125">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-07-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="126">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-09-27"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="127">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-10-21"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="128">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1850-10-21"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="129">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-12-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="130">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1850-12-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="131">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1851-03-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="132">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-03-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="133">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1851-03-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="134">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1851-10-31" notBefore="1851-10-01"/>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="135">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1851-12-29"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="136">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1851-12-31" notBefore="1851-01-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="137">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1852-03-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="138">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1852-05-24"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="139">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1852-10-14"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="140">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-10-27"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="141">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-11-03"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="142">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-11-27"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="143">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-12-05"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="144">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1853-12-06"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="145">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-12-13"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="146">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1854-01-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="147">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-01-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="148">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="149">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1854-09-12"/>
+                    <placeName ref="http://www.geonames.org/2823472">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="150">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-11-30"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="151">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1855-09-12"/>
+                    <placeName ref="http://www.geonames.org/2924656">Friedrichroda</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="152">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1856-01-31" notBefore="1856-01-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="153">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1856-04-02"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="154">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1856-12-29"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="155">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1857-06-28"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="156">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1857-08-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="157">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1857-12-02"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="158">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1857"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="159">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1858-02-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="160">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1858-06-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1858-07-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="162">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1858-09-13"/>
+                    <placeName ref="http://www.geonames.org/2924656">Friedrichroda</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="163">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1859-01-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="164">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1859-04-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="Dokument 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                    <date when="1844-07-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="http://d-nb.info/gnd/15514-7">Königlich-Preußische Akademie der Wissenschaften</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="Dokument 2">
+                <correspAction type="sent">
+                    <date when="1844-07-25"/>
+                    <orgName ref="http://d-nb.info/gnd/15514-7">Königlich-Preußische Akademie der Wissenschaften</orgName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="Dokument 8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1844-12-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116643765">Adalbert von Ladenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="Dokument 9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1844-12-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116643765">Adalbert von Ladenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="Dokument 10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1844-12-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="Dokument 11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                    <date when="1844-12-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116643765">Adalbert von Ladenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="Dokument 12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116643765">Adalbert von Ladenberg</persName>
+                    <date when="1844-12-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="Dokument 13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                    <date when="1844-12-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="Dokument 14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117341037">Ludwig Gustav von Thile</persName>
+                    <date when="1844-12-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u560aaae-32b5-4574-9e02-89ed08fa99d4" key="Dokument 18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1857-03-15" notBefore="1857-01-01">Vor dem 15.3.1857</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Böckh</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

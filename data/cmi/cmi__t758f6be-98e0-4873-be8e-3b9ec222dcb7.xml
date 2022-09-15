@@ -1,0 +1,1092 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt  Friedrich Wilhelm Bessel</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburg Academy of Sciendes and Humanities</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-02-06T15:05:11.774-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Bessel.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="t758f6be-98e0-4873-be8e-3b9ec222dcb7">Humboldt, Alexander von und Friedrich Wilhelm Bessel: Briefwechsel. Herausgegeben von Hans-Joachim Felber, Beiträge zur Alexander-von-Humboldt-Forschung 10, Berlin: Akademie Verlag 1994.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1816-10-28"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1828-04-14"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-06-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1828-07-02"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-07-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1828-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-11-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date cert="low" when="1828-12-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-12-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-12-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1825-12-25"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1829-01-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1829-03-25"/>
+                    <placeName ref="http://www.geonames.org/554234" evidence="conjecture">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-03-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-04-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date cert="low" when="1829-04-18"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1829-05-07" to="1829-05-19"/>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1830-01-28"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-01-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1830-02-17"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1830-06-02"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1832-05-16"/>
+                    <placeName ref="http://www.geonames.org/554234" evidence="conjecture">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-02-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1833-03-14" notBefore="1833-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-04-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date cert="low" evidence="conjecture" when="1833-05-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-05-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1833-05-07"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1833-05-28"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-07-14"/>
+                    <placeName ref="http://www.geonames.org/2855433">Paretz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="Anlage zu 30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510452">Peter Christian Wilhelm Beuth</persName>
+                    <date when="1833-07-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-04-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1834-04-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1834-04-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1834-07-27" notBefore="1834-06-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-07-27"/>
+                    <placeName ref="http://www.geonames.org/2823472">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-09-02"/>
+                    <placeName ref="http://www.geonames.org/3099434">Danzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1835-01-19"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-01-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-02-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1835-06-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1835-07-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-07-23"/>
+                    <placeName ref="http://www.geonames.org/2823472">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-03-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1836-03-18" notBefore="1836-03-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1837-04-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-04-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date cert="low" when="1837-09-20"/>
+                    <placeName ref="http://www.geonames.org/554234" evidence="conjecture">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-10-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-10-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-12-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-12-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1838-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838-04-30" notBefore="1838-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1838-07-29"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1838-08-12" notBefore="1838-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-08-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notBefore="1838-10-03"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-12-09"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1839-01-24"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1839-06-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-06-28"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1839-08-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-04-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1840-05-08"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date cert="low" when="1840-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date cert="low" when="1840-05-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1840-05-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date from="1840-06-09" to="1840-06-11"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-06-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1840-07-05"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date cert="low" when="1840-08-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-08-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1840-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1840-11-06" to="1840-11-07"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1841-05-15" notBefore="1841-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1841-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1842-01-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1842-01-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1842-08-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="(41a)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-08-19"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">König Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1843-06-15"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1844-03-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-03-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-04-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1844-04-10"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1844-04-14" to="1844-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date from="1844-04-19" to="1844-04-21"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1844-04-29"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1845-05-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-05-27"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1844-06-01"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="91">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1844-07-18"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>ale</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1844-07-28"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="93">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1844-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="94">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-08-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="95">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1844-08-07"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="96">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1844-08-10"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="97">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-08-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="98">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-08-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="99">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-08-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1844-09-03" notBefore="1844-08-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="101">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1845-05-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="102">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1845-06-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="103">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1845-11-01"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="104">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1845-11-06" to="1845-11-07"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="105">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date when="1846-02-12"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="106">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-02-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t758f6be-98e0-4873-be8e-3b9ec222dcb7" key="107">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118510215">Friedrich Wilhelm Bessel</persName>
+                    <date notAfter="1846-03-16" notBefore="1846-02-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

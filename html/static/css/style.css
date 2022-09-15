@@ -1,0 +1,54 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-align: center;
+}
+
+#viscontainer {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    bottom: 80px;
+    width: 100%;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+#control-panel {
+    position: absolute;
+    bottom: 90px;
+    left: 10px;
+    margin: 12px;
+    padding: 20px;
+    line-height: 1.5;
+    z-index: 1;
+    background: #f8f9fa;
+
+}
+
+#filter-panel {
+    position: absolute;
+    top: 90px;
+    margin: 12px;
+    right: 10px;
+    padding: 20px;
+    line-height: 1.5;
+    z-index: 1;
+    background: #f8f9fa;
+}
+
+.deck-tooltip {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 6px !important;
+    margin: 8px;
+    max-width: 300px;
+    font-size: 20px;
+}

@@ -1,0 +1,2240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefwechsel des Ehepaares Schumann mit der Familie Mendelssohn</title>
+                <editor>Tom Liese<email>tom.liese@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.saw-leipzig.de">Sächsische Akademie der Wissenschaften zu Leipzig</ref>
+                </publisher>
+                <idno type="url">https://correspsearch.net/storage/schumann-II-1.xml</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2022-03-24T13:21:41.7-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="h1ecec6e-e19c-4542-b29a-bc1439a27ef8">Hrsgg. Krahe, Kristin R.M., Reyersbach, Katrin und Synofzik,Thomas: "Schumann Briefedition. Serie II Freundes- und Künstlerbriefwechsel. Band 1 Robert und Clara Schumann im Briefwechsel mit der Familie Mendelssohn", Köln, Christoph Dohr 2009.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1836-03-12"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1836-05-14"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1836-05-18"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1836-06-09"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date notAfter="1836-11-25" notBefore="1836-11-24"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1836-11-25"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1837-02-20"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1837-10-22"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1837-10-27"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date cert="low" when="1837-11-09"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1837-11-20"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1837-12-05"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1837-12-24"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1838-01-03"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1838-01-03"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1838-01-04"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1838-02-10"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779" evidence="conjecture">Felix Mendelssohn Bartholdy</persName>
+                    <date notAfter="1838-05-13" notBefore="1838-03-13" evidence="conjecture">Berlin 13. Mai oder Leipzig 13. März 1838</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666" evidence="conjecture">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date cert="low" when="1838-08-25"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1838-08-25"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Wieck</persName>
+                    <date when="1838-11-02"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1838-11-03"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Wieck</persName>
+                    <date evidence="conjecture" when="1838-11-04"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1838-12-01"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Wieck</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1838-12-02"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Wieck</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1839-09-12"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116881119">Lea Mendelssohn Bartholdy</persName>
+                    <date when="1839-09-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date notAfter="1839-11-18" notBefore="1839-11-12"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1839-11-18"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date cert="low" when="1839-12-20"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1839-12-20"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1840-08-29"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date evidence="conjecture" when="1840-08-29"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1840-10-27"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1840-12-04"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1841-03-22"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date cert="low" when="1841-03-25"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1841-03-26"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1841-07-28"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1841-09-04"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1841-09-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date evidence="conjecture" when="1841-09-07"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date notAfter="1841-09-09" notBefore="1841-09-07"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1841-09-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 42 ">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1841-09-25"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1842-01-03"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1842-01-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1843-01-08"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <persName ref="https://d-nb.info/gnd/116881054">Cécile Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1843-01-12"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Lehrer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1843-01-30"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date cert="low" notAfter="1843-01-31" notBefore="1843-01-30"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1843-01-31"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1843-03-22"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1843-04-29"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118709143">Moritz Hauptmann</persName>
+                    <persName ref="https://d-nb.info/gnd/118012215">Carl Ferdinand Becker</persName>
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr 52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1843-07-31"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr 53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1843-10-04"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr 54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1843-12-09"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1843-12-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1844-01-23"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1844-01-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1844-09-02"/>
+                    <placeName ref="http://www.geonames.org/11611307">Bad Soden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1845-07-17"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/11611307">Bad Soden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1845-07-23"/>
+                    <placeName ref="http://www.geonames.org/11611307">Bad Soden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1845-09-18"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1845-09-20"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1845-09-21"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1845-09-24"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1845-09-25"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1845-09-27"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1845-09-29"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1845-10-22"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1845-10-23"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr.  70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date evidence="conjecture" when="1845-11-09"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1845-11-18"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1845-11-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1845-11-26"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1845-11-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1845-12-12"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1845-12-15"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr.  77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1845-12-18"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr.  78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1845-12-27"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1846-01-04"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1846-02-06"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1846-02-09"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1846-02-14"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1846-04-12"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1846-10-17"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1846-10-27"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <date when="1846-10-28"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1846-10-31"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1846-11-01"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1847-02-05"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580779">Felix Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1847-11-27"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116881054">Cécile Mendelssohn Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116881054">Cécile Mendelssohn Bartholdy</persName>
+                    <date when="1848-01-18"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Felix u. Cécile Mendelssohn Bartholdy - Nr. 92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116881054">Cécile Mendelssohn Bartholdy</persName>
+                    <date notAfter="1850-12-31" notBefore="1848-01-01"/>
+                    <placeName ref="http://www.geonames.org/2874710">Lützow</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Fanny Hensel Nr.1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1847-02-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118580736">Fanny Hensel</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Fanny Hensel Nr. 2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118580736">Fanny Hensel</persName>
+                    <date when="1847-03-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kp. Paul u. Albertine Mendelssohn-Bartholdy Nr. 1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116881151">Paul Mendelssohn-Bartholdy</persName>
+                    <date when="1851-04-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kp. Paul u. Albertine Mendelssohn-Bartholdy Nr. 2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118611666">Robert Schumann</persName>
+                    <date when="1851-05-12"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116881151">Paul Mendelssohn-Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kp. Paul u. Albertine Mendelssohn-Bartholdy Nr. 3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116881151">Paul Mendelssohn-Bartholdy</persName>
+                    <date when="1854-03-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kp. Paul u. Albertine Mendelssohn-Bartholdy Nr. 4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116881151">Paul Mendelssohn-Bartholdy</persName>
+                    <date when="1854-12-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kp. Paul u. Albertine Mendelssohn-Bartholdy Nr. 5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X" evidence="conjecture">Clara Schumann</persName>
+                    <date when="1855-07-16"/>
+                    <placeName ref="http://www.geonames.org/2886946" evidence="conjecture">Koblenz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116881151" evidence="conjecture">Paul Mendelssohn-Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kp. Paul u. Albertine Mendelssohn-Bartholdy Nr. 6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116881151">Paul Mendelssohn-Bartholdy</persName>
+                    <date when="1855-07-21"/>
+                    <placeName ref="http://www.geonames.org/2953424">Kissingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kp. Paul u. Albertine Mendelssohn-Bartholdy Nr. 7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116881151">Paul Mendelssohn-Bartholdy</persName>
+                    <date when="1856-10-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kp. Paul u. Albertine Mendelssohn-Bartholdy Nr. 8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1863-07-09"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116881038">Albertine Mendelssohn-Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kp. Paul u. Albertine Mendelssohn-Bartholdy Nr. 9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1867-09-19"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116881038">Albertine Mendelssohn-Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kp. Paul u. Albertine Mendelssohn-Bartholdy Nr. 10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1874-07-09"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116881038">Albertine Mendelssohn-Bartholdy</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1863-04-08"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1863-04-13"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1863-05-26"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1863-06-18"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1864-12-30"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1865-01-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1865-02-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1865-02-16"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1865-02-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1865-03-29"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1865-04-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1865-08-21"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1865-09-06"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1866-03-16"/>
+                    <placeName ref="http://www.geonames.org/3046446">Pest</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1866-03-21"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1866-08-16"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1867-04-24"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1869-04-17"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1870-05-09"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1870-05-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1870-06-19"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1870-07-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1870-07-20"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1870-07-27"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1870-07-29"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1870-09-19"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1870-09-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date cert="low" when="1870-10-17"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1871-02-19"/>
+                    <placeName ref="http://www.geonames.org/2643743">London </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1871-05-27"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1871-06-04"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1871-06-12"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1871-09-27"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1871-10-15"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1871-12-12"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1871-12-29"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1872-03-22"/>
+                    <placeName ref="http://www.geonames.org/2643743">London </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1872-10-30"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1872-11-03"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1872-11-03"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date cert="low" when="1873-09-26"/>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <date when="1874-06-28"/>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2823472" evidence="conjecture">Teplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1874-11-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <date when="1875-03-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2891122" evidence="conjecture">Kiel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <date when="1875-08-31"/>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2660128">Klosters</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1877-08-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2661039">Spinabad</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date cert="low" when="1878-03-26"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1878-07-12"/>
+                    <placeName ref="http://www.geonames.org/2782058">Wildbad Gastein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1117144119">Marianne Mendelssohn</persName>
+                    <date when="1878-10-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1878-12-15"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1878-12-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1879-02-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 53 ">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <date when="1879-02-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <date when="1879-10-12"/>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1880-05-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1880-05-06"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1880-07-29"/>
+                    <placeName ref="http://www.geonames.org/3180559">Schluderbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1880-10-02"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1880-10-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1880-11-15"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1880-11-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr.62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1881-01-18"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1881-04-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1881-05-02"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1881-10-22"/>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <date when="1881-10-24"/>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date cert="low" when="1882-01-01"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <date cert="low" when="1882-01-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1882-06-16"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1882-06-26"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1882-10-23"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1882-10-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <date when="1883-10-02"/>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1884-02-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1884-02-18"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1884-06-23"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <date when="1886-01-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1886-03-09"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1886-03-11"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1886-08-27"/>
+                    <placeName ref="http://www.geonames.org/2859203">Obersalzberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <date when="1887-02-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1887-04-14"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <date when="1888-01-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1888-05-12"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz von Mendelssohn</persName>
+                    <date when="1888-05-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz von Mendelssohn</persName>
+                    <date when="1888-10-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1888-12-28"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1185705783">Enole Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz von Mendelssohn</persName>
+                    <date when="1889-01-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1889-01-06"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz von Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz von Mendelssohn</persName>
+                    <date when="1889-01-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Franz u. Enole Mendelssohn Nr. 91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <date when="1889-01-17"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137018878">Franz von Mendelssohn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Robert von Mendelssohn Nr. 1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116880988">Robert von Mendelssohn</persName>
+                    <date when="1889-02-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Robert von Mendelssohn Nr. 2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116880988">Robert von Mendelssohn</persName>
+                    <date when="1889-07-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Robert von Mendelssohn Nr. 3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116880988">Robert von Mendelssohn</persName>
+                    <date when="1890-11-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Robert von Mendelssohn Nr. 4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116880988">Robert von Mendelssohn</persName>
+                    <date when="1891-06-14"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#h1ecec6e-e19c-4542-b29a-bc1439a27ef8" key="Kap. Robert von Mendelssohn Nr. 5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116880988">Robert von Mendelssohn</persName>
+                    <date when="1893-05-09"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11861164X">Clara Schumann</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

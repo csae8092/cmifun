@@ -1,0 +1,2984 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondence Christian Gottlob Heyne – Karl August Böttiger</title>
+                <editor>Klaus Gerlach <email>gerlach@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburg Academy of Sciences and Humanities</ref>
+                </publisher>
+                <date when="2016-03-02T19:44:36.281+01:00"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/boettiger-heyne.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="dc5687bb-0723-4b10-8680-689f637146d1" type="print">
+                    Karl August Böttiger: Briefwechsel mit Christian Gottlob Heyne. Hrsg. und kommentiert von René Sternke und Klaus Gerlach. Berlin 2015. 
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[1]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2913922">Guben</placeName>
+                    <date notAfter="1788-01-19">vor 19. Januar 1788</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[2]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notAfter="1788-01-19">vor 19. Januar 1788</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2913922">Guben</placeName>
+                    <date when="1788-01-19">19. Januar 1788</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[4]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1791-12-04">vor 4. Dezember 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1791-12-04">4. Dezember 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[6]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date notAfter="1792-06-10">vor 10. Juni 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1792-06-10">10. Juni 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[8]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date notBefore="1792-06-10" notAfter="1792-07-08">zwischen 10. Juni und 8. Juli 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1792-07-08">8. Juli 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1792-09-19">19. September 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[11]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date notAfter="1793-06-22">vor 22. Juni 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1793-06-22">22. Juni 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[13]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date notAfter="1793-10-06">vor 6. Oktober 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1793-10-06">6. Oktober 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1794-03-16">16. März 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[16]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date notAfter="1794-04-14">vor 14. April 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1794-04-14">14. April 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1794-05-25">25. Mai 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1794-06-12">12. Juni 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[20]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date notAfter="1794-07-01">vor 1. Juli 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1794-07-01">1. Juli 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[22]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date notAfter="1794-07-18">vor 18. Juli 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1794-07-18">18. Juli 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1794-09-20">20. September 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1794-10-16">16. Oktober 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1794-10-27">27. Oktober 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1795-03-29">29. März 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-04-20">20. April 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1795-04-27">27. April 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-05-15">15. Mai 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-05-30">30. Mai 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1795-06-21">21. Juni 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-07-31">31. Juli 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-12-19">19. Dezember 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1796-02-19">19. Februar 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1796-05-08">8. Mai 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date from="1796-05-11" to="1796-05-13">11. bis 13. Mai 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1796-05-15">15. Mai 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1796-10-03">3. Oktober 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1796-10-16">16. Oktober 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1796-11-20">20. November 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1796-12-05">5. Dezember 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1796-12-16">16. Dezember 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1797-02-20">20. Februar 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1797-06-04">4. Juni 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1797-10-05">5. Oktober 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1797-10-30">30. Oktober 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1797-11-12">12. November 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1797-11-30">30. November 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notBefore="1797-12-04">ab 4. Dezember 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1797-12-22">22. Dezember 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1797-12-23">23. Dezember 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1797-12-29">29. Dezember 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-01-19">19. Januar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-01-19">19. Januar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-01-28">28. Januar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-02-05">5. Februar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-02-12">12. Februar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[59]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1798-02-24">vor 24. Februar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-03-03">3. März 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-03-09">9. März 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-03-13">13. März 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-03-21">21. März 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-04-22">22. April 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-05-25">25. Mai 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-05-28">28. Mai 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-06-24">24. Juni 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-06-26">26. Juni 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-07-02">2. Juli 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-07-06">6. Juli 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-12-09">9. Dezember 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-12-30">30. Dezember 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1799-01-28">28. Januar 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1799-02-01">1. Februar 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1799-02-08">8. Februar 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1799-02-17">17. Februar 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1799-03-01">1. März 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1799-03-14">14. März 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1799-06-06">6. Juni 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1799-06-21">21. Juni 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1799-09-06">6. September 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1799-10-16">16. Oktober 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1799-10-27">27. Oktober 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notBefore="1799-10-27">ab 27. Oktober 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1799-11-01">1. November 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1799-11-27">27. November 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1800-03-19">19. März 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1800-03-19">19. März 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1800-05-16">16. Mai 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1800-05-18">18. Mai 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="91">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1800-05-30">30. Mai 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1800-06-12">12. Juni 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="93">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1800-06-22">22. Juni 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="94">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1800-06-30">30. Juni 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="95">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1800-10-03">3. Oktober 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="96">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1800-10-27">27. Oktober 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="97">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1800-11-16">16. November 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="98">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1800-11-28">28. November 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="99">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1800-12-18">18. Dezember 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1800-12-21">21. Dezember 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="101">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-01-05">5. Januar 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="102">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-01-09">9. Januar 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="103">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-01-16">16. Januar 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="104">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-01-19">19. Januar 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="105">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-02-06">6. Februar 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="106">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-02-13">13. Februar 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="107">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-02-16">16. Februar 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="108">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-02-20">20. Februar 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="109">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-03-02">2. März 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="110">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-03-17">17. März 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="111">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-03-22">22. März 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="112">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-04-13">13. April 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="113">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-04-21">21. April 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="114">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-04-24">24. April 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="115">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-05-08">8. Mai 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="116">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-06-05">5. Juni 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="117">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-06-15">15. Juni 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="118">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-08-14">14. August 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="119">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-10-05">5. Oktober 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="120">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-10-16">16. Oktober 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="121">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-10-16">16. Oktober 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="122">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-10-18">18. Oktober 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="123">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-11-29">29. November 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="124">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-12-18">18. Dezember 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="125">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-01-08">8. Januar 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="126">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-02-15">15. Februar 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="127">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1802-02-26">26. Februar 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="128">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-03-04">4. März 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="129">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1802-04-16">16. April 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="130">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1802-05-12">12. Mai 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="131">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1802-06-27">27. Juni 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="132">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-08-16">16. August 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="133">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1802-08-20">20. August 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="134">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-08-23">23. August 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="135">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1802-09-27">27. September 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="136">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-10-15">15. Oktober 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="137">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1802-11-19">19. November 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="138">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-11-28">28. November 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="139">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1802-12-20">20. Dezember 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="140">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-12-24">24. Dezember 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="141">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1802-12-31">31. Dezember 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="142">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-01-16">16. Januar 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="143">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-02-06">6. Februar 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="144">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-02-17">17. Februar 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="145">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-04-22">22. April 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="146">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-05-30">30. Mai 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="147">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-06-03">3. Juni 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="148">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-06-13">13. Juni 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="149">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-06-19">19. Juni 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="150">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-06-19">19. Juni 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="151">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notBefore="1803-06-19">nach 19. Juni 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="152">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-06-24">24. Juni 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="153">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-06-30">30. Juni 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="154">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-07-01">1. Juli 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="155">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-08-26">26. August 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="156">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-09-16">16. September 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="157">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-10-03">3. Oktober 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="158">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-10-07">7. Oktober 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="159">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-10-16">16. Oktober 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="160">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-10-21">21. Oktober 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-11-17">17. November 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="162">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-11-23">23. November 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="163">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-11-27">27. November 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="164">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-12-02">2. Dezember 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="165">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-12-11">11. Dezember 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="166">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1804-01-30">30. Januar 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="167">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1804-02-16">16. Februar 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="168">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1804-03-02">2. März 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="169">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1804-03-09">9. März 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="170">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1804-03-16">16. März 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="171">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date notAfter="1804-06-08">vor 8. Juni 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="172">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1804-06-26">26. Juni 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="173">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1804-09-23">23. September 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="174">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1804-10-09">9. Oktober 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="175">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1804-10-24">24. Oktober 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="176">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1804-11-25">25. November 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="177">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1804-12-05">5. Dezember 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[178]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1804-12-16">16. Dezember 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="179">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1805-01-05">5. Januar 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="180">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1805-01-18">18. Januar 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="181">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1805-02-10">10. Februar 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="182">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1805-02-25">25. Februar 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="183">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notBefore="1805-02-25">nach 25. Februar 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="184">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1805-04-11">11. April 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="185">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1805-04-22">22. April 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="186">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1805-09-15">13. oder 15. September 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="187">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1805-09-30">30. September 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="188">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1806-01-24">24. Januar 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="189">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1806-02-17">17. Februar 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="190">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1806-02-25">25. Februar 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="191">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1806-03-01">1. März 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="192">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1806-06-15">15. Juni 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="193">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1806-06-16">16. Juni 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[194]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1806-07-07">7. Juli 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="195">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1806-08-12">12. August 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="196">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1806-09-12">12. September 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="197">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1806-10-12">12. Oktober 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="198">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1806-12-12">12. Dezember 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="199">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1807-01-02">2. Januar 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="200">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1807-01-30">30. Januar 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="201">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1807-04-06">6. April 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="202">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1807-04-13">13. April 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="203">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1807-04-20">20. April 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="204">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1807-08-16">16. August 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="205">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1807-09-14">14. September 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="206">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1807-09-16">16. September 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="207">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1807-10-30">30. Oktober 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="208">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1807-10-31">31. Oktober 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="209">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1807-12-18">18. Dezember 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="210">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-01-08">8. Januar 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="211">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-01-25">25. Januar 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="212">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1808-02-08">8. Februar 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="213">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-02-13">13. Februar 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="214">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1808-03-01">1. März 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="215">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-03-14">14. März 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="216">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1808-03-26">26. März 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="217">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-03-26">26. März 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="218">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1808-04-15">15. April 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="219">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-04-22">22. April 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="220">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-05-10">10. Mai 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="221">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1808-06-08">8. Juni 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="222">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1808-08-28">28. August 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="223">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-10-06">6. Oktober 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="224">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <date notBefore="1808-09" notAfter="1808-12">Herbst 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="225">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-11-14">14. November 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="226">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1808-11-21">21. November 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="227">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1808-12-18">18. Dezember 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="228">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-12-27">27. Dezember 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="229">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-01-10">10. Januar 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="230">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-01-22">22. Januar 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="231">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-02-09">9. Februar 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="232">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-02-12">12. Februar 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="233">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-02-27">27. Februar 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="234">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-03-03">3. März 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="235">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date notBefore="1809-03-03">nach 3. März 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="236">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-03-12">12. März 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="237">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-04-17">17. April 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="238">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-05-28">28. Mai 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="239">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-06-05">5. Juni 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="240">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-06-20">20. Juni 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="241">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-06-20">20. Juni 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="242">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-06-29">29. Juni 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="243">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-07-09">9. Juli 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="244">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-08-09">9. August 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="245">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-08-18">18. August 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="246">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-09-01">1. September 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="247">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-09-03">3. September 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="248">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-09-24">24. September 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="249">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-10-08">8. Oktober 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="250">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-11-12">12. November 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="251">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-11-30">30. November 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="252">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1809-12-19">19. Dezember 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="253">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1809-12-20">20. Dezember 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="254">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1810-01-10">10. Januar 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="255">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-01-20">20. Januar 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="256">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1810-02-07">7. Februar 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="257">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1810-02-18">18. Februar 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="258">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-02-26">26. Februar 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="259">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-02-27">27. Februar 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="260">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-02-28">28. Februar 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="261">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1810-03-13">13. März 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="262">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1810-04-10">10. April 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="263">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-04-10">10. April 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="264">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-05-01">1. Mai 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="265">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1810-05-24">24. Mai 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="266">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-06-30">30. Juni 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[267]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-07-12">12. Juli 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="268">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1810-08-14">14. August 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="269">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-08-23">23. August 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="270">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-09-01">1. September 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="271">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-09-17">17. September 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="272">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1810-10-01">1. Oktober 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="273">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-10-08">8. Oktober 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="274">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-10-22">22. Oktober 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="275">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-11-11">11. November 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[276]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date notBefore="1810-11-11">nach 11. November 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="277">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-12-03">3. Dezember 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[278]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1811-01-21">21. Januar 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="279">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1811-01-26">26. Januar 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="280">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1811-03-13">13. März 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="281">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1811-03-22">22. März 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="282">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1811-03-28">28. März 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[283]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date notAfter="1811-04-14">vor 14. April 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="284">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1811-04-14">14. April 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="285">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1811-04-19">19. April 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="286">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1811-05-06">6. Mai 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="287">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1811-06-11">11. Juni 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="288">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1811-07-21">21. Juli 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="289">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1811-08-16">16. August 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="290">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1811-09-20">20. September 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="291">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1811-11-15">15. November 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[292]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <date notAfter="1812-01-14">vor 14. Januar 1812</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="293">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1812-01-14">14. Januar 1812</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="[294]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1812-03-31">31. März 1812</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="295">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1812-04-06">6. April 1812</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc5687bb-0723-4b10-8680-689f637146d1" key="296">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1812-04-10">10. April 1812</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Richard Beer-Hofmann to Hermann Bahr</title>
+                <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Martin Anton
+                        Müller</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/"
+                        >CC0</licence>
+                </availability>
+                <date when="2021-02-26T12:32:43.762-01:00"/>
+                <idno type="url"
+                    >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1986_Beer-Hofmann_to_Bahr.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="me7bbaec-ba31-452a-9dc8-f66a111c3c9f">Jeffrey B. Berlin:
+                    The Unpublished Letters of Richard Beer-Hofmann to Hermann Bahr (with the
+                    unpublished letters between Beer-Hofmann and Theodor Herzl). In: Mark H. Gelber
+                    (Hrsg.): Identity and Ethos: A Festschrift for Sol Liptzin on the Occasion of
+                    His 85th Birthday. Peter Lang, New York/ Bern/Frankfurt am Main 1986, ISBN
+                    3-89693-266-7, S. 121–144.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1900-03-29"/>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1903-09-03"/>
+                    <placeName>Rodaun</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1904-07-12"/>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1904-08-01"/>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1904-08-09"/>
+                    <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1905-02-05"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1905-09-06"/>
+                    <placeName ref="http://www.geonames.org/3174748">Lido</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1907-08-10"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1914-07-08"/>
+                    <placeName ref="http://www.geonames.org/2761618">Weißenbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1919-06-12"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1920-02-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#me7bbaec-ba31-452a-9dc8-f66a111c3c9f" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                    <date when="1920-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
+                    <date when="1920-12-24"/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

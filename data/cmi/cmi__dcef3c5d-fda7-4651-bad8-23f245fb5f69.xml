@@ -1,0 +1,613 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Johann David Erdmann Preuss</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburg Academy of Sciences and Humanities</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-02-05T18:07:04.173-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Preuss.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="dcef3c5d-fda7-4651-bad8-23f245fb5f69">Humboldt, Alexander von und Johann David Erdmann Preuß: Briefwechsel. Herausgegeben von Ulrich Päßler und Anna Senft. Unter Mitarbeit von Anna Dietrich, Andreas Henseler, Jens Herold, Anne MacKinney, Laura Nippel, Daniel Stienen und Julia Weidmann, Bd. 43, Beiträge zur Alexander-von-Humboldt-Forschung, Berlin: De Gruyter 2015.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-08-12"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-01-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-10-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1837-12-13"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-01-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-10-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-10-24"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-10-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-11-18"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-02-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1840-06-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1840-12-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-12-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1840-01-04"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1842-03-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-08-23"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1842-08-24"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-04-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-08-28"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <date when="1843-08-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-09-03"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <date cert="low" when="1843-09-04"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-09-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-10-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <date notBefore="1843-10-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-11-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <date cert="low" when="1843-11-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1844-01-13"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1845-07-18"/>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1846-12-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1847-02-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1848-02-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-02-20"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-02-20"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName>Akademischer Ausschuss zur Herausgabe der Werke Friedrich des Großen</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-01-09"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-05-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-05-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <date when="1853-04-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-05-04"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-05-12"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-01-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-02-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-02-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-03-18"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-03-20"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-03-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-03-27"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-03-29"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-09-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-12-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1855-01-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1855-09-16"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1856-01-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                    <date when="1856-01-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1856-07-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1856-08-24"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dcef3c5d-fda7-4651-bad8-23f245fb5f69" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1856-09-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115650938">Johann David Erdmann Preuß</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

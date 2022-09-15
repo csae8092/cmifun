@@ -1,0 +1,1219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt — Heinrich Christian Schumacher</title>
+                <editor>Karin Göhmann<email>karin.goehmann@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-03-19T17:12:02.168-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Schumacher.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="y31f5f00-f92c-473a-a347-ca33c5e2f123">Biermann, Kurt-R. (1979): Briefwechsel zwischen Alexander von Humboldt und Heinrich Christian Schumacher. Zum 200. Geburtstag von H.C. Schumacher herausgegeben von Kurt-R. Biermann. Berlin: Akademie-Verlag</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1827-05-31" notBefore="1827-05-20">Ende Mai 1827</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-06-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1827-06" notBefore="1827-06">Mitte Juni 1827</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-06-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1827-07" notBefore="1827-07">Ende Juli 1827</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-04-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1828-05-11"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-05-25"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1828-05-29"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-06-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-08-22">(22.?08.1828)</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1828-09-26"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-10-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1828-10-30" notBefore="1828-10-20">(Ende Okt. 1828)</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-11-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1828-11-14"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-01-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-03-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1828-03-25" notBefore="1829-03-10">(Mitte März 1829)</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-03-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-04-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-08-23"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1833-04" notBefore="1832-06">(1832,nach Mai?)</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1833-04-11"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-04-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1833-04-23"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-05-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1835-04" notBefore="1835-04">Anfang April 1835</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1835-06-30" notBefore="1835-06-20">Ende Juni? 1835</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1835-09-23" notBefore="1835-09-10">Mitte September 1835</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-03-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1836-03-16"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-03-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-03-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1836-03-24"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1836-03-26"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-03-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1836-03-31"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-04-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1836-04-02"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-04-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1836-04-12">12(?).4.1836</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-04-23"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1836-08-05"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-09-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1837-04-27"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-05-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1837-12-21"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-12-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1838-01" notBefore="1838-01">Anfang Januar 1838</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838" notBefore="1838">(Berlin?, April? 1838?)</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1838-07" notBefore="1838-07">(Anfang oder Mitte Juli 1838)</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3064288">Teplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-07-25"/>
+                    <placeName ref="http://www.geonames.org/3064288">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-12-14"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-02-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1839-03" notBefore="1839-03">Anfang März 1839</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-03-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-03-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1839-08-17"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1839-10-08"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-10-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-10-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1839-12" notBefore="1839-12">(Altona?, nach dem 3.12.1939)</date>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-12-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-01-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1841-02-13"/>
+                    <placeName>Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1841-03-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1841-03-12"/>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1841-03-13"/>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1841-03-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName>Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="70a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1841-04-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1843" notBefore="1843">Anfang 1843</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-02-22"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1843-03" notBefore="1843-03">Anfang März 1843</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-03-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-03-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1843-03-25"/>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-03-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1843-05-13" notBefore="1843-05">vor 13.5.1843</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-05-13"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1843-05-16"/>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-05-18"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-05-22"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-07-03"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="83a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1844" notBefore="1844">Ende 1844</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1846-11-07"/>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-11-10"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1847-01" notBefore="1846-11">(Ende 1846 oder Jan. 1847)</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-02-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-03-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1847-09" notBefore="1847-09">(Mitte Sept. 1847)</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-08-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="91">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1848-09" notBefore="1848-09">Anfang Sept. 1848</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-09-10"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="93">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1849-01" notBefore="1849-01">(Januar 1849)</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="94">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1849-02" notBefore="1849-02">Februar(?) 1849</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="95">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1849-03" notBefore="1849-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="96">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1849-06" notBefore="1849-06">etwa Mitte Juni 1849</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="97">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1849-07" notBefore="1849-07">(Mitte Juni 1849)</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="98">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-09-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="99">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1850-01-20"/>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-03-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="101">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1850-05-10"/>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="102">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-07-20"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="103">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date when="1850-07-24"/>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="104">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-07-31"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="105">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1850-09-25" notBefore="1850-09">(vor 25.9.1850)</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y31f5f00-f92c-473a-a347-ca33c5e2f123" key="106">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118611593">Heinrich Christian Schumacher</persName>
+                    <date notAfter="1850-09" notBefore="1850-09">(etwa 25.9.1850)</date>
+                    <placeName ref="http://www.geonames.org/2911296">Altona</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

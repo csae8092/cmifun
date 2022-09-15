@@ -1,0 +1,2720 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Christian Thomasius Briefwechsel 1679–1692</title>
+        <editor>Donatus Herre <email>donatus.herre@izea.uni-halle.de</email></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://www.izea.uni-halle.de">Interdisziplinäres Zentrum für die Erforschung der Europäischen Aufklärung</ref>
+        </publisher>
+        <idno type="url">https://gitlab.informatik.uni-halle.de/dikon/tbw-cmif/-/raw/master/data/briefverzeichnis.xml</idno>
+        <date when="2020-11-25"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="hybrid" xml:id="b90e403d-9b78-3633-a3db-08cef4a93894">Christian Thomasius Briefwechsel. Band 1: 1679–1692. Hg. von Frank Grunert, Matthias Hambrock und Martin Kühnel unter Mitarbeit von Andrea Thiele. Berlin; Boston: de Gruyter, 2017. DOI: <ref target="https://doi.org/10.1515/9783110471328">10.1515/9783110471328</ref></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc key="1" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName ref="http://d-nb.info/gnd/4445829-0">Rat der Stadt Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1679-01" notAfter="1679-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="2" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1679-03-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/4445829-0">Rat der Stadt Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="3" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1679-09-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/6516522-6">Schöppenstuhl zu Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="4" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1681-06-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/6516522-6">Schöppenstuhl zu Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="5" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1682-12-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="6" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1682-12" notAfter="1682-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="7" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1683-01-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="8" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1683-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="9" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1683-02-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="10" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/117621250">Jacob Born</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1683-07-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="11" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1683-08" notAfter="1683-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/117621250">Jacob Born</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="12" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1683-08-24" notAfter="1683-08-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="13" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1683-08-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="14" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/117621250">Jacob Born</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1683-08-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="15" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1683-08" notAfter="1683-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/117621250">Jacob Born</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="16" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1683-08" notAfter="1683-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="17" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+          <placeName ref="http://www.geonames.org/2935022">[Dresden]</placeName>
+          <date notBefore="1683-09" notAfter="1683-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="18" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/117621250">Jacob Born</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1683-09-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="19" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/117621250">Jacob Born</persName>
+          <placeName ref="http://www.geonames.org/2935022">[Dresden]</placeName>
+          <date when="1683-09-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="20" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/117621250">Jacob Born</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1684-01-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="21" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1684-01" notAfter="1684-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/102117470">Kurfürst Johann Georg III. von Sachsen</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="22" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1684-07" notAfter="1684-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="23" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1684-08-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="24" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100897142">Adam Christoph Jacobi</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1685-03-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="25" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1685-04-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="26" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2673730">[Stockholm]</placeName>
+          <date when="1685-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="27" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1685-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/117621250">Jacob Born</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="28" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/117621250">Jacob Born</persName>
+          <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+          <date when="1685-12-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="29" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1686-04-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="30" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+          <date when="1686-06-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="31" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118616099">Philipp Jacob Spener</persName>
+          <placeName ref="http://www.geonames.org/2935022">[Dresden]</placeName>
+          <date when="1686-11-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="32" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1686-11-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118616099">Philipp Jacob Spener</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="33" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118616099">Philipp Jacob Spener</persName>
+          <placeName ref="http://www.geonames.org/2935022">[Dresden]</placeName>
+          <date notAfter="1686-12-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="34" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/117350249">Gottfried Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2745912">[Utrecht]</placeName>
+          <date when="1687-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="35" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1687-02-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="36" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100156991">Johann Georg Graevius</persName>
+          <placeName ref="http://www.geonames.org/2745912">[Utrecht]</placeName>
+          <date notBefore="1687-03" notAfter="1687-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="37" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1687-03-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100156991">Johann Georg Graevius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="38" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+          <date when="1687-04-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="39" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1687-05-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="40" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+          <date when="1687-08-31"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="41" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1687-10-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="42" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>Ein „auswärtiger Freund“ bzw. „Bekandter“</persName>
+          <date when="1687-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="43" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1688-01-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/4445829-0">Rat der Stadt Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="44" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-01-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/1120152372">Oberkonsistorium Dresden</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="45" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-02-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="46" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-02-18"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="47" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-02-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="48" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-03-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="49" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-03-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="50" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-03-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="51" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-03-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="52" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-03-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="53" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-03-31"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="54" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-04-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/132094312">Friedrich Adolph von Haugwitz</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="55" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/132094312">Friedrich Adolph von Haugwitz</persName>
+          <placeName ref="http://www.geonames.org/2935022">[Dresden]</placeName>
+          <date when="1688-04-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="56" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-04-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/132094312">Friedrich Adolph von Haugwitz</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="57" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-05-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="58" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-05-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="59" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-06-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="60" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-06-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="61" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-06-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="62" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1688-06" notAfter="1688-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>„Herrn W.“</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="63" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-07-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="64" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11815799X">Johann Jacob Stübel</persName>
+          <placeName ref="http://www.geonames.org/8643037">Annaberg</placeName>
+          <date when="1688-07-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="65" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-07-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="66" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-07-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/132094312">Friedrich Adolph von Haugwitz</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="67" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-07-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="68" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-07-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="69" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1688-07" notAfter="1688-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11815799X">Johann Jacob Stübel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="70" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-08-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="71" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11815799X">Johann Jacob Stübel</persName>
+          <placeName ref="http://www.geonames.org/8643037">Annaberg</placeName>
+          <date when="1688-08-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="72" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-08-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="73" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11815799X">Johann Jacob Stübel</persName>
+          <placeName ref="http://www.geonames.org/8643037">[Annaberg]</placeName>
+          <date when="1688-08-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="74" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-08-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="75" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-09-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="76" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-09-18"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="77" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100212204">Johann Georg Kulpis</persName>
+          <placeName ref="http://www.geonames.org/2825297">[Stuttgart]</placeName>
+          <date notBefore="1688-10" notAfter="1688-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="78" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-10-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="79" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-10-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="80" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-10-16"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="81" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/122898435">Tobias Pfanner</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1688-11-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="82" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-11-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="83" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1688-11-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/122898435">Tobias Pfanner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="84" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/122795318">Enoch Zobel</persName>
+          <placeName ref="http://www.geonames.org/8643037">[Annaberg]</placeName>
+          <date when="1688-11-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="85" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-11-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/122795318">Enoch Zobel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="86" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-11-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11815799X">Johann Jacob Stübel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="87" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/122898435">Tobias Pfanner</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1688-11-29"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="88" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/122795318">Enoch Zobel</persName>
+          <placeName ref="http://www.geonames.org/8643037">[Annaberg]</placeName>
+          <date notBefore="1688-11-29" notAfter="1688-11-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="89" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-12-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="90" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11815799X">Johann Jacob Stübel</persName>
+          <placeName ref="http://www.geonames.org/8643037">Annaberg</placeName>
+          <date when="1688-12-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="91" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>[Johann Christian] Lange</persName>
+          <placeName ref="http://www.geonames.org/2925533">[Frankfurt/Main]</placeName>
+          <date when="1688-12-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="92" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-12-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="93" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-12-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="94" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1688-12-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="95" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1688-12-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/122898435">Tobias Pfanner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="96" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>[Johann Christian] Lange</persName>
+          <placeName ref="http://www.geonames.org/2925533">Frankfurt [am Main]</placeName>
+          <date when="1688-12-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="97" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1688-12-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="98" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>„M. A.“</persName>
+          <date notBefore="1689-12" notAfter="1690-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="99" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1689-01-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/122898435">Tobias Pfanner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="100" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/122898435">Tobias Pfanner</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1689-01-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="101" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-01-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="102" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/115376380">Johann Joachim Rothe</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-01-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="103" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-01-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/102117470">Kurfürst Johann Georg III. von Sachsen bzw. das Geheime Ratskollegium</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="104" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-01-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="105" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1689-01-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/102117470">Kurfürst Johann Georg III. von Sachsen</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="106" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-01-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/1120152372">Oberkonsistorium Dresden</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="107" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/132094312">Friedrich Adolph von Haugwitz</persName>
+          <placeName ref="http://www.geonames.org/2935022">[Dresden]</placeName>
+          <date notBefore="1689-02" notAfter="1689-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="108" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-02-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/120360578">Hans Ernst von Knoch</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="109" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-02-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/132094312">Friedrich Adolph von Haugwitz</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="110" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11815799X">Johann Jacob Stübel</persName>
+          <placeName ref="http://www.geonames.org/8643037">Annaberg</placeName>
+          <date when="1689-02-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="111" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-02-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/115376380">Johann Joachim Rothe</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="112" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/122898435">Tobias Pfanner</persName>
+          <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          <date when="1689-03-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="113" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1689-03" notAfter="1689-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="114" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-03-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/1120152372">Oberkonsistorium Dresden</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="115" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-04-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="116" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-04-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="117" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-04-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116425539">Hans Haubold von Einsiedel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="118" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1689-04-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="119" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-04-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="120" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-04-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="121" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-04-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="122" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>[Johannes] Müller</persName>
+          <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+          <date notAfter="1689-04-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="123" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>Ungenannter Bedienter des Oberhofmarschalls von Haugwitz</persName>
+          <placeName ref="http://www.geonames.org/2935022">[Dresden]</placeName>
+          <date when="1689-04-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="124" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-05-31"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="125" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-06-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="126" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-06-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="127" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-06-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="128" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-06-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="129" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-06-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Kursächsisches Geheimes Ratskollegium</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="130" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-06-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/120360578">Hans Ernst von Knoch</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="131" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-06-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/1120152372">Oberkonsistorium Dresden</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="132" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-06-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/1120152372">Oberkonsistorium Dresden</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="133" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-07-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116866446">Georg Lehmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="134" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-07-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Geistliches Ministerium zu Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="135" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-07-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="136" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-07-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="137" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-07-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/1120152372">Oberkonsistorium Dresden</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="138" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-08-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116866446">Georg Lehmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="139" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1689-08-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="140" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-08-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="141" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/116866446">Georg Lehmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1689-08-19" notAfter="1689-08-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="142" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-08-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="143" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-08-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="144" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-08-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="145" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-08-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="146" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-08-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="147" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1689-08-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="148" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-09-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="149" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1689-09-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="150" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1690-01" notAfter="1690-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/104177209">Herzog Moritz Wilhelm von Sachsen-Zeitz</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="151" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/104177209">Herzog Moritz Wilhelm von Sachsen-Zeitz</persName>
+          <placeName ref="http://www.geonames.org/2804922">[Zeitz]</placeName>
+          <date notBefore="1690-01" notAfter="1690-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="152" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1690-01-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="153" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>Ungenannter Freund</persName>
+          <placeName ref="http://www.geonames.org/2950159">[Berlin]</placeName>
+          <date notBefore="1690-02" notAfter="1690-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="154" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1690-02-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="155" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1690-02-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="156" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1690-03-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100031358">Johann Christoph Becmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="157" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date from="1690-03-17" to="1690-03-18"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Concilium perpetuum der Universität Leipzig</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="158" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2950159">[Berlin]</placeName>
+          <date notBefore="1690-03-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName ref="http://d-nb.info/gnd/1120152372">Oberkonsistorium Dresden</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="159" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1690-03-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="160" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date notBefore="1690-03" notAfter="1690-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/124595219">Johann Alexander Christ</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="161" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+          <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+          <date from="1690-04-04" to="1690-04-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="162" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/124595219">Johann Alexander Christ</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1690-04" notAfter="1690-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="163" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1690-04-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName>einen unbekannten Empfänger [Johann Christoph Becmann?]</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="164" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1690-04-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="165" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1690-04-29"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="166" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1690-05-18"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="167" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>Anonyme(r) Absender</persName>
+          <placeName ref="http://www.geonames.org/2623032">[Dänemark]</placeName>
+          <date notBefore="1690-07" notAfter="1690-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="168" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>Unbekannter Absender</persName>
+          <date notBefore="1690-07" notAfter="1690-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="169" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1690-08-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Rat der Stadt Halle</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="170" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Rat der Stadt Halle</orgName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1690-08-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="171" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date notBefore="1690-08" notAfter="1690-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118534688">August Hermann Francke</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="172" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1690-08-18"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Magdeburgische Regierung zu Halle</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="173" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1690-08-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="174" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1690-08-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="175" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1690-08-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="176" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1690-08-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/102367604">Johann Georg II., Fürst von Anhalt-Dessau</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="177" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1690-08-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="178" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118534688">August Hermann Francke</persName>
+          <placeName ref="http://www.geonames.org/2929670">[Erfurt]</placeName>
+          <date notBefore="1690-08" notAfter="1690-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="179" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Magdeburgische Regierung zu Halle</orgName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1690-09-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="180" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1690-09-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="181" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+          <placeName ref="http://www.geonames.org/7576815">Cölln</placeName>
+          <date when="1690-09-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="182" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118534688">August Hermann Francke</persName>
+          <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+          <date when="1690-09-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="183" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1690-09-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/102117470">Kurfürst Johann Georg III. von Sachsen</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="184" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>[Kursächsisches Geheimes Ratskollegium]</orgName>
+          <placeName ref="http://www.geonames.org/2935022">[Dresden]</placeName>
+          <date notBefore="1690-09" notAfter="1690-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="185" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+          <placeName ref="http://www.geonames.org/7576815">Cölln</placeName>
+          <date when="1690-09-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="186" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1690-10-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="187" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1690-10-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="188" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1690-11-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="189" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/102540527">Johann Joachim Wolf</persName>
+          <placeName ref="http://www.geonames.org/2874545">Magdeburg</placeName>
+          <date when="1690-11-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="190" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1690-11-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Magdeburgische Landstände</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="191" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <orgName>Magdeburgische Landstände</orgName>
+          <placeName ref="http://www.geonames.org/2874545">Magdeburg</placeName>
+          <date when="1690-11-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="192" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1690-12-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="193" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1691-01-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="194" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date notBefore="1691-01-02" notAfter="1691-01-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="195" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1691-01-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="196" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-01-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="197" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1691-01-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="198" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1691-01-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="199" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11919306X">Christianus Philothomas [Vincent Placcius]</persName>
+          <placeName ref="http://www.geonames.org/2911298">[Hamburg]</placeName>
+          <date when="1691-02-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="200" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-02-07"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="201" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1691-02-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="202" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date notBefore="1691-02" notAfter="1691-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="203" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1691-03-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="204" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-03-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="205" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1691-03-11"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/117614998">Gottfried von Jena</persName>
+          <persName>Carl Ernst Krause</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="206" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1691-03-14"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="207" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1691-03-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/102367604">Johann Georg II., Fürst von Anhalt-Dessau</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="208" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-03-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="209" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date when="1691-03-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="210" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1691-03-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="211" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg/Hof des Kurfürsten</persName>
+          <placeName ref="http://www.geonames.org/7576815">[Cölln]</placeName>
+          <date notBefore="1691-04" notAfter="1691-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="212" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Hof des Kurfürsten Friedrich III. von Brandenburg</persName>
+          <placeName ref="http://www.geonames.org/7576815">[Berlin/Cölln]</placeName>
+          <date notBefore="1691-04-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="213" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-04-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="214" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-04-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="215" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date when="1691-04-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="216" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1691-05-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="217" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118766163">Moritz Georg Weidmann</persName>
+          <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+          <date notBefore="1691-05" notAfter="1691-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="218" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/102117470">Kurfürst Johann Georg III. von Sachsen</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="219" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Hof des Kurfürsten Friedrich III. von Brandenburg</persName>
+          <placeName ref="http://www.geonames.org/7576815">[Berlin/Cölln]</placeName>
+          <date when="1691-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="220" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+          <placeName ref="http://www.geonames.org/7576815">Cölln</placeName>
+          <date when="1691-06-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="221" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date notBefore="1691-06" notAfter="1691-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="222" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1691-06-16"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="223" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Hof des Kurfürsten Friedrich III. von Brandenburg</persName>
+          <placeName ref="http://www.geonames.org/7576815">[Berlin/Cölln]</placeName>
+          <date notBefore="1691-06" notAfter="1691-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="224" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1691-06-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="225" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date notBefore="1691-06" notAfter="1691-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Hof des Kurfürsten Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="226" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-09-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="227" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-10-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="228" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1691-10-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="229" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-10-24"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="230" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1691-10-31"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="231" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>Ein „vertrauter Freund“</persName>
+          <placeName ref="http://www.geonames.org/2879139">[Leipzig]</placeName>
+          <date notBefore="1691-07" notAfter="1691-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="232" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-11-03"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="233" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1691-11-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/173230385">Eberhard Christoph Balthasar von Danckelmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="234" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/173230385">Eberhard Christoph Balthasar von Danckelmann</persName>
+          <placeName ref="http://www.geonames.org/7576815">[Berlin/Cölln]</placeName>
+          <date notBefore="1691-11" notAfter="1691-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="235" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1691-12-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="236" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1692-02-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="237" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1692-02-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118703404">Paul von Fuchs</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="238" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1692-02-23"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="239" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1692-02-27"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="240" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <persName ref="http://d-nb.info/gnd/118534688">August Hermann Francke</persName>
+          <persName ref="http://d-nb.info/gnd/104114010">Joachim Justus Breithaupt</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1692-03-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="241" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>Jacques Valentin</persName>
+          <placeName ref="http://www.geonames.org/2874545">Magdeburg</placeName>
+          <date when="1692-03-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="242" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+          <placeName ref="http://www.geonames.org/7576815">Cölln</placeName>
+          <date when="1692-03-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <persName ref="http://d-nb.info/gnd/104114010">Joachim Justus Breithaupt</persName>
+          <persName ref="http://d-nb.info/gnd/118534688">August Hermann Francke</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="243" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/117540226">Christian Friedrich Kraut</persName>
+          <placeName ref="http://www.geonames.org/2950159">[Berlin]</placeName>
+          <date when="1692-03-29"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="244" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1692-04-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/117540226">[Christian Friedrich Kraut]</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="245" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1692-04-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="246" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1692-04-09"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="247" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <persName ref="http://d-nb.info/gnd/104114010">Joachim Justus Breithaupt</persName>
+          <persName ref="http://d-nb.info/gnd/118534688">August Hermann Francke</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1692-04-28"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Rat der Stadt Halle</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="248" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1692-04-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/116029145">Daniel Ludolph von Danckelmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="249" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11919306X">[Vincent Placcius]</persName>
+          <placeName ref="http://www.geonames.org/2911298">[Hamburg]</placeName>
+          <date notBefore="1692-04" notAfter="1692-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="250" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+          <placeName ref="http://www.geonames.org/7576815">Cölln</placeName>
+          <date when="1692-05-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">[Christian Thomasius]</persName>
+          <persName ref="http://d-nb.info/gnd/104114010">[Joachim Justus Breithaupt]</persName>
+          <persName ref="http://d-nb.info/gnd/118534688">[August Hermann Francke]</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="251" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <persName ref="http://d-nb.info/gnd/104114010">Joachim Justus Breithaupt</persName>
+          <persName ref="http://d-nb.info/gnd/118534688">August Hermann Francke</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1692-05-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="252" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1692-05-21"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118535730">[Kurfürst Friedrich III. von Brandenburg]</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="253" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100031358">Johann Christoph Becmann</persName>
+          <placeName ref="http://www.geonames.org/2925535">[Frankfurt/O.]</placeName>
+          <date notBefore="1692-06" notAfter="1692-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="254" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1692-06-18"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/100031358">Johann Christoph Becmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="255" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118535730">Kurfürst Friedrich III. von Brandenburg</persName>
+          <placeName ref="http://www.geonames.org/7576815">Cölln</placeName>
+          <date when="1692-06-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">[Christian Thomasius]</persName>
+          <persName ref="http://d-nb.info/gnd/104114010">[Joachim Justus Breithaupt]</persName>
+          <persName ref="http://d-nb.info/gnd/118534688">[August Hermann Francke]</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="256" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1692-07-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Rat der Stadt Halle</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="257" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/123856396">Benjamin Fritsche</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1692-07-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="258" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1692-07-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <orgName>Rat der Stadt Halle</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="259" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date notAfter="1692-09-02"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118534688">August Hermann Francke</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="260" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName>Ein „guter Freund“ (I)</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1692-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="261" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1692-11-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="262" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1692-11-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="263" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date notBefore="1692-12" notAfter="1692-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/121760960">Johann Burchard May</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="264" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/100031358">Johann Christoph Becmann</persName>
+          <placeName ref="http://www.geonames.org/2925535">Frankfurt [an der Oder]</placeName>
+          <date when="1692-12-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="265" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1692-12-17"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="266" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">[Halle]</placeName>
+          <date when="1692-12-20"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118597051">Samuel von Pufendorf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="267" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/104323493">[Johann Baptist Crophius]</persName>
+          <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+          <date when="1692-12-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="268" source="#b90e403d-9b78-3633-a3db-08cef4a93894">
+        <correspAction type="sent">
+          <persName ref="http://d-nb.info/gnd/11862220X">Christian Thomasius</persName>
+          <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+          <date when="1692-12-31"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118534688">August Hermann Francke</persName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>

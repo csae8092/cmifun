@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verzeichnis der Briefe Goethes nach der Weimarer Ausgabe, IV. Abteilung (Auswahl)</title>
+                <editor>Robert Charlier<email>charlier@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <!-- Template for a TEI XML file according to the Correspondence Metadata Interchange (CMI) format -->
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (Berlin-Brandenburg Academy of Sciences and Humanities)</ref>
+                </publisher>
+                <idno type="url">https://correspsearch.net/storage/gw9.xml</idno>
+                <date when="2018-01-19"/>
+                <availability>
+                    <!-- The CC BY 4.0 license is mandatory -->
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="GW9" type="print">Goethes Werke. Herausgegeben im Auftrage der Großherzogin Sophie von Sachsen (Weimarer Ausgabe). IV. Abtheilung, 9. Band. Weimar: Hermann Böhlau, 1891 | Goethes Briefe. 9. Band: 18. Juni 1788 – 8. August 1792. Weimar 1891</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#GW9" key="2903">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-01-05"/>
+                </correspAction>
+                <correspAction type="received"> <!-- Empfangsdaten nur, wo systematisch im Apparat von WA vermerkt -->
+                    <persName ref="http://d-nb.info/gnd/14131365X">Georg Heinrich von Deyn</persName><!-- vgl. Korr-Formel WA IV 9,293: "Korr B30,258" -->
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2904">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-03-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115682171">August Johann Georg Karl Batsch</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2905">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-03-14"/><!-- "[14.3.92]" -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116375469">Andreas Dietrich Krako (gen. Einer)</persName><!-- GND für: "Andreas Dietrich Krako" (1792) -->
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2906">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117053961">Gottlieb Hufeland</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2907">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date from="1792-03" to="1792-04"/><!-- Datumscodierung so nicht korrekt: Brief datiert vom März ODER April 1792: "[März/Apr 92]" -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118549553">Johann Gottfried Herder</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2908">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                    <placeName ref="http://www.geonames.org/11258605/" evidence="high">Düsseldorf-Pempelfort</placeName>
+                    <date when="1792-04-08"/><!-- vgl. Komm. WA IV 9,379 -->
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2909">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                    <placeName ref="http://www.geonames.org/11258605/" evidence="high">Düsseldorf-Pempelfort</placeName>
+                    <date when="1792-04-21"/><!-- vgl. Komm. WA IV 9,379 -->
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2910">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-04-18"/><!-- "18.[4.]92" -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/1089715242">Herzog Carl August von Sachsen-Weimar-Eisenach</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2911">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-04"/><!-- "[Apr 92]"; erschlossenes Briefdatum vgl. Komm. WA IV 9,379f.; so auch die folgenden Briefe -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118852728">Christian Gottlob Voigt</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2912">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-04"/><!-- "[Apr 92]"; vgl. zu Nr. 2911 im Vorigen --> 
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118852728">Christian Gottlob Voigt</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2913">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-04"/><!-- "[Apr 92]"; vgl. zu Nr. 2911 im Vorigen -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118852728">Christian Gottlob Voigt</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2914">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date from="1792-04" to="1792-05"/><!-- Ende April ODER Anfang Mai 1792: "[Ende Apr/Anf Mai 92]" -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/1089715242">Herzog Carl August von Sachsen-Weimar-Eisenach</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2915">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date from="1792-04" to="1792-05"/><!-- Ende April oder Anfang Mai 1792: "[Ende Apr/Anf Mai 92]" -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118852728">Christian Gottlob Voigt</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2916">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11856448X">Christian Gottfried Körner</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2917">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date from="1792-05" to="1792-06"/><!-- "[Mai/Jun 92]", d. h. Mai ODER Juni 1792 -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118549553">Johann Gottfried Herder</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2918">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-06-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11856448X">Christian Gottfried Körner</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2919">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-06-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                    <placeName ref="http://www.geonames.org/11258605/">Düsseldorf-Pempelfort</placeName>
+                    <date when="1792-06-23"/><!-- vgl. Komm. WA IV 9,381 -->
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2920">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-06-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11856448X">Christian Gottfried Körner</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2921">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-06-25"/><!-- "K(onzept)" -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534416">Johann Georg Adam Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225" cert="high">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2922">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-06"/><!-- "[Ende Jun 92]K" -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2923">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-07-02"/><!-- im Konzept zu diesem Brief Goethe noch eigenhändig "W. d. 24. Jun.92 G."; vgl. WA IV 9,383 -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2924">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-07-02"/><!-- hier (ausnahmsweise) kein Eingangs-, sondern nur ein Beantwortungsvermerk! -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                    <placeName ref="http://www.geonames.org/11258605/">Düsseldorf-Pempelfort</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2925">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName><!-- darin: Briefeinlage des Prz. August v. Gotha -->
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-07-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118549561">Caroline Herder</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2926">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-07-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118720961">Karl Theodor von Dalberg</persName>
+                    <placeName ref="http://www.geonames.org/2929670" cert="medium">Erfurt</placeName><!-- Empfangsort vorl. erschlossen -->
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2927">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118599100">Johann Friedrich Reichardt</persName>
+                    <placeName ref="http://www.geonames.org/2920649">Giebichenstein</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#GW9" key="2928">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1792-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName><!-- WA IV 9,325 gibt irrtümlich: J. H.; hier rote Korr-Formel auch schreibungsrelevant bzw. maßgeblich für die Zuordnung zur richtigen Person! -->
+                    <placeName ref="http://www.geonames.org/11258605/">Düsseldorf-Pempelfort</placeName>
+                    <date when="1792-08-11"/>
+                </correspAction>
+            </correspDesc>          
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

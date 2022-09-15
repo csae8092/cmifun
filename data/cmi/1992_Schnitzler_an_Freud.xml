@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Besser sublimiert als verdrängt. </title>
+                <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Martin Anton Müller</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2021-12-21T11:11:04.610-01:00"/>
+                <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1992_Schnitzler_an_Freud.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="fdf53a30-aa17-4bd8-8f49-447d6f840c10">Schnitzler, Arthur
+                    und Luigi Reitani: „Besser sublimiert als verdrängt. In Cambridge entdeckt. Ein
+                    unbekannter Brief von Arthur Schnitzler an Sigmund Freud“, in: Die Presse.
+                    3.10.1992, Spectrum, S. X. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#fdf53a30-aa17-4bd8-8f49-447d6f840c10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1906-05-06"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118535315">Freud, Sigmund</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,3125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Georg Forsters Briefe. Bd. 13.</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <idno type="url">https://correspsearch.net/storage/forster-13.xml</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-06-24T13:04:13.139-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="t9cc9327-69d3-431e-8a78-d17eb9629b36">Georg Forsters Werke: Sämtliche Schriften, Tagebücher, Briefe. Hrsg. von der Deutschen Akademie der Wissenschaften zu Berlin, Institut für Deutsche Sprache und Literatur durch Gerhard Steiner. Bd. 13: Briefe bis 1783. Bearb. von Siegfried Scheibe. Berlin, Akad.-Verl.: 1978.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="1 ">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1772-11-19"/>
+                    <placeName ref="http://www.geonames.org/3367578">Kap der Guten Hoffnung</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117693480">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1775-08-04"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118573349">Karl von Linné</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <date when="1775-09-19"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1775-11-09"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1775-12-22"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                    <date when="1775-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-01-23"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="7a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-02-01"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Thomas Fothergill</persName>
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="8">
+                <correspAction type="sent">
+                    <date when="1776-02-03"/>
+                    <orgName ref="https://d-nb.info/gnd/10050710-4">Haude und Spenersche Verlagsbuchhandlung</orgName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-03-12"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-04-02"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-04-02"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-04-09"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-04-09"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-05-10"/>
+                    <placeName>London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-07-16"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-09-01"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1776-09-01" to="1776-09-03"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1776-09-09" to="1776-09-10"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-09-17"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-10-04"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1776-10-22" to="1776-10-25"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-10-25"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117552607">Friedrich Heinrich Martini</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-10-29"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-11-05"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-11-12"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-11-22"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-12-27"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1776-12-31"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-02-28"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-03-17"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119165198">Friedrich August III. von Sachsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-03-18"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-03-28"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="https://d-nb.info/gnd/10050710-4">Haude und Spenersche Verlagsbuchhandlung</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-04-18"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117565849">Peter Wargentin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-04-22"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1777-05-20" notBefore="1777-05-11">Mitte Mai 1777</date>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-05-21"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118661078">Heinrich Christian Boie</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-05-23"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-06-17"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-06-24"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-06-26"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/136139132">William Wales</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-06-27"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/136139132">William Wales</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-06-30"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/136139132">William Wales</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-07-01"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="https://d-nb.info/gnd/10050710-4">Haude und Spenersche Verlagsbuchhandlung</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-07-29"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-08-01"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-08-08"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="https://d-nb.info/gnd/10050710-4">Haude und Spenersche Verlagsbuchhandlung</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-08-19"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-08-22"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-09-02"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-09-09"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-09-12"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-09-16"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-10-09"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1777-11-30" notBefore="1777-10-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11897372X">André Thouin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-11-24"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118901583">Jeremias Jakob Oberlin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1777-12-25"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118839985">Giovanni Valentino Mattia Fabbroni</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-01-04"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-01-09"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-02-17"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="58a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-02-17"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118839985">Giovanni Valentino Mattia Fabbroni</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-03-16"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117565849">Peter Wargentin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-05-08"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118573330">Karl von Linné jr.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-05-25"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-07-17"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-08-07"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1778-08-20" notBefore="1778-08-11">Mitte August 1778</date>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-09-15"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-10-02"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-10-22"/>
+                    <placeName ref="http://www.geonames.org/2647383">Harwich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-10-24"/>
+                    <placeName ref="http://www.geonames.org/2750194">Helvoet</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1778-10-29" to="1778-11-03"/>
+                    <placeName ref="http://www.geonames.org/2747373">Den Haag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116666269">Justine Elisabeth Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-11-01"/>
+                    <placeName ref="http://www.geonames.org/2747373">Den Haag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1025735900">Arnout Vosmaer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-11-11"/>
+                    <placeName ref="http://www.geonames.org/2759794">Amsterdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-11-12"/>
+                    <placeName ref="http://www.geonames.org/2759794">Amsterdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118573330">Karl von Linné jr.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-11-13"/>
+                    <placeName ref="http://www.geonames.org/2759794">Amsterdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-11-13"/>
+                    <placeName ref="http://www.geonames.org/2759794">Amsterdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Virginia Viktoria Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-11-24"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-11-25"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-03"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-08"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-14"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-17"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-17"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-17"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-24"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-24"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-30"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1778-12-31"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116489014">Philippine Gatterer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1779-01-10" notBefore="1779-01-01">Anfang Januar 1779</date>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116489014">Philippine Gatterer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-01-14"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-01-15"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-01-21"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-01-24"/>
+                    <placeName ref="http://www.geonames.org/8629936">Kloster Berge</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-02-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-02-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116489014">Philippine Gatterer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-02-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118587668">Christoph Friedrich Nicolai</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-03-15"/>
+                    <placeName ref="http://www.geonames.org/2937959">Dessau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-03-15"/>
+                    <placeName ref="http://www.geonames.org/2937959">Dessau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118587668">Christoph Friedrich Nicolai</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-03-21"/>
+                    <placeName ref="http://www.geonames.org/2937959">Dessau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-03-31"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-04-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-04-06"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117432792">Christian Heinrich Wolke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-04-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1779-04-23" to="1779-04-26"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-05-04"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-05-05"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117565849">Peter Wargentin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-05-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-05-18"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-06-05"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-06-06"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-06-27"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-06-30"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="112">
+                <correspAction type="sent">
+                    <persName>Georg Forster</persName>
+                    <date when="1779-06-30"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118648659">Amalie von Preußen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-07-05"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-07-14"/>
+                    <placeName>Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-07-22"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-07-28"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-08-22"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-09-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-09-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118573330">Karl von Linné jr.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1779-09-10" notBefore="1779-09-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118826352">Friedrich Wilhelm von Erdmannsdorf</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1779-09-10" notBefore="1779-09-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119093502">Leopold Friedrich Franz von Anhalt-Dessau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-09-06"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-09-23"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-10-05"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-10-06"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-10-10"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-10-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-11-02"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-11-25"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-11-29"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-12-10"/>
+                    <placeName>Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-12-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-12-29"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="134">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-12-29"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-01-09"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-01-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="137">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-01-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117369454">August Ferdinand von Veltheim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="138">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-01-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="139">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-01-30"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="140">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-02-14"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="141">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-02-23"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="142">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1780-03-14" to="1780-03-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="143">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-03-17"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="144">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-03-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-03-27"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="146">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-04-03"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118587668">Christoph Friedrich Nicolai</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="147">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-04-03"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="148">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-06-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116040084">Ferdinand Jakob von Baier</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="149">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-06-27"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="150">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-07-18"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103135235">Friedrich Adolf Vollpracht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="151">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-07-27"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Henrik Sundersberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="152">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-07-29"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118661868">Ignaz von Born</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="153">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-08-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116040084">Ferdinand Jakob von Baier</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-08-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="155">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-09-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118537342">Adelheid Amalia von Gallitzin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="156">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-09-05"/>
+                    <placeName ref="http://www.geonames.org/2817805">Veckerhagen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="157">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-09-07"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="158">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-09-11"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="159">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-09-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="160">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-10-05"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="161">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1780-10-16" to="1780-10-27"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118503839">Johann Wilhelm von Archenholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="162">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-10-25"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="163">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-11-25"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="164">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-11-26"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="165">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-01-05"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/130249424">Friedrich II. von Hessen-Kassel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="166">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-01-10"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="167">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-01-10"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="168">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-01-11"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/130249424">Friedrich II. von Hessen-Kassel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="169">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-01-28"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="170">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-02-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="171">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-02-14"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116752475">Hersleb</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="172">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-04-03"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119291827">Petrus Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="173">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-05-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="174">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-06-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="175">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-06-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="176">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-07-05"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="177">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-07-17"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="178">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-07-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="179">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-07-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117565849">Peter Wargentin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="180">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-07-21"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-07-23"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="182">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-08-08"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="183">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-08-18"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="184">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-09-03"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="185">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-09-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="186">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-09-18"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118795449">Johann Christian Daniel Schreber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="187">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <date when="1781-09-30"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118809334">Philipp Erasmus Reich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="188">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-09-30"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="189">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-10-04"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="190">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-10-09"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="191">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-10-12"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="192">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-10-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124759289">Andreas Sparrman</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="193">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-10-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="194">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-11-03"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="195">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-11-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="196">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-12-11"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="197">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-12-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="197a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-12-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116208503">Johann Friedrich Blumenbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="198">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-12-29"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="199">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1782-01-10" notBefore="1782-01-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="200">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-01-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="201">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-03-03"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="202">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-03-25"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="203">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-03-30"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="204">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-04-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118587668">Christoph Friedrich Nicolai</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="205">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-04-02"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="206">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-04-07"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="207">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-05-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118587668">Christoph Friedrich Nicolai</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="208">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-05-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="209">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1782-05-31" notBefore="1782-05-21"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="210">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1782-06-30" notBefore="1782-06-01">Juni (?) 1782</date>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="211">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-06-09"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="212">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1782-06-15" to="1782-06-16"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="213">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-06-23"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="214">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1782-07-15" notBefore="1782-06-15">Mitte 1782</date>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="215">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-07-21"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="216">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-08-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="217">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-08-28"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="218">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1782-09-10" notBefore="1782-08-01">August/Anfang September 1782</date>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1075082803">Justina Regina Barbara Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="219">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-09-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="220">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-09-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="221">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-09-16"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="222">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-09-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="223">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-09-27"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1075082803">Justine Regina Barbara Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="223">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-09-27"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1075082803">Justine Regina Barbara Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="224">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-09-29"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="225">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-10-07"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="226">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-10-10"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="227">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-11-11"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="228">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1782-11-20" notBefore="1782-11-11">Mitte November 1782</date>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="229">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1782-11-16" to="1782-11-23"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="230">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-12-02"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="231">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-12-05"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="232">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1782-12-29"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="233">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1783-04" notBefore="1782-05">1782/83</date>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="234">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-01-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="235">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-01-15"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="236">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-02-11"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="237">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-02-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="238">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-02-14"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="239">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-02-17"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="240">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-03-02"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="241">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-03-02"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="242">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-03-10"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="243">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-03-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119291827">Petrus Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="244">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-03-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="245">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-03-31"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="246">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-04-03"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="247">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-04-06"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="248">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-04-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116167580">Johann Erich Biester</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="249">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-05-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="250">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-06-02"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="251">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-06-02"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="https://d-nb.info/gnd/39272-8">Royal Society</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="252">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-06-05"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="253">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-06-11"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="254">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-06-16"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118540084">Leopold Friedrich Günter Goeckingk</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="255">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-06-22"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="256">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-06-30"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="257">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-07-07"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="258">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-07-16"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118587668">Christoph Friedrich Nicolai</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="259">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-07-21"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="260">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-07-28"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100267602">Friedrich Christoph Schminke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="261">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-07-29"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100267602">Friedrich Christoph Schminke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="262">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-07-31"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="263">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1783-08-20" notBefore="1783-08-11">Mitte August 1783</date>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="264">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-08-25"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="265">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-08-29"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="266">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1783-11-30" notBefore="1783-09-01">Herbst 1783</date>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="267">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1783-09-10" notBefore="1783-09-01">Anfang September 1783</date>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="268">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-09-04"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="269">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-09-08"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="270">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-09-08"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="271">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-09-09"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119093502">Leopold Friedrich Franz von Anhalt-Dessau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="272">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-09-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="273">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-09-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="274">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-09-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="275">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-09-25"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="276">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-10-12"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="277">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-10-12"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="278">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-10-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="279">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-10-23"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="280">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-10-27"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="281">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-10-30"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="282">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-11-08"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/137565143">Heinrich von Offenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="283">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-11-10"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="284">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-11-10"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="285">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-11-12"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118503839">Johann Wilhelm von Archenholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="286">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-11-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="287">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-11-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="288">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-11-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="289">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-12-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="290">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-12-07"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="291">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-12-07"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="292">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-12-10"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="293">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-12-17"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="294">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-12-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="295">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-12-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="296">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-12-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1061066223">Jan Baptysta Czempiński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="297">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1783-12-31"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="S. 611">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <date notAfter="1777-07" notBefore="1777-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="S. 628">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <date when="1777-06-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/136139132">William Wales</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="S. 663">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1025735900">Arnout Vosmaer</persName>
+                    <date when="1778-11-01"/>
+                    <placeName ref="http://www.geonames.org/2747373">Den Haag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://www.wikidata.org/wiki/Q6905889">Redaktion der Monthly Review</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="S. 672">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <date when="1778-10-20"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120528029">Jean Pierre Louis Marquis de Luchet</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="S. 744">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <date when="1779-11-30"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#t9cc9327-69d3-431e-8a78-d17eb9629b36" key="S. 923">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <date when="1783-11-03"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117687588">Martin Odlanicky de Poczobut</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

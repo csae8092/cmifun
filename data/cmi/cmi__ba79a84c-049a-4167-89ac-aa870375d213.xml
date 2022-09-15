@@ -1,0 +1,1353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl August Böttiger - Auguste Duvau. Briefwechsel.</title>
+                <editor>Stefan Dumont <email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburg Academy of Sciences and
+                        Humanities</ref>
+                </publisher>
+                <date when="2016-05-23T19:44:36.281+01:00"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/boettiger-duvau.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="ba79a84c-049a-4167-89ac-aa870375d213" type="print">Karl August Böttiger: Briefwechsel mit Auguste Duvau. Hrsg. von Klaus Gerlach und René Sternke. Berlin 2004</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[1]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1795-04-24">vor 24. April 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-04-24">24. April 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+                    <date when="1795-04-30">30. April 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1795-10-21">ab Ende Oktober 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[5]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1795-11-10">vor 10. November 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-11-10">10. November 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date from="1796-02-05" to="1796-02-06">5./6. Februar 1796 (?)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1797-01-29" notAfter="1797-02-04">um 1. Februar 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1797-02-12">vor 12. Februar 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1797-05-06">nach 12. Februar und vor 6. Mai 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1797-06-25">25. Juni 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[12]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date from="1797-09-01">ab 1. September 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date from="1797-09-04">ab 4. September 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date from="1797-09-09">ab 9. September 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[15]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-01-30">30. Januar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-01-31">31. Januar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-02">5. (?) Februar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-04-03">nach 31. Januar, 2. und 3. April 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[19]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date notAfter="1798-02-14">vor 14. Februar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-02-14">14. Februar 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-03-08">8. März 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-03-11">11. März 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-03-18">18. März 1798 (?)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date from="1798-04-01">ab 1. April 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798">Frühjahr 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-07-08">8. Juli 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[27]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1798-07-13">vor 13. Juli 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-07-13">13. Juli 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[29]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-07-19">19. Juli 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-07-19">19. Juli 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-07-21">21. Juli 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date from="1798-08-30" to="1798-11-05">ab 30. August bis 5. November 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-10-26">26. Oktober 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-12-11">11. Dezember 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date notAfter="1799-03-05">vor 5. März 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1799-03-10">10. März 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1799-12-31">31. Dezember 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date notBefore="1800-09">nach September 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[39]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date from="1800-10">ab Oktober 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1800-10">Oktober 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-09-18">11. oder 18. September 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-09-20">20. September 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <date from="1801-10-13" to="1801-10-26">13. bis 26. Oktober 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1801-11-04">4. November 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date notBefore="1801-11-23">nach 23. November 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date from="1801-12-22" to="1802-01-12">22. Dezember 1801 bis 12. Januar 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1802-02-10">10. Februar 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date from="1802-02-28" to="1802-03-12">28. Februar bis 12. März 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[49]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1802-05-29">29. Mai 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date when="1802-10-08">26. Juni bis Paris, 8. Oktober 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-04-03">3. April 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1803-04-09">9. April 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-04-20">20. April 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1803-05-11">11. Mai 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1803-06-12">12. Juni 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-06-27">27. Juni 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1803-07-11">11. Juli 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-08-01">1. August 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date notBefore="1803-08-01" to="1803-09-01">nach 1. August bis 1. September 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1803-09-03">3. September 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-09-15">15. September 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1803-10-28">28. Oktober 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[63]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notAfter="1803-11-14">vor 14. November 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1803-12-06">6. Dezember 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-12-15">15. Dezember 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1804-01-31">31. Januar 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1804-02-06">6. Februar 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1804-02-27">27. Februar 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1804-03-10">10. März 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1804-03-12">12. März 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date from="1804-03-18" to="1804-03-20">18. bis 20. März 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1804-03-27">27. März 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1804-04-06">6. April 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1804-04-19">19. April 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1804-05-08">8. Mai 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1804-05-13">13. Mai 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date from="1804-06-23" to="1804-06-26">23. bis 26. Juni 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1804-07-07">7. Juli 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date from="1804-07-18" to="1804-07-20">18. bis 20. Juli 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <persName>Johann Gottfried Seume</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1804-09-18">18. September 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1804-09-20">20. September 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1804-09-26">25. und 26. September 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2660646">Genf</placeName>
+                    <date from="1804-11-26" to="1804-12-06">26. November bis 6. Dezember 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[84]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date from="1804-12-11" notAfter="1805-03-10">zwischen 11. Dezember 1804 und Anfang März 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2660646">Genf</placeName>
+                    <date when="1805-02-26">26. Februar 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[86]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2660646">Genf</placeName>
+                    <date when="1805-03-26">26. März 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2660646">Genf</placeName>
+                    <date when="1805-07-04">28. Juni und 4. Juli 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1805-07-21">21. Juli 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>La Farinière</placeName>
+                    <date from="1806-04-30" to="1806-05-15">30. April bis 15. Mai 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2983990">Rennes</placeName>
+                    <date when="1808-04-06">6. April 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="91">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1809-01-09">9. Januar 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[92]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1812-05">23. (?) Mai 1812</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="93">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1818-12-17">17. Dezember 1818</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[94]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date notBefore="1818-12-17" notAfter="1822-02-03">nach 17. Dezember 1818 und vor 3. Februar 1822</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="95">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1822-02-03">3. Februar 1822</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[96]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date notBefore="1822-09" notAfter="1822-12">Ende 1822</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="97">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1824-02-05">5. Februar 1824</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="98">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1824-04-30">30. April 1824</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="99">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1825-07-06">6. Juli 1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1828-04-13">13. April 1828</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[101]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date when="1828-08">zwischen Mai und August 1828</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="102">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1828-08-31">31. August 1828</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="[103]">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                    <date notBefore="1828-09" notAfter="1828-12">Herbst 1828</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="104">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1829-04-24">24. April 1829</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+                    <date when="1795-04-27">27. April 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+                    <date when="1795-04-30">30. April 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+                    <date when="1795-06-28">28. Juni 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2947421">Bocholt</placeName>
+                    <date when="1795-09-14">14. September 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-12-10">10. Dezember 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1797-07-28">28. Juli 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1797-09-21">21. September 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1797-11-24">24. November 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1798-05-10">10. Mai 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date notBefore="1798-09" notAfter="1798-12">Herbst 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1799-01-01">1. Januar 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1799-03-21">21. März 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1800-06-30">30. Juni 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>Belvedere</placeName>
+                    <date when="1801-02-07">7. Februar 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1801-06-25" notAfter="1801-07-01">etwa 28. Juni 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1801-12-30">30. Dezember 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1803-08-24">24. August 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-10-13">13. Oktober 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName>La Farinière</placeName>
+                    <date when="1809-12-14">14. Dezember 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1818-12">Dezember 1818</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1821-02-03">3. Februar 1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1823-09-20">20. September 1823</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1824-04-30">30. April 1824</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1825-04-19">19. April 1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anhang 25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1828-04-13">13. April 1828</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anm. 32 zu Brief Nr. 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-08-20">20. August 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118725947">August Heinrich Julius Lafontaine</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anm. 91 zu Brief Nr. 11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1809-12">Dezember 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118585045">Johannes von Müller zu Sylveden</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ba79a84c-049a-4167-89ac-aa870375d213" key="Anm. 98 zu Brief Nr. 82-83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116258780">Auguste Duvau</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1823-09-19">19. September 1823</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118520040">Adelbert von Chamisso</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

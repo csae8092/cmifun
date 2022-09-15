@@ -1,0 +1,1477 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Christian Daniel Rauch</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburg Academy of Sciences and Humanities</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0">CC0</licence>
+                </availability>
+                <date when="2019-06-05T17:41:08.529-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Rauch.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="x04eed00-43a2-4e12-809c-abf718c60408">Weltmann und Hofkünstler: Alexander von Humboldts Briefe an Christian Daniel Rauch. Kommentierte Edition. Hrsg. v. Bernhard Maaz. München und Berlin 2007.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1807-07-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1827-12" notBefore="1827-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1827-12" notBefore="1827-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1827-11-30" notBefore="1827-11-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1828-03-31" notBefore="1828-03-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1828-04-03"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-06-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1828-06-30" notBefore="1828-06-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1828-06-30" notBefore="1828-06-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-09-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1828-10-31" notBefore="1828-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1828-12-31" notBefore="1828-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1829-12" notBefore="1828-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-02-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1833"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1833-07-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833-11-30" notBefore="1833-11-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1834-03-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-02-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1835-04-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="20 A">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                    <date cert="low" when="1835-04-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118757490">Christian Friedrich Tieck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="20 B">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118757490">Christian Friedrich Tieck</persName>
+                    <date cert="low" when="1835-04-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1835-04-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1835-05-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1835-05-31" notBefore="1835-05-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1836-06-03"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1836-06-20"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1836-09-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1836-09-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838-06-30" notBefore="1837-06-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                    <persName ref="http://d-nb.info/gnd/118757490">Christian Friedrich Tieck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837-10-31" notBefore="1837-10-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837-12-31" notBefore="1837-12-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838-12" notBefore="1838-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1838-05-16"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-07-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-12-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-12-23"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-01-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1840-05-31"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1840-12-06"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1841-12-31" notBefore="1841-12-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-05-23"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1842-08-04"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-06-11"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-09-04"/>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-09-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1844-02" notBefore="1843-11"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1844-05-26"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1844-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-09-13"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1844-09-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1844-10-31" notBefore="1844-10-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1844-11-18"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846" notBefore="1844"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1846-05-12"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1844-05-16"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1846-05-26"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-06"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-08-19"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1846-09-05"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1846-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-12-27"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-01-02"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1847-07-31" notBefore="1847-07-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1847-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1847-08-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="66 A">
+                <correspAction type="sent">
+                    <persName>Der Präsident des Cercle Artistique et Littéraire von Bruxelles</persName>
+                    <date when="1848-09-10"/>
+                    <placeName ref="http://www.geonames.org/2800866">Brüssel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1848-09-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1848-10-07"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-02-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1849-06" notBefore="1849-05"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-06-10"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1849-08-16"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-08-17"/>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-09-02"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-10-06"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-10-12"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-06"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-09-07"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-03-28"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-04-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-05"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-08-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-09-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1851-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-09-27"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-09-27"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1851-10-20"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="91">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-02-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-04-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="93">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-04-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="94">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1852-04-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="95">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1852-04-28"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="96">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1852-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="97">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1852-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="98">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-06-19"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="98 A">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10148772X">Johann Karl Eduard Buschmann</persName>
+                    <date when="1852-06-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="98 B">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10148772X">Johann Karl Eduard Buschmann</persName>
+                    <date when="1852-06-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="99">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1852-07-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-07-12"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="101">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-10-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="102">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1853-12" notBefore="1853-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="103">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="104">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-05-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="105">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-06-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="106">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-06-26"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="106 A">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118878794">Pierre Jean David D'Angers</persName>
+                    <date when="1853-06-21"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="107">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="108">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1853-07-10" notBefore="1853-07-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="109">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-07-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="110">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-11"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="111">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1853-12-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="112">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-12-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="113">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-02-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="114">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-02-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="115">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="116">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="117">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-04-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="118">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="119">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-09-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="120">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-11-25"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="121">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-11-26"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="122">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-05-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="123">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="124">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-07-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="125">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                    <date when="1855-07-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="126">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-07-27"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="127">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                    <date when="1855-08-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="128">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-11-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="129">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="130">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="131">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                    <date when="1855-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="132">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="133">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1856-08-21"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="134">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-11"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="136">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="137">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1856-12-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="138">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-12-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="139">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1857-12" notBefore="1856-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="140">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1857-01-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="141">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1857-02-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="142">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1857-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="143">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1857-05-06"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="144">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1857-07-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x04eed00-43a2-4e12-809c-abf718c60408" key="145">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118749218">Christian Daniel Rauch</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

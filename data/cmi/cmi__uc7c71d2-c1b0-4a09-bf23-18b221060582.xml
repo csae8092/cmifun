@@ -1,0 +1,1353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hermann von Helmholtz - Emil du Bois-Reymond 1846-1894</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <idno type="url">https://correspsearch.net/storage/helmholtz-bois-reymond.xml</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-06-18T17:10:23.404-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="uc7c71d2-c1b0-4a09-bf23-18b221060582">Dokumente einer Freundschaft: 
+                    Briefwechsel zwischen Hermann von Helmholtz und Emil Du Bois-Reymond 1846 - 1894. 
+                    Bearbeitet von einem Herausgeberkollektiv unter Leitung von Christa Kirsten. 
+                    Mit einer wissenschaftsgeschichtl. Einordnung in die naturwiss. und philosoph. Bewegungen ihrer 
+                    Zeit von Herbert Hörz und Siegfried Wollgast. Berlin, Akademie-Verlag: 1986 (Studien zur Geschichte der Akademie der Wissenschaften der DDR, Bd. 9)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1846-07-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1846-07-24"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1846-08-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1846-10-05"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1846-12-21"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1847-02-12"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1847-04-10"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1847-07-21"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1847-08-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1847-08-06"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1849-08-19"/>
+                    <placeName ref="http://www.geonames.org/2939440">Berlin-Dahlem</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1849-10-14"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1849-12-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1850-01-15"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1850-03-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1850-04-05"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1850-04-22"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1850-06-28"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1850-08-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1850-08-28"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1850-09-17"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1851-03-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1851-04-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1851-04-11"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1851-05-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1850-09-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1851-06-12"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1852-02-03"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1852-02-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1852-02-15"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1852-03-24"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date notAfter="1852-04-20" notBefore="1852-04-11">Mitte April 1852</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1852-06-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1852-06-20"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1852-06-24"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1852-07-09"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1852-07-16"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1852-08-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1853-01-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1853-01-23"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1853-05-22">Unsichere Lesung. Möglich ist auch 27. Mai 1853.</date>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1853-05-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1854-06-13"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1854-06-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1854-07-07"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1854-08-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1854-11-05"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1854-12-23"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1854-12-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1855-03-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1855-03-22"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1855-10-14"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1856-04-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1856-05-03"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1856-10-15"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1856-10-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1856-11-08"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1856-11-11"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1857-01-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1857-05-18"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1857-05-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1857-05-26"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1857-07-14"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1857-07-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1858-03-05"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1858-03-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1858-03-19"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1858-04-15"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1858-04-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1858-04-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1858-05-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1858-05-29"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1858-07-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1858-07-21"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1858-10-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1858-10-29"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1858-11-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1859-01-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1860-08-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1861-02-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1861-03-02"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1861-04-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1862-03-15"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1862-03-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1862-04-13"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1863-04-22"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1863-08-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1863-12-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1864-02-26"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1864-05-15"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1864-05-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date notAfter="1864-05-31" notBefore="1864-05-21">Ende Mai 1864</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1864-06-05"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1864-11-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1865-01-03"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1865-02-13"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1865-02-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1865-02-27"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1866-01-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1866-01-11"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1866-05-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1866-10-02"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1867-04-22"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1867-04-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1867-06-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1867-06-02"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1868-04-20"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1868-04-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1868-10-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1869-01-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1869-01-14"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1870-01-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1870-04-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1870-04-07"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1870-05-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1870-05-17"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1870-06-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1870-06-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1870-06-25"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1870-06-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1870-07-03"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1870-07-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1870-10-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1870-10-17"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1870-12-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1870-12-11"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1870-12-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1870-12-20"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1871-02-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1871-02-14"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#uc7c71d2-c1b0-4a09-bf23-18b221060582" key="132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholtz</persName>
+                    <date when="1871-03-17"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

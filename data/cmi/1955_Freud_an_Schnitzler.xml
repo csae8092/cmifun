@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sigmund Freuds Briefwechsel (Zehn Briefe an Arthur Schnitzler)</title>
+                <editor>Laura Untner<email>laura.untner@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Laura Untner</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2022-03-08T10:23:43.165-01:00"/>
+                <idno type="url"
+                    >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1955_Freud_an_Schnitzler.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="v149ca80-1848-4eff-991d-4c2560c2e17b">Freud, Sigmund: Briefe an Arthur Schnitzler. Hg. v. Heinrich Schnitzler. In: Neue deutsche Rundschau, Jg. 66/1(1955), S. 95–106. https://shared.acdh.oeaw.ac.at/schnitzler-briefe/1955_Freud-an-Schnitzler.pdf</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
+                    <date evidence="conjecture" when="1906-05-08"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
+                    <date evidence="conjecture" when="1912-05-14"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
+                    <date evidence="conjecture" when="1922-05-14"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
+                    <date evidence="conjecture" when="1922-06-08"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
+                    <date evidence="conjecture" when="1924-10"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
+                    <date evidence="conjecture" when="1926-03-08"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
+                    <date evidence="conjecture" when="1926-03-24"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
+                    <date evidence="conjecture" when="1926-05-24"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
+                    <date when="1928-05-07"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
+                    <date evidence="conjecture" when="1931-05"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

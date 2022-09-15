@@ -1,0 +1,2380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Briefe Alexander von Humboldt / Varnhagen von Ense 1827-1848</title>
+            <editor>Stefan Dumont <email>dumont@bbaw.de</email>
+                </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+            </publisher>
+            <idno type="url">https://correspsearch.net/storage/HumboldtVarnhagen.xml</idno>
+            <date when="2016-05-23T19:44:36.281+01:00"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                  licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="print" xml:id="AvH-Varnhagen">
+               Briefe von Alexander von Humboldt an Varnhagen von Ense aus den Jahren 1827 bis 1858: nebst Auszügen aus Varnhagen's Tagebüchern, und Briefen von Varnhagen und Andern an Humboldt.
+               Hg. v. Ludmilla Assing. Brockhaus: Leipzig 1860. [Digitalisat online verfügbar unter <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11098907-8">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11098907-8</ref>]
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <correspDesc source="#AvH-Varnhagen" key="1" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00021.html">
+         <correspAction type="sent">
+            <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+            <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+            <date when="1827-09-25"/>
+         </correspAction>
+         <correspAction type="received">
+            <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+         </correspAction>
+           <note type="mentioned">
+              <!-- <bibl sameAs="http://edition-humboldt.de/J8JPR5F3">
+                 Humboldt, Alexander von: „Ueber die Hauptursachen der Temperatur-Verschiedenheit auf dem Erdkörper“, Annalen der Physik 87 (1827), S. 1–27.
+              </bibl> -->
+           </note>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="2" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00022.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1827-11-01"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="3" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00023.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1827-11-21"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="4" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00024.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1828-04-15"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="5" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00026.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1829-04-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="6" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00027.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1830-04-26"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="7" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00028.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1830-07-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="8" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00030.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1833-01-23"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="9" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00032.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1833-02-01"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626175">Rahel Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="10" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00033.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1833-02-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="11" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00035.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1833-02-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626175">Rahel Varnhagen von Ense</persName>              
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="12" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00036.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1833-03-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+           <!--<note type="mentioned">
+              <date>Rahel Varnhagens Tod</date>
+           </note>-->
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="13" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00037.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1833-12-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="14" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00038.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1833-12-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="Beilage zu Brief-Nr. 14" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00038.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/1024427935">Frederike Herzogin zu Anhalt</persName>
+              <placeName ref="http://www.geonames.org/2937959">Dessau</placeName>
+              <date when="1833-12-01"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="15" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00039.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1833-12-19"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="16" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00040.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1834-10-24"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="17" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00044.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1834-10-28"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="18" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00046.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1835-04-05"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="19" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00047.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1835-05-05"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="20" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00048.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1835-05-06"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="21" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00049.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1835-05-23"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="22" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00050.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1836-03-28"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="23" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00053.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1836-05-31"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="24" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00054.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1837-04-24"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="25" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00056.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1837-05-02"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/116307641">Fürstin von Pückler</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="26" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00057.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date>Unbekannt</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="27" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00059.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1837-05-10"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="28" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00061.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1837-05-17"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="29" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00063.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1837-05-30"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="30" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00064.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1837-07-01"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="31" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00066.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1837-10-04"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="32" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00067.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1837-10-22"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="33" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00068.html">
+           <!-- schönes Zitat -->
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1837-11-07"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="34" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00072.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1838-06-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="35" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00073.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1838-08-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="36" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00076.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1839-06-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="37" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00079.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1839-09-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="38" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00080.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1839-12-29"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="39" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00081.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1840-02-26"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="40" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00083.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1840-03-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="41" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00084.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1840-03-18"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="42" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00086.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118581465">Metternich</persName>
+              <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+              <date when="1840-03-29"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="43" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00089.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1840-04-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="44" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00090.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/119382091">Christian VIII. von Dänemark</persName>
+              <placeName ref="http://www.geonames.org/2618425">Kopenhagen</placeName>
+              <date when="1840-01-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="45" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00092.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1840-04-11"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="46" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00094.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1840-04-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="47" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00095.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1840-03-29"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="48" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00097.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1840-10-27"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="49" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00101.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118543520">Guizot</persName>
+              <placeName ref="http://www.geonames.org/2643743">London</placeName>
+              <date when="1840-08-24"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName evidence="internal" ref="http://www.geonames.org/554234">Königsberg</placeName>
+              <date>pendant les fetes</date>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="50" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00103.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118847767">F. Arago</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+              <date when="1841-03-12"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="51" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00105.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1840-11-21"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118504185">Bettina von Arnim</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="52" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00107.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1841-04-22"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="53" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00109.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1841-04-24"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+           <!-- Kosmos-Publikation -->
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="54" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00110.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <date when="1841-04-28"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="55" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00113.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date>Unbekannt</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName>Spkier</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="56" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00114.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <date when="1841-05-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="57" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00115.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1841-05-04"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="58" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00117.html">
+           <!-- Druckfehler "85" in "58" korrrigiert -->
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/119382091">Christian VIII. von Dänemark</persName>
+              <placeName ref="http://www.geonames.org/2618425">Kopenhagen</placeName>
+              <date when="1841-03-25"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="59" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00119.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1841-05-17"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="60" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00121.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159" evidence="external">Berlin</placeName>
+              <date when="1841-12-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="61" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00124.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1841-12-07"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="62" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00128.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1842-02-28"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="63" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00129.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1842-03-16"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="64" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00131.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1842-03-21"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="65" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00136.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <date when="1842-03-31"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="66" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00137.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1842-04-06"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+           <note type="mentioned">
+              <persName>Schleiermacher</persName>
+           </note>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="67" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00139.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1842-04-07"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="68" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00140.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+              <date when="1842-06-24"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="69" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00145.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1842-04-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+            <correspDesc source="#AvH-Varnhagen" key="70" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00146.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <date when="1843-06-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="71" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00147.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1843-06-26"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="72" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00149.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <date when="1843-06-27"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="73" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00150.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+              <date when="1843-08-27"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="74" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00152.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1843-12-29"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118632884">Prinzen von Preußen</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="75" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00154.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1844-01-01"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="76" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00158.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1844-04-01"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="77" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00161.html">
+           <correspAction type="sent">
+              <persName>J. W. T.</persName>
+              <placeName>Höfgen bei Solingen</placeName>
+              <date when="1844-03-21"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="78" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00162.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/116492252">Charles-Joseph Bresson</persName>
+              <placeName ref="http://www.geonames.org/2950159" evidence="internal">Berlin</placeName>
+              <date when="1839-03-06"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="79" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00165.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118847767">F. Arago</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+              <date when="1834-08-19"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="80-I" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00167.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+              <date when="1836-12-23"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="80-II" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00167.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+              <date when="1839-02-21"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="80-III" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00168.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+              <date when="1840-03-23"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="80-IV" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00169.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+              <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+              <date when="1849-04-29"/><!-- vllt. auch 1843 wie kodieren? -->
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="81" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00170.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/119382091">Christian VIII. von Dänemark</persName>
+              <placeName ref="http://www.geonames.org/2618425">Kopenhagen</placeName>
+              <date when="1843-05-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="82" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00171.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118703897">John F. W. Herschel</persName>
+              <placeName ref="http://www.geonames.org/2647291">Collingwood, Hawkhorst, Kent</placeName>
+              <date when="1843-12-21"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="83" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00175.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118506358">de Balzac</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin, Hotel de Russie</placeName>
+              <date when="1843"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="84" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00176.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118790129">Robert Peel</persName>
+              <placeName>Whitehall</placeName>
+              <date when="1843-09-04"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="85" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00177.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118581465">Metternich</persName>
+              <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+              <date when="1843-10"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="86" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00179.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118793292">Wm. H. Prescott</persName>
+              <placeName ref="http://www.geonames.org/4930956">Boston</placeName>
+              <date when="1843"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="87" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00182.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118641891">Frau von Récamier</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+              <date when="1843-07-28"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="88" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00183.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <date when="1844-08-31"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="89" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00184.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118827065">Leopold, Großherzog von Toscana</persName>
+              <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+              <date when="1844-07-20"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="90" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00186.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <date when="1844-09-02"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="91" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00187.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1844-09-06"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="92" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00189.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1844-09-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="93" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00191.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1844-09-19"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="94" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00192.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1845-06-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="95" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00193.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1845-06-04"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="96" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00194.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1845-06-16"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="97" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00195.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1845-09-04"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="98" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00196.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118581465">Metternich</persName>
+              <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+              <date when="1845-06-21"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="99" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00198.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118775944">Jules Janin</persName>
+              <placeName ref="http://www.geonames.org/2946447">Bonn, Hotel de l'étoile</placeName>
+              <date when="1845-08-10"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="100" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00200.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1845-09-26"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="101" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00202.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1845-10-02"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="102" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00205.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1845-10-27"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+            <correspDesc source="#AvH-Varnhagen" key="103" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00206.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1845-11-30"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="104" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00208.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>            
+              <date when="1846-01-15"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="105" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00209.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1846-01-25"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="106" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00211.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1846-02-07"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="107" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00213.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1846-02-20"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="108" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00214.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1846-03-29"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="109" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00215.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1846-03-30"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="110" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00216.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1846-03-29"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="111" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00218.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118510215">F. W. Bessel</persName>
+              <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+              <date when="1846-02-12"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="112" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00225.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554654">Victor Hugo</persName>
+              <placeName>Unbekannt</placeName>
+              <date when="1845-03-20"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="113" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00226.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118603817">Friedrich Rückert</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1846-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="114" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00227.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118577409">Alexander Manzoni</persName>
+              <placeName ref="http://www.geonames.org/3173435">Mailand</placeName>
+              <date when="1844-12-06"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="115" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00230.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118801937">A. Thiers</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+              <date when="1845-08"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="116" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00231.html">
+           <correspAction type="sent">
+              <persName ref="http://viaf.org/viaf/2814056">Fürstin von Canino, Lucien Bonarpartes Witwe</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+              <date when="1845-05"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="117" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00232.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/101930992">Herzogin Helene von Orleans</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris, Tuileries</placeName>
+              <date when="1845-02-12"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="118" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00233.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/101930992">Herzogin Helene von Orleans</persName>
+              <placeName>Neuilly</placeName>
+              <date when="1845-05-12"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="119" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00234.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/101930992">Herzogin Helene von Orleans</persName>
+              <date>Winter 1845</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="120" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00235.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1846-04-22"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="121" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00237.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1846-05-18"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="122" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00238.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118581465">Metternich</persName>
+              <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+              <date when="1846-05-10"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="123" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00241.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1846-05-30"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="124" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00242.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1846-11-14"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="125" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00244.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1846-11-28"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="126" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00245.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1846-12-06"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="127" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00246.html">
+           <correspAction type="sent">
+              <persName>Mignet</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+              <date when="1846-07-01"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="128" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00248.html">
+           <!-- auch in AvH Amerika enthalten!! -->
+           <!-- interessant: Brief wurde wurde zurückgeschickt?? Prüfen -->
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/3687238">Carthagène des Indes</placeName>
+              <date when="1801-04-12"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/119227568">Nicolas Baudin</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="129" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00251.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <date when="1847-02-21"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="130" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00253.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118581465">Metternich</persName>
+              <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+              <date when="1847-02"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="131" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00254.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/11864758X">Prinz Albert</persName>
+              <placeName ref="http://www.geonames.org/6287215">Windsor Castle</placeName>
+              <date when="1847-02-07"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="132" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00255.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1847-02-27"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="133" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00256.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1847-03-27"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="134" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00260.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1849-01-18"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="135" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00263.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1849-08-16"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="136" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00264.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1849-10-15"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="137" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00265.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118581465">Metternich</persName>
+              <placeName>Richmond</placeName>
+              <date when="1849-09-17"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="138" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00266.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1849-10-29"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="139" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00267.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/101930992">Herzogin Helene von Orleans</persName>
+              <placeName ref="http://www.geonames.org/2931574">Eisenach</placeName>
+              <date when="1849-10-23"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="140" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00269.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1849-10-31"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="141" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00271.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1849-11-04"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="142" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00272.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1850-03-19"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="143" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00273.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1850-07-02"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="144" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00274.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1851-06-07"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118504185">Bettina von Arnim</persName>
+           </correspAction>
+           <!-- in Abschrift von Varnhagens Hand -->
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="145" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00276.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1851-11-01"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="146" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00278.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1852-01-28"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+       <correspDesc source="#AvH-Varnhagen" key="147" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00280.html">
+          <correspAction type="sent">
+             <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+             <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+             <date when="1852-02-05"/>
+          </correspAction>
+          <correspAction type="received">
+             <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+          </correspAction>
+       </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="148" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00282.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1852-02-12"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="149" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00283.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1852-03-23"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="149 (Beilage)" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00283.html">
+           <correspAction type="sent">
+              <persName>August Grau</persName>
+              <placeName ref="http://www.geonames.org/4518598">Montgomery County, Ohio</placeName>
+              <date when="1852-02-06"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+           <!-- Beilage zu 149 -->
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="150" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00286.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1853-03-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="151" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00288.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1853-03-14"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+         <correspDesc source="#AvH-Varnhagen" key="152" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00290.html">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1853-08-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+            </correspAction>
+         </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="153" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00291.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1853-08-31"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="154" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00293.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1853-09-02"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="155" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00296.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1853-12-12"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="156" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00297.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date from="1854-12-13" to="1854-12-14"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="157" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00299.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118847767">F. Arago</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+              <date when="1848-06-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="158" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00301.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1854-04-14"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="159" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00302.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1854-07-04"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="160" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00306.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1854-07-08"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="161" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00309.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1854-07-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="162" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00311.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1854-07-08"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118504185">Bettina von Arnim</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="163" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00313.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1854-07-10"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="164" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00314.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1854-07-29"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="165" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00315.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1854-07-31"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="166" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00316.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1855-01-08"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="167" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00317.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1855-04-26"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="168" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00319.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1855-08-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="169" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00324.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-01-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="170" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00327.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/11767477X">Fürstin Lieven</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+              <date when="1856-01-08"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="171" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00329.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-01-27"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="172" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00330.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-01-28"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="173" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00332.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-02-07"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="174" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00333.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-03-14"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="175" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00334.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-04-14"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="176" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00335.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-09-11"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="177" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00336.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/116590904">Preußischer Minister-Resident von Gerolt</persName>
+              <placeName ref="http://www.geonames.org/5128581">New-York</placeName>
+              <date when="1856-08-25"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="178" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00338.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-09-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="179" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00340.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-09-22"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="180" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00341.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-09-23"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="181" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00342.html">
+           <!-- wurde weitergeleitet in 180 an Varnhagen -->
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/119418134">Karl Alexander, Großherzog zu Sachsen-Weimar</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin, Schloss</placeName>
+              <date when="1856-09-23" evidence="conjecture"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="182" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00343.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-09-24"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="183" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00345.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-09-24"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="184" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00347.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1856-11-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="185" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00349.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118581465">Metternich</persName>
+              <placeName ref="http://www.geonames.org/3072265">Königswart</placeName>
+              <date when="1856-10-14"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="186" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00351.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-11-20"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="187" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00352.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-11-21"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="188" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00354.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-11-30"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="189" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00356.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/119418134">Karl Alexander, Großherzog zu Sachsen-Weimar</persName>
+              <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+              <date when="1856-11-29"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="190" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00358.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/142300276">Jobard</persName>
+              <placeName ref="http://www.geonames.org/2800866">Brüssel</placeName>
+              <date when="1856-11-26"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="191" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00360.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-12-01"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="192" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00361.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-12-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="193" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00364.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1856-12-17"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="194" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00365.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/119418134">Karl Alexander, Großherzog zu Sachsen-Weimar</persName>
+              <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+              <date when="1856-12-16"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="195" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00367.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-02-07"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="196" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00369.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-02-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="197" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00371.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-02-20"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="198" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00374.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-03-17"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="199" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00375.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-03-19"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="200" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00377.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-04-06"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="201" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00378.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/119418134">Karl Alexander, Großherzog zu Sachsen-Weimar</persName>
+              <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+              <date when="1857-04-03"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="202" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00379.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-04-07"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="203" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00381.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-04-10"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="204" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00382.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-04-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="205" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00383.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-04-21"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="Beilage zu Brief-Nr. 205" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00384.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <date>Unbekannt</date>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="206" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00385.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-04-25"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="207" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00386.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/119418134">Karl Alexander, Großherzog zu Sachsen-Weimar</persName>
+              <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+              <date when="1857-04-22"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="208" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00387.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-05-22"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="209" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00389.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1857-06-04"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="210" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00390.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/119418134">Karl Alexander, Großherzog zu Sachsen-Weimar</persName>
+              <placeName ref="http://www.geonames.org/2928642">Ettersburg</placeName>
+              <date when="1857-06-01"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="211" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00392.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118801937">A. Thiers</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+              <date when="1857-05-14"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="212" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00393.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-06-19"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="213" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00395.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-06-30"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="Beilage zu Brief-Nr. 213" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00396.html">
+           <!-- nur erschlossen -->
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/119061228">Friesen</persName>
+              <date notBefore="1807-01-01" notAfter="1807-12-31"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="214" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00398.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-07-06"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="215" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00400.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-07-08"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="216" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00402.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-09-16"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="217" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00404.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1857-10-14"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction><!-- Beigelegete Briefe -->
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="Beilage zu Brief-Nr. 217" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00404.html">
+           <!-- erschlossen -->
+           <correspAction type="sent">
+              <persName>Gentz</persName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="Beilage zu Brief-Nr. 217" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00404.html">
+           <!-- erschlossen -->
+           <correspAction type="sent">
+              <persName>Garve</persName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="218" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00406.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1858-01-11"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="219" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00408.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/101921632">Prinz Napoleon, Sohn Jerome's</persName>
+              <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+              <date when="1857-10-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="220" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00410.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1858-02-19"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="221" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00411.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1858-03-07"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="222" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00413.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1858-04-13"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="223" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00415.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+              <date when="1858-06-19"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="224" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00417.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1858-09-09"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118626167">Karl August Varnhagen von Ense</persName>
+           </correspAction>
+        </correspDesc>
+        <correspDesc source="#AvH-Varnhagen" key="225" ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11098907_00420.html">
+           <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+              <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+              <date when="1858-10-12"/>
+           </correspAction>
+           <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/119376377">Ludmilla Assing</persName>
+           </correspAction>
+        </correspDesc>
+     </profileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+  </text>
+</TEI>

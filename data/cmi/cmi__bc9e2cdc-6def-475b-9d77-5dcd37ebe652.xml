@@ -1,0 +1,1080 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - C. K. J. Bunsen</title>
+                <editor>Karin Göhmann<email>karin.goehmann@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-01-31T14:36:14.393-01:00"/>
+                <idno type="url">https://correspSearch.net/storage/avh-bunsen.xml</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note>Das Datum des Briefs Nr. 39 wurde im digitalen Briefverzeichnis gegenüber der Druckausgabe korrigiert.</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="bc9e2cdc-6def-475b-9d77-5dcd37ebe652">Humboldt, Alexander von (2006): Briefe von Alexander von Humboldt an Christian Carl Josias Bunsen. Neu ediert von Ingo Schwarz. Berlin: Rohrwall.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1816-05" notBefore="1816-04">April oder Mai 1816</date>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" notAfter="1816-05" notBefore="1816-04">April oder Mai 1816</date>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1824-09-05">5 Septembre 1824</date>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1825-03-01">1 Mars 1825</date>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1825-12-15">15. December 1825</date>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-09-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-09-09"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1827-10-14"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1827-10" to="1827-10">im Oktober 1827</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-04-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-07-01"/>
+                    <placeName ref="http://www.geonames.org/2823472">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-12-17"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1831-10-21"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-02-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1834-05" notBefore="1834-05">im Mai? 1834</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1834-05" notBefore="1834-05">Im Mai? 1834</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1834" notBefore="1834"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-03-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-05-24"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-11-06"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837-08" notBefore="1837-08">im August 1837</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837-08" notBefore="1837-08">im August 1837</date>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837" notBefore="1837">1837</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837-08" notBefore="1837-08">im August 1837</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837" notBefore="1837">1837</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837" notBefore="1837">1837</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837-08" notBefore="1837-08">im August1837</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837-09" notBefore="1837-09">im September 1837</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-09-18"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-03-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-10-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-12-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1841-05-04"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-01-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-05-07"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-05-29"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-08-19"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-09-17">17. September 1842</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1844-04" notBefore="1844-04">Mitte April 1844</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1844-04-07" to="1844-04-08">Am Ostertage 1844</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1845-07-18"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1845" notBefore="1845">Mittwochs (1845)</date>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-01-04"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-02-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-06-16">16 Juin 1846</date>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-09-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-12-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-01-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-04-21"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-04-26"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-06-18"/>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1847-06" to="1847-06">Im Juni 1847?</date>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1847-07-28"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-10-03"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-11-08"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-06-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-07-29"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-09-22"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1849-01" notBefore="1849-01">zu Anfang 1849</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-03-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-04-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-11-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-11-14"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-09-14"/>
+                    <placeName ref="http://www.geonames.org/2874545">Magdeburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-03-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-04-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-05-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-07-18"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-08-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-08-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-09-28"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-12-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-03-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-11-10"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-11-11"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-11-24"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-12-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-01-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-03-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-03-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-10-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-10-27"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-12-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-02-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-12-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1855-06-03"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1855-09-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="91">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1856-12-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1856-12-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-05-30">30. Mai (1854)</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1855-08-19"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="32a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <date when="1840-11-01"/>
+                    <placeName ref="http://www.geonames.org/11487894">Hubel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="33a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <date when="1841-01-15"/>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="56a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <date when="1848-06-02">2ten Juni 1848</date>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="65a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-01-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="73a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-01-04"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="74a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <date when="1852-09-24"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="86a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <date when="1854-06-13">13 Junius 1854</date>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="92a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1857-01-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="92b">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1857-09" notBefore="1857-09">Sonntag </date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="92c">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                    <date when="1858-09-13">13 Sept 1858</date>
+                    <placeName ref="http://www.geonames.org/2940190">Charlottenberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#bc9e2cdc-6def-475b-9d77-5dcd37ebe652" key="14a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833" notBefore="1833">Montag</date>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118668005">Christian Karl Josias Bunsen</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,806 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters by Camilla Collett 1852-63</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email></editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.nb.no">Nasjonalbiblioteket</ref>
+</publisher>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/NBkilder_LettersCC1852-63_CMIF.xml</idno>
+<date when="2020-01-15"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b">Camilla Collett: Brev 1852-63. Utgitt ved Mette Refslund Witting og Marius Wulfsberg, NB kilder 2:5, Nasjonalbiblioteket/bokselskap.no, Oslo 2019
+<ref target="https://www.bokselskap.no/boker/collettbrev1852_63/tittelside">https://www.bokselskap.no/boker/collettbrev1852_63/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/jan1852jcc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1852-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/2177156858627549780006">Johan Christian Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/6jan1852jzm">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1852-01-06"/>
+</correspAction>
+<correspAction type="received">
+<persName>Jens Zetlitz Magnus</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/8jan1852jcc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1852-01-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/2177156858627549780006">Johan Christian Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/okt-des1852jw">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date notBefore="1852-10" notAfter="1852-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/63149196258174790619">Josephine Welhaven</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/20des1852rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1852-12-20"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/3jan1853jcc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1853-01-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/2177156858627549780006">Johan Christian Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/23jan1853jcc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1853-01-23"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/2177156858627549780006">Johan Christian Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/23jan1853ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1853-01-23"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/3april1853jcc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1853-04-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/2177156858627549780006">Johan Christian Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/20mai1853jcc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1853-05-20"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/2177156858627549780006">Johan Christian Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/24mai1853cec">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1853-05-24"/>
+</correspAction>
+<correspAction type="received">
+<persName>Carl Emil Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/28juni1853rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1853-06-28"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/7aug1853ss">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1853-08-07"/>
+</correspAction>
+<correspAction type="received">
+<persName>Sophie Steenstrup</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/12aug1853ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1853-08-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/8nov1853ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1853-11-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/host1854jcc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1854"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/2177156858627549780006">Johan Christian Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/nov1854bk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1854-11"/>
+</correspAction>
+<correspAction type="received">
+<persName>Betzy Kjerulf</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/7jan1855rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1855-01-07"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/6mai1855bd">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1855-05-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71822675">Bernhard Dunker</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/18nov1855bd">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1855-11-18"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71822675">Bernhard Dunker</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/30nov1855rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1855-11-30"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/10des1855bd">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1855-12-10"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71822675">Bernhard Dunker</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/2feb1856jw">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1856-02-02"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/63149196258174790619">Josephine Welhaven</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/27juni1856ch">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1856-06-27"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/15520384">Christopher Hansteen</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/nov1856rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1856-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/2des1856oc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1856-12-02"/>
+</correspAction>
+<correspAction type="received">
+<persName>Oscar Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/15april1857rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1857-04-15"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/10juli1857ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1857-07-10"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/25juli1857cec">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1857-07-25"/>
+</correspAction>
+<correspAction type="received">
+<persName>Carl Emil Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/21jan1858rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1858-01-21"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/26mars1858fpb">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1858-03-26"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/62299275">Fredrik Peter Brandt</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/juni-juli1858rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date notBefore="1858-06" notAfter="1858-07"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/aug1858bd">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1858-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71822675">Bernhard Dunker</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/1okt1858rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1858-10-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/26okt1858rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1858-10-26"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/22des1858rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1858-12-22"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/23mars1859rc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1859-03-23"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/5323663">Robert Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/april1859jw">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1859-04"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/63149196258174790619">Josephine Welhaven</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/20juni1859ct">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1859-06-20"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/292419623">Christian Tønsberg</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/14sept1859gcs">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1859-09-14"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/76356391">Georg Christian Sibbern</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/15sept1859jsw">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1859-09-15"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/7442073">Johan Sebastian Welhaven</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/6nov1859jw">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1859-11-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/63149196258174790619">Josephine Welhaven</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/vaar1860jsw">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1860"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/7442073">Johan Sebastian Welhaven</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/22juni1860ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3140390">Sandefjord</placeName>
+<date when="1860-06-22"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/host1860jw">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1860"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/63149196258174790619">Josephine Welhaven</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/nov-des1860bd">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date notBefore="1860-11" notAfter="1860-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71822675">Bernhard Dunker</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/des1860karl4">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1860-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/265309035">Karl IV</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/2jan1861ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1861-01-02"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/jan-mars1861karl4">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date notBefore="1861-01" notAfter="1861-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/265309035">Karl IV</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/vaar1861phb">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1861"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/54149294331080521855">Paul Hansen Birch</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/vaar1861ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1861"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/21juni1861ac">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3150908">Jarlsberg</placeName>
+<date when="1861-06-21"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/294955180">Alf Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/27juni1861ac">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3150908">Jarlsberg</placeName>
+<date when="1861-06-27"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/294955180">Alf Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/3juli1861ac">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3150908">Jarlsberg</placeName>
+<date when="1861-07-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/294955180">Alf Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/aug1861nn">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1861-08"/>
+</correspAction>
+<correspAction type="received">
+<persName>NN</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/2sept1861cho">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1861-09-02"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/16973027">Christian Holst</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/13sept1861ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1861-09-13"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/22sept1861ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1861-09-22"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/26sept1861ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1861-09-26"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/14nov1861jw">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1861-11-14"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/63149196258174790619">Josephine Welhaven</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/1des1861nn">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1861-12-01"/>
+</correspAction>
+<correspAction type="received">
+<persName>NN</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/25mars1862jcc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1862-03-25"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/2177156858627549780006">Johan Christian Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/19april1862jcc">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1862-04-19"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/2177156858627549780006">Johan Christian Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/19april1862asb">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1862-04-19"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/306347958">Amalie Sophie Biørn</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/april1862bd">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1862-04"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71822675">Bernhard Dunker</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/19mai1862cas">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1862-05-19"/>
+</correspAction>
+<correspAction type="received">
+<persName>Caroline Augusta Sødring</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/sommer1862ec">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1862"/>
+</correspAction>
+<correspAction type="received">
+<persName>Emil Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/6aug1862ac">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">København</placeName>
+<date when="1862-08-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/294955180">Alf Collett</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/2jan1863pbh">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1863-01-02"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/42642579">Paul Botten-Hansen</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b5eeb6a0-32bb-4c9a-b234-2d2590a1f08b" ref="https://www.bokselskap.no/boker/collettbrev1852_63/19feb1863ow">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1863-02-19"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

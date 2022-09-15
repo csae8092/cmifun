@@ -1,0 +1,2029 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <!-- Generated from table of letters with csv2cmi 1.5.0 -->
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Briefe von Robert Volkmann</title>
+        <editor>Klaus Rettinghaus</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig</publisher>
+        <idno type="url">https://correspSearch.net/storage/VolkmannBriefe.xml</idno>
+        <date when="2018-05-29T11:27:05.001017"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="print" xml:id="edition_vbi7fa2x_ywh43tbg">Hans Volkmann (Hrsg.), Briefe von Robert Volkmann, Leipzig 1917. <ref target="https://archive.org/details/briefemiteinembi00volk">[Digitalisat]</ref>
+                </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc key="1" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_5frxhw2s_aatmosu9">
+        <correspAction type="sent" xml:id="sender_4ysk372x_4g241qu0">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1840-03-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_vsrkxohh_26y0zxn7">
+          <persName ref="http://d-nb.info/gnd/118611666">Robert Schumann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="2" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_l53ilkst_rns8v9q4">
+        <correspAction type="sent" xml:id="sender_p774qz0v_6hp3s80n">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1840-06-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_zvd9se50_0v7nqv5o">
+          <persName ref="http://d-nb.info/gnd/118611666">Robert Schumann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="3" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ps5kpoaj_6jxagd9d">
+        <correspAction type="sent" xml:id="sender_izf7pt7c_0z7m5wqr">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1841-04-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_529xba6w_f6xbmt5z">
+          <persName ref="http://d-nb.info/gnd/118611666">Robert Schumann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="4" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_by1u0k0p_mxfv6fi6">
+        <correspAction type="sent" xml:id="sender_w06m8rxl_yamdw35v">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1841-08-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_yltwz3ym_xdsddi3c">
+          <persName ref="http://d-nb.info/gnd/139011064">Friedrich Whistling</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="5" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_361rbsaw_sv1oufb9">
+        <correspAction type="sent" xml:id="sender_ekn04b7k_jiipdm8q">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1842-09-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_n7mn3mpq_rygrtl5t">
+          <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="6" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_v60qdi6w_nkkx2wty">
+        <correspAction type="sent" xml:id="sender_5ybv3sbb_mzdeq3se">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1842-10-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_9mo81ysw_n676qsrr">
+          <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="7" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_1fhg8rkv_1fbug9yc">
+        <correspAction type="sent" xml:id="sender_i9dyyzwc_wfy06nye">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1842-10-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_v3mus43s_c1vxbqdu">
+          <persName ref="http://d-nb.info/gnd/117501816">August Schmidt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="9" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_m2tbusf9_qn88iigj">
+        <correspAction type="sent" xml:id="sender_tfufswvv_baawnxk4">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1847-06-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_7w52laoa_zzi84181">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="10" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_6r11v2fl_jqgcgd70">
+        <correspAction type="sent" xml:id="sender_2ty7r4q5_807kh88s">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1847-07-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_f7285nkf_dolvnydu">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="11" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_me966ita_f45y1u9e">
+        <correspAction type="sent" xml:id="sender_ka7xrjw8_3islu1r9">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1847-08-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_750pe3b5_9uh92ov3">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="12" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_68hnvmyz_xgp1qtqc">
+        <correspAction type="sent" xml:id="sender_wsr6811k_o1s3liew">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1847-09-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ir20cga9_1t5cc8tt">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="13" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_6cgsxodb_6ctewwu2">
+        <correspAction type="sent" xml:id="sender_lon6b2bw_avof0693">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1847-12-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ofqzjmpo_ryzinrvd">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="14" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_2dou7pa6_idmel0oy">
+        <correspAction type="sent" xml:id="sender_mit8j5x2_yy2k3u2q">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1848-03-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_3rsm31cj_la33ef3d">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="15" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_vyivaxl7_14fn38kt">
+        <correspAction type="sent" xml:id="sender_7j7vpxc4_zv4g90rj">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1848-04-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_g9hv6vmy_i80vi57m">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="16" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_40y9fr2y_vr0c9erz">
+        <correspAction type="sent" xml:id="sender_53cpl4v4_t8mwxfmb">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1849-08-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_jovtcg8y_24wu6qk4">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="17" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_425g2gez_kwqxgx4y">
+        <correspAction type="sent" xml:id="sender_xjklavs3_s6s28r18">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1849-11-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_bb906zxo_9i3wuqkj">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="18" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_01l48erf_wwh13pbj">
+        <correspAction type="sent" xml:id="sender_njuce86f_ccqpkijx">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1850-07-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_hz0srts2_8m7wzpu0">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="19" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_g4rldnl6_zsnogj13">
+        <correspAction type="sent" xml:id="sender_ddah5k0z_kgl05thr">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1850-11-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_zaatnbrf_a7jv6ric">
+          <persName ref="http://d-nb.info/gnd/118573527">Franz Liszt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="20" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_5wuknbpf_t5scgj9a">
+        <correspAction type="sent" xml:id="sender_uwdlcxg0_ddmqnlj1">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1851-12-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_5lpa1hso_d0ndv9fh">
+          <persName ref="http://d-nb.info/gnd/118573527">Franz Liszt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="21" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_7c2b71xr_4apw9c8t">
+        <correspAction type="sent" xml:id="sender_u75jcxgp_jnwu8jqh">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1852-02-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_vljbbb5w_dt8o0csq">
+          <persName ref="http://d-nb.info/gnd/102199191">Ferdinand David</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="22" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_gymzr0b8_28fgq2w1">
+        <correspAction type="sent" xml:id="sender_0e87ezgd_305t186v">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1852-02-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_9dr98djr_xobgbgtx">
+          <persName ref="http://d-nb.info/gnd/118573527">Franz Liszt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="23" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_34ewlipy_gz6mdszd">
+        <correspAction type="sent" xml:id="sender_d510t6zx_pgtbcot8">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1853-01-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ak09lnw5_r5j8foev">
+          <persName>Moritz Bolkmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="24" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_iqq17mno_m4d68nb6">
+        <correspAction type="sent" xml:id="sender_6ojpv5re_yjhje50n">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1853-02-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_nafs3fvr_e5j90ede">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="25" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_bq4e1rin_avm477mk">
+        <correspAction type="sent" xml:id="sender_lb8yh0p5_xordpez6">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1853-05-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_xpgi7qfy_zyvjypm0">
+          <persName ref="http://d-nb.info/gnd/116303042">August Ferdinand Anacker</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="26" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_0mhujffe_gwid7ej2">
+        <correspAction type="sent" xml:id="sender_zvor2uup_udxb35pc">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1853-06-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_zov5mrpe_t8yc8nv3">
+          <orgName ref="http://d-nb.info/gnd/64766-4">Breitkopf &amp; Härtel</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="27" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_77oynw49_udb5jdba">
+        <correspAction type="sent" xml:id="sender_w25hs5uf_jqng3do1">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1853-10-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ihs9jubd_1jyxjh98">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="28" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_o51b364p_r33mxex4">
+        <correspAction type="sent" xml:id="sender_g5rdn8nx_lmfps5ov">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1853-11-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_yhuqkux2_if3lgret">
+          <orgName ref="http://d-nb.info/gnd/64766-4">Breitkopf &amp; Härtel</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="29" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_gpm9e33j_l8ajkwfj">
+        <correspAction type="sent" xml:id="sender_6hdsn6bg_hhkeybi5">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1853-11-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_pjbe6jau_f9p1a30t">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="30" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_2x3rqkvs_pg1kf8mv">
+        <correspAction type="sent" xml:id="sender_xhyzkbck_82ccfaz6">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1853-12-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_8gpx4xxq_h8aofkri">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="31" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_d6vuda2q_6jd1sprm">
+        <correspAction type="sent" xml:id="sender_1n6ik0i9_uxgsq60g">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1854-01-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_6i0hej3m_ibtrnnb6">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="32" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_h5nvqpdp_s9uykt0a">
+        <correspAction type="sent" xml:id="sender_09xz1sk8_anidabx6">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1854-02-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_v0duo7vl_p5b1wwdh">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="33" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_b3ahktsy_a4ic0e9g">
+        <correspAction type="sent" xml:id="sender_0htwsan6_9w7ijjbj">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1854-03-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ea6pxl94_ks6qk8to">
+          <persName ref="http://d-nb.info/gnd/116260564">Richard Pohl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="34" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_6985srin_u0yg950y">
+        <correspAction type="sent" xml:id="sender_wm8z7iks_ih642qsx">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1854-04-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_7b45mzh2_iffxcc78">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="35" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_xycbmqwe_fd6hpprj">
+        <correspAction type="sent" xml:id="sender_3a6jtc9v_qwemr4y3">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1854-05-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_uwubft8h_8fcg41e4">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="36" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_trxevb03_kg5vr3la">
+        <correspAction type="sent" xml:id="sender_tz7gf18e_nf5laapn">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1854-06-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_vs30w6nl_frnf2xpl">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="37" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_fjj33ryt_69dqwtzh">
+        <correspAction type="sent" xml:id="sender_dvlbn7vy_gx7npd4o">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1854-09-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ocem7o6n_hep0kt1b">
+          <persName>Ignaz Pfeffer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="38" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_tsn10nfc_6eklp28x">
+        <correspAction type="sent" xml:id="sender_p92pboxf_7qjhayqs">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1854-10-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_kw8cr76p_cmyy7e6t">
+          <persName ref="http://d-nb.info/gnd/119020742">Franz Brendel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="39" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_kv7zzn86_wgrmqinu">
+        <correspAction type="sent" xml:id="sender_2cpewz54_8mrl2rfg">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1854-12-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_lwpgg6wv_d7autzar">
+          <persName ref="http://d-nb.info/gnd/116570881">August Gottfried Ritter</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="40" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_dv28zg99_h6wecgrs">
+        <correspAction type="sent" xml:id="sender_5634a1bu_ggfnbljv">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-01-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_n626vc7f_e1yu0lo9">
+          <persName>Friederike Hammer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="41" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_20jh46vu_o7u6mzcn">
+        <correspAction type="sent" xml:id="sender_fvjk82cz_950jhe2l">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-01-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_37rvrt0r_4eu3w91l">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="42" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_tzqbhd9k_hql688lx">
+        <correspAction type="sent" xml:id="sender_n5a1qxcg_sn47gpmr">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-05-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_yuol6z58_jkbwz51g">
+          <persName>Wilhelmine Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="43" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_718qi9m2_rdxefe34">
+        <correspAction type="sent" xml:id="sender_ytqqcgou_oe74i4id">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-05-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_iaoktzya_r3a212gj">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="44" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_x4psq590_iekmlqz7">
+        <correspAction type="sent" xml:id="sender_2plc0xm2_1p8ixk2l">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-06-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_dpqjm3sm_fkcmiklg">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="45" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_63erzr8y_ho83r0vn">
+        <correspAction type="sent" xml:id="sender_jifkyzlr_bcbqurg9">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-07-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_wppjes4x_e2xzcjqp">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="46" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_8gw6aw8o_uo0vr0ie">
+        <correspAction type="sent" xml:id="sender_p3161zhy_o89vkt6g">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-07-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_qigpqki3_puf8o28k">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="47" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_vz3oldx2_5ddldw34">
+        <correspAction type="sent" xml:id="sender_4dddhtjg_g76r7aod">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-07-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ypgtrkg7_kx4xqm2k">
+          <orgName ref="http://d-nb.info/gnd/64766-4">Breitkopf &amp; Härtel</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="48" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_x320kg7f_cbpwig78">
+        <correspAction type="sent" xml:id="sender_wvqy52ac_cms2zoyz">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-09-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_b3ijeu1j_q26huvqw">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="49" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_26mh9t7f_w1dbwn9v">
+        <correspAction type="sent" xml:id="sender_yb8r6d66_3fw7ky5j">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-09-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_w9q8s52r_9tjn82d5">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="50" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_dhxorp8h_2ljt9j4d">
+        <correspAction type="sent" xml:id="sender_2g78p0e6_4dy8r31o">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-09-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ziy3ub2l_oir33y5k">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="51" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_g9i404eo_hiand6al">
+        <correspAction type="sent" xml:id="sender_x6dpjqr1_xj1cc0fa">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-09-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_8fjy8yhs_yng7dizv">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="52" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_gsqhk568_vo9ewp8j">
+        <correspAction type="sent" xml:id="sender_79hoswy0_gvnyblou">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-12-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_96alace0_67no6a0l">
+          <persName>Wilhelmine Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="53" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_78zq068g_0pmos046">
+        <correspAction type="sent" xml:id="sender_xsvap05x_45xiejfy">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1855-12-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_2edk8neb_1p35cqbe">
+          <persName ref="http://d-nb.info/gnd/118709445">Gustav Heckenast</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="54" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_tcc9696s_7fyp2rcj">
+        <correspAction type="sent" xml:id="sender_98qaehep_diya6kgv">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1856-01-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_u4q6z86g_68a5c3ym">
+          <orgName ref="http://d-nb.info/gnd/64766-4">Breitkopf &amp; Härtel</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="57" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_s5i60l6b_8pfxanln">
+        <correspAction type="sent" xml:id="sender_mnbdh4re_ljm2k162">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1856-02-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_chee6i22_fdzeqlhy">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="58" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_abgqouan_qihuc70g">
+        <correspAction type="sent" xml:id="sender_8c4j2txe_d4r6yrwr">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1856-02-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_sbdpzkry_jtmfokoq">
+          <persName ref="http://d-nb.info/gnd/117357103">Georg Wigand</persName>
+          <persName ref="http://d-nb.info/gnd/107341471X">Caroline Wigand</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="60" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_b832dppx_w45o2vq5">
+        <correspAction type="sent" xml:id="sender_w48ihyy3_w1jo2rxy">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1856-06-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_7jl2t4j0_o22t48s0">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="61" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_z5njo89i_6lk98kex">
+        <correspAction type="sent" xml:id="sender_nu89nhfg_zgi3dp2q">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1856-07-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_vrgblgw5_tboxdqju">
+          <persName ref="http://d-nb.info/gnd/107336710X">Wilhelm Jurany</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="62" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_8ig1s6y6_t5hz1y5u">
+        <correspAction type="sent" xml:id="sender_13rktvru_pkaax397">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1856-08-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_14muu5qh_7jb8kdog">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="63" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_izo17k3f_aomjmz2g">
+        <correspAction type="sent" xml:id="sender_ak90mk7d_pn210pu7">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1857-03-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_lf28ete6_msze0e7h">
+          <persName ref="http://d-nb.info/gnd/118709445">Gustav Heckenast</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="64" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ym5jc7h7_nhlh15zt">
+        <correspAction type="sent" xml:id="sender_s5q2uoui_ad029ay7">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1857-03-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_4829ugqr_pu8pdine">
+          <persName>Oskar Bolkmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="65" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_1isjl153_zxpd8qyh">
+        <correspAction type="sent" xml:id="sender_23lnyqjd_ic7c3qk9">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1857-03-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_7i567hpp_mv0s3k7n">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="66" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_8hshqiim_2sezf61a">
+        <correspAction type="sent" xml:id="sender_i4ej3xjc_atgw335n">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1856-02-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_e5tvpp40_h5lmtknp">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="66" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_q32v53yk_12xr99yw">
+        <correspAction type="sent" xml:id="sender_jib5gpdc_m1ksbbjp">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1857-06-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_eoad64zq_2xpcpk3b">
+          <persName ref="http://d-nb.info/gnd/118573527">Franz Liszt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="67" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_y2epfkwg_xum2pejz">
+        <correspAction type="sent" xml:id="sender_8n83er1l_9h6kksb7">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1857-09-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_aqve7zb8_cavdo8hz">
+          <persName ref="http://d-nb.info/gnd/118664638">Hans von Bülow</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="68" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_n17nor5m_r9cyqe48">
+        <correspAction type="sent" xml:id="sender_62g2qnad_hlhc9834">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1857-11-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_d56ben0o_t1qghqsb">
+          <persName ref="http://d-nb.info/gnd/118573527">Franz Liszt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="69" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_hqip5b4w_wdyppmrf">
+        <correspAction type="sent" xml:id="sender_dc285zh5_bt4wmef6">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1856-03-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_7h95piax_9hjww0x9">
+          <persName ref="http://d-nb.info/gnd/116930535">Carl Gurckhaus</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="69" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_8bsrc04c_m4bj7dws">
+        <correspAction type="sent" xml:id="sender_qtulwobd_27s4qnir">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1857-11-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_mweyo5hj_fespah32">
+          <persName ref="http://d-nb.info/gnd/118709445">Gustav Heckenast</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="70" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_wdaoop25_62dnclam">
+        <correspAction type="sent" xml:id="sender_jjq5hcbn_o4qdp5g9">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1857-11-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_tjpcqjnm_nk4shjh8">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="71" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_nhqogltr_3621by6b">
+        <correspAction type="sent" xml:id="sender_unrrgnrs_hxwt9scl">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1857-11-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_modczow3_u4yhhp8h">
+          <persName ref="http://d-nb.info/gnd/118709445">Gustav Heckenast</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="72" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_wo4trs67_uejv9vx0">
+        <correspAction type="sent" xml:id="sender_rdd9y6jo_s8f55jll">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1868-10-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_7ggfifsx_ishc1q0r">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="73" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_nttrrv7c_n1eezcie">
+        <correspAction type="sent" xml:id="sender_cdwz6ol2_f1kvef10">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1859-12-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_1hmclevd_qjlkp06q">
+          <persName>Marianne Anacker</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="74" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_2xu04heu_8fe5lwiu">
+        <correspAction type="sent" xml:id="sender_q0mntx5z_hmjrkli6">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1860-03-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ctxux158_v41u3oh4">
+          <persName>Oskar Volkmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="75" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_261w9ula_bp3wg8bz">
+        <correspAction type="sent" xml:id="sender_6rg9xs57_uyit4ecp">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1860-03-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_tjow5pf9_erwopt9l">
+          <persName>Marianne Anacker</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="76" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_30firzx4_xfny1hn5">
+        <correspAction type="sent" xml:id="sender_3bvximkv_4jiamfzr">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1860-12-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_jt4kspal_k545cftj">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="77" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_2hx5pit0_c6my2slf">
+        <correspAction type="sent" xml:id="sender_xoex3cdc_71mrwi40">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1862-02-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_9f1k84i1_33efvmce">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="78" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_vu8ll55w_14fu12mh">
+        <correspAction type="sent" xml:id="sender_qtuxyc3u_r37rw1es">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1862-02-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_0jakqjjk_v2p5vzf8">
+          <persName>Wilhelmine Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="79" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_wmktn721_usc3y69j">
+        <correspAction type="sent" xml:id="sender_15jwr2nv_w6kw3fl8">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1862-05-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_nt59hlcz_il77178n">
+          <orgName ref="http://d-nb.info/gnd/5541564-7">Direktion der Gesellschaft der Musikfreunde in Wien</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="80" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_s6r7jgna_4shfk593">
+        <correspAction type="sent" xml:id="sender_jp2znx6t_x5k9hlqa">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1862-09-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_5uwxaeme_ead2k0tx">
+          <persName>A. von Parmentier</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="81" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_zry09gpw_qs7tm07b">
+        <correspAction type="sent" xml:id="sender_mjgbe72r_xqr6ii23">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1863-06-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_h78aytxc_2nb2qcil">
+          <persName ref="http://d-nb.info/gnd/118709445">Gustav Heckenast</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="82" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_s44vwngf_12g9pff3">
+        <correspAction type="sent" xml:id="sender_8s88snk9_fh41taoq">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1864-02-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_tpxlrptf_xsephk59">
+          <persName ref="http://d-nb.info/gnd/116180064">Franz Doppler</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="83" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_wx36rzrd_3b8lfuje">
+        <correspAction type="sent" xml:id="sender_l5ra1xml_yq9i2i4g">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1864-06-12"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_h2t8ldzv_zwr0p49k">
+          <persName ref="http://d-nb.info/gnd/119020742">Franz Brendel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="84" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_3e75yeyu_s1ymco18">
+        <correspAction type="sent" xml:id="sender_wizyp079_zalu17he">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1864-07-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_afy1shsa_d9ivg62q">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="85" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_tcp69yn4_3lvcgkhk">
+        <correspAction type="sent" xml:id="sender_y5mi0tu8_dc3omof1">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1864-08-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_2snaliqn_2xbwlsxd">
+          <persName ref="http://d-nb.info/gnd/117401625">Edmund Singer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="86" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_iu36h4m6_uj4wfxaq">
+        <correspAction type="sent" xml:id="sender_hrt0bjqy_04d6hb9w">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1864-09-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_10o2uwy3_i8xhysp7">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="87" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_zg1ekkpo_pri7b3pr">
+        <correspAction type="sent" xml:id="sender_w09fi7ke_ukob9svz">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1864-10-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_makm2ycm_v2oatxvv">
+          <persName ref="http://d-nb.info/gnd/117401625">Edmund Singer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="88" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_aglbj7pv_1b27ulkl">
+        <correspAction type="sent" xml:id="sender_nm3no2xr_ecxitk5q">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1864-12-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_dx48jqiz_7wztiixt">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="89" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_iqr4o314_xm0pn0di">
+        <correspAction type="sent" xml:id="sender_9ig3z623_n564xnha">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-01-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_u7xh605s_5dk1tm9q">
+          <persName ref="http://d-nb.info/gnd/116643447">Ludwig Foglar</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="90" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_x7ngobgm_97tjyne5">
+        <correspAction type="sent" xml:id="sender_9r7ftwlz_20k0n9ro">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1866-01-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_0c5ml282_lmzskgyt">
+          <persName ref="http://d-nb.info/gnd/116643447">Ludwig Foglar</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="91" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_u1yd9x8a_x73p4zjy">
+        <correspAction type="sent" xml:id="sender_t0bjmpzh_aeodno93">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1866-01-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_mjxh6rc8_mtp5useh">
+          <persName ref="http://d-nb.info/gnd/116643447">Ludwig Foglar</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="92" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_umqpwxhx_z6ap5g7i">
+        <correspAction type="sent" xml:id="sender_fsna1n62_7lw0r2ck">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-03-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_hu3cos0j_jknak3ne">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="93" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_wdiz1ae1_3lpqv3nq">
+        <correspAction type="sent" xml:id="sender_1yfc3j0e_pli2hp8a">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-04-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_lu8n740p_uhaay67m">
+          <persName ref="http://d-nb.info/gnd/116643447">Ludwig Foglar</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="94" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_049gr9bm_i19rm29l">
+        <correspAction type="sent" xml:id="sender_bsnxsn2f_8sa2fvhb">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1866-05-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_w2zzd32d_s3nj0fnr">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="96" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_s2fa8t9a_id4tcpqg">
+        <correspAction type="sent" xml:id="sender_kehr66lu_6psi87iv">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-05-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_t3uctef9_m1rm3sd2">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="96" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_8u75dzyd_fmd60kx4">
+        <correspAction type="sent" xml:id="sender_d7bm1ust_lkrfty3l">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-05-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_w511zxpk_6ju5lqfs">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="97" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_bgnj7a3y_j0dgn4gm">
+        <correspAction type="sent" xml:id="sender_qc5k4v7b_5bhttob3">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-05-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_5m2k7slv_y5a2va55">
+          <persName ref="http://d-nb.info/gnd/118709445">Gustav Heckenast</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="98" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ly8rhwcn_jxgn11d5">
+        <correspAction type="sent" xml:id="sender_rfgnz9mv_7wyozw8d">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1866-06-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_n7jghsbm_8966gedy">
+          <persName ref="http://d-nb.info/gnd/118709445">Gustav Heckenast</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="99" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ij844utw_sxsjdmo8">
+        <correspAction type="sent" xml:id="sender_r87vzh0q_6phippn8">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-06-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_q5z3fkcx_r0sgft18">
+          <persName ref="http://d-nb.info/gnd/1073364992">Balthasar Elischer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="100" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_dmvvjj4n_ihy2fu4u">
+        <correspAction type="sent" xml:id="sender_1qbhczpy_9v6pbryv">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-06-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_b5xugdau_zzzavelm">
+          <persName>Friederike Hammer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="101" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_kqqupr0z_3cyylhdm">
+        <correspAction type="sent" xml:id="sender_uau6ybed_gw73gd2y">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-07-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_an8wf664_wyhsrjm7">
+          <persName ref="http://d-nb.info/gnd/118671650">Ludwig Dessoir</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="102" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_fx3du99h_icimhsb8">
+        <correspAction type="sent" xml:id="sender_utxedjny_r07bvo4w">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-07-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_hvdqjsf9_fo52e66n">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="103" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_eqb5t9hz_p9bvt1q5">
+        <correspAction type="sent" xml:id="sender_v2ckti07_uoi6gvn5">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-08-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_nqaztsxw_2lhy45ex">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="104" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_24d8qfvj_dp8vfstv">
+        <correspAction type="sent" xml:id="sender_027vz6rx_5l09ris5">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-09-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_nxegm8dk_nrx4evlx">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="105" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_lriy59pu_ag1vjy6v">
+        <correspAction type="sent" xml:id="sender_0qufqmbw_k3i35vjy">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1866-11-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_n10npml5_a0yexzzq">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="106" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_xh89c4jr_zuehw1pc">
+        <correspAction type="sent" xml:id="sender_op4lbazm_mkdskn2u">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1865-12-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_awwyr8zy_5vdrohe5">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="107" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_6btjgl8n_q4u2m4uh">
+        <correspAction type="sent" xml:id="sender_6kmwv4r3_gkgx4kta">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1866-02-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_k1vq4fd6_2fx1t1xf">
+          <persName>Karl Gille</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="108" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_hjhvk2b1_x6tjuahz">
+        <correspAction type="sent" xml:id="sender_pfumg35q_qgbsldfm">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1866-02-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_6nq0wnyj_as877kfe">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="109" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_njg1yvog_jxbryt9i">
+        <correspAction type="sent" xml:id="sender_bw6y6x7h_9h4kk1qp">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1866-04-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_08li4uv6_rpl3xoqz">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="110" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_1qikfu1o_n967fl7z">
+        <correspAction type="sent" xml:id="sender_axwogbcr_9y71q6uj">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1866-05-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_y9h4fkkm_id5kyhpp">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="111" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ulvwdrn3_l54wwm3b">
+        <correspAction type="sent" xml:id="sender_3tk3of55_s5hdzpio">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1866-12-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_c56vv8dv_6cbf1h23">
+          <persName>Julius Epstein</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="112" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_k5kcr6m3_h8t5l0z1">
+        <correspAction type="sent" xml:id="sender_qksils9w_t0xfrxc2">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1867-01-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_n2eonehk_eunch7gj">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="113" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_b4weazh6_mnz9c3qh">
+        <correspAction type="sent" xml:id="sender_z4l7cdt3_9tujhhww">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1867-05-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_iv9apk90_lswe5l4i">
+          <persName>Julius Bellmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="114" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_3rozhksw_5ii3b8ty">
+        <correspAction type="sent" xml:id="sender_oeqimbid_pahf0mnz">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1867-06-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ze231quz_k7cvql7o">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="116" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_mrvxiqp0_gmy97bpc">
+        <correspAction type="sent" xml:id="sender_n1y51qbp_kxqur49m">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1867-11-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_64m9krjw_szsoinrq">
+          <persName ref="http://d-nb.info/gnd/117302791">Karl Thern</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="116" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_yd2wk4pk_aj981o07">
+        <correspAction type="sent" xml:id="sender_hauobsyf_8rlle25z">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1867-09-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_aek9i4uu_1h0xoqm4">
+          <persName>Rudolph Fuchs</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="117" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_464zbqdo_25eyydwn">
+        <correspAction type="sent" xml:id="sender_1sl2gnms_9mc2e0sp">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1867-12-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_4vebgfdw_dhkbdyrg">
+          <persName ref="http://d-nb.info/gnd/103787038">Joseph Hellmesberger</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="119" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_k8kaciyl_3619zb8z">
+        <correspAction type="sent" xml:id="sender_3z8xknxv_yw9dawk5">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1868-02-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_xvi8v4n0_coxqlmhc">
+          <persName ref="http://d-nb.info/gnd/116902930">Bernhard Scholz</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="120" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_vqnkgqwp_1q0azmcs">
+        <correspAction type="sent" xml:id="sender_g31ja1bs_roxevm96">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1868-03-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_yhsd1pfm_a3w59llq">
+          <persName ref="http://d-nb.info/gnd/116379987">Louis Ehlert</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="121" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_watrk7gu_dpk29fne">
+        <correspAction type="sent" xml:id="sender_q5uby8z2_x32qb087">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1868-04-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_gv075csq_5fdd0h5g">
+          <persName ref="http://d-nb.info/gnd/116534060">Carl Riedel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="122" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_nu5r80fj_xg0jr39o">
+        <correspAction type="sent" xml:id="sender_85aerw0t_l7rlloyh">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1868-05-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_qxa8n202_f1cljdv6">
+          <persName ref="http://d-nb.info/gnd/116379987">Louis Ehlert</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="124" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_7cau81yv_t6nfsn7u">
+        <correspAction type="sent" xml:id="sender_hucys7r6_5mlrkp78">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1868-06-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_efll4fdq_8eu90jar">
+          <persName>Oskar Bolkmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="126" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_h95bfcrh_s09h5a3p">
+        <correspAction type="sent" xml:id="sender_wa6epf3j_udj1io4e">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1905-02-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_h4a78u1o_btvd59qd">
+          <persName ref="http://d-nb.info/gnd/116379987">Louis Ehlert</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="128" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_hg14zerq_wmpb83rj">
+        <correspAction type="sent" xml:id="sender_nbbl0gqa_armt6p0j">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1869-05-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_au3z6711_0v40w5wt">
+          <persName ref="http://d-nb.info/gnd/116534060">Carl Riedel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="129" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_mo23doho_od0wcwk9">
+        <correspAction type="sent" xml:id="sender_10r8c7bh_pvsyqzbe">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1869-07-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_se12la3a_j2ift3y3">
+          <persName ref="http://d-nb.info/gnd/118709445">Gustav Heckenast</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="130" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_r63dnwzt_ciwpefn8">
+        <correspAction type="sent" xml:id="sender_kzefb4pz_7ulsa9ou">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1870-05-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_vjh961u8_3deegp4s">
+          <persName ref="http://d-nb.info/gnd/116295058">Julius Altmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="131" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_3rfromby_pt866214">
+        <correspAction type="sent" xml:id="sender_so4dahrv_dmrf2rg5">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1870-07-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_zr6jcnqe_pwppwslw">
+          <persName>Hermann John</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="132" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_cpbry10l_dwr8webx">
+        <correspAction type="sent" xml:id="sender_ehirvf6n_p28922t4">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1870-09-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_xjn3zn3a_zflznkgc">
+          <persName ref="http://d-nb.info/gnd/116085053">Otto Dessoff</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="133" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_s42tvqrd_rnormhij">
+        <correspAction type="sent" xml:id="sender_m7p3t5t3_nlfct7ig">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1870-09-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_0ryad9ts_hlk1m9yq">
+          <persName ref="http://d-nb.info/gnd/116085053">Otto Dessoff</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="134" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_52rasrp6_x83g5egi">
+        <correspAction type="sent" xml:id="sender_viu6qrzg_48dt38x7">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1870-11-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_qieglsu2_lj3o0lpy">
+          <persName ref="http://d-nb.info/gnd/116333979">Ottilie Ebner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="135" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_nfmv8qfa_yjy4p4as">
+        <correspAction type="sent" xml:id="sender_leqk11e9_levgrns1">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1871-08-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_adqqkhyg_wi6x2dck">
+          <persName ref="http://d-nb.info/gnd/1024780767">Bernhard Vogel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="136" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_fzy5xgqk_ukjg6n50">
+        <correspAction type="sent" xml:id="sender_cdeniylg_6m53urs5">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1871-08-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_a5p7xtth_76kuwnoc">
+          <persName ref="http://d-nb.info/gnd/118709445">Gustav Heckenast</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="137" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ddhk2vbc_526go4g2">
+        <correspAction type="sent" xml:id="sender_7ohylg85_m7r76jwm">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1871-10-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_4rg7jup7_7zqpgcaf">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="138" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_cvmcvhi3_9s74nwrj">
+        <correspAction type="sent" xml:id="sender_siyr7ly1_85kc9e2p">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1871-10-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_hs45anr8_9akcxpb0">
+          <persName ref="http://d-nb.info/gnd/116295058">Julius Altmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="139" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_zffqir1a_64k4xoe6">
+        <correspAction type="sent" xml:id="sender_f5ihyrgu_rmui6wxw">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1871-12-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_90ji3czb_l0cwrdj8">
+          <persName ref="http://d-nb.info/gnd/116085053">Otto Dessoff</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="140" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_0jm0yrto_40vvklgw">
+        <correspAction type="sent" xml:id="sender_1pr9vqeg_yfczl12i">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1871-12-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_nhlr0o77_zw37qymf">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="141" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_66224ozb_9inw04wf">
+        <correspAction type="sent" xml:id="sender_uxzlq0yk_rt6f8w8k">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1872-01-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_fd76d4ha_skc1tlnq">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="142" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_jcj0nfv0_mh74dbr7">
+        <correspAction type="sent" xml:id="sender_620h8qbu_4jiuai3l">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1872-11-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_oizp2u3m_n6kj9iy5">
+          <persName ref="http://d-nb.info/gnd/116180064">Franz Doppler</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="143" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_u9e3nypu_yhr1bbzg">
+        <correspAction type="sent" xml:id="sender_rsga7206_wybn320t">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1872-11-29"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_85a2vnx0_15ulsr4o">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="144" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_1jhvr2v1_g59d3mwi">
+        <correspAction type="sent" xml:id="sender_uelnbdg6_dxuh62pc">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1872-12-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_nyhmz1mm_emmm1wmr">
+          <persName ref="http://d-nb.info/gnd/1073449912">Eduard Ebner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="145" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ml62rqcf_rks6d0xw">
+        <correspAction type="sent" xml:id="sender_hbwf8e3v_mmosqut3">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1872-12-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_239f2xt8_vfa9o7qz">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="146" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_eavox9wl_iz62wudw">
+        <correspAction type="sent" xml:id="sender_qwq18da4_tgkxmzub">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1872-12-31"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_5dp1k82c_70w5pqts">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="147" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_lrxq6kcn_vy7dfcbp">
+        <correspAction type="sent" xml:id="sender_e9rphd74_vd3z0353">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-01-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_nhj6258h_g9sfjggq">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="148" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_jg1eg98m_m5fclyds">
+        <correspAction type="sent" xml:id="sender_q05n9jzf_mjed7gqa">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-02-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_t9qtayym_butjawrv">
+          <persName>Heimich Köstlin</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="149" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_u9ag9ide_atkw93d8">
+        <correspAction type="sent" xml:id="sender_t4s11wgx_g8bv0fm3">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-02-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_4nm5xd6u_frrahzvv">
+          <persName ref="http://d-nb.info/gnd/116085053">Otto Dessoff</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="150" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_9t8pqhzp_a2ab3x1l">
+        <correspAction type="sent" xml:id="sender_56ogsijb_40aq4occ">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-03-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_x5y20q9s_wnipvvi2">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="152" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_c8lp4kq9_t7278oq5">
+        <correspAction type="sent" xml:id="sender_gw5r2z0j_2qztzoof">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-04-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_5wgjpwpg_hyf2spb7">
+          <persName ref="http://d-nb.info/gnd/1042167141">Graf Emerich Széchényi</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="153" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_nq4tnwnu_da7ab5x4">
+        <correspAction type="sent" xml:id="sender_r6r0p95q_iiof3ymg">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-05-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_jnr9jpaw_fooo60ru">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="154" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_risdve3h_rj4tzx97">
+        <correspAction type="sent" xml:id="sender_yuysrodt_bt6v1dtp">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-06-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_coo3d33y_pdsb2pfk">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="155" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_zuljtta1_odc2al1y">
+        <correspAction type="sent" xml:id="sender_69yox8d3_pju3xpir">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-06-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_px2qpu2y_teyv1q5r">
+          <persName>Aloys Gogela</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="156" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_fm5lloxk_2gea7cbq">
+        <correspAction type="sent" xml:id="sender_0z6ttlur_qat3cu9n">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-06-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_iz8a2z6k_v3m45gxz">
+          <persName>Karl Winckler</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="157" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_3rr24plh_5sxnn3sp">
+        <correspAction type="sent" xml:id="sender_80cs61vx_5bbu2q2u">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-06-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ad1sg5du_in1iou22">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="158" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_7zuthl33_lp7jcszo">
+        <correspAction type="sent" xml:id="sender_x6q1msjl_j8ood58g">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-06-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_2n07yd1v_3qwspm0e">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="159" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_rifeg9eh_vrdvnvta">
+        <correspAction type="sent" xml:id="sender_gs23e1py_6tfvxpp2">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-06-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_wz3025jm_grs21gbw">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="160" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_4vdtvzoe_quvmufds">
+        <correspAction type="sent" xml:id="sender_sq47ij6g_i36yr7cx">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-07-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_9bf8de3d_zgxripwt">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="161" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_2ofv0bba_wbgh0fkq">
+        <correspAction type="sent" xml:id="sender_mq2byfr8_xm406ffi">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-08-05"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_v0m4v59b_c7hk4hxy">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="161" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_sj937wsn_x3gibqsj">
+        <correspAction type="sent" xml:id="sender_fnz9e8r9_82zzsgrg">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-03-21"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_5iunxzw7_zbucqqyw">
+          <persName ref="http://d-nb.info/gnd/116498889">Ludwig Hartmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="162" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_atoibuqj_aeup1ofg">
+        <correspAction type="sent" xml:id="sender_n4yq52oa_x53z3bhb">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-08-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_maptjtj4_wpd53u59">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="163" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_4cpnmhg2_2k8s4mxu">
+        <correspAction type="sent" xml:id="sender_sa5u2ov1_i0ct0xak">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-08-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_rrhy29ku_qrrdf3eu">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="164" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_59ennnpo_pavr5xu4">
+        <correspAction type="sent" xml:id="sender_na1vpt77_1h55ut4n">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-10-24"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_fbn7p3ep_d5sk4d0j">
+          <persName>Vorsitzender des Allgemeinen Deutschen Musikvereins</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="165" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_vt02kaqd_pigibpw3">
+        <correspAction type="sent" xml:id="sender_ocjjshrj_kwk8cqz0">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1873-10-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_pbddtfad_9tom3jht">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="166" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_zyiqqd95_b2duu7jg">
+        <correspAction type="sent" xml:id="sender_6iuxxrt2_7yspv79q">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1874-04-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_xg9ao2cg_1vrzjyq5">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="167" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_a7m0rum9_zjfh40gg">
+        <correspAction type="sent" xml:id="sender_sdc0b28u_s98ksdyq">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1874-04-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_lhpuy2sr_hkjc8rty">
+          <persName ref="http://d-nb.info/gnd/117581658">Graf Victor Wimpffen</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="168" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_y09pmzje_ed1ijqix">
+        <correspAction type="sent" xml:id="sender_q5zup01x_i3t5hgfn">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1874-05-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_pidolb69_lth21kv2">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="169" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_z0fzgsxp_g0108rxg">
+        <correspAction type="sent" xml:id="sender_qz5l5f9x_nc295l69">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1874-05-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_s9vshxyt_ija5qree">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="170" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_g4573z4r_5jfdwvgw">
+        <correspAction type="sent" xml:id="sender_yuvf3q9q_gxwxl14a">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1874-07-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_jh0i7r7h_1fgu19ji">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="171" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_cgn1e7un_efsze4n8">
+        <correspAction type="sent" xml:id="sender_vtr8wpn6_zvbxaj04">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1874-07-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_uv9cjgs5_07o3n9no">
+          <persName>Aloys Gogela</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="172" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_x2ybpwnr_g8n3eabj">
+        <correspAction type="sent" xml:id="sender_51gce1ds_8rpzyfhu">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1874-08-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_anrvrrj0_eu7nv9p7">
+          <persName ref="http://d-nb.info/gnd/117261262">Eduard Stocker</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="173" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_2yik8jwp_m978mu64">
+        <correspAction type="sent" xml:id="sender_w6gfa41o_d5j7d0w9">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1874-10-03"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_mtq9l8fm_f0fl6mlx">
+          <persName ref="http://d-nb.info/gnd/117261262">Eduard Stocker</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="174" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_w6x1q3g1_ad6zaexq">
+        <correspAction type="sent" xml:id="sender_nxb9bnre_ynb0hdgh">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1874-10-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_w8ulbal2_vc12psdi">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="175" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_kdl7xvmy_bvvi367m">
+        <correspAction type="sent" xml:id="sender_jycl2x8v_u9jotfi3">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1905-02-16"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_mgsr9kbi_ri37in3k">
+          <persName ref="http://d-nb.info/gnd/118514253">Johannes Brahms</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="176" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ynueox35_7n7pc45r">
+        <correspAction type="sent" xml:id="sender_fsufkr07_tibfu6tk">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1875-01-08"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_3f8sldu7_6djwo26a">
+          <persName ref="http://d-nb.info/gnd/116902299">Herrmann Scholtz</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="177" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_gsho8ksv_us49a7ul">
+        <correspAction type="sent" xml:id="sender_v84iq956_hsf9nf2g">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1875-01-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_spnv4ckt_ypll2m88">
+          <persName ref="http://d-nb.info/gnd/119388472">Carl Reinecke</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="179" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_cmidxihp_ajoa1qss">
+        <correspAction type="sent" xml:id="sender_6l291d2m_j1wze9c8">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1875-06-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_wypsge3z_jefpyrjg">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="180" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_e8j92c4m_52uvqvz0">
+        <correspAction type="sent" xml:id="sender_n7pzipqu_2ncw9897">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1875-06-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_0c0qz4ne_x6nnikax">
+          <persName>Oskar Volkmann</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="181" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_m753pavl_1hq2thtv">
+        <correspAction type="sent" xml:id="sender_m3dzhocw_hee8why2">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1875-08-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_pi79wq3u_6ad7b3sb">
+          <persName ref="http://d-nb.info/gnd/117300403">Alexander W. Thayer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="182" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_kein3iy4_2knuw3kx">
+        <correspAction type="sent" xml:id="sender_jyirhedy_t3eayqnp">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1875-09-11"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_9qsto5fi_id60y260">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="183" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_wpr8dkwu_ge69caxq">
+        <correspAction type="sent" xml:id="sender_p0vlv0t7_pl2n70ak">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1875-10-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_zgsi7j6l_okpkwe9y">
+          <persName ref="http://d-nb.info/gnd/119388472">Carl Reinecke</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="184" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_lgtg9iff_e0mp1nka">
+        <correspAction type="sent" xml:id="sender_yx22q4ks_91maa2zd">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1876-02-14"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_eckhiohw_oqn2gdxg">
+          <persName>Ludwig Cspregi</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="185" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_0c0sulvy_fxnqc3t7">
+        <correspAction type="sent" xml:id="sender_728hi49j_3c57zb86">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1876-04-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_mas49il5_0138xnzj">
+          <persName ref="http://d-nb.info/gnd/1019535415">Professor Linzbauer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="186" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_38t15oj5_f3ntrkwe">
+        <correspAction type="sent" xml:id="sender_n35p6nkd_7sbyn5cv">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1876-06-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_cq2yh6g4_yj2uc7zi">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="187" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_3tes41kn_3880jnlw">
+        <correspAction type="sent" xml:id="sender_g5e76amc_j041ehr2">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1876-07-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_t1g9622v_sp8hp6kf">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="188" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_1khh29t4_y6rhxq7j">
+        <correspAction type="sent" xml:id="sender_s1sfkl9g_1d4kgdbb">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1876-08-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_qml2z5z0_y6dws0gk">
+          <persName ref="http://d-nb.info/gnd/116060514">Ernst Pauer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="190" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_7629na5z_ss3olni4">
+        <correspAction type="sent" xml:id="sender_vb22pcxx_o9gby9x7">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1877-01-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_44r0f866_ppeyzcq4">
+          <persName>Julius von Simonyi</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="191" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ktsprmko_3ft7dtp2">
+        <correspAction type="sent" xml:id="sender_zwht129r_lzrhoq0x">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1877-02-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_8mluujpo_m0r91y06">
+          <persName>Ignaz Pfeffer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="192" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_fk6tuprw_8c9117ev">
+        <correspAction type="sent" xml:id="sender_zvmdf6u1_relxs7qf">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1878-01-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_wjetubln_jue0k4t6">
+          <persName ref="http://d-nb.info/gnd/11634542X">Heinrich Kotzolt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="193" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_1p1kor7z_oazu50le">
+        <correspAction type="sent" xml:id="sender_9q11wgkb_0u564shz">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1905-02-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_rsdx86v7_rvbqgx5z">
+          <persName ref="http://d-nb.info/gnd/117408603">Unterrichtsminister Trefort</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="194" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ubxp0is0_lqkvl9cd">
+        <correspAction type="sent" xml:id="sender_q3j873xh_13b6887f">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1878-10-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_garqz2d9_kh84p6j9">
+          <orgName ref="http://d-nb.info/gnd/4053219-7">B. Schotts Söhne</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="195" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_z74a48j1_7nwk8jns">
+        <correspAction type="sent" xml:id="sender_1b18np35_pihr3fym">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1878-10-23"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_jcnn0n5d_bngnr3ot">
+          <orgName ref="http://d-nb.info/gnd/4053219-7">B. Schotts Söhne</orgName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="196" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_rbimaw5h_yiylxfn3">
+        <correspAction type="sent" xml:id="sender_w6y16ac1_inq8xweg">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1878-11-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_3gwy8hwq_13tb48qi">
+          <persName ref="http://d-nb.info/gnd/116510927">Ernst Friedrich Richter</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="197" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_1zonupki_kuczqkdo">
+        <correspAction type="sent" xml:id="sender_kqldivsu_ez993wp4">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1878-12-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_czu7enmj_rrb8o1x7">
+          <persName ref="http://d-nb.info/gnd/11634542X">Heinrich Kotzolt</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="198" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_0paqaxyv_kuv9r49g">
+        <correspAction type="sent" xml:id="sender_v5rvuk63_lo6vk8xj">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1879-05-22"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_sl2xhcs7_4bkyl6ys">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="199" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_avpjm97n_yj0qx2ji">
+        <correspAction type="sent" xml:id="sender_5x85w59v_9it7be10">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1879-06-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_f4gdjly4_er8fnv8e">
+          <persName ref="http://d-nb.info/gnd/1076420702">Constantin Bürgel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="200" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_jzghlxqh_my4zebm7">
+        <correspAction type="sent" xml:id="sender_sy69alkp_uyaiyw51">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1879-07-20"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ldbk209e_4hdyi19t">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="201" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_exq3zf9s_p2mm6ul7">
+        <correspAction type="sent" xml:id="sender_45kzqnht_6i5ez9wi">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1879-08-18"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_5yea6hxe_u5ifdzdf">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="202" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_cau0t8ix_gvzvv7fr">
+        <correspAction type="sent" xml:id="sender_7jsljmjq_addwe0us">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1879-09-13"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_vnfo70cs_9sdpqgvm">
+          <persName ref="http://d-nb.info/gnd/118530801">Franz Erkel</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="203" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_k8t1bep9_ahj05i3o">
+        <correspAction type="sent" xml:id="sender_gy2p28y5_g0neqnz5">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1879-09-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_o4q7rwby_pxwgnomw">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="204" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_8zps09sv_0kqsmp17">
+        <correspAction type="sent" xml:id="sender_axfpt1lt_gvmsm6w3">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1879-12-30"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_umwvidhd_wktuqknh">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="206" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_ccm5ij7g_hg7jb352">
+        <correspAction type="sent" xml:id="sender_tv9bivta_r1md2yhm">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1880-02-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_tkeqouq6_zgj5tlzd">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="206" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_etxdpcy9_mkzyiugp">
+        <correspAction type="sent" xml:id="sender_kaohgr3h_klsjflsm">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1880-09-28"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_l83g1o2b_m0n5ffju">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="207" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_7cg3vgfd_6m4l1xvb">
+        <correspAction type="sent" xml:id="sender_lyqhqm8l_illx4k7u">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1880-10-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_5aehdru9_ddgthefl">
+          <persName ref="http://d-nb.info/gnd/117010235">Heinrich Zöllner</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="208" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_49btpe45_cv8r58pk">
+        <correspAction type="sent" xml:id="sender_k6lsq5l1_21rx6fsg">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1881-06-17"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_3u04ilnd_ti24ag84">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="209" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_j3dtm3pn_ftbcap26">
+        <correspAction type="sent" xml:id="sender_vhzjzzuk_rhmuph99">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1881-07-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_sz4ktupb_6u5299c8">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="210" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_vvhuujgo_mswzo59c">
+        <correspAction type="sent" xml:id="sender_z5px56gc_atuoflwk">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1881-07-10"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_rju8e2en_i5netc3e">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="211" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_z65nia0b_7ifbm7iv">
+        <correspAction type="sent" xml:id="sender_14bdf3ki_oe0vyhvd">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1881-07-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_foxsvokh_u6bvjuvy">
+          <persName>Julius I. Mayer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="212" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_f9d9ay8n_cnqml385">
+        <correspAction type="sent" xml:id="sender_a7qis77d_ssubx4n5">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1881-07-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_rs43vgc2_au9p7m46">
+          <persName ref="http://d-nb.info/gnd/118704931">Ferdinand von Hiller</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="213" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_93tjxdt0_icspawe1">
+        <correspAction type="sent" xml:id="sender_pssd53o5_c1ynp5cx">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1881-08-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_lfyym41w_3cu2x106">
+          <persName>Julius I. Mayer</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="214" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_2vowif0t_flql3kxn">
+        <correspAction type="sent" xml:id="sender_1ejzbf1d_e99ieyon">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1881-09-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_dudpeffn_3j20soxz">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="216" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_p4mpg622_q9rxduoh">
+        <correspAction type="sent" xml:id="sender_g8gotbxg_xtidu6ba">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1882-01-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_gc9maf1c_2g1d1rac">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="216" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_7mxcrzv4_zb18ocpj">
+        <correspAction type="sent" xml:id="sender_4n157ivn_2ufy2gn5">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1882-08-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_35m3lu2o_oo2tqq29">
+          <persName ref="http://d-nb.info/gnd/116711728">Wilhelm Rust</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="217" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_5gtywbzi_my2i8dhr">
+        <correspAction type="sent" xml:id="sender_vkjh2bvx_f42bg4gx">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1882-11-06"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_ive8b65n_fqawg7li">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="218" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_medw9ly9_wiblefn5">
+        <correspAction type="sent" xml:id="sender_2ey0i9ro_7paz2514">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1882-11-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_av1yfpbo_rgutruki">
+          <persName>Anna Weidel-Pokorny</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="219" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_v0rirvwr_67sr1u9w">
+        <correspAction type="sent" xml:id="sender_9tsaiqhf_c5cuzq2j">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1882-11-09"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_2t5xpx12_9e8ldwf2">
+          <persName>Anna Weidel-Pokorny</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="220" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_43st4jkm_q88sj5pq">
+        <correspAction type="sent" xml:id="sender_7lv6tb9y_p738rvhi">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1882-11-19"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_nwhb59fs_tjeityqx">
+          <persName>Anna Weidel-Pokorny</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="221" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_lu9yapc1_v9u43zue">
+        <correspAction type="sent" xml:id="sender_ystzxz2c_jaiphwx3">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1883-01-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_2ivw7vco_opj72q5o">
+          <persName>Anna Weidel-Pokorny</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="222" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_79sb4wbj_f8xot4g9">
+        <correspAction type="sent" xml:id="sender_ncjkynie_r2qp24yi">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1883-02-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_k457eekq_i04ji4je">
+          <persName>Anna Weidel-Pokorny</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="223" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_10xsymjp_jv74qk5r">
+        <correspAction type="sent" xml:id="sender_575uhr15_c4a5l25f">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1883-02-26"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_s4jdrixf_mafslag2">
+          <persName>Anna Weidel-Pokorny</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="224" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_uwfursxn_cga8psxe">
+        <correspAction type="sent" xml:id="sender_drrquzir_ub2qltdc">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1883-03-02"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_3pm5rqbw_xgc1o4ug">
+          <persName>Johannes Batka</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="225" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_tt9w58mk_oyex3c1u">
+        <correspAction type="sent" xml:id="sender_jq5z40we_10kw7d2b">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1883-05-07"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_45huxb4b_22ealgwe">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="226" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_eyrrr7in_v4aolj38">
+        <correspAction type="sent" xml:id="sender_8oi959df_s4jtqone">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1883-05-25"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_xx8ge5vp_1j7ml1fe">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="227" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_f97l0mzn_m0r5ne4t">
+        <correspAction type="sent" xml:id="sender_jy31xkfg_wgicoe3o">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1883-06-01"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_64gxua16_jji1frnt">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="228" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_p72uiyhe_8ogusxp8">
+        <correspAction type="sent" xml:id="sender_p7k2cawr_yypvryxl">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1883-09-15"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_3h79y4xl_m9f27axp">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="229" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_2x7l5bd4_qjgegrue">
+        <correspAction type="sent" xml:id="sender_22j00pra_wkjycae8">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1883-10-04"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_7q9p38s1_j7yfehdf">
+          <persName ref="http://d-nb.info/gnd/116985925">Géza Zichy</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc key="230" source="#edition_vbi7fa2x_ywh43tbg" xml:id="letter_pscovfz9_cpepsol5">
+        <correspAction type="sent" xml:id="sender_qnqotxr9_gnk0zte4">
+          <persName ref="http://d-nb.info/gnd/11876912X">Robert Volkmann</persName>
+          <date when="1883-10-27"/>
+        </correspAction>
+        <correspAction type="received" xml:id="addressee_weqoqq95_ufrf8h1r">
+          <persName>Julius I. Mayer</persName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>

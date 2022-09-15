@@ -1,0 +1,2229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander v. Humboldt - Samuel Heinrich Spiker</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburg Academy of Sciences and Humanities</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2018-08-18T18:50:30.103-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/HumboldtSpiker.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="ea3dfdba-7f78-4147-85ba-c9175e25ba99">Humboldt, Alexander von; Spiker, Samuel Heinrich (2007): Briefwechsel. Herausgegeben von Ingo Schwarz unter Mitarbeit von Eberhard Knobloch. Berlin: Akademie Verlag (Beiträge zur Alexander-von-Humboldt-Forschung, 27).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1827-12-23"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1827-12-01" evidence="conjecture" to="1827-12-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1828-02-24"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1828-02-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1828-03-29"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1828-04-16"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1828-05-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1828-07-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1828-08-22"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1829-01-20"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1829-12-31" notBefore="1829-01-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-02-14"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1830-02-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-04-20"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-06-02"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1830-08-21"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-09-28"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1830-09-28"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1830-12-31" notBefore="1830-11-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1832-05-20" to="1832-05-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1832-07-02"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1832-07-12"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1830-08-29"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1832-08-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-08-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1832-08-20" to="1832-08-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-09-06"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1832-09-25"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-10-27"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <date when="1832-10-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1832-10-29"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <date when="1832-10-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833-12-31" notBefore="1831-01-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-01-07"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-01-10"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-01-11"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-02-20"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-02-25"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833-05-31" notBefore="1833-05-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1833-01-01" to="1833-12-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833-12-31" notBefore="1833-01-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833-12-31" notBefore="1833-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <date notAfter="1834-06-30" notBefore="1834-06-20"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1834-12-01" to="1834-12-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1835-01-22"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1835-04-09"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1835-04-09"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-05-23"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1835-05-31" notBefore="1835-05-20"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1836-12-31" notBefore="1834-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1836-12-31" notBefore="1834-01-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1836-12-31" notBefore="1834-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1836-12-31" notBefore="1834-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1835-01-01" to="1835-12-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1835-01-01" to="1835-12-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1836-03-01" evidence="conjecture" to="1836-03-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1836-06-20" to="1836-06-30"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1836-11-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1837-01-19"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-04-09"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1837-05-01" evidence="conjecture" to="1837-05-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1837-12-04"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1837-12-31" notBefore="1837-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1838-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1838-02-12"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1838-02-26"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1838-02-28"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-04-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1838-04-01" evidence="conjecture" to="1838-04-30"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-01-13"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="91">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1839-04-05"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="93">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-05-08"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="94">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-06-29"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="95">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-10-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="96">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1839-10-20" evidence="conjecture" to="1839-10-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="97">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-11-07"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="98">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-11-15"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="99">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1839-11-30"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-12-02"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="101">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1839-01-01" to="1839-12-31"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="102">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1839-01-01" evidence="conjecture" to="1839-12-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="103">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1839-01-01" to="1839-12-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="104">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="105">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="106">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="107">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="108">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="109">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1840-06-08"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="110">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1840-07-08"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="111">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1840-08-08"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="112">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="113">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1840-12-03"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="114">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1840-12-05"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="115">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="116">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1840-01-01" to="1840-12-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="117">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1840-01-01" to="1840-12-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="118">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1840-01-01" evidence="conjecture" to="1840-12-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="119">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1841" notBefore="1839"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="120">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1841" notBefore="1839"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="121">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1841-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="122">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="123">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="124">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1841-02-01" evidence="conjecture" to="1841-02-28"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="125">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="126">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1841-04-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="127">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="128">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="129">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="130">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1841-05-11"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="131">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1841-05-11"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="132">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-03-05"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="133">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1842-03-05"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="134">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1842-03-07"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="135">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-03-08"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="136">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1842-06-01" evidence="conjecture" to="1842-06-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="137">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-07-20"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="138">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1842-08-03"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="139">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1842-11-13"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="140">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1844-06-09"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="141">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1844-06-11"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="142">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1844-08-07"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="143">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1844-08-11"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="144">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-12-12"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="145">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1844-12-26"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="146">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846" notBefore="1844"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="147">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846" notBefore="1844"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="148">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846" notBefore="1844"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="149">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1846-02-07"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="150">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1846-02-24"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="151">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1846-02-01" to="1846-02-28"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="152">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1846-01-01" evidence="conjecture" to="1846-02-28"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="153">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-03-25"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="154">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1846-06-20"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="155">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1846-12-07"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="156">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1846-01-01" to="1846-12-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="157">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1847-02-22"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="158">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1847-04-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="159">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1848-02-01" to="1848-02-28"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="160">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1848-03-23"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-10-02"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="162">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1848-10-12"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="163">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1849-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="164">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1849-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="165">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1849-01-24"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="166">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1849-06-12"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="167">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-10-30"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="168">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-12-25"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="169">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1850-07-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="170">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1850-08-27"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="171">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1851-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="172">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1851-12-31" notBefore="1849-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="173">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1851-12-31" notBefore="1849-01-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="174">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-03-28"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="175">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1851-05-24"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="176">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1851-09-10"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="177">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-09-22"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="178">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-12-14"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="179">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1851-01-01" evidence="conjecture" to="1851-12-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="180">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-09-02"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="181">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1852-09-01" to="1852-09-30"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="182">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1852-12-04"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="183">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-03-10"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="184">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-03-17"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="185">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-03-24"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="186">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1853-04-01" evidence="conjecture" to="1853-04-30"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="187">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-02-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="188">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-02-22"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="189">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-05-05"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="190">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-05-15"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="191">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <date cert="low" when="1854-10-15"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="192">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-04-02"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="193">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-04-06"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="194">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-06-27"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="195">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1856-07-01" to="1856-07-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="196">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-08-07"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="197">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-10-07"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="198">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-12-02"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="199">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1857-01-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="200">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1857-02-25"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117663182">Jules Dumont d'Urville</persName>
+                    <date when="1827-10-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-02-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Redakteur des Moniteur universel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-04-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>L. D. von Hennig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 13">
+                <correspAction type="sent">
+                    <persName>C. C. Becher</persName>
+                    <date when="1832-05-05"/>
+                    <placeName>Mexiko</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>L. D. von Hennig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-10-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115674667">K. S. Kunth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1835-11-30" notBefore="1835-09-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100057845">C.F. Brisseau de Mirbel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt </persName>
+                    <date when="1836-06-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt </persName>
+                    <date when="1836-06-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/216362516">M. Provencal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1187590">R.H. Schomburgsk</persName>
+                    <date when="1839-10-24"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</orgName>
+                    <placeName evidence="conjecture"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117146390">John Washington</persName>
+                    <date when="1842-05-09"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-07-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117604070">L. Moser</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-11-13"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118543520">F.P.G. Guizot</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-08-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="http://d-nb.info/gnd/2024311-X">Albrechts-Universität zu Königsberg</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10416476X">J. W. Zinkeisen</persName>
+                    <date when="1846-03-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116719141">J. Franz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-12-15"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">H. Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-12-16"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">H. Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <date when="1849-12-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">H. Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117491055">Samuel Heinrich Spiker</persName>
+                    <date when="1849-12-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">H. Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-03-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">F. Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ea3dfdba-7f78-4147-85ba-c9175e25ba99" key="Dok. 107">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-09-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="http://d-nb.info/gnd/7603354-5">Redaktion der "Berlinischen Nachrichten"</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,2610 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Georg Forsters Briefe. Bd. 14.</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">BBAW</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/forster-14.xml</idno>
+                <date when="2022-07-04T11:28:07.179-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="i167a07c-5cb9-4e82-82da-9bfe3955fb23">Georg Forsters Werke: 
+                    Sämtliche Schriften, Tagebücher, Briefe. Hrsg. von der Deutschen Akademie der Wissenschaften zu Berlin, 
+                    Institut für Deutsche Sprache und Literatur durch Gerhard Steiner. Bd. 14: Briefe 1784 - Juni 1787. 
+                    Bearb. von Brigitte Leuschner. Berlin, Akad.-Verl.: 1978.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-01-04"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118503839">Johann Wilhelm von Archenholtz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-01-04"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-01-24"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-01-26"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-02-16"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1784-02-20" notBefore="1784-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="6a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-02-23"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121675017">Johannes Philipp Franz von Fleckenbühl</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-03-03"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-03-03"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-03-09"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117037699">Susanne Helene Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-03-18"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-03-22"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-03-31"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119291827">Petrus Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1784-03-31" notBefore="1784-03-21"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-04-02"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118510169">Friedrich Justin Bertuch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-04-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-04-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11565352X">Jeremias David Reuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-04-19"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-04-22"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118510169">Friedrich Justin Bertuch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-04-24"/>
+                    <placeName ref="http://www.geonames.org/2939995">Zellerfeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-04-26"/>
+                    <placeName ref="http://www.geonames.org/2939995">Zellerfeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-04-29"/>
+                    <placeName ref="http://www.geonames.org/2939995">Zellerfeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-03"/>
+                    <placeName ref="http://www.geonames.org/2939995">Zellerfeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-06"/>
+                    <placeName ref="http://www.geonames.org/2939995">Zellerfeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-06"/>
+                    <placeName ref="http://www.geonames.org/2939995">Zellerfeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-10"/>
+                    <placeName ref="http://www.geonames.org/2861982">Nordhausen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-14"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-15"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-18"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-20"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-22"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-22"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1784-05-27" to="1784-05-28"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-01"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-04"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-04"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-04"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1784-06-05" to="1784-06-06"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-07"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-07"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-11"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-17"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-21"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-23"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-03"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-03"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-05"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-07"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-10"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-10"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-16"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-18"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-25"/>
+                    <placeName ref="http://www.geonames.org/3067696">Prag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-25"/>
+                    <placeName ref="http://www.geonames.org/3067696">Prag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-26"/>
+                    <placeName ref="http://www.geonames.org/3067696">Prag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-08-01"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-08-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1784-08-31" notBefore="1784-08-01">August 1784</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118557459">Johann Friedrich Wilhelm Jerusalem</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1784-08-13" notBefore="1784-08-01">1784</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116657812">Johann Gottlieb Gleditsch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1784-08-14" to="1784-08-16"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-08-23"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118556452">Nikolaus Joseph von Lacquin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-08-24"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1046110330">Maria Wilhelmine von Thun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1784-08-26" to="1784-08-28"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-09-01"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-09-03"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-09-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-09-21"/>
+                    <placeName ref="http://www.geonames.org/3094802">Krakau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-10-10"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-10-12"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1046110330">Maria Wilhelmine von Thun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-10-13"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-10-20"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-10-21"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-11-12"/>
+                    <placeName ref="http://www.geonames.org/627904">Grodno</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-11-18"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="74">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-11-20"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-11-22"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1784-11-22" to="1784-12-07"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1784-11-24" to="1784-11-26"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1046110330">Maria Wilhelmine von Thun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-12-07"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1784-12-12" to="1784-12-13"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-12-13"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-12-16"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-12-17"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-12-20"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-12-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-12-23"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118510169">Friedrich Justin Bertuch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-12-27"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1785-01-16" to="1785-01-17"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1785-01-22" to="1785-01-24"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-02-03"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-02-12"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-02-16"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1785-03-03" to="1785-03-05"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1785-03-05" to="1785-03-07"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-03-06"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1046110330">Maria Wilhelmine von Thun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-03-07"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-03-14"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-03-28"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119095777">Stanislaus II. August Poniatowski</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1785-04-01" to="1785-04-04"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-04-07"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-04-24"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117687588">Martin Poczobut</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-05-01"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-05-15"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-05-19"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-05-19"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-05-22"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-05-22"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-06-23"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-06-23"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-07-18"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-07-18"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1785-07-25" notBefore="1785-07-18">Im Juli 1785</date>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-08-22"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-08-22"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-09-01"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-09-08"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-09-12"/>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-09-14"/>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100819443">Friedrich Ludwig Wilhelm Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-09-19"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-09-19"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-09-21"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116221534">Philipp Adolf Böhmer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-09-22"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117687588">Martin Poczobut</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-10-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-10-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-10-06"/>
+                    <placeName ref="http://www.geonames.org/2933608">Eckersdorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-10-07"/>
+                    <placeName ref="http://www.geonames.org/3094633">Crossen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100819443">Friedrich Ludwig Wilhelm Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-10-10"/>
+                    <placeName ref="http://www.geonames.org/3088171">Posen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-10-10"/>
+                    <placeName ref="http://www.geonames.org/3088171">Posen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100819443">Friedrich Ludwig Wilhelm Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-10-14"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-10-14"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100819443">Friedrich Ludwig Wilhelm Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-10-15"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116400668">Georgine Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-11-01"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-11-01"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100819443">Friedrich Ludwig Wilhelm Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-11-02"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="134">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1785-12-01" to="1785-12-05"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-12-11"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118808818">Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-12-12"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116400668">Georgine Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="137">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-12-19"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="138">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-12-26"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="139">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1785-12-26"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="140">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1785-12-31" notBefore="1785-12-21">Ende 1785</date>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116400668">Georgine Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="141">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-01-08"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="142">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1786-01-20" notBefore="1786-01-11">Mitte Januar 1786</date>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1046110330">Maria Wilhelmine von Thun</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="143">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-01-16"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="144">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-01-16"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-01-30"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116400668">Georgine Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="146">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-02-20"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="147">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-02-20"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="148">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-03-05"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="149">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-03-09"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="150">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-03-09"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="151">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1786-03-19" to="1786-03-20"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="152">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-03-27"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116400668">Georgine Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="153">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-03-27"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-04-10"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="155">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-04-10"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="156">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-04-24"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="157">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-04-26"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100819443">Friedrich Ludwig Wilhelm Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="158">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-04-29"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="159">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-05-22"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="160">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-05-25"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="161">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-06-05"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="162">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1786-06-08" to="1786-06-12"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="163">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-06-18"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="164">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-06-27"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116714832">Pierre-Auguste Broussonet</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="165">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-07-01"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="166">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-07-03"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="167">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-07-09"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="168">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-07-10"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="169">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-07-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118510169">Friedrich Justin Bertuch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="170">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-07-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118549553">Johann Gottfried Herder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="171">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-07-23"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="172">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-07-31"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="173">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-08-10"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="174">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-08-10"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100819443">Friedrich Ludwig Wilhelm Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="175">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-08-14"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="176">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-08-17"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="177">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-08-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="178">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-08-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="179">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-08-31"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="180">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-09-04"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-09-04"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="182">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-09-06"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="183">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-09-07"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="184">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-09-10"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="185">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-09-10"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="186">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-09-18"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="187">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-09-28"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="188">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-10-04"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="189">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-10-08"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="190">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-10-12"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="191">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1786-10-28" to="1786-10-30"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="192">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-02"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="193">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-02"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100819443">Friedrich Ludwig Wilhelm Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="194">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-02"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="195">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-05"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="196">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-13"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="197">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-20"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118510169">Friedrich Justin Bertuch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="198">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-20"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="199">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-20"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="200">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-20"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="201">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-20"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="202">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-11-26"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="203">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1786-12-31" notBefore="1786-12-01">Dezember 1786 </date>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="204">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-12-04"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="205">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-12-07"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="206">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-12-07"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="207">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-12-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="208">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-12-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="209">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-12-24"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119095777">Stanislaus II. August Poniatowski</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="210">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-12-28"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="211">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1786-12-28"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="212">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-01-15"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="213">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1787-01-19" to="1787-01-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="214">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-01-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118549553">Johann Gottfried Herder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="215">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-01-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="216">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-01-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="217">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-01-22"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118510169">Friedrich Justin Bertuch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="218">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-02-01"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/120360381">Benedikt von Caché</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="219">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-02-01"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558404">Joseph II.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="220">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-02-08"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="221">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-02-08"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="222">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-02-12"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="223">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-02-19"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="224">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-03-01"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="225">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-03-05"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="226">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-03-05"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117693480">Thomas Pennant</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="227">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-03-11"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="228">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-03-15"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="229">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-03-19"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="230">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-03-22"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="231">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-03-22"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="232">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-03-26"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="233">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-03-29"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="234">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-04-01"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="235">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-04-02"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="236">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-04-02"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100819443">Friedrich Ludwig Wilhelm Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="237">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-04-05"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="238">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-04-08"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="239">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-04-12"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="240">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-04-14"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117687588">Martin Poczobut</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="241">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-04-26"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="242">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-05-07"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119291827">Petrus Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="243">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-05-07"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="244">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-05-14"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="245">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-05-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="246">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-05-28"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="247">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-05-31"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="248">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1787-06-03" to="1787-06-04"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="249">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-06-04"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="250">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-06-17"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="251">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-06-17"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="S. 709">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119310155">Michał Jerzy Poniatowski</persName>
+                    <date when="1784-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/311599824">Jan Baptysta Czempiński</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="S. 713">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-02-08"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Kollegen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="S. 714">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-02-20"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Kollegen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="S. 791">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                    <date when="1786-02-19"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="S. 834">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                    <date when="1787-01-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#i167a07c-5cb9-4e82-82da-9bfe3955fb23" key="S. 836">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                    <date when="1787-01-21"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118510169">Friedrich Justin Bertuch</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

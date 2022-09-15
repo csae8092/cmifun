@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe aus der Mainzer Republik</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://d-nb.info/gnd/121069060">Franz Dumont</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://zenodo.org/record/4664447/files/briefe-mainzer-republik.xml</idno>
+                <date when="2018-05-16T15:16:34.711-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="la65c54f-8554-428f-bfa7-91c4b26f2f8c">Dumont, Franz: „Briefe aus der Mainzer Republik“, Jahrbuch für westdeutsche Landesgeschichte 1977/3, S. 305–349.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="1">
+                <correspAction type="sent">
+                    <persName>Friedrich Joseph von Reibeld, Oberamtmann von Germersheim</persName>
+                    <date when="1792-11-03"/>
+                    <placeName ref="http://www.geonames.org/2921034">Germersheim</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118560190">Karl Theodor von der Pfalz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="2">
+                <correspAction type="sent">
+                    <persName>Andreas Schwachhofer</persName>
+                    <date when="1793-11-19"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116027223">Friedrich Franz von Dalberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="3">
+                <correspAction type="sent">
+                    <persName>Franz Falciola</persName>
+                    <date when="1792-11-27"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Friedrich Dumont</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="4">
+                <correspAction type="sent">
+                    <persName>Johann Aloys Becker</persName>
+                    <date when="1792-11-29"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/1013250869">Johann Dumont</persName>
+                    <persName>Friedrich Dumont</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="5a">
+                <correspAction type="sent">
+                    <persName>Nikolaus Münzenberger, Amtskeller</persName>
+                    <date when="1793-02-20"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116027223">Friedrich Franz von Dalberg</persName>
+                    <placeName ref="http://www.geonames.org/2805615">Würzburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="5b">
+                <correspAction type="sent">
+                    <persName>Nikolaus Münzenberger, Amtskeller</persName>
+                    <date when="1793-02-23"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116027223">Friedrich Franz von Dalberg</persName>
+                    <placeName ref="http://www.geonames.org/2805615">Würzburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="6">
+                <correspAction type="sent">
+                    <persName>Jacob Groeser</persName>
+                    <date when="1793-03-26"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Andreas Groeser</persName>
+                    <placeName ref="http://www.geonames.org/2954976">Astheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="7">
+                <correspAction type="sent">
+                    <persName>Johannes Hoepfner, Pfarrer</persName>
+                    <date when="1793-05-04"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Juliane Hoepfner</persName>
+                    <placeName ref="http://www.geonames.org/2952213">Battenberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="8">
+                <correspAction type="sent">
+                    <persName>Juliane Böhmer</persName>
+                    <date when="1793-07-25"/>
+                    <placeName ref="http://www.geonames.org/2922245">Gau-Odernheim</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Georg Wilheim Böhmer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="9a">
+                <correspAction type="sent">
+                    <persName>Conrad Neuhäuser</persName>
+                    <date when="1793-11-25"/>
+                    <placeName ref="http://www.geonames.org/2932843">Ehrenbreitstein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Susanna Neuhäuser</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="9b">
+                <correspAction type="sent">
+                    <persName>Conrad Neuhäuser</persName>
+                    <date when="1793-11-25"/>
+                    <placeName ref="http://www.geonames.org/2932843">Ehrenbreitstein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="http://d-nb.info/gnd/7667619-5">Gemeinde Mertesheim</orgName>
+                    <placeName ref="http://www.geonames.org/2871718">Mertesheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/139065237">Joseph Schlemmer</persName>
+                    <date when="1793-12-18"/>
+                    <placeName ref="http://www.geonames.org/2932843">Ehrenbreitstein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Mutter von Joseph Schlemmer</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="11">
+                <correspAction type="sent">
+                    <persName>Stephan Lewer</persName>
+                    <date when="1793-12-19"/>
+                    <placeName ref="http://www.geonames.org/2932843">Ehrenbreitstein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Goswin Schweikhard</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#la65c54f-8554-428f-bfa7-91c4b26f2f8c" key="12">
+                <correspAction type="sent">
+                    <persName>Stephan Lewer</persName>
+                    <date when="1794-09-17"/>
+                    <placeName ref="http://www.geonames.org/2929670">Erfurt, Petersberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Pfeifer, Syndikus</persName>
+                    <placeName ref="http://www.geonames.org/2930889">Ellwangen</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

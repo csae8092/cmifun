@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe der Gebrüder Humboldt an Johann Reinhold Forster</title>
+                <editor>Stefan Dumont <email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Public Domain</ref>
+                </publisher>
+                <date when="2017-08-30T14:30:00.00+02:00"/>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC0 1.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-JForster.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="HUMBOLDTFORSTER" type="print">Fünf Briefe der Gebrüder von Humboldt an Johann Reinhold Forster. Nebst einem Anhange. Hg. von Fritz Jonas. Berlin: L. Oehmigke's Verlag (R. Appelius), 1889. 
+                    [Digitalisat verfügbar unter <ref target="http://dx.doi.org/10.3931/e-rara-53952">http://dx.doi.org/10.3931/e-rara-53952</ref>]                    
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1790-09-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1790-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1797-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1797-01-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2766824">Salzburg</placeName>
+                    <date when="1798-04-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1798-01-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118718355">Friedrich Gräter</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                    <date>Undatiert</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/100357636">Johann Georg Albrecht Höpfner</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1788-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/136812473">Karl Franz von Irwing</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1788-04-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118587668">Friedrich Nicolai</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1797-12-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116598638" cert="high">Heinrich Julius Ludwig von Rohr </persName>
+                    <placeName ref="http://www.geonames.org/2874545">Magdeburg</placeName>
+                    <date when="1796-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116598638" cert="high">Heinrich Julius Ludwig von Rohr </persName>
+                    <placeName ref="http://www.geonames.org/3095049">Coeslin</placeName>
+                    <date when="1798-07-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11892737X">Johann Daniel Sander</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1797-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11892737X">Johann Daniel Sander</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1798-03-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11892737X">Johann Daniel Sander</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1798-04-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11892737X">Johann Daniel Sander</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1798-07-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11892737X">Johann Daniel Sander</persName>
+                    <date notBefore="1798-01-01" notAfter="1798-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <!-- II. 9 Sömmerring an Forster ausgelassen weil im Soemmerring-Briefwechsel vorliegend -->
+            <correspDesc source="#HUMBOLDTFORSTER" key="II-10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117369454">August Ferdinand von Veltheim</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1798-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

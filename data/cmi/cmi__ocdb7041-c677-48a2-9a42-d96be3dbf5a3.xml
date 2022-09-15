@@ -1,0 +1,914 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt — Preußisches Kultusministerium</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-03-19T17:14:51.777-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Kultusministerium.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="ocdb7041-c677-48a2-9a42-d96be3dbf5a3">Humboldt, Alexander von (1985): Vier Jahrzehnte Wissenschaftsförderung. Briefe an das preußische Kultusministerium 1818-1858. Herausgegeben von Kurt-R. Biermann. Berlin: Akademie Verlag (Beiträge zur Alexander-von-Humboldt-Forschung, 14).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1818-01-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1819-02-10"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1819-09-25"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1820-06-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1820-06-10"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1821-02-24"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1823-04-05"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1824-07-17"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116195096">Karl Albert von Kamptz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1825-06-30"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1825-10-12"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-05-14"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-11-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-11-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-11-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-11-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-12-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-07-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/1026762219">August Johann Georg von Harlem</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-09-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-11-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1828-12" notBefore="1828-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-01-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-03-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-04-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-01-03"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-09-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118860283">Johannes Schulze</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-04-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-07-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-07-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-07-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-10-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-01-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-02-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-03-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-05-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1834-06-30" notBefore="1834-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118860283">Johannes Schulze</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-01-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-04-11"/>
+                    <placeName ref="http://www.geonames.org/2823708">Tegel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-04-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-02-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1836-02-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118860283">Johannes Schulze</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-03-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-03-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-03-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-11-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-01-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-04-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-06-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-08-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-10-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-10-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-10-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-12-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-12-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-07-09"/>
+                    <placeName ref="http://www.geonames.org/2823472">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1838-08-10" notBefore="1838-08-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118860283">Johannes Schulze</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-01-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-04-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-06-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-02-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Freiherr vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-12-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-12-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-12-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-12-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118860283">Johannes Schulze</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-12-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-01-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-08-11"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-08-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-04-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-05-02"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-06-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-06-28"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-10-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-11-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-12-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-03-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-04-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-06-09"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-07-05"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-12-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-12-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-12-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1845-09-20"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1845-12-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-03-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846-03-19" notBefore="1846-03-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118860283">Johannes Schulze</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date evidence="conjecture" when="1846-03-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ocdb7041-c677-48a2-9a42-d96be3dbf5a3" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-04-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104335262">Friedrich Eichhorn</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

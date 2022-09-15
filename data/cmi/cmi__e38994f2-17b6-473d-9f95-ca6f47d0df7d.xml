@@ -1,0 +1,1011 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Index de la correspondance de Charles de Foucauld à René Basset – correspondance scientifique (1907–1916)</title>
+            <editor ref="https://orcid.org/0000-0001-8483-8123">Julian Jarosch <email>julian.jarosch@adwmainz.de</email>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="https://orcid.org/0000-0001-8483-8123">Julian Jarosch</ref>
+            </publisher>
+            <idno type="url">https://gitlab.rlp.net/sahara/foucauld/correspondance-foucauld-basset/-/raw/main/cmif.xml</idno>
+            <date when="2022-06-04"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC BY 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="print" xml:id="e38994f2-17b6-473d-9f95-ca6f47d0df7d">Ould-Braham, Ouahmi. « Lettres du Père Charles de Foucauld à Monsieur René Basset, doyen à la faculté des
+                            lettres d’Alger ». Études et Documents Berbères 2002, nᵒ 19–20: 175–290. (L’article « Note à propos de la correspondance de Charles de Foucauld à
+                            René Basset » du même auteur dans le même numéro, aux pages 157–173, sert d’introduction.)</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc key="1" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/6930641">Insalah</placeName>
+               <date when="1907-03-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="2" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <date when="1907-07-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="3" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1907-07-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="4" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1907-07-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="5" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1907-09-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="6" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1907-12-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="7" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1908-01-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="8" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <date notBefore="1908-03" notAfter="1908-03-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="9" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1908-05-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="10" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1908-07-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="11" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1908-09-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="12" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1908-12-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="13" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/6930641">Insalah</placeName>
+               <date when="1909-01-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="14" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/3014856">Grasse</placeName>
+               <date when="1909-03-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="15" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/11979290">Takembaret</placeName>
+               <date when="1909-05-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="16" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1909-10-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="17" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1909-12-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="18" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-02-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="19" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-04-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="20" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-05-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="21" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-05-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="22" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-06-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="23" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-06-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="24" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-07-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="25" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-07-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="26" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-09-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="27" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-11-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="28" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1910-11-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="29" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/6930641">Insalah</placeName>
+               <date when="1911-01-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="30" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2498056">Maison Carrée</placeName>
+               <date notBefore="1911-03-03" notAfter="1911-03-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="31" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2498056">Maison Carrée</placeName>
+               <date when="1911-03-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="32" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1911-05-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="33" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1911-06-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="34" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2506259">Asekrem</placeName>
+               <date when="1911-09-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="35" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2506259">Asekrem</placeName>
+               <date when="1911-12-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="36" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1912-02-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="37" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1912-03-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="38" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1912-04-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="39" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1912-06-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="40" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1912-07-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="41" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1912-07-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="42" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1912-10-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="43" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1912-10-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="44" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1912-12-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="45" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1912-12-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="46" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1913-01-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="47" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1913-03-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="48" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1913-03-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="49" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2496049">Ghardaïa</placeName>
+               <date when="1913-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="50" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/12489595">La Renaudie</placeName>
+               <date when="1913-07-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="51" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/12489595">La Renaudie</placeName>
+               <date when="1913-07-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="52" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/6447580">Barbirey</placeName>
+               <date when="1913-07-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="53" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/6447580">Barbirey</placeName>
+               <date when="1913-07-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="54" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/6447580">Barbirey</placeName>
+               <date when="1913-07-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="55" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/6447580">Barbirey</placeName>
+               <date when="1913-08-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="56" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2476403">Timmimoun</placeName>
+               <date when="1913-10-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="57" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1913-11-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="58" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1913-12-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="59" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-01-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="60" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-01-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="61" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-02-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="62" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-02-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="63" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-03-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="64" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-04-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="65" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-04-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="66" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-05-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="67" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-07-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="68" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-08-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="69" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-09-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="70" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-11-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="71" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-11-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="72" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1914-12-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="73" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-01-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="74" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-02-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="75" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-02-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="76" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-03-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="77" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-04-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="78" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-05-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="79" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-06-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="80" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-06-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="81" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-07-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="82" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-08-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="83" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-09-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="84" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-09-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="85" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-11-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="86" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-11-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="87" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1915-12-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="88" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-01-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="89" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-02-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="90" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-03-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="91" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-04-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="92" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-05-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="93" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="94" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-06-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="95" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-08-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="96" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-09-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="97" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-10-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc key="98" source="#e38994f2-17b6-473d-9f95-ca6f47d0df7d">
+            <correspAction type="sent">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11903195c">Charles de Foucauld</persName>
+               <placeName ref="https://www.geonames.org/2478216">Tamanrasset</placeName>
+               <date when="1916-11-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://ark.bnf.fr/ark:/12148/cb11890493g">René Basset</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,762 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rudolf Virchow und Emil du Bois-Reymond : Briefe 1864 - 1894</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-03-18T22:48:07.439-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/virchow-bois-reymond.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="sfb5c2e5-72f8-4527-a884-5d8fb590bcab">Rudolf Virchow und Emil du Bois-Reymond: Briefe 1864 - 1894. Hrsg. von Klaus Wenig.  Marburg/Lahn: Basilisken-Presse, 1995.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1864-08-28"/>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1866-01-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1868-03-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date notAfter="1870-05-31" notBefore="1870-05-01">[Mai 1870]</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1871-04-09">Ostersonntag</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1871-06-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1871-11-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1871-12-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1872-01-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1873-11-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1874-01-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1874-05-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1874-10-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1876-01-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1876-01-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1876-02-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1877-02-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1877-02-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1877-03-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1877-04-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1877-12-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1878-01-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1878-02-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1878-04-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1878-02-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <orgName ref="https://d-nb.info/gnd/15514-7">Königliche Akademie der Wissenschaften (Berlin)</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1880-05-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1880-11-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1881-07-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1881-07-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1881-07-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1881-08-25"/>
+                    <placeName>Zell</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <orgName ref="https://d-nb.info/gnd/15514-7">Königliche Akademie der Wissenschaften (Berlin)</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1881-09-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1881-09-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1881-09-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1882-03-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1882-03-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1882-03-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1882-08-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1882-08-11"/>
+                    <placeName ref="http://www.geonames.org/2876147">Lohr a. Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1882-08-13"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1882-08-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1882-09-05"/>
+                    <placeName>Suggental</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1882-11-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1882-11-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1882-11-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1882-12-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1883-02-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1883-03-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1883-05-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1883-06-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1883-11-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1884-01-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1884-10-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1884-12-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1885-02-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1885-03-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1885-03-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1886-02-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1886-03-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1886-11-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1888-08-21"/>
+                    <placeName ref="http://www.geonames.org/2760380">Millstatt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1888-08-23"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1891-10-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1893-02-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date notAfter="1894-05-07" notBefore="1893-02-26">ohne Datum</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date notAfter="1894-05-07" notBefore="1893-02-26">ohne Datum</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date notAfter="1894-05-07" notBefore="1893-02-26">ohne Datum</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1894-05-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1894-06-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1899-01-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1899-04-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/127878556">Marie du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sfb5c2e5-72f8-4527-a884-5d8fb590bcab" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118627198">Rudolf Virchow</persName>
+                    <date when="1854-07-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Würzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="https://d-nb.info/gnd/2025026-5">Universitätsbibliothek Würzburg</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

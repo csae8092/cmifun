@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>H. Helmholtz und W. Thomson : Begegnungen und Briefe von 1855 - 1871</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://bbaw.de">BBAW</ref>
+                </publisher>
+                <idno type="url">https://correspsearch.net/storage/helmholtz-thomson.xml</idno>
+                <date when="2022-05-10T11:18:47.420-02:00"/>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="ce77ec9a-8f4b-4c6b-a795-8e079c2f578d">H. Helmholtz und W. Thomson: Begegnungen und Briefe von 1855 - 1871 / Hrsg. von Herbert Hörz, Teil 2: Briefe, Berlin, Berlin-Brandenburgische Akad. der Wiss., 1995.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                    <date when="1855-07-24"/>
+                    <placeName ref="http://www.geonames.org/2953416">Bad Kreuznach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                    <date when="1855-08-03"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                    <date when="1855-08-11"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1856-07-30"/>
+                    <placeName ref="http://www.geonames.org/2953348">Schwalbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1856-08-06"/>
+                    <placeName ref="http://www.geonames.org/2953348">Schwalbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1856-08-11"/>
+                    <placeName ref="http://www.geonames.org/2953348">Schwalbach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1856-12-30"/>
+                    <placeName ref="http://www.geonames.org/2655984">Belfast</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                    <date when="1857-01-16"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1859-01-02"/>
+                    <placeName ref="http://www.geonames.org/2644860">Largs  </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1859-05-12"/>
+                    <placeName ref="http://www.geonames.org/2648579">Glasgow</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1859-07-11"/>
+                    <placeName ref="http://www.geonames.org/8299862">Isle of Arran</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1859-08-18"/>
+                    <placeName ref="http://www.geonames.org/8299862">Isle of Arran</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1859-10-06"/>
+                    <placeName ref="http://www.geonames.org/8299862">Isle of Arran</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                    <date when="1859-11-15"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1860-01-22"/>
+                    <placeName ref="http://www.geonames.org/2648579">Glasgow</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1862-11-23"/>
+                    <placeName ref="http://www.geonames.org/2648579">Glasgow</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1864-03-16"/>
+                    <placeName ref="http://www.geonames.org/2648579">Glasgow</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1864-07-31"/>
+                    <placeName ref="http://www.geonames.org/2809025">Bad Wildbad</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1864-10-10"/>
+                    <placeName ref="http://www.geonames.org/2644860">Largs  </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                    <date when="1866-11-24"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1867-01-22"/>
+                    <placeName ref="http://www.geonames.org/2648579">Glasgow</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1868-07-24"/>
+                    <placeName ref="http://www.geonames.org/2953424">Bad Kissingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1868-09-03"/>
+                    <placeName ref="http://www.geonames.org/2644860">Largs  </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                    <date when="1868-09-10"/>
+                    <placeName ref="http://www.geonames.org/2660902">Engelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1870-01-23"/>
+                    <placeName ref="http://www.geonames.org/2644860">Largs  </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1870-02-20"/>
+                    <placeName ref="http://www.geonames.org/2644860">Largs  </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1870-07-29"/>
+                    <placeName ref="http://www.geonames.org/2640052">Porthcurno</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1870-09-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1871-01-28"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1871-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1871-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1871-06-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date when="1871-08-18"/>
+                    <placeName ref="http://www.geonames.org/2646140">Inveraray</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ce77ec9a-8f4b-4c6b-a795-8e079c2f578d" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118777033">William Thomson</persName>
+                    <date notAfter="1871-10-29" notBefore="1871-10-21"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann von Helmholz</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

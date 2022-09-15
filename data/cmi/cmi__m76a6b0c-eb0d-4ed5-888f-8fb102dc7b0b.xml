@@ -1,0 +1,472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Carl Gustav Jacobi</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburg Academy of Sciences and Humanities</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-02-13T15:58:20.238-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-CGJacobi.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b">Humboldt, Alexander von und Carl Gustav Jacob Jacobi: Briefwechsel. Herausgegeben von Herbert Pieper, Bd. 11, Beiträge zur Alexander-von-Humboldt-Forschung, Berlin: Akademie Verlag 1987.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1828-02-03" notBefore="1827-12-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/554234" evidence="conjecture">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-02-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1839-04-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date when="1839-05-03"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1804-04-08" notBefore="1840-04-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/554234" evidence="conjecture">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-08-21"/>
+                    <placeName>Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1840-11-20"/>
+                    <placeName cert="low" ref="http://www.geonames.org/554234" evidence="conjecture">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-11-21"/>
+                    <placeName cert="low" ref="http://www.geonames.org/554234" evidence="conjecture">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date cert="low" when="1843-05-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-05-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date when="1843-06-08"/>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="11a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1843-07-17" to="1843-07-24"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1843-09-30" notBefore="1843-08-20"/>
+                    <placeName ref="http://www.geonames.org/2657896" evidence="conjecture">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1843-02" notBefore="1843-11"/>
+                    <placeName cert="low" ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1844-03-31"/>
+                    <placeName cert="low" ref="http://www.geonames.org/3169070" evidence="conjecture">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date when="1845-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846-09-30" notBefore="1846-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1846-09-29" evidence="conjecture" to="1846-10-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846-11-10" notBefore="1846-10-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1846-11-10" notBefore="1846-10-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1846-11-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1846-12-31" notBefore="1846-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date when="1846-12-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-12-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date when="1846-12-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1846-12-26" to="1846-12-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1847-01-28" notBefore="1846-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1847-01-30" evidence="conjecture" to="1847-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1847-03-31" notBefore="1847-02-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1847-03-01" to="1847-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date cert="low" when="1847-04-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date when="1847-07-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-07-07"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-09-01"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date when="1847-09-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1847-09-06"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date when="1847-09-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-07-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1849-11-30" notBefore="1849-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-11-22"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date cert="low" when="1850-01-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                    <date notAfter="1850-11-30" notBefore="1850-11-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1850-12-31" notBefore="1850-12-01"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1851-01-20" notBefore="1851-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118775766">Carl Gustav Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#m76a6b0c-eb0d-4ed5-888f-8fb102dc7b0b" key="Anhang 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118779249">Adrien-Marie Legendre</persName>
+                    <date when="1827-11-29"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

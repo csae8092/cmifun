@@ -1,0 +1,1104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt — Emil du Bois-Reymond</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-03-19T17:13:28.911-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Bois-Reymond.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="rf5b23b9-1f23-4a0e-a386-e6355f0f47e4">Humboldt, Alexander von und Emil du Bois-Reymond: Briefwechsel. Herausgegeben von Ingo Schwarz und Klaus Wenig, Beiträge zur Alexander-von-Humboldt-Forschung 22, Berlin: Akademie Verlag 1997.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1840-02-13"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1840-02-28" notBefore="1840-01-01">Anfang 1840?</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1843-02-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-03-06"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-03-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1843-03-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1845-05-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1846-04-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date cert="low" when="1846-04-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-04-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1842-12" notBefore="1848-01">1848?</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1849-02-28" notBefore="1849-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-04-09"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-04-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-05-04"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-05-06"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-05-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date cert="low"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-05-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date when="1849-05-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-06-04"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-06-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1849-06-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-07-09"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1849-07-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-07-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-08-03"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date notBefore="1849-08-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-01-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-01-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-02-07"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-03-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-03-14"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1850-03-30"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-05-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-06-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-06-14"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-07-25"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-12-02"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-12-04"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-12-29"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-01-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-01-16"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-02-07"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1851-02-28" notBefore="1851-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-03-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-05-03"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-05-06"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-05-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-07-29"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-08-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-08-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-08-24"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-09-04"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1851-12-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1852-03-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1852-04-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1852-04-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1852-07-05"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-11-14"/>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1852-07-29"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-08-02"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-11-14"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1853-03-11"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-04-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-04-21"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-12-06"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1853-12-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-05-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-06-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-06-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1854-06-30" notBefore="1854-06-01"/>
+                    <placeName ref="http://www.geonames.org/2953775">Babelsberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-03-13"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <date cert="low" when="1855-03-16"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-07-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-07-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-01-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-09-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-09-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-09-21"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1855-10-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1855-12" notBefore="1855-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-03-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-05-29"/>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1856-06-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-12-04"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1856-12" notBefore="1856-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1857-04-13"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1857-05-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1857-05-30"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="91">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1857-08-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1858-12-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="93">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1858-12" notBefore="1858-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="94">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1859-01-29"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118527665">Emil du Bois-Reymond</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokument I">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName cert="low">Carl Christian Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokument III">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102517266">Carlo Matteucci</persName>
+                    <date when="1849-04-23"/>
+                    <placeName ref="http://www.geonames.org/3176438" evidence="conjecture">Gaëta</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokument V">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Dominique-Francois Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokumnt VII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1849-08-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118729470">Carl Ludwig</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokument IX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Below</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokument XI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-08-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118614088">Werner von Siemens</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokument XII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117091219">Hermann Schacht</persName>
+                    <date when="1851-12-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokument XIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118519352">Carl Gustav Carus</persName>
+                    <date when="1853-04-18"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokument XIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-04-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118519352">Carl Gustav Carus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokument XV">
+                <correspAction type="sent">
+                    <persName>Cécile-Jules-Basile Gérard</persName>
+                    <date when="1854-05-08"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#rf5b23b9-1f23-4a0e-a386-e6355f0f47e4" key="Dokument XVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102517266">Carlo Matteucci</persName>
+                    <date when="1856-04-23"/>
+                    <placeName ref="http://www.geonames.org/3170647">Pisa</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

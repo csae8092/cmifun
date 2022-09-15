@@ -1,0 +1,1406 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Julius Klaproth: Briefwechsel mit Gelehrten, großenteils aus dem Akademiearhiv in St. Petersburg</title>
+                <editor>Philipp Linss<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2019-04-30T17:33:53.179-02:00"/>
+                <idno type="url">https://correspSearch.net/storage/Klaproth-Gelehrte.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="o8f2a953-6508-4a54-ac7b-54b59f74c872">Julius Klaproth (1783 - 1835). Briefwechsel mit Gelehrten, großenteils aus dem Akademiearchiv in St. Petersburg. Hg. von Hartmut Walravens. (Orientalistik-Bibliographien und Dokumentationen 18) Wiesbaden, 2002. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Uvarov 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/120180502">Sergej Semenovic Uvarov</persName>
+                    <date when="1811-03-20"/>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Uvarov 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/120180502">Sergej Semenovic Uvarov</persName>
+                    <date when="1811-04-18"/>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Uvarov 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/120180502">Sergej Semenovic Uvarov</persName>
+                    <date when="1811-06-06"/>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Kurz 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/100816703">Heinrich Kurz</persName>
+                    <date when="1828-11-04"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Kurz 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/100816703">Heinrich Kurz</persName>
+                    <date when="1831-09-27"/>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Butler 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1055386408">Samuel Butler</persName>
+                    <date when="1831-06-10"/>
+                    <placeName ref="http://www.geonames.org/2637891">Shrewsbury</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Butler 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1055386408">Samuel Butler</persName>
+                    <date when="1832-01-20"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Butler 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1055386408">Samuel Butler</persName>
+                    <date>28.7.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Butler 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/1055386408">Samuel Butler</persName>
+                    <date when="1835-02-03"/>
+                    <placeName ref="http://www.geonames.org/2637891">Shrewsbury</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                    <date from="1821-11-27" to="1821-12-09"/>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1822-04-10"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1822-09-25"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1823-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1824-04-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1824-10-09"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1824-12-26"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1825-01-13"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1825-09-09"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1825-09-10"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1825-10-24"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1826-03-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1826-08-13"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 15">
+                <correspAction type="sent">
+                    <persName>Andreas Adolf von Merian</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1827-02-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>paul</persName>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1828-05-24"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11860130X">Carl Ritter</persName>
+                    <date when="1833-05-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Canstadt 26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118607685">Paul Schilling von Canstadt</persName>
+                    <date when="1831-02-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Z.F. Leont'evskij</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Endlicher 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1834-01-02"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100122434">Ladislaus Endlicher</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Endlicher 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1834-01-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100122434">Ladislaus Endlicher</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Endlicher 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1834-01-27"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100122434">Ladislaus Endlicher</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Endlicher 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1834-02-04"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100122434">Ladislaus Endlicher</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Endlicher 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1834-02-21"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100122434">Ladislaus Endlicher</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Endlicher 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1834-03-29"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100122434">Ladislaus Endlicher</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Endlicher 7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1834-04-27"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100122434">Ladislaus Endlicher</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Endlicher 8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1834-05-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100122434">Ladislaus Endlicher</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Endlicher 9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1834-06-05"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100122434">Ladislaus Endlicher</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1808-10-17"/>
+                    <placeName>Georgiefsk am Fuße des Kaukasus</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1818-11-07"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1819-11-21"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1820-01-04"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1821-04-14"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1822-11-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1824-04-19"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1824-05-27"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1824-08-02"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1824-10-29"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1830-09-15"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1833-10-09"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1835-03-28"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Frähn 17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104228458">Christian Martin Joachim Frähn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Jomard 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117175048">Edmé François Jomard</persName>
+                    <date when="1827-04-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Jomard 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117175048">Edmé François Jomard</persName>
+                    <date when="1827-04-12"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                    <date when="1832-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                    <date when="1832-12-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date cert="low" when="1833-02-25"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1833-02-26"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                    <date when="1833-03-14"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date cert="low" when="1833-05-17"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                    <date when="1833-05-28"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Julien 13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117230316">Stanislas Julien</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Gauting 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1815-09-13"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Arthus Bertrand</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Gauting 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/100565565">Wilhelm Gottlob Tilesius von Tilenau</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Gauting 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1823-02-26"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118616803">Philipp Albert Stapfer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Gauting 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1827-09-12"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116940336">Karl Friedrich Vollrath Hoffmann</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="siebold 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118613960">Philipp Franz von Siebold</persName>
+                    <date when="1830-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="siebold 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1830-10-09"/>
+                    <placeName>Gend</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118613960">Philipp Franz von Siebold</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="siebold 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118613960">Philipp Franz von Siebold</persName>
+                    <date from="1832-08-19" to="1832-08-22"/>
+                    <placeName ref="http://www.geonames.org/2751773">Leyden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="siebold 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1832-09-02"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118613960">Philipp Franz von Siebold</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="siebold 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118613960">Philipp Franz von Siebold</persName>
+                    <date when="1832-09-13"/>
+                    <placeName ref="http://www.geonames.org/2751773">Leyden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="siebold 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116940336">Karl Friedrich Vollrath Hoffmann</persName>
+                    <date when="1834-11-12"/>
+                    <placeName ref="http://www.geonames.org/2751773">Leyden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="siebold 7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116940336">Karl Friedrich Vollrath Hoffmann</persName>
+                    <date when="1835-04-06"/>
+                    <placeName ref="http://www.geonames.org/2751773">Leiden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1819-01-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Sigmund Franz vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117549088">Karl Friedrich Heinrich von Goltz</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Sigmund Franz vom Stein zum Altenstein</persName>
+                    <date when="1820-03-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Sigmund Franz vom Stein zum Altenstein</persName>
+                    <date when="1821-11-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Sigmund Franz vom Stein zum Altenstein</persName>
+                    <date when="1828-02-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Sigmund Franz vom Stein zum Altenstein</persName>
+                    <date when="1828-02-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Sigmund Franz vom Stein zum Altenstein</persName>
+                    <date when="1828-05-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Sigmund Franz vom Stein zum Altenstein</persName>
+                    <date when="1830-06-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1833-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118535986">Friedrich Wilhelm III.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Sigmund Franz vom Stein zum Altenstein</persName>
+                    <date when="1833-12-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535986">Friedrich Wilhelm III.</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Altenstein 13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Humboldt 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Humboldt 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Humboldt 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-02-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Humboldt 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1832" notBefore="1830">um 1831</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Humboldt 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833" notBefore="1831">ca. 1832</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Neumann 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11862783X">Karl Sigmund Franz vom Stein zum Altenstein</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Neumann 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116962259">Karl Friedrich Neumann</persName>
+                    <date when="1829-11-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Neumann 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116962259">Karl Friedrich Neumann</persName>
+                    <date when="1832-08-30"/>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Neumann 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116962259">Karl Friedrich Neumann</persName>
+                    <date when="1832-11-10"/>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Neumann 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116962259">Karl Friedrich Neumann</persName>
+                    <date when="1833-05-28"/>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Neumann 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116962259">Karl Friedrich Neumann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Berghaus 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1830-07-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Berghaus 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1830-11-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Berghaus 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1832-12-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                    <date when="1805-05-31"/>
+                    <placeName ref="http://www.geonames.org/524901">Moskau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1805-06-25"/>
+                    <placeName ref="http://www.geonames.org/511196">Perm</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1806-03-10"/>
+                    <placeName ref="http://www.geonames.org/2023469">Irkutzk</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1806-06-02"/>
+                    <placeName ref="http://www.geonames.org/2023469">Irkutsk</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1806-08-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1806-09-10"/>
+                    <placeName ref="http://www.geonames.org/1502026">Krasnojarsk</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1806-10-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1807-10-21"/>
+                    <placeName ref="http://www.geonames.org/480562">Tula</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1809-10-28"/>
+                    <placeName ref="http://www.geonames.org/538560">Kursk</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1807-10-19"/>
+                    <placeName ref="http://www.geonames.org/706483">Charkow</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1807-11-02"/>
+                    <placeName ref="http://www.geonames.org/706483">Charkow</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1809-11-09"/>
+                    <placeName ref="http://www.geonames.org/706483">Charkow</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1807-12-13"/>
+                    <placeName ref="http://www.geonames.org/561627">Georgiewsk</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1808-02-14"/>
+                    <placeName ref="http://www.geonames.org/611717">Tiflis</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1808-04-21"/>
+                    <placeName ref="http://www.geonames.org/611717">Tiflis</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1808-05-21"/>
+                    <placeName ref="http://www.geonames.org/611717">Tiflis</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1808-07-27"/>
+                    <placeName ref="http://www.geonames.org/524736">Mosdok</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1808-08-10"/>
+                    <placeName ref="http://www.geonames.org/524736">Mosdok</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1808-08-17"/>
+                    <placeName ref="http://www.geonames.org/524736">Mosdok</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Fuß 20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1808-08-21"/>
+                    <placeName ref="http://www.geonames.org/524736">Mosdok</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116878894">Nikolaus Fuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Wilson 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1828-07-27"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11739775X">Horace Hayman Wilson</persName>
+                    <placeName ref="http://www.geonames.org/1275004">Calcutta</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Wilson 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <date when="1833-08-08"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11739775X">Horace Hayman Wilson</persName>
+                    <placeName ref="http://www.geonames.org/2640729">Oxford</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Potocki">
+                <correspAction type="sent">
+                    <persName>Jan Potocki</persName>
+                    <date cert="low" when="1829-09-05"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Ritter 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11860130X">Carl Ritter</persName>
+                    <date when="1826-03-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Ritter 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11860130X">Carl Ritter</persName>
+                    <date when="1832-06-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#o8f2a953-6508-4a54-ac7b-54b59f74c872" key="Ritter 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11860130X">Carl Ritter</persName>
+                    <date when="1833-02-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10082451X">Julius Klaproth</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

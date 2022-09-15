@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Goethe in Wielands Briefwechsel (BW) – Band 19</title>
+                <editor>Robert Charlier<email>charlier@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <!-- Template for a TEI XML file according to the Correspondence Metadata Interchange (CMI) format -->
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (Berlin-Brandenburg Academy of Sciences and Humanities)</ref>
+                </publisher>
+                <idno type="url">https://correspsearch.net/storage/wieland19.xml</idno>
+                <date when="2017-06-19"/>
+                <availability>
+                    <!-- The CC BY 4.0 license is mandatory -->
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="WIELAND19" type="print" subtype="part">Wielands Briefwechsel. Neunzehnter Band (Nachträge 2). Bearbeitet von Siegfried Scheibe. Berlin 2007</bibl>
+                <!-- Gesamt-ISBN BW: [978-]3-05-000880-6; ISBN BW19: 978-3-05-004225-1 -->
+                <!-- Datei ist UNKOLLATONIERT -->
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#WIELAND19" key="134a">
+            <!-- chronologisch in BW12.1 einzureihen -->    
+                    <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118569767">Marie Sophie von La Roche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1794-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc> 
+            <correspDesc source="#WIELAND19" key="290b">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1808-02-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118767208">Friedrich Ludwig Zacharias Werner</persName>
+                    <placeName ref="http://www.geonames.org/2812482" cert="high">Weimar</placeName>
+                    <!-- aus dem Kontext ist auf Empfangsort Weimar zu schließen (Einladung als Billet); vgl. auch Komm. BW17.2,206 -->
+                </correspAction>
+            </correspDesc>            
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

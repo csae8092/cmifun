@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eduard Pflüger - Hermann von Helmholtz</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-02-23T12:23:49.433-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/Pflueger-Helmholtz.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="y15b06ea-2b49-45de-a24f-788fbe9c3cfe">Die Briefe von Eduard Pflüger an Hermann Helmholtz. Hrsg. von Herbert K. O. Pieper. Berlin 1998 (= Wissenschaftshistorische Manuskripte 17).</bibl>
+                <bibl type="print" xml:id="x4b1bf6c-3909-4ab5-816a-a3093adf2d03">Herbert K. O. Pieper: Zur Geschichte des Zuckungsgesetzes. Zwei Briefe von Eduard Pflüger an Hermann Helmholtz. Berlin 1997 (= Wissenschaftshistorische Manuskripte 13).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1859-08-10"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1862-04-27"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1868-04-08"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1868-04-16"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1868-05-18"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1868-05-22"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                    <date when="1868-06-10"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1868-06-11"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1868-06-21"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1868-07-21"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1868-08-09"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1868-10-26"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1869-02-17"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1870-05-01"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1875-04-12"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1878-03-31"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#y15b06ea-2b49-45de-a24f-788fbe9c3cfe" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1892-11-06"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x4b1bf6c-3909-4ab5-816a-a3093adf2d03" key="[1]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1858-12-16"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#x4b1bf6c-3909-4ab5-816a-a3093adf2d03" key="[2]">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116168080">Eduard Pflüger</persName>
+                    <date when="1859-03-21"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854893X">Hermann Helmholtz </persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

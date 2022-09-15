@@ -1,0 +1,1671 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Briefe aus Amerika 1799-1804</title>
+                <editor>Stefan Dumont <email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <date when="2016-05-23T19:44:36.281+01:00"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/HumboldtAmerika.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="AVH_AMERIKA" type="print">Humboldt, Alexander von (1993): Briefe aus Amerika 1799-1804. Bearbeitet von Ulrike Moheit. Berlin: Akademie Verlag (Beiträge zur Alexander-von-Humboldt-Forschung, 16).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#AVH_AMERIKA" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <date when="1799-06-05">5.6.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116208503">Johann Friedrich
+                        Blumenbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <date when="1799-06-05">5.6.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117544531">Franois Pierre Nicolas Gillet de Laumont</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <date when="1799-06-05">5.6.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Christian Herrgen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <date when="1799-06-05">5.6.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Dietrich Ludwig Gustav Karsten</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <date when="1799-06-05">5.6.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Karl Maria Erenbert Freiherr von Moll</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3119841">La Coruna</placeName>
+                    <date when="1799-06-05">5.6.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117387436">Karl Ludwig Willdenow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Puerto Orotava</placeName>
+                    <date from="1799-06-20" to="1799-06-25">20.-25.6.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>La Orotava</placeName>
+                    <date when="1799-06-24">24.6.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Philipp Baron von Forell</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>La Orotava</placeName>
+                    <date when="1799-06-24">24.6.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117548081">Christian Friedrich
+                        Goedeking</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1799-07-16">16.7.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Philipp Baron von Forell</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1799-07-16">16.7.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1799-07-18">18.7.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jean Claude de Lamtherie</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date notBefore="1799-07-21" notAfter="1799-07-31">[Ende Juli 1799]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/120388642">Thomas Picton</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/120388642">Thomas Picton</persName>
+                    <placeName>Port of Spain</placeName>
+                    <date notBefore="1799-08-01" notAfter="1799-08-10">[Anfang August 1799]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date from="1799-09-01" to="1799-11-17">1.9. bis 17.11.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Franz Xaver Freiherr von Zach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="16">
+                <correspAction type="sent">
+                    <persName>Manuel de Navarrete</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date notAfter="1799-09-04">[vor 4.9.1799]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1799-09-29">29.9.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/163178085">Mariano Luis de
+                        Urquijo</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date notBefore="1799-10-01" notAfter="1799-10-10">Anfang Oktober 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1799-10-15">15.10.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Ludwig Ballmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1799-11-15">15.11.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554719">Caroline von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date from="1799-11-18" to="1799-11-20">18. bis 20.11.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Reinhard und Christiane von Haeften</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <placeName ref="http://www.geonames.org/3646738">Caracas</placeName>
+                    <date notAfter="1799-11-19" when="1799-12-14">[vor 19.11.1799],
+                        14.12.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jerme Joseph de Lalande</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>La Guaira</placeName>
+                    <date when="1800-01-25">25.1.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Antoine Franois Comte Fourcroy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Unbekannt</placeName>
+                    <date notAfter="1800-01-25">[vor 25.1.1800]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Emanuel Joseph Sieys</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3646738">Caracas</placeName>
+                    <date when="1800-01">Januar 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Antonio Montenegro</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3646738">Caracas</placeName>
+                    <date when="1800-02-03">3.2.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Clavijo y Fajardo</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3646738">Caracas</placeName>
+                    <date when="1800-02-03">3.2.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Philipp Baron von Forell</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3646738">Caracas</placeName>
+                    <date when="1800-02-05">5.2.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Felipe de Ynciarte</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="29">
+                <correspAction type="sent">
+                    <persName>José Felipe de Ynciarte</persName>
+                    <placeName>Santo Tom de Guayana</placeName>
+                    <date when="1800-03-15">15.3.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/163178085">Mariano Luis de
+                        Urquijo</persName>
+                    <placeName>San Ildefonso</placeName>
+                    <date when="1800-08-02">2.8.1800</date>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Nueva Barcelona</placeName>
+                    <date when="1800-08-09">9.8.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Felipe de Ynciarte</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Nueva Barcelona</placeName>
+                    <date when="1800-08-23">23.8.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Manuel Guevara y Vasconcelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="33">
+                <correspAction type="sent">
+                    <persName>José Felipe de Ynciarte</persName>
+                    <placeName>Santo Tom de Guayana</placeName>
+                    <date when="1800-08-29">29.8.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1800-10-16">16.10.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Antoine Franois Comte Fourcroy</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1800-10-17">17.10.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1800-10-18">18.10.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Christiane von Haeften</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1800-11-15">15.11.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Sir Joseph Banks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1800-11-15">15.11.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jean Claude de Lamtherie</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Barcelona</placeName>
+                    <date when="1800-11-24">24.11.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118878913">Jean Baptiste Joseph
+                        Delambre</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118878913">Jean Baptiste Joseph
+                        Delambre</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1801-01-22">22.1.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3553478">Havanna</placeName>
+                    <date when="1801-02-21">21.2.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117387436">Karl Ludwig Willdenow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3553478">Havanna</placeName>
+                    <date when="1801-03-04">4.3.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117387436">Karl Ludwig Willdenow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3687238">Cartagena</placeName>
+                    <date when="1801-04-01">1.4.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3687238">Cartagena</placeName>
+                    <date when="1801-04-12">12.4.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Thomas-Nicolas Baudin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Turbaco</placeName>
+                    <date notAfter="1801-04-19">[nach 6.4., vor 19.4.1801]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Celestino Mutis</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="46">
+                <correspAction type="sent">
+                    <persName>José Celestino Mutis</persName>
+                    <placeName>Santa Fe de Bogot</placeName>
+                    <date when="1801-04-29">29.4.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Honda</placeName>
+                    <date notBefore="1801-06-15">[nach 15.6.1801]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Pedro Mendinueta y Musquiz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Honda</placeName>
+                    <date when="1801-06-23">[zwischen 15. und 23.6.1801]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Ignacio de Pombo</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Mariquita und Santa Ana</placeName>
+                    <date when="1801-06-18">[17. und 18.6.1801]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Celestino Mutis</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="50">
+                <correspAction type="sent">
+                    <persName>José Celestino Mutis</persName>
+                    <placeName>Santa Fe de Bogot</placeName>
+                    <date when="1801-06-27">27.6.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Santa Fe de Bogot</placeName>
+                    <date when="1801-09-06">6.9.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="52">
+                <correspAction type="sent">
+                    <persName>Vicente de Emparan</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date notAfter="1801-09-08">[vor 8.9.1801]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="53">
+                <correspAction type="sent">
+                    <persName>Miguel Isla</persName>
+                    <placeName>Santa Fe de Bogot</placeName>
+                    <date notAfter="1801-09-08">[vor 8.9.1801]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="54">
+                <correspAction type="sent">
+                    <persName>José Celestino Mutis</persName>
+                    <placeName>Santa Fe de Bogot</placeName>
+                    <date when="1801-09-12">12.9.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Contreras</placeName>
+                    <date when="1801-09-21">21.9.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="56">
+                <correspAction type="sent">
+                    <persName>I. N. Buenaventura</persName>
+                    <placeName>Ibagu</placeName>
+                    <date when="1801-09-29">29.9.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="57">
+                <correspAction type="sent">
+                    <persName>José Celestino Mutis</persName>
+                    <placeName>Santa Fe de Bogot</placeName>
+                    <date when="1801-10-21">21.10.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="58">
+                <correspAction type="sent">
+                    <persName>José Celestino Mutis</persName>
+                    <placeName>Santa Fe de Bogot</placeName>
+                    <date when="1801-11-06">6.11.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Popayn</placeName>
+                    <date when="1801-11-10">10.11.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Celestino Mutis</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Popayn</placeName>
+                    <date when="1801-11-21">21.11.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Gottlieb Johann Christian Kunth</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Popayn</placeName>
+                    <date when="1801-11-25">25.11.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Clavijo y Fajardo</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Popayn</placeName>
+                    <date when="1801-11-26">26.11.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="63">
+                <correspAction type="sent">
+                    <persName>Francisco José de Caldas</persName>
+                    <placeName>Quito</placeName>
+                    <date when="1801-12-06">6.12.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Quito</placeName>
+                    <date notAfter="1802-04-30">[nach 6.1., vor 30.4.1802]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Ignacio de Pombo</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="65">
+                <correspAction type="sent">
+                    <persName>einem Herrn</persName>
+                    <placeName>Casa (Carlosama?)</placeName>
+                    <date when="1802-01-16">16.1.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Quito</placeName>
+                    <date when="1802-02-04">4.2.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Sebastian José Lopez Ruiz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="67">
+                <correspAction type="sent">
+                    <persName>José Posse Pardo</persName>
+                    <placeName>Ibarra</placeName>
+                    <date when="1802-04-12">12.4.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="68">
+                <correspAction type="sent">
+                    <persName>Miguel Bello</persName>
+                    <placeName>Quito</placeName>
+                    <date when="1802-04-13">13.4.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Quito</placeName>
+                    <date when="1802-05-18">18.5.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Peter Heinrich Christoph Brodhagen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="70">
+                <correspAction type="sent">
+                    <persName>José Celestino Mutis</persName>
+                    <placeName>Santa Fe de Bogot</placeName>
+                    <date when="1802-05-21">21.5.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Quito</placeName>
+                    <date when="1802-06-03">3.6.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Quito</placeName>
+                    <date when="1802-06-05">5.6.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Pedro Cevallos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="73">
+                <correspAction type="sent">
+                    <persName>José Ascsubi y M[...]</persName>
+                    <placeName>[Quito]</placeName>
+                    <date notAfter="1802-06-09">[vor 9.6.1802]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="74">
+                <correspAction type="sent">
+                    <persName>Salvador Puigbert</persName>
+                    <placeName>Latacunga</placeName>
+                    <date when="1802-06-11">[11.6.1802]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Quito</placeName>
+                    <date when="1802-06-12">12.6.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Clavijo y Fajardo</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="76">
+                <correspAction type="sent">
+                    <persName>Leonardo Sepla y Oro</persName>
+                    <placeName>Licn</placeName>
+                    <date when="1802-06-27">27.6.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Cuenca</placeName>
+                    <date notAfter="1802-07-17">[nach 4., vor 17.7.1802]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Luis Francisco Hector de Carondelet y Caldrn</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Cuenca</placeName>
+                    <date notAfter="1802-07-17">[nach 4., vor 17.7.1802]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Ignacio Checa</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Cuenca</placeName>
+                    <date when="1802-07-13">13.7.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Ayabaca</placeName>
+                    <date when="1802-08-02">2.8.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Domingo de Tovar y Ponte</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="81">
+                <correspAction type="sent">
+                    <persName>Pedro Garcia de la Vera</persName>
+                    <placeName>Cuenca</placeName>
+                    <date when="1802-09-29">29.9.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Trujillo</placeName>
+                    <date when="1802-09-30">30.9.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Francisco José de Caldas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="83">
+                <correspAction type="sent">
+                    <persName>Friedrich Mothes</persName>
+                    <placeName>Unbekannt</placeName>
+                    <date notBefore="1802-09-12">[nach 12.9.1802]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3936456">Lima</placeName>
+                    <date notAfter="1802-12-24">[nach 23.10., vor 24.12.1802]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Ignacio de Pombo</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="85">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3936456">Lima</placeName>
+                    <date when="1802-11-03">3.11.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Celestino Mutis</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3936456">Lima</placeName>
+                    <date when="1802-11-07">7.11.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Pedro Mendinueta y Musquiz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="87">
+                <correspAction type="sent">
+                    <persName>Francisco José de Caldas</persName>
+                    <placeName>Otavalo</placeName>
+                    <date when="1802-11-17">17.11.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3936456">Lima</placeName>
+                    <date when="1802-11-25">25.11.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118878913">Jean Baptiste Joseph
+                        Delambre</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3936456">Lima</placeName>
+                    <date when="1802-11-25">25.11.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="90">
+                <correspAction type="sent">
+                    <persName>José Ignacio Checa</persName>
+                    <placeName>[Jan]</placeName>
+                    <date when="1802-12-10">10.12.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="91">
+                <correspAction type="sent">
+                    <persName>Andrs Lebonido</persName>
+                    <placeName ref="http://www.geonames.org/3936456">Lima</placeName>
+                    <date when="1802-12-20">20.12.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Guayaquil</placeName>
+                    <date when="1803-01-06">6.1.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Frchtegottt Leberecht Freiherr von Nordenflycht</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="93">
+                <correspAction type="sent">
+                    <persName>Pedro Garcia de la Vera</persName>
+                    <placeName>Cuenca</placeName>
+                    <date when="1803-01-14">14.1.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="94">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Guayaquil</placeName>
+                    <date when="1803-01-18">18.1.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Ignacio Checa</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="95">
+                <correspAction type="sent">
+                    <persName>Aim Bonpland und Camilo Montes</persName>
+                    <placeName>Guayaquil</placeName>
+                    <date when="1803-02-04">[4.2.1803]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="96">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Guayaquil</placeName>
+                    <date when="1803-02-08">8.2.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José Igancio de Pombo</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="97">
+                <correspAction type="sent">
+                    <persName>Frchtegottt Leberecht Freiherr von Nordenflycht</persName>
+                    <placeName ref="http://www.geonames.org/3936456">Lima</placeName>
+                    <date when="1803-02-11">11.2.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="98">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Guayaquil</placeName>
+                    <date when="1803-02-14">14.2.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Manuel de Navarrete</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="99">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>vor Guayaquil</placeName>
+                    <date when="1803-02-20">[zwischen 17. und 20.2.1803]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Francisco José de Caldas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Acapulco</placeName>
+                    <date when="1803-03-28">28.3.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José de Iturrigaray</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="101">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Unbekannt</placeName>
+                    <date notAfter="1803-04-01">[vor 1.4.1803]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Domingo de Tovar y Ponte</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="102">
+                <correspAction type="sent">
+                    <persName>José de Iturrigaray</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1803-04-15">15.4.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="103">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1803-04-22">22.4.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Antonio José Cavanilles</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="104">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1803-04-29">29.4.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117387436">Karl Ludwig Willdenow</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="105">
+                <correspAction type="sent">
+                    <persName>José Ignacio Checa</persName>
+                    <placeName>Colazay</placeName>
+                    <date when="1803-05-20">20.5.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="106">
+                <correspAction type="sent">
+                    <persName>Domingo Antonio Delgado</persName>
+                    <placeName>Cuenca</placeName>
+                    <date when="1803-05-28">28.5.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="107">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1803-05">Mai 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Allgemeine Literatur-Zeitung</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="108">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Mxiko</placeName>
+                    <date when="1803-06-21">21.6.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Institut National de France</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="109">
+                <correspAction type="sent">
+                    <persName>José Ignacio de Pombo</persName>
+                    <placeName ref="http://www.geonames.org/3687238">Cartagena</placeName>
+                    <date when="1803-07-01">1.7.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="110">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1803-07-29">29.7.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118878913">Jean Baptiste Joseph
+                        Delambre</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="111">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Guanajuato</placeName>
+                    <date when="1803-08-11">11.8.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="112">
+                <correspAction type="sent">
+                    <persName>Manuel de Navarrete</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1803-08-21">21.8.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="113">
+                <correspAction type="sent">
+                    <persName>Manuel de Navarrete</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1803-08-22">22.8.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="114">
+                <correspAction type="sent">
+                    <persName>Miguel de la Gra y Talamanca Marqus de Branciforte</persName>
+                    <placeName>San Ildefonso</placeName>
+                    <date when="1803-08-27">27.8.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="115">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Valladolid</placeName>
+                    <date when="1803-09-23">23.9.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="116">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1803-11-08">8.11.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Manuel de Espinosa y Tello</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="117">
+                <correspAction type="sent">
+                    <persName>Antonio Quartara</persName>
+                    <placeName>Guayaquil</placeName>
+                    <date when="1803-11-18">18.11.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="118">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1803-11-22">22.11.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Miguel Constanzo</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="119">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1803-12-17">17.12.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Miguel Constanzo</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="120">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1804-01-03">3.1.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José de Iturrigaray</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="121">
+                <correspAction type="sent">
+                    <persName>José de Iturrigaray</persName>
+                    <placeName>[Mexico]</placeName>
+                    <date when="1804-01-20">20.1.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="122">
+                <correspAction type="sent">
+                    <persName>Real Tribunal General de Mineria</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1804-01-25">25.1.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="123">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Puebla</placeName>
+                    <date when="1804-01-27">27.1.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117607347">Juan José Oteyza</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="124">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Jalapa</placeName>
+                    <date when="1804-02-02">2.2.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117607347">Juan José Oteyza</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="125">
+                <correspAction type="sent">
+                    <persName>José Ignacio de Pombo</persName>
+                    <placeName ref="http://www.geonames.org/3687238">Cartagena</placeName>
+                    <date when="1804-02-06">6.2.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="126">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677578">Georges Baron Cuvier</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1804-02-08">8.2.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="127">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117607347">Juan José Oteyza</persName>
+                    <placeName>Méxiko</placeName>
+                    <date when="1804-02-08">8.2.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="128">
+                <correspAction type="sent">
+                    <persName>Vicente de Emparn</persName>
+                    <placeName ref="http://www.geonames.org/3644768">Cumaná</placeName>
+                    <date when="1804-02-10">10.2.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="129">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Jalapa</placeName>
+                    <date when="1804-02-11">11.2.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Diego Garca Conde</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="130">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Jalapa</placeName>
+                    <date when="1804-02-16">16.2.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Manuel Ruiz de Tejada</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="131">
+                <correspAction type="sent">
+                    <persName>Louis de Rieux</persName>
+                    <placeName>Honda</placeName>
+                    <date when="1804-02-19">19.2.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="132">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Guines</placeName>
+                    <date when="1804-03-27">27.3.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jean Antoine Chaptal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="133">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3553478">Havanna</placeName>
+                    <date when="1804-03-27">27.3.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Christiane von Haeften</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="134">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3553478">Havanna</placeName>
+                    <date when="1804-03-28">28.3.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="135">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3553478">Havanna</placeName>
+                    <date when="1804-04-07">7.4.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Salvador de Muro y Salazar, Marqus des Someruelos</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="136">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/3553478">Havanna</placeName>
+                    <date when="1804-04-25">25.4.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>José de Espinosa y Tello</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="137">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Delaware River</placeName>
+                    <date when="1804-05-20">20.5.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Zacheus Collins</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="138">
+                <correspAction type="sent">
+                    <persName>Zacheus Collins</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-05-23">23.5.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="139">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-05-24">24.5.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118711962">Thomas Jefferson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="140">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-05-24">24.5.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118730029">James Madison</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="141">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118711962">Thomas Jefferson</persName>
+                    <placeName>Washington</placeName>
+                    <date when="1804-05-28">28.5.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="142">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06-01">1.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554727">Wilhelm von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="143">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118711962">Thomas Jefferson</persName>
+                    <placeName>Washington</placeName>
+                    <date when="1804-06-09">9.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="144">
+                <correspAction type="sent">
+                    <persName>Gotthilf Henry Ernest Mhlenberg</persName>
+                    <placeName>Lancaster</placeName>
+                    <date notBefore="1804-06-16">nach 16.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="145">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06">[19.]6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118730029">James Madison</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="146">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06-20">20.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Albert Gallatin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="147">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06-20">20.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>William Thornton</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="148">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06-21">21.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118730029">James Madison</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="149">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118730029">James Madison</persName>
+                    <placeName>Washington</placeName>
+                    <date when="1804-06-23">23.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="150">
+                <correspAction type="sent">
+                    <persName>William Thornton</persName>
+                    <placeName>Washington</placeName>
+                    <date when="1804-06-25">25.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="151">
+                <correspAction type="sent">
+                    <persName>Albert Gallatin</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06-27">27.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="152">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06-27">27.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Albert Gallatin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="153">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06-27">27.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118711962">Thomas Jefferson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="154">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06-27">27.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118730029">James Madison</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="155">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06-27">27.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Gotthilf Henry Ernest Mühlenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="156">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06-27">27.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>William Thornton</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="157">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date notAfter="1804-06-27">[vor 27.6.1804]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118711962">Thomas Jefferson</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="158">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Newcastle</placeName>
+                    <date when="1804-06-30">[30.6.1804]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>John Vaughan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="159">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/4560349">Philadelphia</placeName>
+                    <date when="1804-06">[Juni 1804]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>David Bailie Warden</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="160">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Bei Bordeaux</placeName>
+                    <date when="1804-08-01">1.8.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Karl Freiesleben</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Royen</placeName>
+                    <date when="1804-08-02">2.8.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118878913">Jean Baptiste Joseph
+                        Delambre</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="162">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>Royan</placeName>
+                    <date when="1804-08-02">2.8.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Antoine Laurent de Jussieu</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#AVH_AMERIKA" key="163">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName>bei Bordeaux</placeName>
+                    <date when="1804-08-03">3.8.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116611839">Gottlob Johann Christian
+                        Kunth</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Georg von Cancrin</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">BBAW</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-05-21T17:02:46.523-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Cancrin.xml</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    Aufgenommen in das CMIF wurden nur diejenigen Briefe, die nicht in: Alexander von Humboldt. Briefe aus Russland 1829. Hg. v. Eberhard Knobloch, Ingo Schwarz und Christian Suckow. Berlin 2009 vorliegen.
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="p323e9c9-373f-45ea-b653-69580dc345e6">Im Ural und Altai. Briefwechsel zwischen Alexander von Humboldt und Graf Georg von Cancrin aus den Jahren 1827-1832, Leipzig 1869. <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10467085-1">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10467085-1</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc ref="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10467085_00023.html" source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118666878">Georg von Cancrin</persName>
+                    <date when="1827-08-15"/>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118666878">Georg von Cancrin</persName>
+                    <date when="1827-10-22"/>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118666878">Georg von Cancrin</persName>
+                    <date from="1827-12-08" to="1827-12-20"/>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118666878">Georg von Cancrin</persName>
+                    <date from="1828-05-05" to="1828-05-17"/>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-02-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118666878">Georg von Cancrin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-05-27"/>
+                    <placeName ref="http://www.geonames.org/551487">Kasan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118666878">Georg von Cancrin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-08-29"/>
+                    <placeName ref="http://www.geonames.org/462444">Slatoust</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jekaterina von Cancrin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1829-10-01" to="1829-10-13"/>
+                    <placeName ref="http://www.geonames.org/580497">Astrachan</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Baron von Schöler</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-01-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118666878">Georg von Cancrin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-04-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118666878">Georg von Cancrin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-06-02"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118666878">Georg von Cancrin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#p323e9c9-373f-45ea-b653-69580dc345e6" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-11-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118666878">Georg von Cancrin</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

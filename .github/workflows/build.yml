@@ -1,0 +1,31 @@
+name: Build and publish
+
+on:
+  push
+
+jobs:
+  build_pages:
+    name: Buil and publish as GitHub Pages Website
+    runs-on: ubuntu-latest
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v2
+      with:
+        path: ${{ env.pythonLocation }}
+        key: ${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
+    - name: Build Static Sites
+      run: |
+        pip install -r requirements.txt
+        rm -rf ./html/data
+        mkdir ./html/data
+        ./build.sh
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{secrets.GITHUB_TOKEN}}
+        publish_dir: ./html

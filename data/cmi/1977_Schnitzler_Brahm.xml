@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ein bisher unbekannter Brief Arthur Schnitzlers an Otto Brahm</title>
+                <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Martin Anton
+                        Müller</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <date when="2022-01-04T15:38:39.385-01:00"/>
+                <idno type="url"
+                    >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1977_Schnitzler_Brahm.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="yf5eeb0a-209f-4557-86ce-60aecec6cc5f">Reinhard Urbach:
+                    Ein bisher unbekannter Brief Arthur Schnitzlers an Otto Brahm. In: Modern
+                    Austrian Literature, Jg. 10 (1977), Nr. 3/4, S. 19–21.
+                    http://www.jstor.org/stable/24645881</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#yf5eeb0a-209f-4557-86ce-60aecec6cc5f" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1907-10-20"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture"
+                        >Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

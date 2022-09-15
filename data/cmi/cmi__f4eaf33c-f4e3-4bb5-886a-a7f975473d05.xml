@@ -1,0 +1,579 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-108e-f982-24910a36bc">Forkel's letters to Hoffmeister</title>
+                <editor>Klaus Rettinghaus</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Sächsische Akademie der Wissenschaften zu Leipzig</publisher>
+                <publisher>Bach-Archiv Leipzig</publisher>
+                <idno type="url">https://www.bach-digital.de/letters/ForkelLetters.xml</idno>
+                <date when="2020-04-20T14:38:36.275642"/>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="f4eaf33c-f4e3-4bb5-886a-a7f975473d05">Stauffer, George B., Hrsg., 1990. The Forkel - Hoffmeister &amp; Kühnel correspondence : a document of the early 19th-century Bach revival. New York , Peters. ISBN 0-938856-04-9</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc key="1" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-46d0-e03d-873ac2be4f">
+                <correspAction type="sent" xml:id="sender-62f8-0d4a-dc720183fb">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-05-04"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-7861-5a4b-1720439eb5">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="2" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-87a4-3e56-e61f5abc2d">
+                <correspAction type="sent" xml:id="sender-2af8-e68d-03b47ea521">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-08-02"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-ed6f-6029-4b52d89fa3">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="3" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-5eda-cf3d-905feab132">
+                <correspAction type="sent" xml:id="sender-9c68-4ad9-cfd564821b">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-10"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-a2cd-d56b-075d6fe92c">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="4" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-f261-219b-1a7d26084b">
+                <correspAction type="sent" xml:id="sender-c6d2-d46e-87fa1032d5">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-12-04"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-b9ec-4ef2-9847d6f3c1">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="5" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-a2fc-73af-038f42bedc">
+                <correspAction type="sent" xml:id="sender-9c08-69b8-2cb96de785">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-12-21"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-62ab-a201-57d80a24f6">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="6" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-dc74-90ec-42a68031fb">
+                <correspAction type="sent" xml:id="sender-48a3-28f7-3d68429b0f">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-01-11"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-9ecb-f81a-d7e851acb4">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="7" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-a482-e217-d15f7cba8e">
+                <correspAction type="sent" xml:id="sender-25c9-603e-735cb6d801">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-02-15"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-0172-05b4-2e07fa94c3">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="8" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-d1fe-82b6-4f8ea06721">
+                <correspAction type="sent" xml:id="sender-d67b-9bd8-d5abf01682">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-02-22"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-b4f8-d03f-d1e54076ac">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="9" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-7e30-f6ad-bce645310d">
+                <correspAction type="sent" xml:id="sender-0517-86b7-802db3c475">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-03-05"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-12ec-2ec9-62f0ae789b">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-734f-e628-7c60341fa8">
+                <correspAction type="sent" xml:id="sender-c0ed-f136-342156de87">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-04-30"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-37f2-670e-c29863eba4">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-498b-d7f6-ad2e491760">
+                <correspAction type="sent" xml:id="sender-317c-c130-c0de763bf4">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-05-18"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-b4c2-e64f-b27941e5f8">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="10" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-78f2-2034-3aebd12467">
+                <correspAction type="sent" xml:id="sender-fa30-95c0-6a2f18e4cd">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-05-24"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-d102-145e-7b5e89d32a">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="11" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-34b9-01a7-d36b751f4e">
+                <correspAction type="sent" xml:id="sender-91e2-dfb3-9df678eb23">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-05-31"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-c786-9c81-f7a658c341">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-b8f5-943f-7efd5234ba">
+                <correspAction type="sent" xml:id="sender-20cd-c3a9-6389f54ad7">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-05-31"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-6d0b-9fba-39ce2840df">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="12" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-951a-3c6b-e496d3107c">
+                <correspAction type="sent" xml:id="sender-1640-57b6-f3ec61a5b7">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-06-18"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-b60f-2360-75b0e92d83">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="13" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-8d26-fce4-f27a034c8b">
+                <correspAction type="sent" xml:id="sender-549e-c6fe-e145af2930">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-06-25"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-3d62-c87f-80bec69a45">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="14" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-3e2a-e08a-fbca5829e6">
+                <correspAction type="sent" xml:id="sender-1f9b-df18-be3d6012fc">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-07-16"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-f713-5f01-4f9d0a35ec">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="15" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-5d17-0de7-6fd1ae7809">
+                <correspAction type="sent" xml:id="sender-4fe1-5a4c-6a745b81f2">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-07-19"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-694c-f4e7-a25e846cd0">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-176d-51ab-0d4a7e135b">
+                <correspAction type="sent" xml:id="sender-0964-fb50-6edfa08129">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-07-19"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-2e07-6e23-cb152de9f7">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="16" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-fc17-9cae-643a0c97b2">
+                <correspAction type="sent" xml:id="sender-47a2-c031-c9f16deb4a">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-08-02"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-30fb-a973-ef21570834">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="17" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-a096-103d-0dc2a65bf7">
+                <correspAction type="sent" xml:id="sender-283b-432a-079ade12b5">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-08-09"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-a61e-be35-956f1ae24b">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="18" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-4216-e5ba-9fe01dca57">
+                <correspAction type="sent" xml:id="sender-d8f5-8ac0-6e5971b0da">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-08-16"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-94ef-d8b5-48cbad265e">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="19" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-8024-56da-ec568da017">
+                <correspAction type="sent" xml:id="sender-d806-d5b7-9601c32f5d">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-09-24"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-49c5-827a-6284c513db">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-10e2-6a14-2fb1a48c0d">
+                <correspAction type="sent" xml:id="sender-a6dc-3dc6-7d213e94c8">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-09-24"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-83dc-479e-67083ea415">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="20" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-7bd2-a021-d560b3918f">
+                <correspAction type="sent" xml:id="sender-730d-b298-7261953a4e">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-10-08"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-4a71-e439-b1670c3d84">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="21" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-a5ef-9ea1-03b67d582c">
+                <correspAction type="sent" xml:id="sender-8e7c-bc37-ba634d2c18">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-10-29"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-8cf0-7cb8-906f1c2d7b">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-2846-d2c6-c8bd4761f2">
+                <correspAction type="sent" xml:id="sender-6318-5e47-23e19d6a08">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-10-29"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-6870-da31-0abfe3724c">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-14fc-436f-1cb48793ef">
+                <correspAction type="sent" xml:id="sender-0f49-9d56-d21a409be8">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-11-08"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-23a7-591b-914f37ed8b">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="22" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-e92b-043f-587b214d0e">
+                <correspAction type="sent" xml:id="sender-05db-3592-1a9320456b">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-11-12"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-a6e3-54e1-50e9c2d681">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="23" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-34fb-92de-b51f83d279">
+                <correspAction type="sent" xml:id="sender-ed52-9f73-a3d7549f1e">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-11-26"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-38be-3425-d69871b4ce">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="24" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-8340-b5fd-b8d152fce6">
+                <correspAction type="sent" xml:id="sender-ef27-d564-eb68a41f7c">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-12-20"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-6793-2df0-3a2d1e7605">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-ca58-4f32-9820f514e7">
+                <correspAction type="sent" xml:id="sender-ef2a-3047-b30915de26">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1802-12-20"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-1328-d7e3-bae4710296">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="25" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-ad63-816f-5a7d1bc0e2">
+                <correspAction type="sent" xml:id="sender-9fe0-346b-48e7bfad3c">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1802-12-23"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-671e-c604-6d3859f20b">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="26" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-f74e-e72f-d409528eaf">
+                <correspAction type="sent" xml:id="sender-5ad2-503c-c6a09feb13">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1803-01-21"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-60c4-3ed2-80e134a9c5">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-e1d0-127f-6c3e7f52d1">
+                <correspAction type="sent" xml:id="sender-be04-dc29-7d53a16e0c">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1803-01-21"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-b5f4-4d3c-d6b1f9ae20">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="27" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-da1f-902a-4972fea6c3">
+                <correspAction type="sent" xml:id="sender-5049-36ef-18cda40769">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-02-04"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-4a61-74ac-8102596c7f">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="28" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-bd4a-f4b7-eb24d87c90">
+                <correspAction type="sent" xml:id="sender-7da6-f132-0783b4c59d">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-04-04"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-501c-a483-c3d8a1467f">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="29" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-12ed-4ea9-9cb613ead0">
+                <correspAction type="sent" xml:id="sender-752e-b8ac-45bf2981e7">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1803-10-03"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-efb0-c713-314897f5d0">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="30" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-6ed7-df10-2f79c4ab68">
+                <correspAction type="sent" xml:id="sender-798f-8be3-017d563abe">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1804-01-30"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-3fde-d856-9134f750e6">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-5c31-1b70-3bae794cfd">
+                <correspAction type="sent" xml:id="sender-d93e-5f8e-a97c3d5b81">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1804-07-03"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-fd98-3546-069fce581a">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="31" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-8071-1957-140b56328d">
+                <correspAction type="sent" xml:id="sender-a814-f315-0f4ba87592">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1804-10-08"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-0a7e-3d58-6c71e53f04">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="32" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-dcaf-a3d6-3b1425c68e">
+                <correspAction type="sent" xml:id="sender-c387-2b39-96c0342f18">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1805-06-28"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-1983-08ac-1e04bfd6a9">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-19af-913f-1ab492873c">
+                <correspAction type="sent" xml:id="sender-4bc0-9fba-b57cf93a8d">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-03-30"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-0429-e0d6-f2bd78e510">
+                    <orgName ref="http://d-nb.info/gnd/5164401-0">Dieterichsche Buchhandlung</orgName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="33" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-a496-f209-83e715d2f6">
+                <correspAction type="sent" xml:id="sender-2e10-348d-edc150382a">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-06-20"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-71e4-5fed-ca45791fb6">
+                    <persName ref="http://d-nb.info/gnd/119060949">Ambrosius Kühnel</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="34" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-ed0c-8b49-a9754e31c0">
+                <correspAction type="sent" xml:id="sender-f15d-650a-715c9462f3">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1808-11-27"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-4ed0-acb4-f56b79c30e">
+                    <persName ref="http://d-nb.info/gnd/119060949">Ambrosius Kühnel</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="35" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-06bf-27fe-6e20f914a5">
+                <correspAction type="sent" xml:id="sender-931d-0375-c47f6b9ea0">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1810-05-18"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-d597-a2d7-2fb63197c0">
+                    <persName ref="http://d-nb.info/gnd/119060949">Ambrosius Kühnel</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-b023-fbe4-8459cfe62b">
+                <correspAction type="sent" xml:id="sender-874d-e42f-d6048bef19">
+                    <persName ref="http://d-nb.info/gnd/119060949">Ambrosius Kühnel</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1812-03-10"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-82a9-2a30-743cf85d91">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-0c67-b8c5-9cd354b8f2">
+                <correspAction type="sent" xml:id="sender-90bc-6309-1b93ae68f2">
+                    <persName ref="http://d-nb.info/gnd/119060949">Ambrosius Kühnel</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1812-11-14"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-a179-7c2b-02b67f5a43">
+                    <persName>Conrad Knop</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="36" source="#f4eaf33c-f4e3-4bb5-886a-a7f975473d05" xml:id="letter-a8f2-4593-76daf59b1e">
+                <correspAction type="sent" xml:id="sender-60fa-e92b-fb9e825ad1">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1814-06-23"/>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-349d-09df-2d6c91b73f">
+                    <orgName ref="http://d-nb.info/gnd/4351303-7">C. F. Peters</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc xml:id="letter-a3d1-8246-a8015fe96b">
+                <correspAction type="sent" xml:id="sender-23f7-5ed9-b762580d31">
+                    <persName ref="http://d-nb.info/gnd/118809962">Johann Nikolaus Forkel</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received" xml:id="addressee-4213-74a3-781a2056bf">
+                    <orgName ref="http://d-nb.info/gnd/5099699-X">Hoffmeister &amp; Kühnel</orgName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

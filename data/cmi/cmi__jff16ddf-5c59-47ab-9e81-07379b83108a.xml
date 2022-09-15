@@ -1,0 +1,521 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt und Friedrich Argelander</title>
+                <editor>Luise Schlachter<email>luise.schlachter@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-10-24T18:48:51.455-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Argelander.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="jff16ddf-5c59-47ab-9e81-07379b83108a">Alexander von Humboldt und Friedrich Argelander: Briefwechsel. Herausgegeben von Ingo Schwarz und Oliver Schwarz unter Mitarbeit von Eberhard Knobloch. Berlin 2019. (Beiträge zur Alexander-von-Humboldt-Forschung. Band 46.)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700" evidence="conjecture">Alexander von Humboldt</persName>
+                    <date notAfter="1859-05-06" notBefore="1840-01-01">wohl nach 1840</date>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432" evidence="conjecture">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700" evidence="conjecture">Alexander von Humboldt</persName>
+                    <date when="1846-09-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432" evidence="conjecture">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432" evidence="conjecture">Friedrich Argelander</persName>
+                    <date cert="low" when="1850-01-28"/>
+                    <placeName ref="http://www.geonames.org/2946447" evidence="conjecture">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700" evidence="conjecture">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432" evidence="conjecture">Friedrich Argelander</persName>
+                    <date when="1850-02-15"/>
+                    <placeName ref="http://www.geonames.org/2946447" evidence="conjecture">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700" evidence="conjecture">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700" evidence="conjecture">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432" evidence="conjecture">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432" evidence="conjecture">Friedrich Argelander</persName>
+                    <date cert="low" when="1850-03-25"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700" evidence="conjecture">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432" evidence="conjecture">Friedrich Argelander</persName>
+                    <date notAfter="1850-03" notBefore="1850-03"/>
+                    <placeName ref="http://www.geonames.org/2946447" evidence="conjecture">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1850-04-01"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" notAfter="1850-06-26">vor dem 27.6.1850</date>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-06-27"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1850-07-08"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1850-07-09"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-07-09"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1850-07-16"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-08-14"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1850-08-19"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-08-29"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1850-09-03"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1850-09-12"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-09-16"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-09-23"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1850-09-27"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1850-09-28"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-09-29"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName cert="low" ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" notAfter="1850-09"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1850-10-20"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-12-15"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1851-01-10"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-08-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-09-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-03-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-03-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-03-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-03-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-02-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1854-02-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-04-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1854-08-08"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1856-09-21"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1856-09-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                    <date when="1856-10-03"/>
+                    <placeName ref="http://www.geonames.org/2946447">Bonn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1858-03-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119228432">Friedrich Argelander</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="Anhang 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-06-07"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10148772X">Eduard Buschmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="Anhang 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-06-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10148772X">Eduard Buschmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="Anhang 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-06-26"/>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10148772X">Eduard Buschmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="Anhang 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-06-26"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10148772X">Eduard Buschmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="Anhang 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-07-05"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10148772X">Eduard Buschmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="Anhang 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-08-28"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10148772X">Eduard Buschmann</persName>
+                    <date when="1850-08-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#jff16ddf-5c59-47ab-9e81-07379b83108a" key="Anhang 7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1850-09-23"/>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/10148772X">Eduard Buschmann</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe an Arthur Schnitzler in: Theodor Herzl: Briefe. Ende August 1900 –
+                    Ende Dezember 1902</title>
+                <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Martin Anton
+                        Müller</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <date when="2022-01-30T17:11:07.109-01:00"/>
+                <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1993_Herzl_an_Schnitzler.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b">Theodor Herzl:
+                    Briefe. Ende August 1900 – Ende Dezember 1902. Bearbeitet von Barbara Schäfer in
+                    Zusammenarbeit mit Sofia Gelmann, Chaya Harel, Ines Rubin. Berlin: Propyläen
+                    1993. (Theodor Herzl: Briefe und Tagebücher. Hg. Alex Bein, Hermann Greive,
+                    Moshe Schaerf, Julius H. Schoeps, Johannes Wachten. Sechster Band)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3021">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1900-11-14"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3030">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1900-11-16"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3072">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1900-12-05"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3074">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1900-12-06"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1900-12-21"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1900-12-22"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1900-12-24"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1900-12-23"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3220">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1901-03-05"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3255">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1901-04-11"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3279">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1901-05-03"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3629">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1901-11-25"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

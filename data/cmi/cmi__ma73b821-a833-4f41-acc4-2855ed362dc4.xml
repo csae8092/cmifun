@@ -1,0 +1,1368 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Claire de Duras</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburg Academy of Sciences and Humanities</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</licence>
+                </availability>
+                <date when="2021-09-15T20:01:09.743+02:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Duras.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="ma73b821-a833-4f41-acc4-2855ed362dc4">Alexandre de Humboldt, Lettres à Claire de Duras (1814-1828), correspondance inédite établie, présentée et annotée par Marie-Bénédicte Diethelm, préface de Marc Fumaroli. Paris: Manucius, 2016.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1814-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1814-12" notBefore="1814-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1814-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1814-12" notBefore="1814-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1814-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1815-06-30" notBefore="1815-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1815-07-31" notBefore="1815-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1815-08-31" notBefore="1815-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1815-09-30" notBefore="1815-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1815-09-30" notBefore="1815-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1815-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1815-09-30" notBefore="1815-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1815-09-30" notBefore="1815-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1815-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1815-10-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1815-10-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1815-11" notBefore="1815-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1815-11" notBefore="1815-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1815-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1815-16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1816-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1816-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1816-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1816-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1816-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1816-07-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1816-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1816-11-10" notBefore="1816-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1816-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1816-11-30" notBefore="1816-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1816-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118520237">François de Chateaubriand</persName>
+                    <date notAfter="1817-07" notBefore="1816-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1816-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1816-12" notBefore="1816-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1816-7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1816-12" notBefore="1816-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1816-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1816-12" notBefore="1816-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1816-9">
+                <correspAction type="sent">
+                    <persName>John  William Ward</persName>
+                    <date notAfter="1816-12" notBefore="1816-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1817-01-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1817-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1817-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1817-04-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1817-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1817-12" notBefore="1817-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="18167-7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1817-04-30" notBefore="1817-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1817-06" notBefore="1817-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1817-04-30" notBefore="1817-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1817-12" notBefore="1817-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1817-06-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1817-07-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1817-08-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1817-09-30" notBefore="1817-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1817-12" notBefore="1817-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1817-09-30" notBefore="1817-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1817-11-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1817-19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1817-12-31" notBefore="1817-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1818-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1818-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>de </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1818-12" notBefore="1818-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1818-06-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-5 bis">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-6 bis">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                    <date notAfter="1818-08-30" notBefore="1818-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-7 bis et ter.">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1818-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1818-08-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1818-09-29"/>
+                    <placeName ref="http://www.geonames.org/2643743">Londres</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1818-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1818-11-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1814-14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1818-03-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1818-12" notBefore="1818-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1818-12" notBefore="1818-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1818-12" notBefore="1818-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-18 bis">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                    <date notAfter="1818-12" notBefore="1818-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1818-12" notBefore="1818-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-19 bis">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                    <date notAfter="1818-12" notBefore="1818-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1818-19 ter">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                    <date notAfter="1818-12" notBefore="1818-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1819-02-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1819-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1819-03-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1819-03-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1819-07-31" notBefore="1819-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1819-08-31" notBefore="1819-08-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" from="1819-07-16" to="1819-07-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1819-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1819-08-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1819-09-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1819-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1819-15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1820-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1820-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1821-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1821-01-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1821-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1821-12" notBefore="1821-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1821-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1821-12" notBefore="1821-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1821-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1821-03-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1821-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1821-08-31" notBefore="1821-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1821-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1821-7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1821" to="1822"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1822-bis-a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1822-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1822-06-30" notBefore="1822-06-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1822-1 bis">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1822-08-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1822-2 bis">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1822-08-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1823-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1823-12" notBefore="1823-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1823-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1823-12" notBefore="1823-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1823-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1823-12" notBefore="1823-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1823-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1823-10-31" notBefore="1823-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1823-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1823-12" notBefore="1823-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1823-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1823-12" notBefore="1823-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1824-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1824-12" notBefore="1824-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-2 bis 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                    <date cert="low" evidence="conjecture" when="1824-02-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-2 bis 2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                    <date cert="low" when="1824-02-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-2 bis 3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1824-02-29" notBefore="1824-02-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-2 bis 4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-2 bis 5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-2 bis 6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-2 bis 7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-2 bis 8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>François Gérard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1824-10-31" notBefore="1824-10-01"/>
+                    <placeName ref="http://www.geonames.org/2979783">St. Germain</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1824-10-31" notBefore="1824-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-4 bis 1">
+                <correspAction type="sent">
+                    <persName>François Gérard</persName>
+                    <date when="1824-09-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-4 bis 2">
+                <correspAction type="sent">
+                    <persName>François Gérard</persName>
+                    <date cert="low" when="1824-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-4 bis 3">
+                <correspAction type="sent">
+                    <persName>François Gérard</persName>
+                    <date notAfter="1824-10-31" notBefore="1824-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1824-10-31" notBefore="1824-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1824-12" notBefore="1824-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1824-11-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1824-11-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt </persName>
+                    <date when="1824-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1824-12-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1824-11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1824-12" notBefore="1824-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1825-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1825-04-30" notBefore="1825-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1825-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1825-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1825-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1825-12-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1825-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1825-09-30" notBefore="1825-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1825-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notBefore="1825-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1826-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1825-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldtd</persName>
+                    <date notAfter="1826-12" notBefore="1826-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1826-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1826-06-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1826-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1826-10-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1826-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1826-09-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1826-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-11-29"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1826-13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1826-12-13"/>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1827-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1827-01-30" notBefore="1827-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1827-1 bis 1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang Goethe</persName>
+                    <date when="1827-05-06"/>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119543338">Claire de Duras</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1828-1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-02-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Voir Clara de Rauzan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ma73b821-a833-4f41-acc4-2855ed362dc4" key="1828">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-03-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100318371">Jean Pierre Abel-Rémusat</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,44 @@
+{% extends "templates/partials/base.j2" %}
+{% block title %}Absendeorte{% endblock %}
+{% block scriptHeader %}
+<script src="https://unpkg.com/deck.gl@^8.8.0/dist.min.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.13.0/mapbox-gl.js"></script>
+
+{% endblock scriptHeader %}
+
+
+{% block content %}
+
+<div>
+  <div id="control-panel">
+    <div>
+      <label>Radius</label>
+      <input id="radius" type="range" min="100" max="15000" step="10" value="3500"></input>
+      <span id="radius-value"></span>
+    </div>
+    <div>
+      <label>ElevationSale</label>
+      <input id="elevationScale" type="range" min="0" max="100" step="1" value="50"></input>
+      <span id="elevationScale-value"></span>
+    </div>
+  </div>
+  <div id="filter-panel">
+    <div>
+      <label>
+        Absendeorte
+      </label>
+      <input type="checkbox" id="sender-vis" checked></input>
+    </div>
+    <div>
+      <label>
+        Empfangsorte
+      </label>
+      <input type="checkbox" id="receiver-vis" checked></input>
+    </div>
+  </div>
+  <div id="viscontainer"></div>
+</div>
+<script src="static/js/towers.js"></script>
+{% endblock %}

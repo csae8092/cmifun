@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title>Martin Bucer - Einzelne Briefe 1545-1546</title>
+                                <editor>Susanne Haaf</editor>
+                        </titleStmt>
+                        <publicationStmt>
+                                <publisher>Susanne Haaf</publisher>
+                                <date when="2015-05-07T17:15:49.11+01:00"/>
+                                <availability>
+                                        <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                                </availability>
+                                <idno type="url">https://correspsearch.net/storage/bucer1-15.xml</idno>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <bibl xml:id="ddd92d99-e3de-4453-9a0e-ca20c5a48bb5" type="print">Martin Bucer: Schriften zur
+                                        Religionspolitik der Jahre 1545/1546. Bearbeitet von Susanne
+                                        Haaf, unter Mitarbeit von Albert de Lange. Gütersloh 2011 (=
+                                        Martini Buceri Opera Omnia, Series 1: Deutsche Schriften,
+                                        Bd. 15). URL <ref target="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-306529">http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-306529</ref>
+                </bibl>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc source="#ddd92d99-e3de-4453-9a0e-ca20c5a48bb5" key="6">
+                                <correspAction type="sent">
+                                        <persName ref="http://d-nb.info/gnd/118516507">Martin
+                                                Bucer</persName>
+                                        <date when="1546-01-18">18. Januar 1546</date>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <orgName>Die Dreizehn zu Straßburg</orgName>
+                                        <persName ref="http://d-nb.info/gnd/11859382X">Landgraf
+                                                Philipp von Hessen</persName>
+                                </correspAction>
+                        </correspDesc>
+                        <correspDesc source="#ddd92d99-e3de-4453-9a0e-ca20c5a48bb5" key="7">
+                                <correspAction type="sent">
+                                        <persName ref="http://d-nb.info/gnd/118516507">Martin
+                                                Bucer</persName>
+                                        <date when="1546-01-23">23. Januar 1546</date>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <orgName>Die Dreizehn zu Straßburg</orgName>
+                                </correspAction>
+                        </correspDesc>
+                        <correspDesc source="#ddd92d99-e3de-4453-9a0e-ca20c5a48bb5" key="12">
+                                <correspAction type="sent">
+                                        <persName>Evangelische Deligierte</persName>
+                                        <date when="1546-03-11">11. März 1546</date>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName ref="http://d-nb.info/gnd/118712373">Kurfürst
+                                                Johann Friedrich von Sachsen</persName>
+                                        <persName ref="http://d-nb.info/gnd/11859382X">Landgraf
+                                                Philipp von Hessen</persName>
+                                </correspAction>
+                        </correspDesc>
+                        <correspDesc source="#ddd92d99-e3de-4453-9a0e-ca20c5a48bb5" key="13">
+                                <correspAction type="sent">
+                                        <persName ref="http://d-nb.info/gnd/118516507">Martin
+                                                Bucer</persName>
+                                        <date when="1546-03-12">12. März 1546</date>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName>Die Dreizehn zu Straßburg</persName>
+                                </correspAction>
+                        </correspDesc>
+                        <correspDesc source="#ddd92d99-e3de-4453-9a0e-ca20c5a48bb5" key="15">
+                                <correspAction type="sent">
+                                        <persName ref="http://d-nb.info/gnd/118516507">Martin
+                                                Bucer</persName>
+                                        <date when="1546-03-26">26. März 1546</date>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName ref="http://d-nb.info/gnd/118714082">Julius
+                                                Pflug</persName>
+                                </correspAction>
+                        </correspDesc>
+                        <correspDesc source="#ddd92d99-e3de-4453-9a0e-ca20c5a48bb5" key="16">
+                                <correspAction type="sent">
+                                        <persName ref="http://d-nb.info/gnd/118516507">Martin
+                                                Bucer</persName>
+                                        <date when="1546-04-05">5. April 1546</date>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName ref="http://d-nb.info/gnd/11859382X">Landgraf
+                                                Philipp von Hessen</persName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <p/>
+                </body>
+        </text>
+</TEI>

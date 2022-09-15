@@ -1,0 +1,2155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-09d8-d1c5-4a7251e63b">Briefwechsel zwischen Paul Klee und Hans
+                    Bloesch</title>
+                <editor>Marthe Küster</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <idno type="url">https://correspsearch.net/storage/klee-bloesch.xml</idno>
+                <date when="2022-08-18T08:47:07.837686"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="e9b15a51-3341-4a50-9226-3a35a7c166b0">Paul Klee und
+                    Hans Bloesch. Die Korrespondenz 1898-1940. Herausgegeben von Marcel Baumgartner.
+                    Schriften der Burgerbibliothek Bern. Göttingen: Wallstein Verlag, 2021.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="1" xml:id="letter-a4be-967b-b48f65d039">
+                <correspAction xml:id="sender-f816-eb7f-a5092ef134" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1898-10-11">11.10.1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4e62-192e-72bcd8956e" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2659957">Biel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="2" xml:id="letter-5940-0c4a-fe47a98c16">
+                <correspAction xml:id="sender-6d7b-ea14-4b71a39c28" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1898-10-18">18.10.1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3750-1e49-2a9614e8bc" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="3" xml:id="letter-7d59-72b8-c76afe834b">
+                <correspAction xml:id="sender-1d24-8abf-f2490378da" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1898-10-30" notAfter="1898-10-31">30. – 31.10.1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-58eb-6429-91fabe2d08" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="4" xml:id="letter-04a5-e91c-890f45e216">
+                <correspAction xml:id="sender-e4a3-481f-bf837925ae" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1898-11-15" notAfter="1898-11-28">15. – 28.11.1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0edc-d0f7-d14e8bf5c7" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="5" xml:id="letter-e0af-e258-497a86ecb3">
+                <correspAction xml:id="sender-8e91-a17e-516b0792f8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1898-12-28">28.12.1898</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ea91-5a1f-ecf38096a7" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="6" xml:id="letter-4bc9-3f79-08b72e6154">
+                <correspAction xml:id="sender-d05a-4f1b-93f248bc1e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1899-01-17" notAfter="1899-02-16">17.1. – 16.2.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-78d4-4fae-67a20349f8" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="7" xml:id="letter-c9f8-360d-ae80491c67">
+                <correspAction xml:id="sender-9a3c-be8d-259c1380a6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1899-01-31">31.1.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6d8b-e6fb-3b1fd567a9" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="8" xml:id="letter-56d8-a9f8-a1c562f934">
+                <correspAction xml:id="sender-310c-e980-b5a4e62fd7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1899-01-17" notAfter="1899-02-16">17.1. – 16.2.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c52d-0eba-f6d2cb9ea4" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="9" xml:id="letter-8cf7-b287-692c748afe">
+                <correspAction xml:id="sender-4c91-261f-edb0c58914" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1899-03-01">1.3.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ea0c-b13e-9afc2741d5" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="10" xml:id="letter-dca4-7490-26a90db3c1">
+                <correspAction xml:id="sender-a897-6a93-0673bfe924" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1899-03-11">11.3.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cbe9-5e41-fc90a51d74" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="11" xml:id="letter-6f7d-6b49-14d2b9805a">
+                <correspAction xml:id="sender-928a-18b5-3584a6d2e7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1899-06-10">10.6.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-97cf-c89a-bcaf59346d" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="12" xml:id="letter-0fe5-85cd-c614bafe9d">
+                <correspAction xml:id="sender-95a3-91f2-7f185e023d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1899-06-15">15.6.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-83f9-6192-164c2935ed" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="13" xml:id="letter-4a90-1b69-201f948376">
+                <correspAction xml:id="sender-b12a-921d-618fb7d349" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName>Burghausen</placeName>
+                    <date when="1899-07-08">8.7.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-89ec-e4af-30f8a62d15" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="14" xml:id="letter-c30f-0df4-4bc5706391">
+                <correspAction xml:id="sender-9d8f-94a1-ea79f32dc0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1899-10-29">29.10.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-37a0-54e7-4c951e60d7" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="15" xml:id="letter-2c4b-54ed-024a3c1de7">
+                <correspAction xml:id="sender-ec4a-d9ca-31da852796" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1899-12-02">2.12.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5198-bda8-e62018fbda" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="16" xml:id="letter-38d2-8136-20d6fa17b4">
+                <correspAction xml:id="sender-5967-fceb-f1078ca94b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1899-12-21">21.12.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e402-63ed-1fa386cb54" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="17" xml:id="letter-9b52-3796-f74958b31d">
+                <correspAction xml:id="sender-10d5-1f7d-dfac749065" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1899-12-26">26.12.1899</date>
+                </correspAction>
+                <correspAction xml:id="addressee-73f4-e405-c0a1425e9f" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="18" xml:id="letter-c0fd-872f-dfb2687ae3">
+                <correspAction xml:id="sender-eb0f-b290-02f98c715d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1900-01-20">20.1. – 1.2.1900</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2ef9-c6d0-f85dae7c13" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="19" xml:id="letter-3a0e-dceb-e73521ab49">
+                <correspAction xml:id="sender-db51-c8e3-9b1d023af5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1900-03-15">15.3.1900</date>
+                </correspAction>
+                <correspAction xml:id="addressee-09c5-a207-985ebad031" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="20" xml:id="letter-9a5f-bfac-c95ea2107f">
+                <correspAction xml:id="sender-9752-2765-38914ef26c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2833590">Seeshaupt</placeName>
+                    <date when="1900-04-13">13.4.1900</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c41e-54f3-9ca67f325b" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="21" xml:id="letter-d783-20b7-f2a54bce71">
+                <correspAction xml:id="sender-d057-e465-79346fd5c2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2659377">Oberhofen</placeName>
+                    <date when="1900-05">Ende Mai 1900</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cb71-cf37-1ab890c54f" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="22" xml:id="letter-73e4-5dc2-f8bc761d94">
+                <correspAction xml:id="sender-ec13-a957-a13cb5970f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1900-11-13">13.11.1900</date>
+                </correspAction>
+                <correspAction xml:id="addressee-82a7-42c5-95f7182bd4" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="23" xml:id="letter-8a93-d7e1-ecf396d57a">
+                <correspAction xml:id="sender-bead-d785-634a28e0b9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1900-12-15">15.12.1900</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d506-c01b-6bdc45f273" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="24" xml:id="letter-eb0f-e27b-8c024731e9">
+                <correspAction xml:id="sender-02cd-a523-105deb2c79" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1900-12-26">26.12.1900</date>
+                </correspAction>
+                <correspAction xml:id="addressee-42d7-d82e-35e2db7160" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="25" xml:id="letter-2b16-4b27-3b748ec609">
+                <correspAction xml:id="sender-6bc4-fa02-d345ebc907" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1901-01-10">10.1.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a2f0-e80d-897b5e1f63" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="26" xml:id="letter-e960-052b-62fb5d84c7">
+                <correspAction xml:id="sender-5679-fc2e-3e096ad715" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1901-02-08">8.2.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8316-1c6e-78045defa9" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="27" xml:id="letter-39c4-9604-68ed4af527">
+                <correspAction xml:id="sender-e728-24e3-5c4781f2da" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1901-02-19">19.2.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3bf7-dc24-17fae268b0" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="28" xml:id="letter-be78-2a60-edf84a2560">
+                <correspAction xml:id="sender-2354-7f3c-75dc8b6f23" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2829457">Starnberg</placeName>
+                    <date when="1901-03-02">2.3.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b34f-ed2f-7fb65038ae" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="29" xml:id="letter-2870-af16-357046a891">
+                <correspAction xml:id="sender-b65a-06c2-0231a56e9b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1901-04-03">3.4.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-64a5-8a1e-a68e37d152" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="30" xml:id="letter-0896-f6ba-620db5a3ec">
+                <correspAction xml:id="sender-9e63-152f-50e6ad2948" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1901-04-28">28.4.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b439-8245-7501a9cbf2" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="31" xml:id="letter-2c30-dfb6-531d87940b">
+                <correspAction xml:id="sender-e742-7932-93ca1048e5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1901-05-31">31.5.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e76c-463e-0179bfe6ad" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="32" xml:id="letter-ef19-0a97-9067f4d2b8">
+                <correspAction xml:id="sender-18de-6fc3-7256c39d84" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2659377">Oberhofen</placeName>
+                    <date when="1901-09-28">28.9.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-64ac-f930-c90ba34726" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/29554715471">Basel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="33" xml:id="letter-df30-9305-71a9de834c">
+                <correspAction xml:id="sender-4a7c-c3eb-3bd12a0ecf" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="https://d-nb.info/gnd/118545167">Hermann Haller</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1901-10-29">29.10.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-037e-9c73-d4e012a98c" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="34" xml:id="letter-b7d1-fe94-f2dc670a4e">
+                <correspAction xml:id="sender-83dc-2d49-eb9d4c7326" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1901-11-26">26.11.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-97d3-bad3-823f1b96dc" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="35" xml:id="letter-f347-8695-75a1d0fb3c">
+                <correspAction xml:id="sender-57da-a140-76c482eb13" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1901-12-09">9.12.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-86c1-2c89-7b0d1efa5c" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="36" xml:id="letter-1c04-f19c-c6f21b478a">
+                <correspAction xml:id="sender-0ba3-90de-1d2c36b879" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1901-12-14">14.12.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c1e0-c3f1-f645db2307" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="37" xml:id="letter-79e3-58e1-783195ec2a">
+                <correspAction xml:id="sender-fbc5-d43c-4f6a2d1589" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1901-12-23">23.12.1901</date>
+                </correspAction>
+                <correspAction xml:id="addressee-147f-ab80-57fe6349ba" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="38" xml:id="letter-690b-5f70-4e08a9db13">
+                <correspAction xml:id="sender-d081-d3a2-31964275e0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1902-01-21">21.1.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-607e-93a6-3d0f8a26c4" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="39" xml:id="letter-8abd-1fc6-0cd7f365ea">
+                <correspAction xml:id="sender-cde3-670d-b2cf67d591" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/317239">Neapel</placeName>
+                    <date when="1902-03-29">29.3.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2ca8-742a-b0cf6958a7" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="40" xml:id="letter-6519-ec0a-b38ad4cf62">
+                <correspAction xml:id="sender-18e4-a7c8-607e23b1c9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/3170336">Pompeji</placeName>
+                    <date when="1902-04-02">2.4.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-05a2-a5bd-f45cb0d83e" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="41" xml:id="letter-9128-de83-57f8e6cb12">
+                <correspAction xml:id="sender-3cfe-8e01-cbd63f590e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/1079604456">Jean-Edouard de
+                        Castella</persName>
+                    <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+                    <date when="1902-04-21">21.4.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c96f-5cdf-cdb2e47856" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="42" xml:id="letter-4369-3afc-f6d409ea31">
+                <correspAction xml:id="sender-e86c-b39d-d42018e6f3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2659377">Oberhofen</placeName>
+                    <date when="1902-06-13">13.6.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c824-2738-c7a362e019" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="43" xml:id="letter-4b8f-2ef1-cb549daf8e">
+                <correspAction xml:id="sender-21cf-5183-08b2a79c14" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1902-07-16">16.7.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0219-2d16-17bf29a064" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="44" xml:id="letter-6a21-a53d-de48176a35">
+                <correspAction xml:id="sender-b325-ae02-38da4571b0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName>Oberpöcking</placeName>
+                    <date notBefore="1902-07-21" notAfter="1902-07-25">21./25.7.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0a6e-9d78-284059731a" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="45" xml:id="letter-f3d4-ab8d-ed87540f1b">
+                <correspAction xml:id="sender-bc05-8167-3b07ac1d85" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName>Oberpöcking</placeName>
+                    <date when="1902-07-25">25.7.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9ef1-1d27-e31abcd985" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="46" xml:id="letter-3a47-062b-9041387a2e">
+                <correspAction xml:id="sender-e18d-b6f7-c956301ba4" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1902-08-17">17.8.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fa67-e2a5-67e0f983a4" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/11789411">Madretsch</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="47" xml:id="letter-6954-79a3-89f032715c">
+                <correspAction xml:id="sender-aed2-bd18-9c7fb41e5a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2659377">Oberhofen</placeName>
+                    <date when="1902-10-11">11.10.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5da3-03c4-ae5398d24b" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2955471">Ammerland</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="48" xml:id="letter-1528-7b0e-0aedb3697f">
+                <correspAction xml:id="sender-6850-1fb6-2c7b3ed6a4" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1902-10-14">14.10.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b56e-1694-6adeb8321c" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="49" xml:id="letter-4dce-352b-51fd79a8eb">
+                <correspAction xml:id="sender-f643-6942-521bcf49a7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1902-10-16">16.10.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d80e-0b9e-063249bd1f" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="50" xml:id="letter-c6fe-4d53-c71f5d690e">
+                <correspAction xml:id="sender-dc8b-e084-2f8d407a3e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1902-10-17">17.10.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3f2e-c5be-43987fbc26" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="51" xml:id="letter-adfc-8c40-0fe8bda291">
+                <correspAction xml:id="sender-f9b7-31e7-80d6a975b4" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1902-12-30">30.12.1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-87e3-df89-ac05ef347d" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="52" xml:id="letter-2c7a-42ad-ba86f34210">
+                <correspAction xml:id="sender-7950-db19-32a408bc67" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-01-20">20.1.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f39e-f470-e5f27d8b60" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="53" xml:id="letter-be41-e7f9-bec451df9a">
+                <correspAction xml:id="sender-05c7-b5da-80b69c2a13" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1903-03-22">22.3.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-50d8-4701-4518d6ab39" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="54" xml:id="letter-084e-8725-f654e9b021">
+                <correspAction xml:id="sender-bd56-8901-256b1ed487" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1903-03-28">28.3.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-905e-a34e-a9c8f5b3d4" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="55" xml:id="letter-807a-8d6e-693c021875">
+                <correspAction xml:id="sender-2f8c-b83f-d71aeb3084" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <persName>Hermine Geßner</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-06-06">6.6.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3d06-820c-15c43dfb8e" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="56" xml:id="letter-21ec-38b5-e058d7cf16">
+                <correspAction xml:id="sender-6ad5-436f-6b2f478c93" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <persName ref="https://d-nb.info/gnd/133496805">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-06-11">11.6.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-84af-41e9-2a798fdc34" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="57" xml:id="letter-1f80-7f89-fadc78b3e9">
+                <correspAction xml:id="sender-508f-3ab9-087bf319d2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1903-08-18">18.8.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-94f3-6b10-f701e386b4" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="58" xml:id="letter-dc35-8239-8720c6d4e9">
+                <correspAction xml:id="sender-a21e-c403-18b7adf4c2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1903-08-28">28.8.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-63d8-d18c-43c7ea2d61" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="59" xml:id="letter-cfba-16fc-143fdb52e7">
+                <correspAction xml:id="sender-284e-9eda-d2e6a1fbc0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-09-19">19.9.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-06e4-58e9-fb78d4c21e" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="60" xml:id="letter-14fa-1280-152dfcb30a">
+                <correspAction xml:id="sender-0ce5-5312-8369721bfe" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-10-23">23.10.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-42b6-3de4-38e9b2071f" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="61" xml:id="letter-3df5-f41e-3459a7f8dc">
+                <correspAction xml:id="sender-3d0a-d316-47f21a890b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-10-30">30.10.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f2a8-94b5-563c2f8e09" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="62" xml:id="letter-fb12-e096-572a0f6db1">
+                <correspAction xml:id="sender-586d-286c-718a94320d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-11-03">3.11.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d8a4-7cb9-e8947c1b0d" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="63" xml:id="letter-fa63-8c4a-a43dc08b67">
+                <correspAction xml:id="sender-836c-c3f1-4a6ce073f9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-11-07">7.11.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5137-3ecb-10f48b52a7" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="64" xml:id="letter-b9ec-5c76-291ae8b045">
+                <correspAction xml:id="sender-2587-afde-8cf1e27549" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-11-14">14.11.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6be2-b7ac-3085d2b9c7" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="65" xml:id="letter-b047-6a38-7a49b312fe">
+                <correspAction xml:id="sender-9ea2-1f6e-6ad127b4f9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-11-28">28.11.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-315a-e6a2-b0c21ae653" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="66" xml:id="letter-f120-2bf3-5f438bd2e0">
+                <correspAction xml:id="sender-40d2-45f1-e7d92501b3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-12-03">3.12.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5a9b-1a34-2e9b61dc34" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="67" xml:id="letter-95fc-90f1-2b48f30ce6">
+                <correspAction xml:id="sender-5ae3-6fd7-564fc9ae27" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-12-06">6.12.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3b42-bcf2-28ab473d16" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="68" xml:id="letter-1a0b-d5af-8de0a36947">
+                <correspAction xml:id="sender-94ec-03ad-a18b425036" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-12-22">22.12.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-70cb-5468-ca8f0651ed" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="69" xml:id="letter-7920-34a5-ae7c6f1d8b">
+                <correspAction xml:id="sender-e07a-370e-031fe52d9a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1903-12-24">24.12.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8f61-65db-0e8c942576" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="70" xml:id="letter-abd9-35a9-18dfa3250e">
+                <correspAction xml:id="sender-f1a0-ad3c-6a825def4c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1903-12-28">28.12.1903</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1fbc-7350-f2ac43e951" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="71" xml:id="letter-293d-50c6-0358eab27f">
+                <correspAction xml:id="sender-dce1-0e5d-63401edfbc" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1904-01-03">3.1.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b734-92fb-16a4ce59b2" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="72" xml:id="letter-bcf9-65d0-529a4f7861">
+                <correspAction xml:id="sender-54b1-8549-7bad9612c3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1904-01-11">11.1.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d6e1-9c18-057cbe912d" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="73" xml:id="letter-436a-4815-5a4360829c">
+                <correspAction xml:id="sender-e105-482c-748febca31" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1904-01-20">20.1.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d419-0e6b-af510347e6" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="74" xml:id="letter-8b73-fb04-06cf5e9b23">
+                <correspAction xml:id="sender-c8de-3805-cef8692507" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date notBefore="1904-02-09" notAfter="1904-02-11">9./11.2.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-138b-5293-19c2e86b43" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="75" xml:id="letter-afc2-420f-a0e796b518">
+                <correspAction xml:id="sender-640e-dcf1-518703dbfc" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1904-03-20">20.3.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bd9c-96f8-681b2ae534" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="76" xml:id="letter-19c8-47ca-2b135e408d">
+                <correspAction xml:id="sender-cd76-9823-c28a70b6ef" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1904-04-24">24.4.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-69c1-53d6-7fea5326d9" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="77" xml:id="letter-2bc7-1c8d-f518e23dc7">
+                <correspAction xml:id="sender-c48b-d471-0d38a214f9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2863652">Aschau b. Prien</placeName>
+                    <date when="1904-05-25">25.5.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7a91-2f16-b369ed01c4" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="78" xml:id="letter-8469-6a20-c063b72e49">
+                <correspAction xml:id="sender-1053-0af2-b9ce231546" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1904-06-19">19.6.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-bd35-2768-7df9b5a0c1" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="79" xml:id="letter-750e-16e3-73b084ec1f">
+                <correspAction xml:id="sender-3681-c1de-3e4702a681" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2659377">Oberhofen</placeName>
+                    <date when="1904-07-02">2.7.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ad42-0a47-d18af9543c" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="80" xml:id="letter-f428-4362-71924bf6ae">
+                <correspAction xml:id="sender-362c-a67b-965e8302d7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1904-07-04">4.7.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6347-0937-613459defc" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="81" xml:id="letter-1f63-7dbc-4893bc165a">
+                <correspAction xml:id="sender-315d-2c8b-319526ced0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1904-07-12">12.7.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6cd9-5e87-f39ce7b521" type="received">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="82" xml:id="letter-84da-ac10-b150ec948a">
+                <correspAction xml:id="sender-1c0d-8ac6-ea43b6f29c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1904-07-21">21.7.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3e9d-c692-0e3df7c59a" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="83" xml:id="letter-8d14-2690-184ab6d30e">
+                <correspAction xml:id="sender-ce34-2831-210ba7cdf5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1904-08-06">6.8.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0e7a-cae4-5b1df6249a" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="84" xml:id="letter-f479-6738-874ae9b3d1">
+                <correspAction xml:id="sender-50b6-3b7e-5f46b30d7c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/11465268">Wengernalp</placeName>
+                    <placeName ref="http://www.geonames.org/2839980">Scheidegg</placeName>
+                    <date when="1904-08-27">27.8.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c238-14ea-694a05ef23" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <placeName ref="http://www.geonames.org/6692327">Fürigen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="85" xml:id="letter-81e3-5f34-4f23be1d65">
+                <correspAction xml:id="sender-2845-315c-a5b2c41679" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern?</placeName>
+                    <date when="1904-08">August 1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6275-a089-7cd43aeb86" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="86" xml:id="letter-af91-09ba-c5ae9b0642">
+                <correspAction xml:id="sender-137c-8b43-b452cd39ea" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <persName ref="https://d-nb.info/gnd/133496805">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1904-09-08">8.9.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2b18-f459-785ad21f93" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/6692327">Fürigen ob
+                        Stansstaad</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="87" xml:id="letter-76b9-c1a3-0419fb265e">
+                <correspAction xml:id="sender-568f-468d-02cf736b9a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1904-09-15">15.9.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2ed5-46a9-6879321dfc" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="88" xml:id="letter-081b-9fb2-c2ab6ed031">
+                <correspAction xml:id="sender-1f7d-3dfb-9feba18c45" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1904-10-20">20.10.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-eb0d-3d75-3e0c45a9fd" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="89" xml:id="letter-ab1c-a673-54a369efd8">
+                <correspAction xml:id="sender-079f-a0e8-2b6a95187d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1904-10-22">22.10.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-21a6-1be5-a80e5c392f" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="90" xml:id="letter-c68e-ea9b-b6dca0839f">
+                <correspAction xml:id="sender-04a8-5c67-dab6ef2c90" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1904-10-28">28.10.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-21d3-ed9b-120dc4ae7f" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="91" xml:id="letter-f059-fb5c-763985ec01">
+                <correspAction xml:id="sender-ef42-620c-e657ac23fd" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1904-11-02">2.11.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e170-6e0c-c30e42fa81" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="92" xml:id="letter-be37-7ba0-e89c71df53">
+                <correspAction xml:id="sender-4a1d-750a-c3d74f1b0a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1904-12-11">11.12.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-12ba-4503-0918bcef56" type="received">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="93" xml:id="letter-dbce-f075-7eca9f1038">
+                <correspAction xml:id="sender-d821-18f5-768b0cf21a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1904-12-26">26.12.1904</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a136-24c9-eca504bd28" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="94" xml:id="letter-8752-81f6-715ae0c48f">
+                <correspAction xml:id="sender-c541-c148-09278ef3cb" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1905-01-14">14.1.1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b7c0-8be4-67e408d235" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="95" xml:id="letter-54e0-1db9-25fbe8d6c3">
+                <correspAction xml:id="sender-327e-f3ab-304e7df85b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1905-01-23" cert="medium">23.[?]1.1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9cfd-7d23-58a19e076d" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="96" xml:id="letter-e21f-0a9b-608d32479b">
+                <correspAction xml:id="sender-3cf7-fa74-50d6ca7428" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1905-02-13">13.2.1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2107-bf2d-3197642a85" type="received">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="97" xml:id="letter-b4ef-c823-a9e31fc6b5">
+                <correspAction xml:id="sender-46eb-cf34-c7f3150b9d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1905-02-15">15.2.1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d1cf-6fe1-28bc397f6a" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="98" xml:id="letter-6b2a-8be6-2370efcad5">
+                <correspAction xml:id="sender-2e39-8fec-e268da045b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1905-03-24">24.3.1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1feb-bc8d-e82b1d09f7" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="99" xml:id="letter-d4f6-1cd8-fcb483619e">
+                <correspAction xml:id="sender-fc85-f370-e15acd9064" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2852101">Prien</placeName>
+                    <date when="1905-04-25">25.4.1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-43b6-c6f0-48e3caf027" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="100" xml:id="letter-5e93-58bc-d03b24aef8">
+                <correspAction xml:id="sender-76e4-5a42-c3bd495260" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <persName ref="https://d-nb.info/gnd/133496805">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2659907">Leukerbad</placeName>
+                    <date when="1905-09-02">2.9.1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f379-c026-2afb1865e9" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="101" xml:id="letter-afb0-f3be-70c296b1f8">
+                <correspAction xml:id="sender-93cd-35dc-513bc7e06d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <persName ref="https://d-nb.info/gnd/133496805">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2885679">Konstanz</placeName>
+                    <date when="1905-10-01">1.10.1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-926b-052d-53cf74d698" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="102" xml:id="letter-83c7-e5a8-d12ce6f0b4">
+                <correspAction xml:id="sender-9a28-1de0-7a8c4df261" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <persName ref="https://d-nb.info/gnd/133496805">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1905-10-25">25.10.1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e356-8bf6-b8e24a3671" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="103" xml:id="letter-21db-d031-e1bca30592">
+                <correspAction xml:id="sender-75ab-06ea-8fb471e9c0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1905-12-18">18.12.1905</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9e43-5c1f-d14f0b3e62" type="received">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="104" xml:id="letter-5182-e179-bd178a0f56">
+                <correspAction xml:id="sender-bd65-f674-87e1f2adbc" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1906-04-05">5.4.1906</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cb42-2b8d-b61cae5f09" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="105" xml:id="letter-0acb-563e-e61b0c3845">
+                <correspAction xml:id="sender-6209-74fb-461d20e5a7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1906-04-09">9.4.1906</date>
+                </correspAction>
+                <correspAction xml:id="addressee-26c4-dc5a-1927b6d53f" type="received">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2899601">Holzminden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="106" xml:id="letter-ac69-9415-b43ac26175">
+                <correspAction xml:id="sender-51f8-0831-ae094d38b1" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <persName ref="https://d-nb.info/gnd/133496805">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1906-04-23">23.4.1906</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1476-1e85-1bd80aefc3" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="107" xml:id="letter-a832-ebc2-46d708f9ca">
+                <correspAction xml:id="sender-b479-ae57-049ca25378" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1906-06-03">3.6.1906</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1275-c75e-9c53126804" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="108" xml:id="letter-32c6-275c-5e80467d9b">
+                <correspAction xml:id="sender-a941-af52-82471beac3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Stumpf</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1906-07-21" cert="medium">21.[?]7.1906</date>
+                </correspAction>
+                <correspAction xml:id="addressee-30b7-23e8-6b0458c7d9" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="109" xml:id="letter-582b-8956-52783cf40d">
+                <correspAction xml:id="sender-3c68-047f-2468e1f597" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1906-09-26">26.9.1906</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ea03-f790-af76321ce9" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/3769494">Palestrina</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="110" xml:id="letter-f901-5c24-f4b18e56c2">
+                <correspAction xml:id="sender-b756-2e15-2f1d6594ea" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1906-10-14">14.10.1906</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1386-ce92-a0147f9db3" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="111" xml:id="letter-9671-ef97-91b750e3f4">
+                <correspAction xml:id="sender-80ae-9e0c-d31c4ea680" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1907-03-06">6.3.1907</date>
+                </correspAction>
+                <correspAction xml:id="addressee-05f9-b057-8dfe3c26a9" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="112" xml:id="letter-7bd9-6c1e-b32cde986a">
+                <correspAction xml:id="sender-9e6a-52b3-325a8d07e6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1907-08-18">18.8.1907</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7af0-47f5-6a71f8b3ed" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="113" xml:id="letter-e763-b940-6e98ad20c7">
+                <correspAction xml:id="sender-24dc-d576-db8e375ca4" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1907-08-26">26.8.1907</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8b7d-6df7-ef50a3421b" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="114" xml:id="letter-be18-e657-0df3e64975">
+                <correspAction xml:id="sender-7e45-cd58-a7093c6f1e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName>Leissingen</placeName>
+                    <date when="1907-09-12">12.9.1907</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2376-0285-1f059687e2" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="115" xml:id="letter-9641-183d-780d1652ae">
+                <correspAction xml:id="sender-4316-de87-7f916ba02e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1907-10-18">18.10.1907</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f825-e259-e827a16bcd" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="116" xml:id="letter-b467-dba9-eb18f52039">
+                <correspAction xml:id="sender-b60f-af4d-706c8e594a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1907-12-10">10.12.1907</date>
+                </correspAction>
+                <correspAction xml:id="addressee-851a-f418-de2a05b946" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="117" xml:id="letter-a456-beac-7a0825dbf3">
+                <correspAction xml:id="sender-c136-20c8-8a1f47db5c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="https://d-nb.info/gnd/117478814">Ernst Sonderegger</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1908-04-23">23.4.1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2df9-db81-651e0b4f89" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="118" xml:id="letter-458e-a94d-42193ce6a5">
+                <correspAction xml:id="sender-598a-758e-9ab0c4fe75" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1908-12-01">1.12.1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c654-65c7-e048fca327" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2925177">Freiburgi. Br.</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="119" xml:id="letter-f534-7a32-c2d391be5a">
+                <correspAction xml:id="sender-4b72-69ed-46d0ceb251" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1909-01-27">27.1.1909</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ea01-283a-bf3c1972d5" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2886242">Köln</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="120" xml:id="letter-094b-f3b0-d75132fbc9">
+                <correspAction xml:id="sender-13e2-962c-2bf469387a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1910-08-29">29.8.1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-058d-579d-4f352ea976" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="121" xml:id="letter-f27d-6afe-b917c43852">
+                <correspAction xml:id="sender-d35e-d0e4-c31ba49f28" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1910-10-27">27.10.1910</date>
+                </correspAction>
+                <correspAction xml:id="addressee-59df-832b-b1c05ef2d4" type="received">
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Ried bei Bümpliz</placeName>
+                    <placeName ref="http://www.geonames.org/2658378">Thörishaus</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="122" xml:id="letter-35d4-825b-fe890612b3">
+                <correspAction xml:id="sender-4ca3-496d-2bc15e0d7f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1910-11-12">12.11.1910[?]</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7f43-9570-2e178fc53d" type="received">
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="123" xml:id="letter-4c6b-9f26-51a3f92e7c">
+                <correspAction xml:id="sender-5087-732c-1e2a48b637" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1911-09-24">24.9.1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1c98-e5c4-1c2e0f43d9" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="124" xml:id="letter-d537-36ab-c20f4736ed">
+                <correspAction xml:id="sender-28c0-a017-123b9607ca" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1911-12-15">15.12.1911</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c3e1-3f0e-cbf3e59da1" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="125" xml:id="letter-c501-d728-eb61f87c35">
+                <correspAction xml:id="sender-f0b8-1428-a520df8b9e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1912-01-31">31.1.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8974-8d02-ec6d908afb" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="126" xml:id="letter-9c10-c4a6-590e4f3dc2">
+                <correspAction xml:id="sender-28e4-fa82-6f7de940b3" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1912-02-22">22.2.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3186-b3dc-d18a90c256" type="received">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="127" xml:id="letter-b92d-f541-6f29d7c85b">
+                <correspAction xml:id="sender-9834-e74a-51e39c7d80" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1912-03-05">5.3.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ba59-3ae9-c806f1da4b" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="128" xml:id="letter-1692-3cb5-9ea7c5d3f8">
+                <correspAction xml:id="sender-51df-70bd-c830f2549a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1912-03-05">5.3.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3154-ed79-57490f2ecb" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="129" xml:id="letter-04e6-9036-ac5d42736b">
+                <correspAction xml:id="sender-b20e-c2b9-2bae1f7864" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1912-04-08">8.4.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1eb8-bd1e-72954c3be6" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="130" xml:id="letter-a5c4-95c3-8d02f4b7ca">
+                <correspAction xml:id="sender-042f-630d-b6f37120e5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1912-04-22">22.4.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-49c3-8641-507ae12d84" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Ried bei Bümpliz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="131" xml:id="letter-b610-e0d3-b54810fe69">
+                <correspAction xml:id="sender-e7c2-6e27-ce0932db86" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1912-07-01">1.7.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5c29-574f-b921a6d875" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="132" xml:id="letter-4d37-762c-d76ac413f5">
+                <correspAction xml:id="sender-7ad1-e123-d45f170263" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1912-07-15">15.7.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1f4c-2c4e-04cf816d75" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="133" xml:id="letter-afe3-206a-d75c0f32a9">
+                <correspAction xml:id="sender-2d94-c352-2c610893e4" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1912-07-27">27.7.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5687-4975-4e9ba27c01" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="134" xml:id="letter-f21c-5a73-4c837bfd56">
+                <correspAction xml:id="sender-5ba9-b561-5ae3bf1607" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1912-08-01">1.8.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a160-9f71-e3569284bd" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Ried bei Bümpliz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="135" xml:id="letter-a028-c24a-79f05a84cd">
+                <correspAction xml:id="sender-8c5f-96f2-7940d2156b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1912-08-30">30.8.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-91bf-b9de-dc0e4517f8" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="136" xml:id="letter-61b0-8d4b-92c6fe38b5">
+                <correspAction xml:id="sender-8a5b-9f0b-d543ec7896" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1912-09-08">8.9.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e372-859c-9c0be35721" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="137" xml:id="letter-3586-fe12-bd2fe51398">
+                <correspAction xml:id="sender-2836-08a9-86235c0f14" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1912-10-16">16.10.1912</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5d7e-98e5-a1eb9057cf" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="138" xml:id="letter-c17a-2f86-7f30421e85">
+                <correspAction xml:id="sender-3a1f-d270-5df2a94860" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1913-01-08" cert="medium">8.[?]1.1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ab08-4e6d-5ed318bc07" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="139" xml:id="letter-6a27-30e8-83796a245b">
+                <correspAction xml:id="sender-723d-e96b-0cd71832f9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1913-04-27">27.4.1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-04be-97b3-70ac692e85" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="140" xml:id="letter-7856-8304-4a0f85be2d">
+                <correspAction xml:id="sender-a308-65f1-b6309cde2a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1913-05-25">25.5.1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0946-9b12-84d213e7ca" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="141" xml:id="letter-79e0-a8e4-f29468a3cb">
+                <correspAction xml:id="sender-df36-9d8e-2a94f6d5b8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1913-06-13">13.6.1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4829-4319-29a741cb6e" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="142" xml:id="letter-de94-04b2-a5938bcd2e">
+                <correspAction xml:id="sender-b4ed-7ed0-aed63847f2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2660351">Hilterfingen</placeName>
+                    <date when="1913-09-19">19.9.1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f6a4-298c-d3c84e6219" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/7669906">Scharnachtal</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="143" xml:id="letter-79d6-01cd-ed3ac8f615">
+                <correspAction xml:id="sender-853a-7d42-398bda416e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2660351">Hilterfingen</placeName>
+                    <date when="1913-09-22">22.9.1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cbf2-8fb7-1bf05d9267" type="received">
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Bümpliz</placeName>
+                    <placeName ref="http://www.geonames.org/2658378">Thörishaus</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="144" xml:id="letter-032c-ae0c-b5f19a2d36">
+                <correspAction xml:id="sender-5709-0b76-7f84dae025" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1913-09">Sept. 1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c514-c652-25061f3e8b" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="145" xml:id="letter-1a32-cfd4-390d214efb">
+                <correspAction xml:id="sender-251a-5f6b-96c154a32e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1913-11-16">16.11.1913</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8a45-6785-6c90b34f5d" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="146" xml:id="letter-d3ce-cba3-5896de1a70">
+                <correspAction xml:id="sender-7941-127c-fa1b9750d3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1914-08-29">29.8.1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-80a9-8a4c-1563af79b0" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName>Ried bei Wangenbrückli</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="147" xml:id="letter-2b34-0d3a-1f94ce5836">
+                <correspAction xml:id="sender-385f-43c2-84f3a27e59" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1914-10-01">1.10.1914</date>
+                </correspAction>
+                <correspAction xml:id="addressee-50d3-63d2-f1e9d6024c" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Bümpliz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="148" xml:id="letter-92d7-2849-d2f4e5b861">
+                <correspAction xml:id="sender-e0fd-f1e0-0e857a2f91" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1915-09-16">16.9.1915</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7561-3e9b-925a37418d" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Bümpliz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="149" xml:id="letter-e87d-5a4b-e06d87b4cf">
+                <correspAction xml:id="sender-1862-ec94-cb5684e019" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1915-09-18">18.9.1915</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0524-d837-da78f9b430" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Bümpliz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="150" xml:id="letter-7958-56da-7f542b8a63">
+                <correspAction xml:id="sender-21eb-583e-57e63cdb20" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1915-09-21">21.9.1915</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9ad8-f509-2a387b9c6d" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Bümpliz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="151" xml:id="letter-94e6-e0f7-f357d46c91">
+                <correspAction xml:id="sender-d07b-ab5d-80c7db54a1" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1915-09-24">24.9.1915</date>
+                </correspAction>
+                <correspAction xml:id="addressee-041b-698d-8fe73c4206" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Bümpliz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="152" xml:id="letter-57fe-ad06-579bd34c0e">
+                <correspAction xml:id="sender-748f-382c-f3ea98d10c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1916-03-28">28.3.1916</date>
+                </correspAction>
+                <correspAction xml:id="addressee-613f-3025-7edc9b5a13" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Bümpliz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="153" xml:id="letter-a89e-fe2b-f796e1bca0">
+                <correspAction xml:id="sender-7ae3-52c8-d7b68ce2a1" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2920891">Gersthofen</placeName>
+                    <date when="1918-09-29">29.9.1918</date>
+                </correspAction>
+                <correspAction xml:id="addressee-afb2-d872-7f5e10d39a" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661334">Bümpliz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="154" xml:id="letter-39b0-95cb-0f97bce38a">
+                <correspAction xml:id="sender-31fa-def4-d85a9760be" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1919-10-20">20.10.1919</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d37b-a80d-c7258fa0eb" type="received">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="155" xml:id="letter-ce8f-4537-c59f18b430">
+                <correspAction xml:id="sender-8217-51fb-364f82a9e5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1919-11-02">2.11.1919</date>
+                </correspAction>
+                <correspAction xml:id="addressee-97d1-92bd-0867fe4da5" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="156" xml:id="letter-40d1-a34e-9fb3247165">
+                <correspAction xml:id="sender-3250-9d5a-e5bca947f8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1920-03-03">3.3.1920</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a4f2-7fed-4acd07e219" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="157" xml:id="letter-31e7-e254-6e05a3dc9b">
+                <correspAction xml:id="sender-468d-93e5-fda398e27c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1920-04-16">16.4.1920</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c2b4-5ceb-73159dec20" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="158" xml:id="letter-2079-2ba5-e8abd549c0">
+                <correspAction xml:id="sender-fcd2-3158-3ed0fc67a2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1921-12-07">7.12.1921</date>
+                </correspAction>
+                <correspAction xml:id="addressee-174b-85e1-bf9e1c7a25" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="159" xml:id="letter-a21d-564a-0fbdc84516">
+                <correspAction xml:id="sender-0a4f-dfe3-9760deb4f3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1925-12-11" notAfter="1925-12-13">11./13.12.1925</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e624-e754-c43df9eb71" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="160" xml:id="letter-d9f8-4517-14f27dc503">
+                <correspAction xml:id="sender-fa9e-5163-2c79603f8a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/3032767">Bidart</placeName>
+                    <date when="1929-08-25">25.8.1929</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6a5f-6bdf-2ace6db5f7" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="161" xml:id="letter-9536-afc8-1a34bd7cf2">
+                <correspAction xml:id="sender-e375-1e64-21d8c4f579" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1934-10-28">28.10.1934</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1f3e-d9be-0fc2643a8e" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="162" xml:id="letter-f89a-9487-290da5c78b">
+                <correspAction xml:id="sender-9de3-80da-0a79b6cf13" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1935-01-15">15.1.1935</date>
+                </correspAction>
+                <correspAction xml:id="addressee-da05-2456-c5481db02f" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="163" xml:id="letter-5df9-d2a3-518cedf630">
+                <correspAction xml:id="sender-7b64-ae59-82fa1e3c45" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2510911">Sevilla</placeName>
+                    <date when="1935-05">Mai 1935</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4f85-9527-31d9a728bc" type="received">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="164" xml:id="letter-bafc-2837-23ad9ec874">
+                <correspAction xml:id="sender-e6b2-768c-2d8e9157b0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1935-12-27">27.12.1935</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d15a-c90a-27d86c3fb1" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="165" xml:id="letter-51d8-a7d8-67d3a8e9bc">
+                <correspAction xml:id="sender-c8d5-ae14-98fac376db" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1936-01-07">7.1.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5f91-4a06-d2076513f8" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="166" xml:id="letter-b6e2-6fb4-4f6c5a7018">
+                <correspAction xml:id="sender-af4d-fc53-420c15e3d7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1936-04-19">19.4.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cb62-c781-d2a438e670" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="167" xml:id="letter-f259-84c0-1257bd49fa">
+                <correspAction xml:id="sender-93ae-40e2-2bd4e71c65" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2658421">Tarasp</placeName>
+                    <date when="1936-06-28">28.6.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f521-ced4-c6508fb79d" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="168" xml:id="letter-c8d4-a905-8fb7d31942">
+                <correspAction xml:id="sender-c7b0-feb0-9bc6f17de8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName>Montana</placeName>
+                    <date when="1936-09-24">24.9.1936</date>
+                </correspAction>
+                <correspAction xml:id="addressee-fc03-238e-b618dc70e4" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="169" xml:id="letter-d518-a0e2-8ec21a70db">
+                <correspAction xml:id="sender-fc57-867a-1eb540a6f9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661698">Ascona</placeName>
+                    <date when="1937-10-28">28.10.1937</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c03a-84f3-14fde0736b" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="170" xml:id="letter-a6e4-fc14-5ae964d182">
+                <correspAction xml:id="sender-3407-ef2c-e46a58c91b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1937-12">Ende Dez. 1937</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5a06-319f-7de4fb1983" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="171" xml:id="letter-0792-f2d3-af64321db5">
+                <correspAction xml:id="sender-c1df-fd06-7a01c9d58f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1938-02-08">8.2.1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5b06-e540-9d518eab37" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="172" xml:id="letter-a0bd-b7c6-3c89fa461b">
+                <correspAction xml:id="sender-c59e-73ae-4bfc9a8320" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661586">Beatenberg</placeName>
+                    <date when="1938-09-09">9.9.1938</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a1ce-84f3-bf50e62d74" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="173" xml:id="letter-1f98-7b95-815edb4067">
+                <correspAction xml:id="sender-a5ef-0a62-0b35d4a698" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1939-02-16">16.2.1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b216-b40a-dbec89f1a3" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="174" xml:id="letter-92bc-fa20-89c546a1b3">
+                <correspAction xml:id="sender-0e53-c0de-136b7a8df9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2660822">Faoug</placeName>
+                    <date when="1939-10-06">6.10.1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c102-2b67-abd2e65789" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="175" xml:id="letter-5736-9432-a6891d72b5">
+                <correspAction xml:id="sender-6281-7cf8-3a8cfb097d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1939-11-28">28.11.1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9df3-c562-3c4e7a8f65" type="received">
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="176" xml:id="letter-687e-2081-0ae317b29d">
+                <correspAction xml:id="sender-6a1b-459d-705e3fa69c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1939-12-27">27.12.1939</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2f4b-4aed-2e15a9f380" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="177" xml:id="letter-93fd-3ca6-5f69307abe">
+                <correspAction xml:id="sender-e035-b4e2-9157ad68b2" type="sent">
+                    <persName ref="https://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2660571">Goldiwil</placeName>
+                    <date when="1940-01-20">20.1.1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-45dc-16f4-8c2b694705" type="received">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="178" xml:id="letter-95e7-8210-2d810eba4f">
+                <correspAction xml:id="sender-0e48-9c10-b608a1e95c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118562827">Paul Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1940-01-30">30.1.1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1f69-a3c4-baf6752134" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="179" xml:id="letter-259b-485c-a67fd342e8">
+                <correspAction xml:id="sender-8b5a-1350-fc6285a174" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1940-01-30">30.1.1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-97eb-9bc1-e7012f6bc5" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="180" xml:id="letter-07b5-3c52-c2654f8790">
+                <correspAction xml:id="sender-3f5d-98c7-ed4c2507a6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1940-11-08">8.11.1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9351-fc2d-23e45fa791" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="181" xml:id="letter-9a7b-ed7f-25ce410fbd">
+                <correspAction xml:id="sender-2f8e-34a9-d598acb2fe" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1940-12-18">18.12.1940</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2d64-4dac-ea5032f694" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="182" xml:id="letter-f624-6c54-50ca628d9e">
+                <correspAction xml:id="sender-523e-13d2-a70b2e4398" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1941-06-28">28.6.1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-712f-647d-d598bc243e" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="183" xml:id="letter-27ad-640e-f970c5a1b4">
+                <correspAction xml:id="sender-19a5-9ad3-f8061e7d3b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1941-07-02">2.7.1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-a716-f127-6cd54ba3e2" type="received">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="184" xml:id="letter-41ef-8527-ba1fc3e742">
+                <correspAction xml:id="sender-f460-e9c4-03b8f421e7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1941-07-14">14.7.1941</date>
+                </correspAction>
+                <correspAction xml:id="addressee-b79c-f1ab-2960e5cdb4" type="received">
+                    <persName ref="http://d-nb.info/gnd/116203943">Hans Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="185" xml:id="letter-fb95-f3b9-f16c9e2a83">
+                <correspAction xml:id="sender-51d7-6fea-ea41cf6389" type="sent">
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName>Hünibach bei Thun</placeName>
+                    <date when="1945-07-27">27.7.1945</date>
+                </correspAction>
+                <correspAction xml:id="addressee-4307-d563-41ed8307b6" type="received">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <placeName ref="http://www.geonames.org/2658107">Vitznau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="186" xml:id="letter-f12c-2edb-b481e7a30d">
+                <correspAction xml:id="sender-a018-4ae1-cdf59a2716" type="sent">
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1945-09-10">10.9.1945</date>
+                </correspAction>
+                <correspAction xml:id="addressee-3b9c-e537-6acd9f0217" type="received">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#e9b15a51-3341-4a50-9226-3a35a7c166b0" key="187" xml:id="letter-0475-9ce1-53a192f80d">
+                <correspAction xml:id="sender-f534-e35c-adec390164" type="sent">
+                    <persName ref="http://d-nb.info/gnd/1019430494">Adele Bloesch</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                    <date when="1945-12-04">4.12.1945</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0164-3d09-9027a36cd5" type="received">
+                    <persName ref="http://d-nb.info/gnd/133496805">Lily Klee</persName>
+                    <placeName ref="http://www.geonames.org/2661552">Bern</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

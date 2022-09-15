@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-61b2-2c95-b3fdc18a72">Briefe von Rainer Maria Rilke und Franz
+                    Xaver Kappus</title>
+                <editor>Marthe Küster</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <idno type="url">https://correspsearch.net/storage/rilke-kappus.xml</idno>
+                <date when="2022-09-13T11:20:51.526676"/>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This file contains metadata in the public domain</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="a0c8dacf-a686-42cd-a3e2-da951af0f181">Briefe an einen jungen Dichter. Mit den Briefen
+                    von Franz Xaver Kappus. Herausgegeben von Erich Unglaub. Göttingen: Wallstein
+                    Verlag, 2021.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="1" xml:id="letter-36da-912b-0f7c1698e5">
+                <correspAction xml:id="sender-ed5a-286d-0748b6a23d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/2761353">Wiener Neustadt</placeName>
+                    <date notBefore="1902-10" notAfter="1902-11">Spätherbst 1902</date>
+                </correspAction>
+                <correspAction xml:id="addressee-012b-1360-ed60b5af28" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="2" xml:id="letter-2e68-460f-47593abfec">
+                <correspAction xml:id="sender-f035-20fd-94872f506a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1903-02-17"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d81a-72eb-f87493c21e" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="3" xml:id="letter-bfce-284c-80bc3da597">
+                <correspAction xml:id="sender-609d-c67e-1db04957a3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/2761353">Wiener Neustadt</placeName>
+                    <date when="1903-02-24"/>
+                </correspAction>
+                <correspAction xml:id="addressee-cb98-9c5e-8d915b37a2" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="4" xml:id="letter-6f53-8027-0fb8adec61">
+                <correspAction xml:id="sender-d1e0-d850-3db6824975" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/3164433">Viareggio</placeName>
+                    <date when="1903-04-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ecfa-6054-f13b6a827e" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="5" xml:id="letter-3e41-3084-4a6dce0b27">
+                <correspAction xml:id="sender-0731-1f80-de741afc5b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/665087">Temesvár</placeName>
+                    <date when="1903-04-15"/>
+                </correspAction>
+                <correspAction xml:id="addressee-29bf-b063-b8df7291c6" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="6" xml:id="letter-bdc5-cd12-f3b7e61da8">
+                <correspAction xml:id="sender-9bfa-f83d-98203bcae6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/3164433">Viareggio</placeName>
+                    <date when="1903-04-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-05cf-9246-79de03f462" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="7" xml:id="letter-724a-9502-793218d0a5">
+                <correspAction xml:id="sender-36fd-6fb9-4a7835906c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/2761353">Wiener Neustadt</placeName>
+                    <date when="1903-05-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-df71-d5be-1972a3cf65" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="8" xml:id="letter-2675-ef6b-3a6b2c4f1d">
+                <correspAction xml:id="sender-1c70-2d6e-409ec5f128" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/2761353">Wiener Neustadt</placeName>
+                    <date when="1903-07-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-bdf2-c5d0-8f5d32a016" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="9" xml:id="letter-bc27-108d-da617f950b">
+                <correspAction xml:id="sender-863f-38f2-20913fe4ac" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2806108">Worpswede</placeName>
+                    <date when="1903-07-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d462-6de3-032c5ab948" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="10" xml:id="letter-8493-a945-52bcfd7ae6">
+                <correspAction xml:id="sender-c4e0-b13f-7948fa526e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/665087">Temesvár</placeName>
+                    <date when="1903-08-29"/>
+                </correspAction>
+                <correspAction xml:id="addressee-db27-aecb-17ba58ce32" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="11" xml:id="letter-d7b4-c5f2-621d074b83">
+                <correspAction xml:id="sender-8c3b-3ec2-f7841c6b9d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1903-10-29"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0762-c3bd-d08bf21739" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="12" xml:id="letter-c49d-e04d-846125eba0">
+                <correspAction xml:id="sender-5d46-9db6-0951783ec2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/3060972">Pozsony</placeName>
+                    <date when="1903-11-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-540b-98ef-bc562a1908" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="13" xml:id="letter-3196-9e45-f16b74290e">
+                <correspAction xml:id="sender-52a4-5249-c32971fed0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1903-12-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4026-7458-82c4dae573" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="14" xml:id="letter-eb63-4de3-0b14368d5a">
+                <correspAction xml:id="sender-e602-6714-f89ac27d16" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/3060972">Pozsony</placeName>
+                    <date when="0019-02-27">29. Februar 19</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c69b-2780-2b637cd4fa" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="15" xml:id="letter-1e8a-e92c-346d57109b">
+                <correspAction xml:id="sender-26a3-b12e-8b05a7fcde" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                    <date when="1904-05-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d940-9736-7a1938d056" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="16" xml:id="letter-214b-2d9c-6dae7c5384">
+                <correspAction xml:id="sender-0726-a0d6-2ebc3df506" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/3060972">Pozsony</placeName>
+                    <date when="1904-07-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-890c-79b2-b32841fa79" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="17" xml:id="letter-6540-db5e-d2be19065c">
+                <correspAction xml:id="sender-576c-a0eb-af6db458c3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2714591">Flädie</placeName>
+                    <date when="1904-08-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5b7d-4df1-f195a4e03c" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="18" xml:id="letter-ce3a-375e-904c62fba5">
+                <correspAction xml:id="sender-ae0f-36a1-6852743ce9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/672566">Nádas</placeName>
+                    <date when="1904-08-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0e74-4bc8-b849a57c20" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="19" xml:id="letter-7eab-d827-bc53adf407">
+                <correspAction xml:id="sender-10e9-a15c-e4ba71d52f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2702949">Jonsered</placeName>
+                    <date when="1904-11-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c1d4-92e5-637b8f1e20" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="20" xml:id="letter-f6ed-db04-1ce845397b">
+                <correspAction xml:id="sender-c876-619b-c37612e490" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1908-08-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a703-f8e1-85f6093a1c" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="21" xml:id="letter-27f5-379c-e762c83db0">
+                <correspAction xml:id="sender-3de6-49ea-873d6c21ab" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/3202490">Süddalmatien</placeName>
+                    <date when="1908-11-25"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8e24-39e8-dea851f4b7" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="22" xml:id="letter-0e8a-386e-e4178bd06f">
+                <correspAction xml:id="sender-701d-58d4-360feacb48" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1908-12-26">zweiten Weihnachtstage 1908</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7cb0-9672-39fa076be1" type="received">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a0c8dacf-a686-42cd-a3e2-da951af0f181" key="23" xml:id="letter-972d-e9a1-d26b74e105">
+                <correspAction xml:id="sender-63f1-50dc-86fe943b7c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/116053895">Franz Xaver Kappus</persName>
+                    <placeName ref="http://www.geonames.org/3202490">Süddalmatien</placeName>
+                    <date when="1909-01-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c41e-4720-216cd8e9ba" type="received">
+                    <persName ref="http://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

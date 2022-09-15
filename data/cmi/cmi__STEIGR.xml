@@ -1,0 +1,1057 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Index of Letters in Steig's essay "Zeugnisse zur Pflege der
+                    deutschen Literatur in den Heidelberger Jahrbüchern."</title>
+                <editor>Stefan Dumont <email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <!-- Template for a TEI XML file according to the Corrspondence Metadata Interchange (CMI) format -->
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Public Domain</ref>
+                </publisher>
+                <date when="2015-07-01"/>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC0 1.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/steigreinhold.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" subtype="publication" xml:id="STEIGR"> Steig, Reinhold: Zeugnisse zur Pflege der
+                    deutschen Literatur in den Heidelberger Jahrbüchern. In: Neue Heidelberger
+                    Jahrbücher 11,2 (1902), S. 180–284. [Digitalisat verfügbar unter <ref target="http://digital.slub-dresden.de/id32725617Z">http://digital.slub-dresden.de/id32725617Z</ref>]. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc key="1" ref="http://digital.slub-dresden.de/id32725617Z/208" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1807-10-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="2" ref="http://digital.slub-dresden.de/id32725617Z/208" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1807-10-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="3" ref="http://digital.slub-dresden.de/id32725617Z/209" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1808-01-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="4" ref="http://digital.slub-dresden.de/id32725617Z/209" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504185">Bettina Brentano</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1808-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von
+                        Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="5" ref="http://digital.slub-dresden.de/id32725617Z/210" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1808-07-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="6" ref="http://digital.slub-dresden.de/id32725617Z/210" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1808-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="7" ref="http://digital.slub-dresden.de/id32725617Z/211" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1808-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="8" ref="http://digital.slub-dresden.de/id32725617Z/212" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1808-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="9" ref="http://digital.slub-dresden.de/id32725617Z/214" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116993871">Johann Georg Zimmer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="10" ref="http://digital.slub-dresden.de/id32725617Z/216" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1809-01-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="11" ref="http://digital.slub-dresden.de/id32725617Z/217" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="12" ref="http://digital.slub-dresden.de/id32725617Z/218" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="13" ref="http://digital.slub-dresden.de/id32725617Z/214" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116993871">Johann Georg Zimmer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-02-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="14" ref="http://digital.slub-dresden.de/id32725617Z/220" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="15" ref="http://digital.slub-dresden.de/id32725617Z/220" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="16" ref="http://digital.slub-dresden.de/id32725617Z/221" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="17" ref="http://digital.slub-dresden.de/id32725617Z/223" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-04-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="18" ref="http://digital.slub-dresden.de/id32725617Z/223" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116993871">Johann Georg Zimmer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-04-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="19" ref="http://digital.slub-dresden.de/id32725617Z/224" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="20" ref="http://digital.slub-dresden.de/id32725617Z/226" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1809-04-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="21" ref="http://digital.slub-dresden.de/id32725617Z/227" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-05-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="22" ref="http://digital.slub-dresden.de/id32725617Z/229" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-05-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="23" ref="http://digital.slub-dresden.de/id32725617Z/229" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-05-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="24" ref="http://digital.slub-dresden.de/id32725617Z/230" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118557211">Jean Paul</persName>
+                    <placeName ref="http://www.geonames.org/2951825">Bayreuth</placeName>
+                    <date when="1809-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="25" ref="http://digital.slub-dresden.de/id32725617Z/231" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-06-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="26" ref="http://digital.slub-dresden.de/id32725617Z/232" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116993871">Johann Georg Zimmer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-06-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="27" ref="http://digital.slub-dresden.de/id32725617Z/233" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117243310">Karl Justi</persName>
+                    <placeName ref="http://www.geonames.org/2873759">Marburg</placeName>
+                    <date when="1809-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="28" ref="http://digital.slub-dresden.de/id32725617Z/234" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11709501X">Ernst Wagner</persName>
+                    <placeName ref="http://www.geonames.org/2872225">Meiningen</placeName>
+                    <date when="1809-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="29" ref="http://digital.slub-dresden.de/id32725617Z/235" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117243310">Karl Justi</persName>
+                    <placeName ref="http://www.geonames.org/2873759">Marburg</placeName>
+                    <date when="1809-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="30" ref="http://digital.slub-dresden.de/id32725617Z/235" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1809-07-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="31" ref="http://digital.slub-dresden.de/id32725617Z/237" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118557211">Jean Paul</persName>
+                    <placeName ref="http://www.geonames.org/2951825">Bayreuth</placeName>
+                    <date when="1809-07-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="32" ref="http://digital.slub-dresden.de/id32725617Z/238" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date notBefore="1809-07-19" notAfter="1809-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="33" ref="http://digital.slub-dresden.de/id32725617Z/238" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="34" ref="http://digital.slub-dresden.de/id32725617Z/238" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="35" ref="http://digital.slub-dresden.de/id32725617Z/239" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116993871">Johann Georg Zimmer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="36" ref="http://digital.slub-dresden.de/id32725617Z/240" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11709501X">Ernst Wagner</persName>
+                    <placeName ref="http://www.geonames.org/2872225">Meiningen</placeName>
+                    <date when="1809-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="37" ref="http://digital.slub-dresden.de/id32725617Z/241" source="#STEIGR" corresp="http://kalliope-verbund.info/DE-611-HS-393434">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118707175">Karl Horstig</persName>
+                    <placeName ref="http://www.geonames.org/2871079">Miltenberg</placeName>
+                    <!-- wirklich Miltenberg in Franken? Nicht Mildenberg in Brandenburg? -->
+                    <date when="1809-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="38" ref="http://digital.slub-dresden.de/id32725617Z/242" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-10-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="39" ref="http://digital.slub-dresden.de/id32725617Z/242" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="40" ref="http://digital.slub-dresden.de/id32725617Z/242" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117243310">Karl Justi</persName>
+                    <placeName ref="http://www.geonames.org/2873759">Marburg</placeName>
+                    <date when="1809-09-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="41" ref="http://digital.slub-dresden.de/id32725617Z/243" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-09-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="42" ref="http://digital.slub-dresden.de/id32725617Z/244" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-09-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="43" ref="http://digital.slub-dresden.de/id32725617Z/244" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116993871">Johann Georg Zimmer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-10-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="44" ref="http://digital.slub-dresden.de/id32725617Z/245" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-10-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="45" ref="http://digital.slub-dresden.de/id32725617Z/245" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116993871">Johann Georg Zimmer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1809-11-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="46" ref="http://digital.slub-dresden.de/id32725617Z/246" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1809-11-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="47" ref="http://digital.slub-dresden.de/id32725617Z/248" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-11-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="48" ref="http://digital.slub-dresden.de/id32725617Z/248" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11709501X">Ernst Wagner</persName>
+                    <placeName ref="http://www.geonames.org/2872225">Meiningen</placeName>
+                    <date when="1809-11-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="49" ref="http://digital.slub-dresden.de/id32725617Z/249" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1809-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="50" ref="http://digital.slub-dresden.de/id32725617Z/250" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1809-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="51" ref="http://digital.slub-dresden.de/id32725617Z/251" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118656449">August Friedrich Bernhardi</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1809-12-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="52" ref="http://digital.slub-dresden.de/id32725617Z/251" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677330">Friedrich Creuzer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1810-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="53" ref="http://digital.slub-dresden.de/id32725617Z/253" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1810-01-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="54" ref="http://digital.slub-dresden.de/id32725617Z/254" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1810-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="55" ref="http://digital.slub-dresden.de/id32725617Z/256" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1810-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="56" ref="http://digital.slub-dresden.de/id32725617Z/257" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118607960">August Wilhelm Schlegel</persName>
+                    <placeName ref="http://www.geonames.org/2660646">Genf</placeName>
+                    <date when="1810-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="57" ref="http://digital.slub-dresden.de/id32725617Z/259" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11709501X">Ernst Wagner</persName>
+                    <placeName ref="http://www.geonames.org/2872225">Meiningen</placeName>
+                    <date when="1810-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="58" ref="http://digital.slub-dresden.de/id32725617Z/260" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118748785">Karl Solger</persName>
+                    <placeName ref="http://www.geonames.org/2925535">Frankfurt an der Oder</placeName>
+                    <date when="1810-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="59" ref="http://digital.slub-dresden.de/id32725617Z/261" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118557211">Jean Paul</persName>
+                    <placeName ref="http://www.geonames.org/2951825">Bayreuth</placeName>
+                    <date when="1810-02-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="60" ref="http://digital.slub-dresden.de/id32725617Z/262" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117243310">Karl Justi</persName>
+                    <placeName ref="http://www.geonames.org/2873759">Marburg</placeName>
+                    <date when="1810-10-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="61" ref="http://digital.slub-dresden.de/id32725617Z/263" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1810-02-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="62" ref="http://digital.slub-dresden.de/id32725617Z/264" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1810-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="63" ref="http://digital.slub-dresden.de/id32725617Z/264" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1810-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="64" ref="http://digital.slub-dresden.de/id32725617Z/264" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1810-03-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="65" ref="http://digital.slub-dresden.de/id32725617Z/266" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118607960">August Wilhelm Schlegel</persName>
+                    <placeName ref="http://www.geonames.org/2661124">Coppet</placeName>
+                    <date when="1810-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="66" ref="http://digital.slub-dresden.de/id32725617Z/268" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1810-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="67" ref="http://digital.slub-dresden.de/id32725617Z/271" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1810-05-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="68" ref="http://digital.slub-dresden.de/id32725617Z/272" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1810-05-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="69" ref="http://digital.slub-dresden.de/id32725617Z/273" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1810-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="70" ref="http://digital.slub-dresden.de/id32725617Z/274" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116993871">Johann Georg Zimmer</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1810-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="71" ref="http://digital.slub-dresden.de/id32725617Z/275" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117144398">Johann Gustav Büsching</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1810-06-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="72" ref="http://digital.slub-dresden.de/id32725617Z/275" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1810-06-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="73" ref="http://digital.slub-dresden.de/id32725617Z/276" source="#STEIGR">
+                <!-- Seite 258, Bild 276 -->
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1810-07-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="74" ref="http://digital.slub-dresden.de/id32725617Z/277" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118607960">August Wilhelm
+                        Schlegel</persName>
+                    <placeName ref="http://www.geonames.org/3025876">Chaumont an der
+                        Loire</placeName>
+                    <date when="1810-08-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="75" ref="http://digital.slub-dresden.de/id32725617Z/279" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117243310">Karl Justi</persName>
+                    <placeName ref="http://www.geonames.org/2873759">Marburg</placeName>
+                    <date when="1810-08-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="76" ref="http://digital.slub-dresden.de/id32725617Z/280" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                    <placeName ref="http://www.geonames.org/2873759">Marburg</placeName>
+                    <date when="1810-09-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="77" ref="http://digital.slub-dresden.de/id32725617Z/281" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116991739">Franz Horn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1810-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="78" ref="http://digital.slub-dresden.de/id32725617Z/282" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1810-10-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="79" ref="http://digital.slub-dresden.de/id32725617Z/282" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1810-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="80" ref="http://digital.slub-dresden.de/id32725617Z/283" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1810-11-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="81" ref="http://digital.slub-dresden.de/id32725617Z/283" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1810-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="82" ref="http://digital.slub-dresden.de/id32725617Z/284" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1810-12-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="83" ref="http://digital.slub-dresden.de/id32725617Z/284" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117243310">Karl Justi</persName>
+                    <placeName ref="http://www.geonames.org/2873759">Marburg</placeName>
+                    <date when="1810-12-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="84" ref="http://digital.slub-dresden.de/id32725617Z/285" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1810-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="85" ref="http://digital.slub-dresden.de/id32725617Z/286" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116991739">Franz Horn</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1811-01-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="86" ref="http://digital.slub-dresden.de/id32725617Z/287" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/10070333X">Carl Windischmann</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1811-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="87" ref="http://digital.slub-dresden.de/id32725617Z/287" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date notBefore="1811-02-01" notAfter="1811-05-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="88" ref="http://digital.slub-dresden.de/id32725617Z/287" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1811-05-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118557211">Jean Paul</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="89" ref="http://digital.slub-dresden.de/id32725617Z/289" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1811-06-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jakob Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="90" ref="http://digital.slub-dresden.de/id32725617Z/290" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116993871">Johann Georg Zimmer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1811-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118808850">August Boeckh</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="91" ref="http://digital.slub-dresden.de/id32725617Z/291" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116993871">Johann Georg Zimmer</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1811-07-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118515055">Clemens Brentano</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <!-- Briefnummer stimmt - Brief 91 enthält zwei Schreiben -->
+            <correspDesc key="91" ref="http://digital.slub-dresden.de/id32725617Z/291" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                    <date when="1811-07-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118515055">Clemens Brentano</persName>
+                    <placeName ref="http://www.geonames.org/3078422">Bukowan</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="92" ref="http://digital.slub-dresden.de/id32725617Z/293" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1811-07-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="93" ref="http://digital.slub-dresden.de/id32725617Z/294" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1811-09-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="94" ref="http://digital.slub-dresden.de/id32725617Z/295" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1811-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="95" ref="http://digital.slub-dresden.de/id32725617Z/296" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1812-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="96" ref="http://digital.slub-dresden.de/id32725617Z/297" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1812-07-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="97" ref="http://digital.slub-dresden.de/id32725617Z/298" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1813-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="98" ref="http://digital.slub-dresden.de/id32725617Z/299" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118504177">Achim von Arnim</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1813-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="99" ref="http://digital.slub-dresden.de/id32725617Z/300" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1814-02-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542265">Wilhelm Grimm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="100" ref="http://digital.slub-dresden.de/id32725617Z/301" source="#STEIGR">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117384259">Friedrich Wilken</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1814-02-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118542257">Jacob Grimm</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

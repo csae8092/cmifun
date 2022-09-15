@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe an Arthur Schnitzler in: Theodor Herzl: Briefe. Anfang Mai 1895–Anfang
+                    Dezember 1898</title>
+                <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Martin Anton
+                        Müller</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY
+                        4.0</licence>
+                </availability>
+                <date when="2022-01-30T16:35:10.583-01:00"/>
+                <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1990_Herzl_an_Schnitzler.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="j4f39377-ae1d-48c1-9afa-6e4618284c9a">Theodor Herzl:
+                    Briefe. Anfang Mai 1895 – Anfang Dezember 1898. Bearbeitet von Barbara Schäfer
+                    in Zusammenarbeit mit Sofia Gelmann, Chaya Harel, Ines Rubin, Daisy Ticho.
+                    Berlin: Propyläen 1990. (Theodor Herzl: Briefe und Tagebücher. Hg. Alex Bein,
+                    Hermann Greive, Moshe Schaerf, Julius H. Schoeps, Johannes Wachten. Vierter
+                    Band)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="624">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1895-05-05"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="625">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1895-05-14"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="628">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1895-05-19"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture"
+                        >Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="641">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1895-06-23"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture"
+                        >Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="645">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1895-07-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="651">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date cert="low" when="1895-08-01">Anfang August 1895</date>
+                    <placeName ref="http://www.geonames.org/2782070">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="660">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1895-08-25"/>
+                    <placeName ref="http://www.geonames.org/2782070">Aussee</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="662">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date evidence="conjecture" when="1895-11-09"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture"
+                        >Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="772">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+                    <date when="1896-04-08"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture"
+                        >Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

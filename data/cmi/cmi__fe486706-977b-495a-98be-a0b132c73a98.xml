@@ -1,0 +1,2472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Georg Forsters Briefe. Bd. 15</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">BBAW</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-08-31T17:21:45.843-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/forster-15.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="fe486706-977b-495a-98be-a0b132c73a98">	
+Georg Forsters Werke: Sämtliche Schriften, Tagebücher, Briefe. Hrsg. von der Deutschen Akademie der Wissenschaften zu Berlin, Institut für Deutsche Sprache und Literatur durch Gerhard Steiner. Bd. 15: Briefe Juli 1787 - 1789. Bearb. von Horst Fiedler. Berlin,  Akad.-Verl.: 1981.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-07-19"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-07-22"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-07-28"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117687588">Martin Poczubut</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-08-06"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-08-06"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-08-16"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-08-16"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-08-22"/>
+                    <placeName ref="http://www.geonames.org/593116">Wilna</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-08-28"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1787-09-01" notBefore="1787-08-21">Ende August oder 01.09.1787</date>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118558404">Joseph II.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-09-01"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118549553">Johann Gottfried Herder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-09-04"/>
+                    <placeName ref="http://www.geonames.org/3081368">Breslau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/103749878X">Christian Friedrich Gutsch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="12a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1787-11-30" notBefore="1787-09-01">Herbst 1787</date>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118678345">Johann Christian Dieterich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-09-19"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-09-23"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-09-23"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-09-27"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-10-03"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118510169">Friedrich Justin Bertuch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-10-12"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-10-17"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-10-21"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118549553">Johann Gottfried Herder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-10-21"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-11-04"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-11-09"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-11-12"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-11-18"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-11-24"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-11-27"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118549553">Johann Gottfried Herder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-11-27"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-12-07"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-12-08"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118510169">Friedrich Justin Bertuch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-12-15"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1787-12-01" to="1787-12-31">Dezember 1787</date>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123882400">Fausto d'Elhuyar y de Suvisa</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-12-23"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123882400"> Fausto d'Elhuyar y de Suvisa</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-12-25"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-12-25"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118560565">Katharina II.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-12-27"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1787-12-30"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-01-07"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-01-07"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-01-07"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-01-16"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-01-17"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-01-20"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-01-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-01-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-02-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-02-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1156961009">Aleksej Naumovič Senjavin </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1788-02-16" to="1788-02-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-02-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100819443">Friedrich Ludwig Wilhelm Meyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-02-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-02-29"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-03-05"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119093502">Leopold Friedrich Franz von Anhalt-Dessau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-03-05"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-03-10"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-03-12"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-03-13"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-03-16"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-03-20"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="59">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-03-25"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-04-04"/>
+                    <placeName ref="http://www.geonames.org/2907545">Heiligenstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-04-08"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116397306">Heinrich August Ottokar Reichardt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-04-09"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-04-11"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-04-13"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1788-04-13" to="1788-04-14"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1159604789">Therese Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1788-04-30" notBefore="1788-04-15">Zweite Aprilhälfte 1788</date>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1788-04-30" notBefore="1788-04-15">Zweite Aprilhälfte 1788</date>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1788-04-30" notBefore="1788-04-15">Zweite Aprilhälfte 1788</date>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-04-18"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-05-04"/>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-05-13"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-05-18"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116397306">Heinrich August Ottokar Reichardt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="73">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-05-18"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-06-02"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118636979">Johann Georg von Zimmermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-06-04"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-06-20"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-07-03"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-07-05"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-07-09"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-07-22"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-07-23"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-03"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119036495">Carl Peter Thunberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-07"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-09"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116950781">Benjamin Gottlob Hoffmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-10"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116481021">Georg August von Breitenbauch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-12"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-12"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118703234">Friedrich Karl Josef von Erthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-14"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11565352X">Jeremias David Reuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-18"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-20"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118518658">Joachim Heinrich Campe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-20"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-08-24"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="94">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-09-01"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="95">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-09-05"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="96">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-09-05"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="97">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-09-10"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="98">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-09-16"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="99">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-09-19"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="100">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-09-24"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118703234">Friedrich Karl Josef von Erthal</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="101">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-09-24"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="102">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-09-29"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118805193">Samuel Thomas Sömmering</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="103">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-09-30"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="104">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-10-07"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="105">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-10-11"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="106">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-10-21"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11565352X">Jeremias David Reuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="107">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-11-04"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="108">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-11-10"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="109">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-11-14"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="110">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-11-17"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="111">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-11-19"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-11-19"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="113">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-11-25"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="114">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-11-25"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="115">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date cert="low" when="1788-11-26"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="116">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-11-28"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="117">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-01"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="118">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-01"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Kurfürstliche Mainzische Regierung</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="118a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-02"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="119">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-05"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="120">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-11"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="121">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-13"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11565352X">Jeremias David Reuß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="122">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-19"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116167580">Johann Erich Biester</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="123">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-20"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="124">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-22"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="125">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-23"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="126">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1788-12-23"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="127">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-01"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="128">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-02"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="129">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-03"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="130">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-05"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116397306">Heinrich August Ottokar Reichard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="131">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-09"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="132">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-12"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="133">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-14"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="134">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-16"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="135">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-19"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="136">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-22"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="137">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-23"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="138">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-23"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">An einen Verleger</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="139">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-01-24"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="140">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1789-02-03" notBefore="1789-01-27"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="141">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-02-02"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="142">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-02-07"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="143">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-02-07"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="144">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-02-08"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="145">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-02-09"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="146">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-02-09"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="147">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-02-10"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="148">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1789-02-12" to="1789-02-21"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="149">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-03-02"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="150">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-03-09"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="151">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-03-16"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="152">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-03-17"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="153">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-03-19"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="154">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-03-23"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116950781">Benjamin Gottlob Hoffmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="155">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-03-25"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="156">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1789-04-30" notBefore="1789-04-01">April 1789 (?)</date>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="157">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1789-04-30" notBefore="1789-04-01">April 1789 (?)</date>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="158">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-04-04"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="159">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-04-05"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="160">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-04-06"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119036495">Carl Peter Thunberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="161">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-04-08"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="162">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-04-17"/>
+                    <placeName ref="http://www.geonames.org/2934246">Düsseldorf</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="163">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-04-24"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="164">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-04-25"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="165">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-04-27"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="166">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-05-04"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="167">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-05-09"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="168">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-05-09"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116950781">Benjamin Gottlob Hoffmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="169">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-05-16"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="170">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-05-20"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="171">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-05-22"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="172">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1789-05-24" to="1789-05-26"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="173">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-05-28"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="174">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-06-08"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="175">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-06-08"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="176">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-06-13"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="177">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-06-13"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="178">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1789-06-20" notBefore="1789-06-11">Mitte Juni 1789</date>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118638076">Charlotte Kestner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="179">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-06-15"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="180">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-06-15"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="181">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-06-19"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="182">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-06-27"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="183">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-06-29"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="184">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-06-30"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116738936">Johann Christian Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="185">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-07-05"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118661078">Heinrich Christian Boie</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="186">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-07-11"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="187">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-07-12"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118569767">Sophie La Roche</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="188">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-07-12"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="189">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-07-20"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="190">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-07-30"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="191">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-07-31"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="192">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-08-01"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118839985">Giovanni Fabroni</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="193">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-08-01"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="194">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-08-10"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116950781">Benjamin Gottlob Hoffmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="195">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-08-10"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="196">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-08-15"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="197">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-08-17"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="198">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-08-28"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="199">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-08-31"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="200">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-09-01"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="201">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-09-07"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="202">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-09-19"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="203">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-09-21"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116950781">Benjamin Gottlob Hoffmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="204">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-09-21"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="205">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-09-21"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="206">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-09-23"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="207">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-03"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="208">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-04"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="209">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-06"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="210">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-06"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="211">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-09"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="212">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-10"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="213">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-11"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118585045">Johannes Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="214">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-12"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="215">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-12"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="216">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-16"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="217">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-17"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="218">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-17"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="219">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-24"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="220">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-26"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="221">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-10-30"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="222">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-01"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="223">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-02"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="224">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1789-11-05" to="1789-11-06"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="225">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-14"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="226">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-15"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118510169">Friedrich Justin Bertuch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="227">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-15"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="228">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-15"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="229">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-15"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="230">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date from="1789-11-20" to="1789-11-21"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="231">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-22"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="232">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-23"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118680145">Christian Wilhelm von Dohm</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="233">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date cert="low" when="1789-11-23"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="234">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-24"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="235">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-25"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11856448X">Christian Gottfried Körner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="236">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-28"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="237">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-12-08"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118695916">Georg Joachim Göschen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="238">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-12-08"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="239">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-12-08"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1024788598">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="240">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-12-13"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="241">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-12-28"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="Nachtrag 126a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date notAfter="1789-12-31" notBefore="1789-01-01">1789 (?)</date>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118554077">Ludwig Ferdinand Huber</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#fe486706-977b-495a-98be-a0b132c73a98" key="Nachtrag 224a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1789-11-06"/>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

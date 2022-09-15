@@ -1,0 +1,624 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Carl Friedrich Gauss</title>
+                <editor>Karin Göhmann<email>karin.goehmann@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de/forschung/ avh-r">Akademievorhaben "Alexander von Humboldt auf Reisen - Wissenschaft aus der Bewegung</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-03-22T12:27:46.783-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Gauss.xml</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note>Brief Nr. 11a wurde nicht in die CMIF-Datei aufgenommen, da es sich hierbei laut Herausgeber um eine Fälschung handelt.</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="u095ef1f-9946-45da-b799-0cfb0a6ce37e">Biermann, Kurt-R. (Hrsg.) (1977): Briefwechsel zwischen Alexander von Humboldt und Carl Friedrich Gauss. Berlin: Akademie-Verlag</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1807-07-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2945024" evidence="conjecture">Braunschweig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1809-12-28"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-05-21"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1827-01-27"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-02-16"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-07-04">Berlin, 4.7. , und Teplitz, 18.7.1828</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1828-11-08"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-08-14"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-09-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1828-09" notBefore="1828-09">Ende September</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1828-10-12"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1832-08-17"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-02-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1833-06-13"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date cert="low" evidence="conjecture" when="1836-03-11"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date cert="low" notAfter="1836-06" notBefore="1836-06" evidence="conjecture">vor 24. Juni 1836</date>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date notAfter="1832-08" notBefore="1832-08">1832 vor 17.8.</date>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date cert="low" evidence="conjecture" when="1834-06-16"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-07-30"/>
+                    <placeName ref="http://www.geonames.org/3064288">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date notAfter="1836-08" notBefore="1836-08">(Anfang August 1836)</date>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date cert="low" when="1837-07-03">vor 3.7.1837</date>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-07-27"/>
+                    <placeName ref="http://www.geonames.org/3064288">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-09-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-11-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1837-12-19"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-12-25"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1838-05-13"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-06-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-03-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date cert="low" evidence="conjecture" when="1839-04-20">etwa 20.4.1839</date>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2855433">Paretz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-12-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-02-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-06-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-07-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-06-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1845-07-09"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1846-04-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1846-04-15"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-07-12"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-02-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-02-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1851-02-28"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-10-26"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-04-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-05-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1853-05-10"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1853-12-07"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-03-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1854-05-21"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <date when="1854-12-03"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-12-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e">
+                <correspAction type="sent">
+                    <persName>Unknown</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unknown</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u095ef1f-9946-45da-b799-0cfb0a6ce37e" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-03-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104234644">Carl Friedrich Gauss</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

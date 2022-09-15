@@ -1,0 +1,3146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Samuel Thomas Soemmerring's Correspondence 1792 - 1805</title>
+                <editor>Stefan Dumont <email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.adwmainz.de">Akademie der Wissenschaften und der Literatur Mainz</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">http://correspsearch.bbaw.de/storage/Soemmerring1792-1805.xml</idno>
+                <date when="2021-09-14"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="SOE20" type="print">Samuel Thomas Soemmerring. Briefwechsel November 1792 – April 1805. Hrsg. u. erl. v. Franz Dumont. Basel
+                    2001 (= Samuel Thomas Soemmerring. Werke, Bd. 20).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc key="629" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11">8.11.1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117495301">Christian Friedrich Voß</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="630" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1792-11-15">15.11.1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://lccn.loc.gov/n84209260">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="631" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-11-22">22.11.1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119462206">Melchior von Birkenstock</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="632" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1792-11-28">28.11.1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="633" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1792-11-30">30.11.1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="634" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1792-12-04">4.12.1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="635" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-10">10.12.1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName>die Allgemeine Administration</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="636" source="#SOE20">
+                <correspAction type="sent">
+                    <orgName>der Allgemeinen Administration</orgName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1792-12-10">10.12.1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="637" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <!-- Datierung unsicher, vllt. auch vom 22.12.1792 -->
+                    <date when="1792-12-12">12.12.1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="638" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1792-12-30">30.12.1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="639" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-01-02">2.1.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119462206">Melchior von Birkenstock</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="640" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-01-06">6.1.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="641" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-01-15">15.1.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="642" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-01-26">26.1.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="643" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-01-29">29.1.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="644" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-02-12">12.2.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="645" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-02-18">18.2.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="646" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-03-05">5.3.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="647" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-03-19">19.3.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="648" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-03-30">30.3.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="649" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-04-06">6.4.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="650" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-04-08">8.4.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="651" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1793-04-11">11.4.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="652" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-04-13">13.4.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="653" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-04-15">15.4.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="654" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-04-27">27.4.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="655" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1793-05-01">1.5.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="656" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117195464">Friedrich Lothar von Stadion</persName>
+                    <placeName ref="http://www.geonames.org/2805615">Würzburg</placeName>
+                    <date when="1793-05-04">4.5.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="657" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-05-07">7.5.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="658" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-06-01">1.6.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="659" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1793-06-08">8.6.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/120696428">Johann Nikolaus Luther</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="660" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-06-10">10.6.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="661" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1793-06-18">18.6.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="662" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-06-29">29.6.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="663" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-07-02">2.7.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="664" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-07-13">13.7.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="665" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-07-24">24.7.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2873622">Marienborn (bei Mainz)</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="666" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1793-07-27">27.7.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="667" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <date notBefore="1793-08-01" notAfter="1793-08-31">August 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="668" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/104103663">Friedrich Benjamin Osiander</persName>
+                    <date when="1793-08">August (?) 1793 </date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="669" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-08-02">2.8.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="670" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-08-17">17.8.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="671" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1793-10-04">4.10.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="672" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-10-09">9.10.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="673" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-10-10">10.10.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="674" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-10-12">12.10.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117495301">Christian Friedrich Voß</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="675" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-10-13">13.10.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="676" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-10-25">25.10.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="677" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1793-10-27">27.10.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="678" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-10-29">29.10.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="679" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-11-02">2.11.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="680" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-11-04">4.11.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="681" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-11-05">5.11.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="682" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-11-06">6.11.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="683" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1793-11-08">8.11.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="684" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1793-11-15">15.11.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="685" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1793-11-15">15.11.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="686" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1793-12-05">5.12.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="687" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1793-12-05">5.12.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="688" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1793-12-12">12.12.1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="689" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1794-01-19">19.1.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="690" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1794-01-20">20.1.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="691" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118569767">Sophie von Laroche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1794-01-29">29.1.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="692" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1794-01-30">30.1.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119018527">Karl Friedrich Kielmeyer</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="693" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1794-01-31">31.1.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="693a" source="#SOE20">
+                <!-- interessantes Beispiel -->
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119018527">Karl Friedrich Kielmeyer</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1794-02-01">1.2.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="694" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1794-02-03">3.2.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="695" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2951825">Bayreuth</placeName>
+                    <date when="1794-02-06">6.2.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="696" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1794-02-17">17.2.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="697" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1794-02-21">21.2.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116139935">Christian Heinrich Pfaff</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="698" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/129733199">Friedrich Varrentrapp</persName>
+                    <persName ref="http://viaf.org/viaf/225082503">Konrad Wenner</persName>
+                    <date notBefore="1794-04-20" notAfter="1794-04-30">Ende April 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="699" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1794-05-29">29.5.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="700" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1794-05-30">30.5.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="700a" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1794-06-01">1.6.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="700b" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1794-06-03">3.6.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="701" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1794-06-21">21.6.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/104327952">Johann Georg Büsch</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="702" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1794-06-25">25.6.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/142236780">Gisbert Jacob Wolff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="703" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1794-07-16">16.7.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="704" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1794-07-26">26.7.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="705" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1794-08-05">5.8.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="706" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date notBefore="1794-08-12" notAfter="1794-08-30" evidence="conjecture" resp="#SD"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="707" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2754454">Helvoetsluis</placeName>
+                    <date when="1794-09-27">27.9.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                    <placeName evidence="internal" ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="708" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2754454">Helvoetsluis</placeName>
+                    <date when="1794-09-29">29.9.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                    <!-- hier eigentlich via Mainz geschickt -->
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="709" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2647383">Harwich</placeName>
+                    <date when="1794-10-04">4.10.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="710" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                    <date when="1794-10-13">13.10.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="710a" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2805708">Würges</placeName>
+                    <date when="1794-10-29">29.10.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="711" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1794-11-18">18.11.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/15524904">Johann Christian Rosenmüller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="712" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1794-11-29">29.11.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="713" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1794-12-22">22.12.1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="714" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1795-01-01" notAfter="1795-01-10" evidence="conjecture" resp="#SD">Anfang Januar 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="715" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-01-12">12.1.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="716" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1795-01-12">12.1.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="717" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1795-01-27">27.1.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="718" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1795-02-28">28.2.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="719" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1795-03-01" notAfter="1795-04-30" evidence="conjecture" resp="#SD">Nach Reise Soemmerrings im März 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="720" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1795-05-20">20.5.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118589466">Konrad Engelbert Oelsner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="721" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-05-25">25.5.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="722" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1795-05-26">26.5.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="723" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1795-06-05">5.6.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="724" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander vom Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2951825">Bayreuth</placeName>
+                    <date when="1795-06-07">7.6.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="725" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                    <placeName ref="http://www.geonames.org/2911285">Wandsbeck</placeName>
+                    <date when="1795-06-13">13.6.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="726" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2919290">Goldkronach</placeName>
+                    <date when="1795-06-29">29.6.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="727" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1795-07-10">10.7.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="728" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118559796">Immanuel Kant</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1795-08-10">10.8.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="729" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1795-08-17">17.8.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="730" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1795-08-17">17.8.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="731" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1795-08-22">22.8.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118559796">Immanuel Kant</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="732" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1795-08-29">29.8.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="733" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1795-09-01">1.9.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="734" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118559796">Immanuel Kant</persName>
+                    <date when="1795-09-17">17.9.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="735" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1795-09-27">27.9.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="736" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1795-10-22">22.10.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="737" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Georg Charlotte von Hinüber</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1795-10-26">26.10.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="738" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1795-10-27">27.10.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118589466">Konrad Engelbert Oelsner</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="739" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1795-11-20">20.11.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="740" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1795-11-28">28.11.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116208503">Johann Friedrich Blumenbach</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="741" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Georg Charlotte von Hinüber</persName>
+                    <date notBefore="1795-10-26" notAfter="1795-11-30" evidence="conjecture" resp="#SD"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="742" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1795-11-20" notAfter="1795-12-10" evidence="conjecture" resp="#FD #SD">Ende November/Anfang Dezember 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="743" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1795-12-02">2.12.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName>Rat der Stadt Frankfurt am Main</orgName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="744" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1795-12-06">6.12.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="745" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="746" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <date notBefore="1795-12-20" notAfter="1795-12-31" evidence="conjecture" resp="#FD #SD">Wohl Ende 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="746a" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1795-12-25">25.12.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116510056">August Gottlieb Richter</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="747" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <date when="1795-12-31">31.12.1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="748" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1796-01-01" notAfter="1796-01-10" evidence="conjecture" resp="#SD #FD">Wohl Anfang 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="749" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1796-01-31">31.1.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="750" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1796-01-01" notAfter="1796-02-28" evidence="conjecture" resp="#FD #SD">Wohl Januar oder Februar 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="751" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1796-02-07">7.2.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116208503">Johann Friedrich Blumenbach</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="752" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2951825">Bayreuth</placeName>
+                    <date when="1796-02-07">7.2.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="753" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1796-02-21">21.2.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="754" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1796-02-21" notAfter="1796-03-31" resp="#FD #SD">Wohl nach dem 21.02.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="755" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1796-02-27">27.2.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="756" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1796-02-27">27.2.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118559796">Immanuel Kant</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="757" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1796-03-06">6.3.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="758" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1796-03-13">13.3.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="759" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <date when="1796-03-14">14.3.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="760" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/100308805">Johann Daniel Metzger</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1796-03-31">31.3.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="761" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118720961">Karl Theodor von Dalberg</persName>
+                    <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+                    <date when="1796-04-02">2.4.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="762" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                    <placeName ref="http://www.geonames.org/2928381">Eutin</placeName>
+                    <date when="1796-04-03">3.4.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="763" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1796-04-09">9.4.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="764" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1796-04-16">16.4.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="765" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/100355358">Friedrich Hildebrandt</persName>
+                    <placeName ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                    <date when="1796-04-16">16.4.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="766" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1796-04-17">17.4.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="767" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116689951">Christoph Friedrich Hellwag</persName>
+                    <date notBefore="1796-04-01" notAfter="1796-04-25">Nicht vor dem 25.04.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="768" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1796-04-25">25.4.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="769" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1796-04-29">29.4.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="770" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2951825">Bayreuth</placeName>
+                    <date when="1796-05-01">1.5.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="771" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2951825">Bayreuth</placeName>
+                    <date when="1796-05-08">8.5.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="772" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1796-05-10">10.5.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="773" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1796-06-15">15.6.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="774" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1796-06-20">20.6.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="775" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1796-06-21">21.6.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116689951">Christoph Friedrich Hellwag</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="776" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1796-06-01" notAfter="1796-06-30" evidence="conjecture" resp="#SD">Im Juni 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="777" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118633244">Johann Jakob Willemer</persName>
+                    <date notBefore="1796-05-01" notAfter="1796-09-30" resp="#FD #SD" cert="low">Vielleicht 1796 (Sommer?)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="778" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1796-07-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2911007">Hanau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="779" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1796-07-17">17.7.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2911007">Hanau</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="780" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1796-07-26">26.7.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452335">Margarethe Elisabeth Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="781" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Georg Charlotte von Hinüber</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1796-07-29">29.7.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="782" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1796-08-06">6.8.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="783" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1796-08-28">28.8.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="784" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/100355358">Georg Friedrich Hildebrandt</persName>
+                    <placeName resp="#SD" cert="low" ref="http://www.geonames.org/2929567">Erlangen</placeName>
+                    <date notBefore="1796-08-20" notAfter="1796-09-10" cert="medium">Vermutlich Ende August/Anfang September 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="785" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118720961">Karl Theodor von Dalberg</persName>
+                    <placeName ref="http://www.geonames.org/2929670">Erfurt</placeName>
+                    <date when="1796-11-06">6.11.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="786" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1796-11-15">15.11.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="787" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Georg Charlotte von Hinüber</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1796-12-05">5.12.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="788" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/100355358">Georg Friedrich Hildebrandt</persName>
+                    <placeName ref="http://www.geonames.org/2929567" cert="low">Erlangen</placeName>
+                    <date notBefore="1796-01-01" notAfter="1797-12-31" cert="low" resp="#FD">Von fremder Hand auf 1796 datiert, vielleicht aber auch 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="789" source="#SOE20">
+                <correspAction type="sent">
+                    <persName>Wilhelm Kruse</persName>
+                    <placeName ref="http://www.geonames.org/2809865" cert="medium">Wevelinghoven</placeName>
+                    <date notBefore="1796-12-20" notAfter="1797-01-07" cert="medium" resp="#FD #SD">Vor dem 7.1.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="789a" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116005904">Jakob Fidelis Ackermann</persName>
+                    <date notBefore="1796-01-01" notAfter="1797-12-31" resp="#FD #SD" cert="low">Wohl 1796/97</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="790" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1797-01-07">7.1.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554514">Christoph Wilhelm Hufeland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="791" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1797-01-09">9.1.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="792" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554514">Christoph Wlhelm Hufeland</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1797-01-23">23.1.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="793" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1797-03">Von Wagner auf März 1794 datiert</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="794" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116893575">Karl Himly</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1797-03-07">7.3.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="795" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1797-05-07">7.5.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="796" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Georg Charlotte von Hinüber</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1796-05-08">8.5.1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="797" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1797-06-20">20.6.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="798" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1797-07-01" notAfter="1797-08-30" resp="#FD" cert="medium">Sommer 1797, wohl Juli/August</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="799" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <date when="1797-08-04">4.8.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="800" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1797-08-21">21.8.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="801" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                    <date notBefore="1797-08-20" notAfter="1797-08-30">Wohl Ende August 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="802" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1797-09-16">16.9.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540246">Katharina Elisabeth Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="803" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1797-09-19">19.9.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="804" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1797-10-02">2.10.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100143695">Johann (Jakob) Isaak von Gerning</persName>
+                    <placeName ref="http://www.geonames.org/3172394" evidence="internal">Neapel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="805" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554514">Christoph Wilhelm Hufeland</persName>
+                    <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+                    <date when="1797-10-12">12.10.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="806" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1797-10-14">14.10.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118534432">Johann Reinhold Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="807" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1797-10-24">24.10.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="808" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1797-11-01" notAfter="1797-11-30" cert="medium" resp="#FD">Im November 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="809" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1797-12-28">28.12.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118585045">Johannes von Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="810" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1797-12-29">29.12.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116319577">Johann Gottfried Ebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="811" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118585045">Johannes von Müller</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date when="1798-01-11">11.1.1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="812" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1798-01-13">13.1.1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="813" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1798-06-16">16.6.1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118585045">Johannes von Müller</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="814" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1798-06-22">22.6.1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100143695">Johann Isaak von Gerning</persName>
+                    <placeName ref="http://www.geonames.org/2850257">Rastatt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="815" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1798-09-22">22.9.1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="815a" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116468157">Johann Wilhelm Casparson</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                    <date when="1798-11-20">20.11.1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="816" source="#SOE20">
+                <!-- Beispiel für Weiterleitung -->
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11910704X">Herzog Georg von Sachsen-Meiningen</persName>
+                    <placeName ref="http://www.geonames.org/2872225">Meiningen</placeName>
+                    <date when="1798-11-26">26.11.1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="817" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1798-12-07">7.12.1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116321202">Georg August Ebell</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="818" source="#SOE20">
+                <correspAction type="sent">
+                    <persName>Hendrik Sundersberg</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1799-01-09">9.1.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="819" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118677578">Georges Cuvier</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1799-02-15">15.2.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="820" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118883712">Therese Huber</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1799-07-06">6.7.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="821" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118703234">Kurfürst Friedrich Karl Joseph von Mainz</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1799-08-06">6.8.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="822" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1799-08-31">31.8.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="823" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1799-10-16">16.10.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="824" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1799-11-12">12.11.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="825" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1799-12-12">12.12.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="826" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1799-12-30">30.12.1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="827" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1800-01-21">21.1.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/128729163">Adriaan Gilles Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="827a" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Von Georg Charlotte von Hinüber</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1800-02-08">8.2.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="828" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1800-02-18">18.2.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/128729163">Adriaan Gilles Camper</persName>
+                    <placeName ref="http://www.geonames.org/2751881">Kleyn-Lankum bey Franecker in Friesland</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="829" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1800-02-28">28.2.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="830" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118671049">Erasmus Darwin</persName>
+                    <placeName ref="http://www.geonames.org/2651347">Derby</placeName>
+                    <date when="1800-03-10">10.3.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="831" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117492175">Karl Philipp Spener</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                    <date when="1800-05-15">15.5.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="832" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/31987774">Jean Joseph Sue</persName>
+                    <date when="1800-06-01">1.6.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="833" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1800-07" cert="medium" resp="#FD">Nach Wagner im Juli 1800 geschrieben</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="834" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118559796">Immanuel Kant</persName>
+                    <placeName ref="http://www.geonames.org/554234">Königsberg</placeName>
+                    <date when="1800-08-05">5.8.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="835" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/39410123/">Ludwig Ferdinand Huber</persName>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                    <date when="1800-08-14">14.8.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="836" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118691449">Gotthelf Fischer</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1800-09-08">8.9.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="837" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118691449">Gotthelf Fischer</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="838" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1800-11-15">15.11.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Gottlob Soemmerring</persName>
+                    <!-- gutes Beispiel -->
+                    <date when="1800-11-26">"accepi den 26. Novemeber 1800"</date>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="839" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1800-11-18">18.11.1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118587668">Friedrich Nicolai</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="840" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1801-01-15">15.1.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="841" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116208503">Johann Friedrich Blumenbach</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                    <date when="1801-02-02">2.2.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="842" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Von Georg Charlotte von Hinüber</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1801-03-20">20.3.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="843" source="#SOE20">
+                <correspAction type="sent">
+                    <persName>von Apell</persName>
+                    <placeName ref="http://www.geonames.org/2953439">Hersfeld an der Fulda</placeName>
+                    <date when="1801-04-06">6.4.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="844" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116893575">Karl Himly</persName>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                    <date when="1801-04-26">26.4.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="845" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1801-08-04">4.8.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118508121">Rudolf Zacharias Becker</persName>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="845a" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Von Georg Charlotte von Hinüber</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1801-09-28">28.9.1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="846" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1801" cert="medium">Nach dem Zusammenhang bei Wagner wohl 1801 geschrieben</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="847" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1801-01-01" notAfter="1803-12-31" resp="#FD #SD" cert="low">Nach dem Zusammenhang wohl 1801 oder später geschrieben</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="848" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1802-01-10" notAfter="1802-01-20" cert="medium" resp="#FD #SD">Wohl bald nach dem Tod Soemmerrings Frau, also Mitte 1802 geschrieben</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="849" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1802-01-10" notAfter="1802-01-31" resp="#FD #SD">Wohl Mitte/Ende Januar 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="850" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1802-02-01" notAfter="1802-04-30">Vielleicht im Frühjahr 1802 geschrieben</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="851" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117661147">Charles Louis Dumas</persName>
+                    <placeName ref="http://www.geonames.org/2992166">Montpellier</placeName>
+                    <date when="1802-04-03">3.4.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1802-11-20">"accepi d 20 Nov 1802"</date>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="852" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1802-06-27">27.6.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="853" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1802-07-01">1.7.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="854" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1802-07" resp="#FD" cert="medium">Wohl im Juli 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="855" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1802-07-04">4.7.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="856" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1802-09-05">5.9.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119263297">Christian Gottfried Nees</persName>
+                    <placeName ref="http://www.geonames.org/2903504">Hirzenhain</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="857" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Georg Charlotte von Hinüber</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1802-09-27">27.9.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="858" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1802-10-01" notAfter="1802-11-30">Wohl Oktober/November 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115526641">Karl Asmund Rudolphi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="859" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Georg Charlotte von Hinüber</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1802-12-05">5.12.1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="860" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1803-01-29">29.1.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115526641">Karl Asmund Rudolphi</persName>
+                    <placeName ref="http://www.geonames.org/2917788">Greifswald</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="861" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115526641">Karl Asmund Rudolphi</persName>
+                    <placeName ref="http://www.geonames.org/2917788">Greifswald</placeName>
+                    <date when="1803-02-19">19.2.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="862" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1803-04" cert="low">Nach Wagner im April 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="863" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-04-20" notAfter="1803-04-30" resp="#FD #SD" cert="medium">Wohl Ende April 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="864" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-04-20" notAfter="1803-05-10">Ende April/Anfang Mai 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118599100">Johann Friedrich Reichardt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="865" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-05-20" notAfter="1803-06-10">Ende Mai/Anfang Juni 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118599100">Johann Friedrich Reichardt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="866" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1803-06-05">5.6.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="867" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-06-08">8.6.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="868" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1803-06-12">12.6.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116483512">Heinrich Wilhelm von Harnier</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="869" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118548565">Wilhelm Heinse</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1803-06-15">15.6.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="870" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://catalogue.bnf.fr/ark:/12148/cb105531393">Adolph Joseph Molitor</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1803-06-18">18.6.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="871" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://catalogue.bnf.fr/ark:/12148/cb105531393">Adolph Joseph Molitor</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1803-06-20">20.6.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="872" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://catalogue.bnf.fr/ark:/12148/cb105531393">Adolph Joseph Molitor</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1803-06-22">22.6.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="873" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-06-22" notAfter="1803-06-30" resp="#FD #SD">Wohl direkt nach dem Tod Wilhelm Heinse (22.06.1803)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="874" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://catalogue.bnf.fr/ark:/12148/cb105531393">Adolph Joseph Molitor</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1803-06-24">24.6.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="875" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://catalogue.bnf.fr/ark:/12148/cb105531393">Adolph Joseph Molitor</persName>
+                    <placeName ref="http://www.geonames.org/2955272">Aschaffenburg</placeName>
+                    <date when="1803-06-25">25.6.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="876" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                    <date when="1803-07-08">8.7.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="877" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117116092">Albrecht Georg Walch</persName>
+                    <placeName ref="http://www.geonames.org/2838600" cert="medium">Schleusingen</placeName>
+                    <date when="1803-07-18">18.7.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="878" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1803-07-23">23.7.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117116092">Albrecht Georg Walch</persName>
+                    <placeName ref="http://www.geonames.org/2838600">Schleusingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="879" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118720961">Kurfürst Karl Theodor von Regensburg</persName>
+                    <placeName ref="http://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1803-07-30">30.7.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="880" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-08-01" notAfter="1803-08-25" resp="#FD #SD">Vor dem 25.8.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="881" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118691449">Gotthelf Fischer</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1803-08-08">8.8.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="882" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1803-08" cert="medium">Wohl August 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="883" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117116092">Albrecht Georg Walch</persName>
+                    <date when="1803-08-10">10.8.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="884" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-08-01" notAfter="1808-08-16" resp="#FD #SD" cert="medium">Nach Soemmerrings Ablehnung des Rufes nach Jena, aber wohl vor dem Brief an J. Chr. Stark (Nr. 885)</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="885" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1803-08-16">16.8.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/130383090">Johann Christian Stark d.Ä.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="886" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-08-16" notAfter="1803-09-03" resp="#FD #SD">Nach dem Schreiben an Stark v. 16.8.1803, wohl vor jenem, auf das sich Herzog Georg von MNeinigen am 4.9.1803 bezog.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="887" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11910704X">Herzog Georg von Sachsen-Meiningen</persName>
+                    <placeName ref="http://www.geonames.org/2872225">Meiningen</placeName>
+                    <date when="1803-09-04">4.9.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="888" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116005904">Jakob Fidelis Ackermann</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1803-09-13">13.9.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="889" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-09-01" notAfter="1803-11-30">Undatiert, vermutlich im Herbst 1803 geschrieben</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="890" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101476493">Georg Charlotte von Hinüber</persName>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                    <date when="1803-10-10">10.10.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="891" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117116092">Albrecht Georg Walch</persName>
+                    <date when="1803-10-20">20.10.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="892" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1803-10-25">25.10.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117116092">Albrecht Georg Walch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="893" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-09-01" notAfter="1803-11-30" resp="#FD #SD" cert="medium">Undatiert, wohl im Herbst 1803 geschrieben</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="894" source="#SOE20">
+                <correspAction type="sent">
+                    <persName>Johann Christian Heyßinger</persName>
+                    <date when="1803-11-18">18.11.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="895" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-11-01" notAfter="1803-11-30">Wohl im November 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="896" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1803-12-01" notAfter="1803-12-18">Kurz vor Herders Tod (18.12.1803), also wohl Anfang Dezember 1803 geschrieben</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="897" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1803-12-31">31.12.1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="898" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118845047">Georg Christian Wedekind</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1804-01-01">1.1.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="899" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118845047">Georg Christian Wedekind</persName>
+                    <placeName ref="http://www.geonames.org/2874225">Mainz</placeName>
+                    <date when="1804-01-14">14.1.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="900" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1804-01-17">17.1.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116300914">Wilhelm Körte</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="901" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116355085">Georg Ludwig von Edelsheim</persName>
+                    <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
+                    <date when="1804-02-13">13.2.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="902" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1804-02-24">24.2.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117116092">Albrecht Georg Walch</persName>
+                    <placeName ref="http://www.geonames.org/2838600">Schleusingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="903" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1804-04-07">7.4.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117116092">Albrecht Georg Walch</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="904" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1804-04-27">27.4.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="905" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118760866">Gottfried Reinhard Treviranus</persName>
+                    <placeName ref="http://www.geonames.org/2944388">Bremen</placeName>
+                    <date when="1804-05-03">3.5.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="906" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1804-06-11">11.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116319577">Johann Gottfried Ebel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="907" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1804-06-16">16.6.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100203604">Friedrich Christian Kries</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="908" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1804-06-20" notAfter="1804-06-30" resp="#FD #SD">Ende Juni 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="909" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/129623083">Johann Friedrich Mieg</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1804-09-01">1.9.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="910" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1804-09-01" notAfter="1804-11-30" resp="#FD #SD" cert="medium">Wohl Herbst (vielleicht September) 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="911" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1804-09-10">10.9.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/129623083">Johann Friedrich Mieg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="912" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/129623083">Johann Friedrich Mieg</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1804-09-16">16.9.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="913" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118786938">Landolin Ohmacht</persName>
+                    <placeName ref="http://www.geonames.org/2843636">Rothweil</placeName>
+                    <date when="1804-10-05">5.10.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="914" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date from="1804-10-14" to="1804-10-16" resp="#FD">14.10.1804 entworfen, am 18.10. erst abgesandt</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/129623083">Johann Friedrich Mieg</persName>
+                    <placeName ref="http://www.geonames.org/2907911" cert="medium">Heidelberg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="915" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118569767">Sophie von Laroche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1804-10-16">16.10.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="916" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/129623083">Johann Friedrich Mieg</persName>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                    <date when="1804-10-26">26.10.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="917" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1804-10-01" notAfter="1804-11-30">Wohl Oktober/NOvemeber 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="918" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1804-11-11">11.11.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116483512">Heinrich Wilhelm von Harnier</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="919" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118772589">Georg Friedrich von Zentner</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                    <date when="1804-12-07">7.12.1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="920" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1804-12-10" notAfter="1804-12-22">Wohl Mitte Dezemeber 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="921" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1804-12-20" notAfter="1804-12-31">Wohl Ende 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="922" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116005904">Jakob Fidelis Ackermann</persName>
+                    <date notBefore="1804-12-01" notAfter="1805-01-31">Wohl Ende 1804/Anfang 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="923" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118569767">Sophie von Laroche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1805-01-02">2.1.1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="924" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                    <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1805-02-01">1.2.1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="925" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116300914">Wilhelm Körte</persName>
+                    <placeName ref="http://www.geonames.org/2911665">Halberstadt</placeName>
+                    <date when="1805-02-04">4.2.1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="926" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1805-02-05">5.2.1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116483512">Heinrich Wilhelm von Harnier</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="927" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1805-02-21">21.2.1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116483512">Heinrich Wilhelm von Harnier</persName>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="928" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118569767">Sophie von Laroche</persName>
+                    <placeName ref="http://www.geonames.org/2857807">Offenbach</placeName>
+                    <date when="1805-02-25">25.2.1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="929" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1805-03-09">9.3.1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="930" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date notBefore="1805-03-20" notAfter="1805-04-10">Ende März/Anfang April 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="931" source="#SOE20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Soemmerring, Samuel Thomas</persName>
+                    <date when="1805-04-03">3.4.1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

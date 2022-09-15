@@ -1,0 +1,898 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>F. Liman mit R. L. Varnhagen und K. G. von Brinckmann</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-03-10T14:40:43.657-01:00"/>
+                <idno type="url">https://correspsearch.net/storage/liman-varnhagen.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online" xml:id="ydef5c0b-8626-4158-86eb-efc0521e5ba4">Friederike Liman: Briefwechsel mit Rahel Levin Varnhagen und Karl Gustav von Brinckmann sowie Aufzeichnungen von Rahel Levin Varnhagen und Karl August Varnhagen. Hrsg. v. Birgit Anna Bosold. Hamburg 1996.<ref target="https://ediss.sub.uni-hamburg.de/handle/ediss/162 ">https://ediss.sub.uni-hamburg.de/handle/ediss/162 </ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I.1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date cert="low" notAfter="1795-05-31" notBefore="1795-03-01">Frühjahr 1795</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-06-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-06-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1795-06-20" notBefore="1795-06-11">Mitte Juni 1795</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <persName ref="https://d-nb.info/gnd/1052319904">Paul Louis Costantini</persName>
+                    <date when="1795-06-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1795-06-22" notBefore="1795-06-21">21. oder 22. Juni 1795</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-06-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-06-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-06-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <persName ref="https://d-nb.info/gnd/1043591575">Hedwig Fließ</persName>
+                    <date when="1795-07-05"/>
+                    <placeName ref="http://www.geonames.org/2953458">Freienwalde</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-07-08"/>
+                    <placeName ref="http://www.geonames.org/2953458">Freienwalde</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-07-16"/>
+                    <placeName ref="http://www.geonames.org/2953458">Freienwalde</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <persName ref="https://d-nb.info/gnd/1043591575">Hedwig Fließ</persName>
+                    <date when="1795-07-23"/>
+                    <placeName ref="http://www.geonames.org/2953458">Freienwalde</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-07-23"/>
+                    <placeName ref="http://www.geonames.org/2953458">Freienwalde</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-08-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-08-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-08-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-08-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-08-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-08-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-08-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-09-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-09-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-10-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <persName ref="https://d-nb.info/gnd/1176529633">Hendel Levin</persName>
+                    <date when="1795-10-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1795-10-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1796-09-10" notBefore="1796-09-01">Anfang September 1796</date>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/3188380">Töplitz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1797-06-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2953379">Pyrmont</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1800-10-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1800-12-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <persName>Nanette Marcuse</persName>
+                    <date from="1801-02-12" to="1801-02-28">12. bis 28. Februar 1801</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <date when="1815-02-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1815-09-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <date when="1815-09-17"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1815-10-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <persName>Nanette Marcuse</persName>
+                    <date when="1816-02-15"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <date when="1816-02-22"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1816-03-02"/>
+                    <placeName>Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <date when="1816-03-20"/>
+                    <placeName ref="http://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <persName ref="https://d-nb.info/gnd/118625543">C. F. Unzelmann</persName>
+                    <persName>Nanette Marcuse</persName>
+                    <date when="1816-03-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1817-02-09"/>
+                    <placeName>Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1817-03-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1817-11-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1817-12-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1818-01-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <persName ref="https://d-nb.info/gnd/1043591575">Wilhelmine von Sparre</persName>
+                    <date when="1818-06-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1818-08-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1819-01-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1819-02-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1819-02-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2892794">Karlsruhe</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1819-06-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1819-07-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1821-06-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1821-10-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1823-08-16"/>
+                    <placeName ref="http://www.geonames.org/3071024">Marienbad</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1827-08-14"/>
+                    <placeName ref="http://www.geonames.org/2809346">Wiesbaden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="I. 56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1830-05-17"/>
+                    <placeName ref="http://www.geonames.org/498817">Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118626175">Rahel Levin Varnhagen</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <date when="1794-05-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <placeName ref="http://www.geonames.org/2953458">Freienwalde</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1794-07-15"/>
+                    <placeName ref="http://www.geonames.org/2953458">Freienwalde</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1795-08-31" notBefore="1795-06-01">Somer 1795</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1796-07-14"/>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1796-08-04"/>
+                    <placeName ref="http://www.geonames.org/3073803">Karlsbad</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1796-12-31" notBefore="1796-01-01">Vor 1797</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1799-07-11" notBefore="1799-07-05">um den 8. Juli 1799</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1799-10-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1802-12-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1804-12-31" notBefore="1804-01-01">vor 1805</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <date notAfter="1804-12-31" notBefore="1804-01-01">vor 1805</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1804-12-31" notBefore="1804-01-01">vor 1805</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1804-12-31" notBefore="1804-01-01">vor 1805</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1807-12-31" notBefore="1807-01-01">vor 1808</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1807-12-31" notBefore="1807-01-01">vor 1808</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1807-12-31" notBefore="1807-01-01">vor 1808</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1807-12-31" notBefore="1807-01-01">vor 1808</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date notAfter="1807-12-31" notBefore="1807-01-01">vor 1808</date>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1815-10-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1835-02-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ydef5c0b-8626-4158-86eb-efc0521e5ba4" key="II. 21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/123238048">Friederike Liman</persName>
+                    <date when="1835-05-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116519770">Karl Gustav von Brinckmann</persName>
+                    <placeName ref="http://www.geonames.org/2673730">Stockholm</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

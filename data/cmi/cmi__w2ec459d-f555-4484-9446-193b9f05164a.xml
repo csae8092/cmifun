@@ -1,0 +1,2227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Acta Pacis Westphalicae Serie II, Abt. A, Bd. 10</title>
+                <editor>Tom Liese, Claudia Neuman und Stefan Münnich <email>tom.liese@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/Acta_Pacis_Westphalicae_II_A_10.xml</idno>
+                <date when="2021-10-26T17:09:02.156-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="w2ec459d-f555-4484-9446-193b9f05164a">Acta Pacis Westphalicae. Serie II: Korrespondenzen, Abt. A: 
+                    Die kaiserlichen Korrespondenzen, Bd. 10: 1648 - 1649. Bearb. von Dorothée Goetze. Münster 2015. <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00124733-7">[Digitalisat]</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc ref="https://daten.digitale-sammlungen.de/bsb00124733/image_117" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="123/1/-">
+                <correspAction type="sent">
+                    <persName cert="low" ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-01"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2772400" evidence="conjecture">Linz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://daten.digitale-sammlungen.de/bsb00124733/image_120" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/2/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-01"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_123" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/3/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName cert="low" ref="http://d-nb.info/gnd/119142511">Johann Crane</persName>
+                    <date when="1649-09-03"/>
+                    <placeName ref="http://www.geonames.org/2856883">Osnabrück</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2772400" evidence="conjecture">Linz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_130" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="124/4/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName cert="low" ref="http://d-nb.info/gnd/119142511 " evidence="conjecture">Johann Crane</persName>
+                    <date when="1648-09-03"/>
+                    <placeName ref="http://www.geonames.org/2856883">Osnabrück</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2772400" evidence="conjecture">Linz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_133" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="128/4A/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Crane</persName>
+                    <date when="1648-09-03"/>
+                    <placeName ref="http://www.geonames.org/2856883" evidence="conjecture">Osnabrück</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2772400" evidence="conjecture">Linz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_136" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/5/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <date when="1648-09-03"/>
+                    <placeName ref="http://www.geonames.org/2856883">Osnabrück </placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/121561232">Ferdinand Sigmund Kurtz von Senftenau </persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_138" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="126,127/6/21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-09-04"/>
+                    <placeName ref="http://www.geonames.org/2772400">Linz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_149" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/7/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-04"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2772400" evidence="conjecture">Linz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_151" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="130,132/8/28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-09-07"/>
+                    <placeName ref="http://www.geonames.org/2772400" evidence="conjecture">Linz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_154" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/9/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Crane </persName>
+                    <date evidence="conjecture" when="1648-09-07"/>
+                    <placeName ref="http://www.geonames.org/2856883">Osnabrück</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2772400">Linz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_164" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="131/10/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-08"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2772400" evidence="conjecture">Linz</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-08"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115775854">Maximilian Trauttmannsdorf</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118823795">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <date when="1648-09-10"/>
+                    <placeName ref="http://www.geonames.org/2856883">Osnabrück</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-11"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-11"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115775854">Maximilian Trauttmannsdorf</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118823795">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <date when="1648-09-14"/>
+                    <placeName ref="http://www.geonames.org/2856883">Osnabrück</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118823795">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <date when="1648-09-14"/>
+                    <placeName ref="http://www.geonames.org/2856883">Osnabrück</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102837422">Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-15"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115775854" evidence="conjecture">Maximilian Trauttmannsdorf</persName>
+                    <persName evidence="conjecture">Georg Adam Martiniz d. J.</persName>
+                    <persName ref="https://d-nb.info/gnd/121561232" evidence="conjecture">Ferdinand Sigmund Kurz</persName>
+                    <persName ref="https://d-nb.info/gnd/104270136" evidence="conjecture">Johann Weikhart Auersperg</persName>
+                    <persName ref="https://d-nb.info/gnd/1017793220" evidence="conjecture">Prickhelmayr</persName>
+                    <date when="1648-09-14"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                    <date when="1648-09-16"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102837422">Johann Ludwig von Nassau-Hadamer</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                    <date when="1648-09-16"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102837422">Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_230" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="6/21/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-18"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_231" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/22/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-18"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_233" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/23/40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-09-20"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_237" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/24/40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-09-22"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_240" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/25 /45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-22"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_244" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/26/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-22"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_246" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/27/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-24"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_248" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="8/28/45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Crane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-25"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_255" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="12/29/54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-09-26"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Crane</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_256" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="16/30/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-09-29"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_258" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="15,17/31/58,58A">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-09-29"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_264" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/32/51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-29"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_268" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/33/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-09-29"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_271" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/34/59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                    <date when="1648-09-30"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_272" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="20/35/57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-10-01"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_274" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/36/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <date when="1648-10-01"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_275" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/37/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <date when="1648-10-02"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_276" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="19,19A/38/49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-02"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_283" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/39/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-02"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_284" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="21,24/40/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-03"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_285" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102837422">Johann Ludwig Nassau-Hadamer</persName>
+                    <persName ref="https://d-nb.info/gnd/118823795">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-06"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_297" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-06"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115775854">Maximilian Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://daten.digitale-sammlungen.de/bsb00124733/image_320" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III.</persName>
+                    <date when="1648-10-07"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102837422">Johann Ludwig Nassau-Hadamer</persName>
+                    <persName ref="https://d-nb.info/gnd/118823795">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://daten.digitale-sammlungen.de/bsb00124733/image_325" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III.</persName>
+                    <date when="1648-10-07"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102837422">Johann Ludwig Nassau-Hadamer</persName>
+                    <persName ref="https://d-nb.info/gnd/118823795">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://daten.digitale-sammlungen.de/bsb00124733/image_327" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102837422">Johann Ludwig Nassau-Hadamer</persName>
+                    <persName ref="https://d-nb.info/gnd/118823795">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-09"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://daten.digitale-sammlungen.de/bsb00124733/image_335" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118823795">Johann Maximilian Lamberg</persName>
+                    <date when="1648-10-09"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121561232">Ferdinand Sigmund Kurz von Senftenau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://daten.digitale-sammlungen.de/bsb00124733/image_338" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-09"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115775854">Maximilian Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://daten.digitale-sammlungen.de/bsb00124733/image_338" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III.</persName>
+                    <date when="1648-10-11"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102837422">Johann Ludwig Nassau-Hadamer</persName>
+                    <persName ref="https://d-nb.info/gnd/118823795">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://daten.digitale-sammlungen.de/bsb00124733/image_341" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date evidence="conjecture" when="1648-10-11"/>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102837422">Johann Ludwig Nassau-Hadamer</persName>
+                    <date when="1648-10-11"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_343" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="32/51/64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-10-12"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_345" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/52/64,75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-10-13"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_350" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/53/72,74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-13"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_354" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="29/54/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <date when="1648-10-13"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_354" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/55/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-13"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_356" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/56/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <date when="1648-10-15"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_358" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="35/57/74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-16"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_362" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="31/58/74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-16"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_363" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="31/58A/74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-16"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_364" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="34/59/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-16"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_366" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/60/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <date when="1648-10-16"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="61">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118823795">Johann Maximilian von Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Crane</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <persName ref="https://d-nb.info/gnd/102837422">Nassau-Hadamar, Johann Ludwig</persName>
+                    <date when="1648-10-20"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-20"/>
+                    <placeName ref="http://www.geonames.org/2867543" evidence="conjecture">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115775854">Maximilian Trauttmannsdorf</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-21"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/102837422">Nassau-Hadamar, Johann Ludwig</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="64">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102837422">Nassau-Hadamar, Johann Ludwig</persName>
+                    <persName ref="https://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-23"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="65">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-23"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115775854">Maximilian Trauttmannsdorf</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="66">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <date when="1648-10-24"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121561232">Kurz von Senftenau, Ferdinand Sigmund</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <date when="1648-10-24"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102837422">Nassau-Hadamar, Johann Ludwig</persName>
+                    <persName ref="https://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="https://d-nb.info/gnd/119142511">Johann Baptist Krane</persName>
+                    <persName ref="https://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-25"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/102837422">Nassau-Hadamar, Johann Ludwig</persName>
+                    <date when="1648-10-25"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118532529">Ferdinand III</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <date when="1648-10-25"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/121561232">Kurz von Senftenau, Ferdinand Sigmund</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_392" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/70/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <date when="1648-10-25"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/121561232">Ferdinand Sigmund Kurtz von Senftenau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_392" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/71/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-26"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_395" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="53/72/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-10-27"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_404" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/73/89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-27"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_405" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="53,57,58,58A/74/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-10-28"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_407" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="52/75/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-30"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_408" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/76/90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-30"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_410" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/77/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-10-30"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_411" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/78/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-11-03"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_414" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/79/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-11-03"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_415" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/80/92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-11-06"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_416" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/81/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-11-06"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_418" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="68/82/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-11-07"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_419" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/83/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-11-07"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_420" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/83A/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-11-07"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_421" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/83B/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-11-07"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_422" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/83C/101">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-11-07"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_423" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/84/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-11-10"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_425" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/85/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-11-10"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_426" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/86/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <date when="1648-11-10"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_427" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/87/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <date when="1648-11-10"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/121561232">Ferdinand Sigmund Kurtz von Senftenau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_430" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/88/-">
+                <correspAction type="sent">
+                    <persName>-</persName>
+                    <date when="1648-11-07"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>-</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_442" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="68,73/89/96,98">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-11-11"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_443" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="76/90/100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-11-14"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_449" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/91/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-11-17"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_453" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="80/92/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-11-20"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_457" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/93/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-11-20"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_459" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/94/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-11-24"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_460" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/95/110">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-11-25"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_463" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="89/96/112">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-11-27"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_469" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/97/118">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-11-28"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_471" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="89/98/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-01"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_472" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/99/116,117">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-12-02"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_474" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="90/100/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <date when="1648-12-03"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_474" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="83C/101/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-03"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_478" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/102/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-12-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_482" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/103/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-04"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_483" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/104/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-04"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_486" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/105/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <date when="1648-12-04"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/121561232">Ferdinand Sigmund Kurtz von Senftenau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_488" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/106/123">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-12-05"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_489" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/107/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-12-07"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_490" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/108/134">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-08"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_492" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/109/127">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-11"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_500" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="95/110/127">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-11"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_505" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/111/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-11"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_506" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="96/112/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-12-14"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_523" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/113/132">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-15"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_532" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/114/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-15"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_534" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/115/135">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-12-18"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_542" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="99/116/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-18"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_545" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="99/117/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-18"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_546" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="97/118/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-18"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_550" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/119/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-18"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_551" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/120/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-12-19"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_556" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/121/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-22"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_561" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/122/162">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-12-24"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_567" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="106/123/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-24"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_569" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/124/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-24"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_572" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/125/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-24"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_574" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/126/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-25"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_578" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="109,110/127/146">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1648-12-28"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_582" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/128/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date from="1648-12-25" to="1648-12-29"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_583" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/129/145">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1648-12-29"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_586" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/130/145">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-01"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_591" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/131/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-01"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_593" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="113/132/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-01-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_595" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/133/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-01-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_596" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="108/134/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-01-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_597" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="115/135/154">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-05"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_600" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/136/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-05"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_603" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/137/154">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-08"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_604" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/138/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-08"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_606" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/139/160,161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-12"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_610" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/140/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-12"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_611" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/141/158">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-01-13"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_616" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/142/161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date evidence="conjecture" when="1649-01-15"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_620" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/143/160,161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date evidence="conjecture" when="1649-01-15"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_622" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/144/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-15"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_624" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="129,130/145/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-01-16"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_627" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="127/146/160,161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-19"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_631" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/147/160,161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-19"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_633" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/148/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-19"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_635" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/149/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-01-21"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_636" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/150/160,161,164">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-22"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_640" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/151/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-22"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_642" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/152/168">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-26"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_646" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/153/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-26"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_648" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="135,137/154/169">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-01-27"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_669" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/155/168">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-29"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_671" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/156/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-01-29"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_673" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/157/173">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-02"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_676" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="141/158/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-02"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/159/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-02"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_678" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="139.143,146,147,150/160/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-02-03"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_679" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="139,142,143,146,147,150/161/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-02-05"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_695" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="122/162/173">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-06"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_701" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/163/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-07"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_703" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="150/164/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-02-09"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_704" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/165/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date from="1649-02-08" to="1649-02-09"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_707" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/166/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-09"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_708" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/167/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-02-10"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_710" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="152,155/168/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-02-11"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_715" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="154/169/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-12"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_718" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/170/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-16"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_721" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/171/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-16"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_723" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/172/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <date when="1649-02-16"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/121561232">Ferdinand Sigmund Kurtz von Senftenau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_724" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="157,162/173/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <date when="1649-02-18"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_732" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/174/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <date when="1649-02-18"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/121561232">Ferdinand Sigmund Kurtz von Senftenau</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_733" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/175/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/102837422">Fürst Johann Ludwig von Nassau-Hadamar</persName>
+                    <persName ref="http://d-nb.info/gnd/189484098">Johann Maximilian Lamberg</persName>
+                    <persName ref="http://d-nb.info/gnd/119142511">Johann Krane</persName>
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-19"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118532529">Kaiser Ferdinand III.</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="http://daten.digitale-sammlungen.de/bsb00124733/image_741" source="#w2ec459d-f555-4484-9446-193b9f05164a" key="-/176/-">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118838598">Isaak Volmar</persName>
+                    <date when="1649-02-19"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/115775854">Graf Maximilian von Trauttmansdorff</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

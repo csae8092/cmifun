@@ -1,0 +1,1460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Jean-Baptiste Boussingault</title>
+                <editor>Linda Martin und Ulrich Paessler <email>paessler@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften</ref>
+                </publisher>
+                <date when="2018-01-31T14:30:00.00+02:00"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Boussingault.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="b0a5f149-1e9a-4748-81e0-119087d11450" type="print"> Humboldt,
+                    Alexander von und Jean-Baptiste Boussingault: Briefwechsel. Herausgegeben von
+                    Ulrich Päßler und Thomas Schmuck unter Mitarbeit von Eberhard Knobloch, Beiträge
+                    zur Alexander-von-Humboldt-Forschung 41, Berlin, Boston: De Gruyter 2015.
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc key="1" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date evidence="conjecture" when="1822"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="2" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date evidence="conjecture" when="1822-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="3" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date evidence="conjecture" when="1822-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="4" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1822-08-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="5" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2803138">Antwerpen</placeName>
+                    <date when="1822-08-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="6" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1822-08-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="7" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1822-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="8" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2803138">Antwerpen</placeName>
+                    <date when="1822-08-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="9" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1822-08-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="10" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1822-08-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="11" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2803138">Antwerpen</placeName>
+                    <date when="1822-08-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="12" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1822-08-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="13" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2803138">Antwerpen</placeName>
+                    <date when="1822-09-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="14" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3637721">La Guaira</placeName>
+                    <date when="1822-12-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="15" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3646738">Caracas</placeName>
+                    <date from="1822-12-16" to="1822-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="16" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3646738">Caracas</placeName>
+                    <date when="1823-01-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="17" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3632998">Maracay</placeName>
+                    <date when="1823-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="18" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3632998">Maracay</placeName>
+                    <date when="1823-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="19" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1823-06-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="20" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1823-07-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="21" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1823-07-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="22" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1823-08-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="23" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1823-09-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="24" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1823-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="25" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1824-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="26" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1824-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="27" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1824-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="28" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1824-07-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="29" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1824-07-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="30" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1824-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="31" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3667697">Vega de Supia</placeName>
+                    <date when="1824-08-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="32" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <date notBefore="1824-08-18" notAfter="1824-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="33" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1824-09-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="34" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1824-10-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="35" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1824-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="36" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1824-11-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="37" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1824-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="38" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <date when="1824"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="39" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3646738">Caracas</placeName>
+                    <date when="1825-02-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="40" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1825-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="41" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1825-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="42" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1825-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="43" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1825-05-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="44" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1825-06-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="45" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3667697">Vega de Supía</placeName>
+                    <date when="1825-07-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="46" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <date notBefore="1825-07-27" notAfter="1831-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="47" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689" evidence="conjecture">Bogotá</placeName>
+                    <date evidence="conjecture" when="1825-08-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="48" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3667697">Vega de Supía</placeName>
+                    <date when="1825-08-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="49" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3674962">Medellín</placeName>
+                    <date when="1825-12-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="50" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1826-03-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="51" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1826-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="52" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1826-04-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="53" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1826-06-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="54" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="No Authority File ID">Mariquita</placeName>
+                    <date when="1826-09-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="55" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1827-02-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="56" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3680653">Ibagué</placeName>
+                    <date when="1827-05-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="57" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3667697">Vega de Supía</placeName>
+                    <date when="1827-11-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="58" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="No Authority File ID">Marmato</placeName>
+                    <date when="1828-11-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="59" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="No Authority File ID">Marmato</placeName>
+                    <date when="1829-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="60" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="No Authority File ID">Marmato</placeName>
+                    <date when="1829-06-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="61" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3652462">Quito</placeName>
+                    <date when="1832-02-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="62" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1832"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="63" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1832-12-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="64" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1832-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="65" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1833-01-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="66" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1833-01-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="67" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1833-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="68" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988247">Pechelbronn</placeName>
+                    <date when="1833-07-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="69" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1833-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="70" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1833-12-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="71" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1834-01-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="72" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1834-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="73" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1834-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="74" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2855433">Paretz</placeName>
+                    <date when="1834-06-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="75" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2973783">Straßburg</placeName>
+                    <date when="1834-08-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="76" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1834-09-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="77" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date notBefore="1834-08-23" notAfter="1834-10-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="78" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1834-10-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="79" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date evidence="conjecture" when="1834-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="80" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1834-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="81" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1834-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="82" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1835-02-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="83" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2996944">Lyon</placeName>
+                    <date when="1835-03-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="84" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date evidence="conjecture" when="1835-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="85" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date evidence="conjecture" when="1835"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="86" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date evidence="conjecture" when="1835"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="87" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date evidence="conjecture" when="1835"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="88" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date evidence="conjecture" when="1835"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="89" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1836-05-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="90" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date evidence="conjecture" when="1836-05-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="91" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1836-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="92" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1836-06-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="93" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1837-05-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="94" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1837-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="95" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date notBefore="1838-08-20" notAfter="1839-01-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="96" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date evidence="conjecture" when="1838"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="97" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1839-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="98" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1839-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="99" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date when="1843-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="100" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                   <date evidence="conjecture" when="1844"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="101" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1847-03-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="102" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1847-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="103" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <date when="1851-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="104" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1851-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="105" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1851-10-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="106" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1851-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="107" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1852-01-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="108" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1853-01-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="109" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1853-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="110" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1853-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="111" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1854-02-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="112" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1854-05-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="113" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/6614939">Liebfrauenberg</placeName>
+                    <date when="1854-06-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="114" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1855-08-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="115" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1855-11-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="116" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1856-05-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="117" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1856-05-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="118" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                    <date notBefore="1856-12-01" notAfter="1857-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="119" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2967304" evidence="conjecture">Wœrth</placeName>
+                    <date when="1858-07-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="120" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203" evidence="conjecture">Berlin</placeName>
+                    <date notBefore="1858-12-05" notAfter="1859-01-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="121" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="122" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1859-01-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="123" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1859-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="124" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/1510203">Berlin</placeName>
+                    <date when="1859-03-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="125" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1859-03-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="Dokument 2" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1826-04-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="Dokument 3" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/3688689">Bogotá</placeName>
+                    <date when="1826-04-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="Dokument 5" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/101165250">Jean-Baptiste
+                        Boussingault</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1834-02-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="Dokument  6" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117415065">Francis Hall</persName>
+                    <placeName ref="http://www.geonames.org/3652462">Quito</placeName>
+                    <date when="1831-11-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc key="Dokument 7" source="#b0a5f149-1e9a-4748-81e0-119087d11450">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116077468">Joseph Barclay
+                        Pentland</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1833-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

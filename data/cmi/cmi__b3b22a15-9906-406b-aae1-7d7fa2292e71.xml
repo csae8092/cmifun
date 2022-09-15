@@ -1,0 +1,2589 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die sozinianischen Briefwechsel: Zwischen Theologie, frühmoderner
+                    Naturwissenschaft und politischer Korrespondenz</title>
+                <editor> Patrick Toschka <email>sbw@adwmainz.de</email></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.adwmainz.de/">Akademie der Wissenschaften und der
+                        Literatur | Mainz</ref>
+                </publisher>
+                <idno type="url">https://sozinianer.de/fileadmin/cmif/corresp.xml</idno>
+                <date when="2021-01-14"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online" xml:id="b3b22a15-9906-406b-aae1-7d7fa2292e71">Die sozinianischen
+                    Briefwechsel: Zwischen Theologie, frühmoderner Naturwissenschaft und politischer
+                    Korrespondenz, erarbeitet und herausgegeben von Kęstutis Daugirdas und Andreas
+                    Kuczera. Johannes a Lasco Bibliothek Emden, 2020. <ref target="https://sozinianer.de">https://sozinianer.de</ref></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_amw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                    <date when="1665-01-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_bmw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ffw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_gzw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_kgx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_oyw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                    <date when="1665-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_sdx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                    <date when="1664-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ucw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_w4x_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                    <date when="1664-12-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_x4x_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                    <date when="1665-01-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_zsz_cdc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johann Melchior Rötlin</persName>
+                    <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_fbm_tcc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-04-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1665-04-21"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_k1k_ygk_n2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-11-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-11-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_rxt_hts_5fb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date from="1665-07-25" to="1665-07-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_sfl_vcc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-05-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <date when="1665-06-07"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_c2x_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                    <date when="1665-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_gyv_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-11-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hpx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                    <date when="1666-04-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hvw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                    <date when="1665-04-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_o5w_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_oqw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-04-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ssw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                    <date when="1665-04-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_uhy_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_vwx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                    <date when="1666-05-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_xby_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-05-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_xwx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-04-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/100397077">Johannes Placentinus</persName>
+                    <placeName ref="https://www.geonames.org/2925535">Frankfurt an der
+                        Oder</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_agw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                    <date when="1667-02-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_b5w_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-11-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_bafdfa02-a605-449a-9f77-4f93f98d29d2" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-11-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/12464967X">Michael Watson</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_hmy_hsp_vjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1667-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_xvz_lt4_vjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                    <date when="1667-06-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_yjl_g5h_sjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1666-02-28" notBefore="1666-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117187968">Peter Musaeus</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_ykc_mtp_vjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                    <date when="1667-07-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_eyx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                    <date when="1666-11-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hkx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-11-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_inx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1667-04-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ivw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                    <date when="1667-04-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ldw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                    <date when="1666-12-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_nkx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1667-01-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_rnw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                    <date when="1667-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_wtw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                    <date when="1666-10-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_zrx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1667-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116458119">Samuel Reyher</persName>
+                    <placeName ref="https://www.geonames.org/2891122">Kiel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_acr_tnp_42b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-12-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <date when="1665-12-24"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_aqf_zcc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-08-06"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_avk_zb4_42b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-12-07"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_bd4_qq1_4fb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date notAfter="1665-08-26" notBefore="1665-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-26"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_blb_tyl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <date when="1665-10-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-10-08"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_bpg_5cg_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-10-15"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_bvp_1dc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-08-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_byg_1fc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-06-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-06-26"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_cxk_bdc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-09-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_dnw_tcq_4fb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-09-12" notBefore="1665-09-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ecz_xcc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-07-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-07-09"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_a4k_jyp_lkb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-12-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-12-21"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_axd_yft_njb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-09-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-09-07"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_ecv_pqc_yjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notBefore="1665-05-13" notAfter="1665-05-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_qv5_sh5_nkb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-12-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-12-31"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_scg_dvx_xjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notBefore="1665-05-07" notAfter="1665-05-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_x5z_xd5_33b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <date when="1665-11-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_elq_vw2_n2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-11-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-11-16"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_f43_syl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-10-22"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_fjz_zk4_42b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-12-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-12-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_g2l_wcc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <date when="1665-06-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-06-11"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_gdp_scc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-03-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1665-04-07"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_gjf_d3d_n2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-10-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-11-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_h21_bdc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <date when="1665-08-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-09-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_h4j_cdc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-09-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-09-24"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hkg_ntx_kfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-03-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-03-27" notBefore="1665-03-21"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hqg_lhc_pfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date notAfter="1665-11-07" notBefore="1665-10-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-11-07" notBefore="1665-10-31"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hxy_lnj_mfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date notAfter="1665-05-19" notBefore="1665-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-05-20" notBefore="1665-05-19"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ixq_td2_nfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-08-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-19"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_jbz_qvd_nfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-08-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-08-15" notBefore="1665-08-04"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_jtl_ycc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-07-18"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_k1v_zcc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-08-13"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_k4x_syl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-10-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-10-12"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ks2_tyl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-10-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_l2v_n2y_mfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-07-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-07-18" notBefore="1665-07-11"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_l4h_tyl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-09-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <date notAfter="1665-10-05" notBefore="1665-09-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_mbf_gqc_mfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1665-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-04-18" notBefore="1665-03-12"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_nhx_5cc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-05-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-07-09"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_nks_nbc_hfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1665-03-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-03-21" notBefore="1665-03-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_pdf_1ck_mfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date from="1665-06-28" to="1665-06-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-07-04" notBefore="1665-07-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_phq_5rp_42b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-12-28"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_psy_vcc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-05-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-07-09"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_qzl_5cc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-04-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-05-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_rgp_syl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-10-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-10-20"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_rj2_hkp_42b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-12-21"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_s43_zjr_kfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <date when="1665-12-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-12-11" notBefore="1665-12-06"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_stg_y42_n2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-11-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <date when="1665-11-19"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_sx5_bdc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-09-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-09-17"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_t2q_4vy_mfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date notAfter="1665-08-01" notBefore="1665-07-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-08-01" notBefore="1665-07-22"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_tg1_tcc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1665-04-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_und_xsv_4fb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <date when="1665-09-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-09-26" notBefore="1665-09-19"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_uxf_1dc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-08-20"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_w21_nvh_mfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1665-04-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-04-25" notBefore="1665-04-24"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_w2m_fnq_kfb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-11-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_w5d_bfc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-07-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-07-23"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_xbw_ctl_n2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-11-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-12-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_y2l_k5p_42b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <date notAfter="1666-01-08" notBefore="1666-01-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_z1s_tdc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-04-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2925533">Frankfurt am Main</placeName>
+                    <date when="1665-05-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_z2d_scc_b2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-03-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/129090301">Johann Friedrich
+                        Schletzer</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1665-03-31"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_yfj_t4w_cgb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName>NN Korrespondentin aus Berlin</persName>
+                    <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1665-08-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_g3j_vzy_ykb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-06-10"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_kgr_wnd_t3b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-01-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_o1x_q3h_cjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-02-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_sxx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_vcy_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-04-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_c3b_43j_1kb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119277379">Ismaël Boulliau</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                    <date when="1669-03-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hvj_wrg_2jb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2759794">Amsterdam</placeName>
+                    <date when="1668-11-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119277379">Ismaël Boulliau</persName>
+                    <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_vbg_d3v_nkb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132840626">Joachim Stegmann der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2873891">Mannheim</placeName>
+                    <date when="1665-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_lnl_sqx_m2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119431416">Johannes Hevelius</persName>
+                    <placeName ref="https://www.geonames.org/3099434">Danzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_mmx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119431416">Johannes Hevelius</persName>
+                    <placeName ref="https://www.geonames.org/3099434">Danzig</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_uc5_llx_1fb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119431416">Johannes Hevelius</persName>
+                    <placeName ref="https://www.geonames.org/3099434">Danzig</placeName>
+                    <date when="1665-05-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_skp_zyd_wkb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/129543381">Johannes Müller</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_klw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-07-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ab1_qqq_y2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854330X">Otto von Guericke der
+                        Ältere</persName>
+                    <placeName ref="https://www.geonames.org/2874545">Magdeburg</placeName>
+                    <date when="1665-08-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_ujm_dt3_xkb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-03-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/12124816X">Johannes Raue</persName>
+                    <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_c3g_1yp_y2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-06-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854330X">Otto von Guericke der
+                        Ältere</persName>
+                    <placeName ref="https://www.geonames.org/2874545">Magdeburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_cjl_jbr_y2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-04-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854330X">Otto von Guericke der
+                        Ältere</persName>
+                    <placeName ref="https://www.geonames.org/2874545">Magdeburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_erw_rxq_y2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854330X">Otto von Guericke der
+                        Ältere</persName>
+                    <placeName ref="https://www.geonames.org/2874545">Magdeburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_fpl_twq_y2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854330X">Otto von Guericke der
+                        Ältere</persName>
+                    <placeName ref="https://www.geonames.org/2874545">Magdeburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_gmn_lzp_y2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854330X">Otto von Guericke der
+                        Ältere</persName>
+                    <placeName ref="https://www.geonames.org/2874545">Magdeburg</placeName>
+                    <date when="1665-06-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_owf_5qg_x2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-03-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11854330X">Otto von Guericke der
+                        Ältere</persName>
+                    <placeName ref="https://www.geonames.org/2874545">Magdeburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_u32_hbr_y2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11854330X">Otto von Guericke der
+                        Ältere</persName>
+                    <placeName ref="https://www.geonames.org/2874545">Magdeburg</placeName>
+                    <date when="1666-04-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_d3p_bpx_f2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/136151167">Otto von Guericke der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_dbt_pyl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/136151167">Otto von Guericke der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_dm1_4yl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/136151167">Otto von Guericke der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_lrk_nyl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/136151167">Otto von Guericke der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ots_nyl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/136151167">Otto von Guericke der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-04-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_pcb_phx_f2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/136151167">Otto von Guericke der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_vpw_4yl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/136151167">Otto von Guericke der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_xp4_4yl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/136151167">Otto von Guericke der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1665-01-23" notBefore="1665-01-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_yb3_4yl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/136151167">Otto von Guericke der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_zns_myl_l2b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/136151167">Otto von Guericke der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_b2x_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-03-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_bmx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-02-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_e5d_ykk_llb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date notAfter="1666-04-02" notBefore="1666-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_gdx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_gdy_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-11-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_gsx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_h2x_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-05-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_h3w_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hbw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-04-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hdw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hdy_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-11-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hsx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-08-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hyx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ixx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_j3w_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_k2x_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-05-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_kbw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-04-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_kfx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-09-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_krx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1667-02-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_kyx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_lfx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-09-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_lwx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_lxx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-10-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_lyx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_mgw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-04-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_qzw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-03-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_rhy_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_rrw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_s1x_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_sfx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_shy_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-05-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_srw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1666-01-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_t1x_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-07-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_tsx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_wpw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_xbx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-03-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ydx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ypw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-02-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_zgy_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/115531335">Heinrich Sivers</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_abx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-09-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132840626">Joachim Stegmann der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_dvv_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/132840626">Joachim Stegmann der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2873891">Mannheim</placeName>
+                    <date when="1665-01-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_j3x_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1664-12-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132840626">Joachim Stegmann der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_lgw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-04-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132840626">Joachim Stegmann der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_zbx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/132840626">Joachim Stegmann der
+                        Jüngere</persName>
+                    <placeName ref="https://www.geonames.org/2873891">Mannheim</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_acx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_amx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_apw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_bbw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-03-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_bxw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-03-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ed_ekw_jr2_kjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_evv_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_fbx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_fdx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-01-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_gyw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-07-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_hbk_twz_bjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-02-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ijw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-05-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_jlm_nm1_cjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-05-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_k1w_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-09-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_kgw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-04-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_oby_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-03-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_ot5_qfh_cjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-02-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_oxq_5wg_bjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-02-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_p3w_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-02-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_pw5_cyg_bjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-03-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_q1y_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_q5x_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-12-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_r2c_5hh_cjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-02-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_rcx_jv1_cjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_rdw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-02-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_rgy_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_rzx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-03-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_sxv_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_tdw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-02-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_tk1_wvg_bjb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-02-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_tw5_51g_53b" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_uhw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_usx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1664-12-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_wdy_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-04-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_wjx_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-08-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_x2y_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                    <date when="1665-01-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://sozinianer.de/id/MAIN_zbw_qlm_zdb" source="#b3b22a15-9906-406b-aae1-7d7fa2292e71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/124058698">Johann Ernst von
+                        Rautenstein</persName>
+                    <placeName ref="https://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1665-06-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/119357100">Stanisław Lubieniecki</persName>
+                    <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>„Wo wäre ich heute“</title>
+                <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Martin Anton
+                        Müller</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2020-05-29T22:29:46.872-02:00"/>
+                <idno>https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/2002_Wo-waere-ich-heute.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="a83cb8bd-8952-4ade-a8c0-0f6f4ec2733b">Peter Michael
+                    Braunwarth: „Wo wäre ich heute“. In: Die Presse, 4. Mai 2002, Spectrum,
+                    II.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#a83cb8bd-8952-4ade-a8c0-0f6f4ec2733b" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1896-03-14"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a83cb8bd-8952-4ade-a8c0-0f6f4ec2733b" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1905-12-14"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117296023">Teweles, Heinrich</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#a83cb8bd-8952-4ade-a8c0-0f6f4ec2733b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1923-07-19"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Jacques, Grete</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

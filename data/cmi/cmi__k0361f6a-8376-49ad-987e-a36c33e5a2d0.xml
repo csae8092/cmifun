@@ -1,0 +1,1257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - François Arago</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">BBAW</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2019-05-22T16:17:06.758-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Arago.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="k0361f6a-8376-49ad-987e-a36c33e5a2d0">Correspondance d'Alexandre de Humboldt avec François Arago : (1809-1853) publiée avec une préface et des notes / par le Dr E.-T. Hamy. Librairie orientale et américaine, E. Guilmoto Editeur. Paris 1907.<ref target="http://jubilotheque.upmc.fr/ead.html?id=BG_000015_001">http://jubilotheque.upmc.fr/ead.html?id=BG_000015_001</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="I">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1809-07-31" notBefore="1809-07-01"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="II">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1814-12" notBefore="1814-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="III">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" evidence="conjecture" when="1816-08-31"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="IV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1817-12" notBefore="1817-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="V">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1822-06-20"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="VI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1822-12-05"/>
+                    <placeName ref="http://www.geonames.org/3172394">Naples</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="VII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1826-12" notBefore="1826-01"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="VIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-10-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="IX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-10-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="X">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-04-30"/>
+                    <placeName ref="http://www.geonames.org/2643743">Londres</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-08-20"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans-Souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-01-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-01-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-06-29"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-02-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1829-02-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-03-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1829-04-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1829-05-08" to="1829-05-20"/>
+                    <placeName ref="http://www.geonames.org/498817">St.-Pétersbourg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1829-08-01" to="1829-08-13"/>
+                    <placeName ref="http://www.geonames.org/553518">Kamenogorsk</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-01-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-04-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-07-10"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1830-11-30" notBefore="1830-11-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1830-11-19"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-12-04"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1831-12" notBefore="1831-01"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1831-12" notBefore="1831-01"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1831-12" notBefore="1831-01"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1831-12" notBefore="1831-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXXI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1832-12" notBefore="1832-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXXII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1832-12" notBefore="1832-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXXIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-12-28"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXXV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-03-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXXVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-05-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXXVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-08-22"/>
+                    <placeName ref="http://www.geonames.org/3064288">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXXVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-12-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XXXIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1833-12-31" notBefore="1833-12-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XL">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-01-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XLI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-04-10"/>
+                    <placeName ref="http://www.geonames.org/2823708">Tegel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XLII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1835-12-31" notBefore="1835-12-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XLIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-03-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XLIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-10-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XLV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-12-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XLVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-03-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XLVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-05-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XLVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-07-23"/>
+                    <placeName ref="http://www.geonames.org/3064288">Teplitz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XLIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-03-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="L">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1838-08-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-01-07"/>
+                    <placeName ref="http://www.geonames.org/2925533">Francfort</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1839-02-28" notBefore="1839-02-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1839-04-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-08-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1840-01-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-01-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-02-19"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-02-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-03-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1840-03-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-03-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-04-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-06-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-06-16"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1839-06-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-11-13"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans-Souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-11-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-12-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1841-01-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1841-02-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1841-05-07"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1841-11-11"/>
+                    <placeName ref="http://www.geonames.org/2925533">Francfort</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1841-11-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1841-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-01-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-02-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-03-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXLVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-05-31"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans-Souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-06-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1842-07-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXXI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1842-08-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXXII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1842-12" notBefore="1842-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXXIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1842-12" notBefore="1842-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXXIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1842-11-30" notBefore="1842-11-01"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXXV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-02-21"/>
+                    <placeName ref="http://www.geonames.org/2842647">Saarbrücq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXXVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-03-10"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXXVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-03-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXXVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1843-03-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="LXXXIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-04-20"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XC">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-11-08"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans-Souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XCI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-08-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XCII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-09-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XCIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-10-09"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans-Souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XCIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1844-12-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XCV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1845-06-28"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans-Souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XCVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-06-24"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans-Souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XCVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-07-06"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XVVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1847-08-08"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans-Souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="XCIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1847-12-31" notBefore="1847-01-01"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="C">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-01-14"/>
+                    <placeName ref="http://www.geonames.org/2937790">Deutz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-02-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-03-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-05-16"/>
+                    <placeName ref="http://www.geonames.org/6295638">Sans-Souci</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-07-07"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-07-31"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-11-24"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-11-09"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-11-16"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-02-11"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1850-08-30" notBefore="1850-08-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-03-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-05-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-06-26"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-03-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-03-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118847767">François Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXVI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-02-25"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>A.M. Laugier</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXVII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-07-11"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>A.M. Mathieu</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXVIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-07-19"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119252724">Étienne Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXIX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-09-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119252724">Étienne Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXX">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1843-11-06"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119252724">Étienne Arago</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXXI">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-11-14"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>A.M. Laugier</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXXII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1854-03-23"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Madame Laugier</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXXIII">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1855-01-09"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Madame Laugier</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#k0361f6a-8376-49ad-987e-a36c33e5a2d0" key="CXXIV">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1855-08-21"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119252724">Étienne Arago</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

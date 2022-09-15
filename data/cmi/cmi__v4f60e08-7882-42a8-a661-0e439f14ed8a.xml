@@ -1,0 +1,562 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Aimé Bonpland</title>
+                <editor>Karin Göhmann<email>karin.goehmann@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2019-04-17T15:08:22.305-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Bonpland.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="v4f60e08-7882-42a8-a661-0e439f14ed8a">Hossard, Nicolas (2004): Alexander von Humboldt &amp; Aimé Bonpland. Correspondance 1805-1858. Paris: L' Harmattan</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1805-05-09" to="1805-05-17">ce 15 Germinal</date>
+                    <placeName ref="http://www.geonames.org/3165524">Turin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1805-06-10"/>
+                    <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1805-08-01"/>
+                    <placeName ref="http://www.geonames.org/3172394">Neapel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1805-12-21" to="1805-12-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1806-01-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1806-03-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1806-04-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1806-05-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1806-06-27"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1806-08-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1806-09-14"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1806-10-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1806-12-26"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1806-12-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1807-03-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1809-11" notBefore="1809-11">nov. 1809</date>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1809-11" notBefore="1809-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1810-09-07"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1813-12" notBefore="1813-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2995469" evidence="conjecture">Marseilles</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date>ce jeudi</date>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date>Ce mardi</date>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1814-12-07"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date from="1816-08" to="1816-09"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1816-11-19"/>
+                    <placeName ref="http://www.geonames.org/3003796">Le Havre-de-Grâce</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/3003796" evidence="conjecture">Le Havre</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1818-01-28"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/3435910" evidence="conjecture">Buenos Aires</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1821-11-25"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1831-07-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/3435910" evidence="conjecture">Buenos Aires</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1832-05-07"/>
+                    <placeName ref="http://www.geonames.org/3435910">Buenos Aires</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1832-06-01"/>
+                    <placeName ref="http://www.geonames.org/3435910">Buenos Aires</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1833-07-12"/>
+                    <placeName ref="http://www.geonames.org/3435910">Buenos Aires</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1832-07-14"/>
+                    <placeName ref="http://www.geonames.org/3435910">Buenos Aires</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date from="1832-08" to="1832-08"/>
+                    <placeName ref="http://www.geonames.org/3435910">Buenos Aires</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1835-09-14"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1836-07-14"/>
+                    <placeName ref="http://www.geonames.org/11467676">San-Borja</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1836-12-26"/>
+                    <placeName ref="http://www.geonames.org/3435910">Buenos Aires</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1837-03-02"/>
+                    <placeName ref="http://www.geonames.org/3435910">Buenos Aires</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1838-03-28"/>
+                    <placeName ref="http://www.geonames.org/3435988">Corrientes</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1840-05-17"/>
+                    <placeName ref="http://www.geonames.org/3441575">Montevideo</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1840-11-30"/>
+                    <placeName ref="http://www.geonames.org/3441575">Montevideo</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date notAfter="1843-12-31" notBefore="1843-01-01">Paris, 1843</date>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/3441575" evidence="conjecture">Montevideo</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-09-01"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/3441575" evidence="conjecture">Montevideo</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1853-10-04"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/3441575" evidence="conjecture">Montevideo</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1853-12-25"/>
+                    <placeName ref="http://www.geonames.org/3441575">Montevideo</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1854-10-27"/>
+                    <placeName ref="http://www.geonames.org/3905007">Santa-Ana</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1854-01-29"/>
+                    <placeName ref="http://www.geonames.org/3441575">Montevideo</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1854-02-03"/>
+                    <placeName ref="http://www.geonames.org/3441575">Montevideo</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1854-10-02"/>
+                    <placeName ref="http://www.geonames.org/3493887">Restauracion</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1855-09-02"/>
+                    <placeName ref="http://www.geonames.org/3441575">Montevideo</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1857-06-07"/>
+                    <placeName ref="http://www.geonames.org/3435988">Corrientes</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1805-12-21"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v4f60e08-7882-42a8-a661-0e439f14ed8a" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118661604">Aimé Bonpland</persName>
+                    <date when="1840-05-17"/>
+                    <placeName ref="http://www.geonames.org/3441575">Montevideo</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

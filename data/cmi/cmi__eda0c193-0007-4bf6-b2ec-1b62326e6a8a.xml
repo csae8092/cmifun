@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe aus der Edition "Philipp Hainhofer: Reiseberichte und Sammlungsbeschreibungen 1594–1636"</title>
+                <editor>Martin de la Iglesia<email>iglesia@hab.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek Wolfenbüttel</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2020-04-10T14:12:39.843-02:00"/>
+                <idno type="url">https://hainhofer.hab.de/cms/uploads/cmif.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online" xml:id="eda0c193-0007-4bf6-b2ec-1b62326e6a8a">Philipp Hainhofer: Reiseberichte und Sammlungsbeschreibungen 1594–1636. Edition und Datensammlung zur Kunst- und Kulturgeschichte der ersten Hälfte des 17. Jahrhunderts. Wolfenbüttel: Herzog August Bibliothek 2020ff.<ref target="https://hainhofer.hab.de">https://hainhofer.hab.de</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc ref="https://hainhofer.hab.de/reiseberichte/muenchen1636#fol103r" source="#eda0c193-0007-4bf6-b2ec-1b62326e6a8a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118505076">Herzog August II. (Braunschweig-Wolfenbüttel)</persName>
+                    <date when="1636-06-03"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118700804">Philipp Hainhofer</persName>
+                    <date when="1636-06-24"/>
+                    <placeName ref="http://www.geonames.org/2954172">Augsburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://hainhofer.hab.de/reiseberichte/muenchen1636#fol105r" source="#eda0c193-0007-4bf6-b2ec-1b62326e6a8a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118505076">Herzog August II. (Braunschweig-Wolfenbüttel)</persName>
+                    <date when="1636-06-10"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118700804">Philipp Hainhofer</persName>
+                    <date when="1636-06-24"/>
+                    <placeName ref="http://www.geonames.org/2954172">Augsburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://hainhofer.hab.de/reiseberichte/muenchen1636#fol107r" source="#eda0c193-0007-4bf6-b2ec-1b62326e6a8a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118505076">Herzog August II. (Braunschweig-Wolfenbüttel)</persName>
+                    <date when="1636-08-05"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118700804">Philipp Hainhofer</persName>
+                    <date when="1636-08-30"/>
+                    <placeName ref="http://www.geonames.org/2954172">Augsburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://hainhofer.hab.de/reiseberichte/muenchen1636#fol109r" source="#eda0c193-0007-4bf6-b2ec-1b62326e6a8a">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118505076">Herzog August II. (Braunschweig-Wolfenbüttel)</persName>
+                    <date when="1636-06-03"/>
+                    <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118579355">Herzog Maximilian I. (Bayern)</persName>
+                    <date when="1636-06-18"/>
+                    <placeName ref="http://www.geonames.org/2829457">Starnberg</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

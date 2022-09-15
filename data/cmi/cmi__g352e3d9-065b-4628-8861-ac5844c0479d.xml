@@ -1,0 +1,2463 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Soemmerring-Briefwechsel 1761/65-1784</title>
+                <editor>Stefan Dumont<email>dumont@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.adwmainz.de">Akademie der Wissenschaften und der Literatur Mainz</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://correspSearch.net/storage/Soemmerring1761-1784.xml</idno>
+                <date when="2018-05-23T08:44:19.276-02:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="g352e3d9-065b-4628-8861-ac5844c0479d">Samuel Thomas Soemmerring. Briefwechsel 1761/65 - Oktober 1784. Herausgegeben und erläutert von Franz Dumont. (Samuel Thomas Soemmerring Werke 18). Stuttgart: Gustav Fischer Verlag, 1996.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="248">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1784-10-27"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="247">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <date when="1784-10-25"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="246">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-10-20"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="245">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-10-16"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Friedrich Wilhem Strieder</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="244">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-10-10"/>
+                    <placeName ref="http://www.geonames.org/756135">Warschau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="243">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118883712">Therese Heyne</persName>
+                    <date when="1784-09-29"/>
+                    <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="242">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118587668">Friedrich Nicolai</persName>
+                    <date when="1784-10-08"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="241">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-10-06"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/130249424">Friedrich II. von Hessen-Kassel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="240">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118556312">Friedrich Heinrich Jacobi</persName>
+                    <persName>Charlotte Jacobi</persName>
+                    <date when="1784-09-28"/>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="239">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <date when="1784-09-16"/>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="238">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116558296">Johann Heinrich Fischer</persName>
+                    <date when="1784-09-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="237">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118537342">Adelheid Amalie von Gallitzin</persName>
+                    <date when="1784-09-07"/>
+                    <placeName ref="http://www.geonames.org/2902559">Hofgeismar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="236">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116558296">Johann Heinrich Fischer</persName>
+                    <date when="1784-09-07"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="235">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-09-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="234">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118883712">Therese Heyne</persName>
+                    <date when="1784-09-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="233">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <date when="1784-08-31"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="232">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118883712">Therese Heyne</persName>
+                    <date when="1784-08-28"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="231">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-08-28"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117240494">Johann Peter Weidmann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="230">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-08-26"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="229">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <date when="1784-08-23"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="228">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date evidence="conjecture" when="1784-08-23"/>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/130249424">Friedrich II. von Hessen-Kassel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="227">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-08-23"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/130249424">Friedrich II. von Hessen-Kassel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="226">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-08-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="225">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-08-18"/>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="224">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <date when="1784-08-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="223">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-08-14"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="222">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1784-08-13"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="221">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <date when="1784-08-05"/>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="220">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-08-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="219">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116558296">Johann Heinrich Fischer</persName>
+                    <date when="1784-08-03"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="218">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date evidence="conjecture" when="1784-08-01"/>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="217">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118883712">Therese Heyne</persName>
+                    <date when="1784-07-26"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="216">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-26"/>
+                    <placeName ref="http://www.geonames.org/3067696">Prag</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="215">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <date when="1784-07-12"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="214">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-10"/>
+                    <placeName ref="http://www.geonames.org/2925192/freiberg.html">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="213">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118883712">Therese Heyne</persName>
+                    <date when="1784-07-09"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="212">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-05"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="211">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-07-03"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="210">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118883712">Therese Heyne</persName>
+                    <date when="1784-06-28"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="209">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-23"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="208">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-21"/>
+                    <placeName ref="http://www.geonames.org/2925192">Freiberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="207">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118883712">Therese Heyne</persName>
+                    <date when="1784-06-18"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="206">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <date when="1784-06-17"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="205">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-17"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="204">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                    <date when="1784-06-12"/>
+                    <placeName ref="http://www.geonames.org/2751792">Leuwarden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="203">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <date when="1784-06-09"/>
+                    <placeName ref="http://www.geonames.org/2931574">Eisenach</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="202">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-07"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="201">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118883712">Therese Heyne</persName>
+                    <date when="1784-06-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="200">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-05"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="199">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-04"/>
+                    <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="198">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-06-01"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="197">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <date evidence="conjecture" when="1784-05-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="196">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-27"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="195">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-05-24"/>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="194">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <date when="1784-05-23"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="193">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-22"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="192">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1784-05-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="191">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-20"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="190">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-15"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="189">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118540238">Johann Wolfgang von Goethe</persName>
+                    <date when="1784-05-14"/>
+                    <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="188">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-14"/>
+                    <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="187">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-10"/>
+                    <placeName ref="http://www.geonames.org/286198">Nordhausen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="186">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-05-08"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="185">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-06"/>
+                    <placeName ref="http://www.geonames.org/8659146">Zellerfeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="184">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1784-05-04"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="183">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-05-03"/>
+                    <placeName ref="http://www.geonames.org/8659146">Zellerfeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="182">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-05-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="181">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1784-04-29"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="180">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118883712">Therese Heyne</persName>
+                    <date when="1784-04-26"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="179">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-04-26"/>
+                    <placeName ref="http://www.geonames.org/8659146">Zellerfeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="178">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <date when="1784-04-25"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="177">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1784-04-24"/>
+                    <placeName ref="http://www.geonames.org/8659146">Zellerfeld</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="176">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-04-01"/>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="175">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1784-03-22"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/130249424">Friedrich II. von Hessen-Kassel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="174">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <date when="1784-03-12"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="173">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <date when="1784-01-30"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="172">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <date when="1784-01-09"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="171">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <date when="1784-01-02"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="170">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116558296">Johann Heinrich Fischer</persName>
+                    <date cert="low" when="1783-11-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="169">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                    <date cert="low" when="1783-11-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="168">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1783-10-27"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118537342">Adelheid Amalie von Gallitzin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="167">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116558296">Johann Heinrich Fischer</persName>
+                    <date when="1783-10-08"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="166">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1783-08-11"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="165">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1783-07-31"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="164">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1783-07-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="163">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date cert="low" when="1783-06-25"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="162">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notBefore="1783-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/130249424">Friedrich II. von Hessen-Kassel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="161">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/130249424">Friedrich II. von Hessen-Kassel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="160">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1783-06-19"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="159">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1783-06-12"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117492175">Johann Karl Philipp Spener</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="158">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118537342">Adelheid Amalie von Gallitzin</persName>
+                    <date evidence="conjecture" when="1783-04-12"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="157">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1783-04-11"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="156">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1783-03-28"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118537342">Adelheid Amalie von Gallitzin</persName>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="155">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1783-03-25"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="154">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date notAfter="1783-01-31" notBefore="1783-01-01" evidence="conjecture"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="153">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1783-01-07"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="152">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117131148">Johann Gottlieb Walter</persName>
+                    <date cert="low" notAfter="1783-12-31" notBefore="1782-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="151">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116208503">Johann Friedrich Blumenbach</persName>
+                    <date when="1782-11-30"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="150">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118537342">Adelheid Amalie von Gallitzin</persName>
+                    <date when="1782-11-20"/>
+                    <placeName ref="http://www.geonames.org/2867543">Münster</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="149">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1782-11-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118537342">Adelheid Amalie von Gallitzin</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="148">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1782-11-07"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="147">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1782-10-28"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="146">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1782-10-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="145">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1782-10-22"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="144">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1782-10-08"/>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="143">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1782-10-07"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="142">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1782-09-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="141">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118581015">Johann Heinrich Merck</persName>
+                    <date when="1782-09-11"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="140">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1782-07-30"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="139">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1782-03-18"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="138">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <date when="1782-02-22"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="137">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1781-12-29"/>
+                    <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="136">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1781-10-31" notBefore="1781-08-29"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="135">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116208503">Johann Friedrich Blumenbach</persName>
+                    <date when="1781-05-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="134">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116208503">Johann Friedrich Blumenbach</persName>
+                    <date when="1781-03-24"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="133">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1781-01-30"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="132">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116208503">Johann Friedrich Blumenbach</persName>
+                    <date when="1781-01-26"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="131">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1781-01-11"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="130">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1781-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="129">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1781-01-04"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="128">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date cert="low" notAfter="1780-12-31" notBefore="1780-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="127">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1781-02-28" notBefore="1780-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="126">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date cert="low" when="1780-12-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="125">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1780-09-30" notBefore="1780-09-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="124">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                    <date when="1780-09-22"/>
+                    <placeName>Klein-Lankum</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="123">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-09-11"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="122">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-09-07"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="121">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1780-09-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="120">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1780-10-31" notBefore="1780-06-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="119">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date cert="low" notAfter="1780-09-10" notBefore="1780-08-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="118">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1780-08-17"/>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="117">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1780-07-27"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/130249424">Friedrich II. von Hessen-Kassel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="116">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1780-07-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="115">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1780-04-12"/>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="114">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1780-03-16"/>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="113">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1780-12-31" notBefore="1780-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="112">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-12-23"/>
+                    <placeName ref="http://www.geonames.org/2892518" evidence="conjecture">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="111">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-12-01"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/100267602">Friedrich Christoph Schmincke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="110">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11855073X">Christian Gottlob Heyne</persName>
+                    <date when="1779-11-26"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="109">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-11-22"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://viaf.org/viaf/61555838">Jean Pierre Louis de Luchet</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="108">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                    <date when="1779-11-04"/>
+                    <placeName>Klein-Lankum</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="107">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118636979">Johann Georg Zimmermann</persName>
+                    <date when="1779-10-08"/>
+                    <placeName ref="http://www.geonames.org/2910831">Hannover</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="106">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1779-12-31" notBefore="1779-09-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="105">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-09-24"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="104">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-09-18"/>
+                    <placeName ref="http://www.geonames.org/3089772">Ostromezko</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="103">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-09-06"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="102">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <date notAfter="1779-08-31" notBefore="1779-08-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="101">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-08-22"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="100">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-08-18"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="99">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="98">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-08-12"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="97">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                    <date evidence="conjecture" when="1779-07-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="96">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118572628">Georg Christoph Lichtenberg</persName>
+                    <date when="1779-07-09"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="95">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1779-06-20" notBefore="1779-05-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="94">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-06-06"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="93">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-06-05"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="92">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-05-20"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="91">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-05-18"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="90">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-05-15"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/130249424">Friedrich II. von Hessen-Kassel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="89">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-05-13"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="88">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118534416">Georg Forster</persName>
+                    <date when="1779-05-04"/>
+                    <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="87">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-04-21"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="86">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1779-02-26"/>
+                    <placeName ref="http://www.geonames.org/2647383">Harwich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="85">
+                <correspAction type="sent">
+                    <persName>Regine Soemmerring</persName>
+                    <date notAfter="1779-01-31" notBefore="1779-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="84">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1778-12-31" notBefore="1778-12-20"/>
+                    <placeName ref="http://www.geonames.org/2650225">Edinburgh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="83">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1778-12-20" notBefore="1778-12-10"/>
+                    <placeName ref="http://www.geonames.org/2650225">Edinburgh</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="82">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1778-10-31" notBefore="1778-10-20"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="81">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1778-10-31" notBefore="1778-10-22"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/119291827">Pieter Camper</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="80">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1778-08-18" notBefore="1778-08-06"/>
+                    <placeName ref="http://www.geonames.org/2751773" evidence="conjecture">Leiden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="79">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1778-07-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="78">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118636979">Johann Georg Zimmermann</persName>
+                    <date notAfter="1778-07-31" notBefore="1778-07-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="77">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118636979">Johann Georg Zimmermann</persName>
+                    <date when="1778-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="76">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1778-04-05"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="75">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1778-04-05"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="74">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/5313992-6">Medizinische Fakultät Göttingen</persName>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="73">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1777-12-01" notBefore="1777-12-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="72">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1778-02-28" notBefore="1777-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="71">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date cert="low" notAfter="1777-12-31" notBefore="1777-12-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2918632" evidence="conjecture">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date cert="low" notAfter="1777-11-30" notBefore="1777-11-01"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1777-08-31" notBefore="1777-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1777-08-23"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1777-02-23"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1777-02-28" notBefore="1776-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-12-31" notBefore="1776-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-12-31" notBefore="1776-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1777-02-28" notBefore="1776-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-11-30" notBefore="1776-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-10-31" notBefore="1776-06-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-09-30" notBefore="1776-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-09-30" notBefore="1776-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-05-31" notBefore="1776-05-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-04-30" notBefore="1776-04-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1776-03-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-02-23" notBefore="1776-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-02-28" notBefore="1776-01-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-02-28" notBefore="1775-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unbekannt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1776-02-28" notBefore="1775-11-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1775-10-31" notBefore="1775-10-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1775-06" notBefore="1775-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date notAfter="1774-12" notBefore="1774-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1774-11-19"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1774-11-19"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1774-10-15"/>
+                    <placeName ref="http://www.geonames.org/2918632">Göttingen</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="44">
+                <correspAction type="sent">
+                    <persName>Regine Soemmerring</persName>
+                    <date notAfter="1774-09" notBefore="1774-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1774-06-24"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1774-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1774-02-24"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1774-01-01"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1773-12-25"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1773-06-24"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1773-06-04"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1773-02-24"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1773-01-01"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1772-12-25"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1772-06-24"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1772-02-25"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1772-01-01"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1771-12-25"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1771-12-21"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1771-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1770-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1770-06-24"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1770-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1770-01-01"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1769-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1769-06-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1769-02-24"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1769-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1768-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1768-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1768-12-21"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1768-06-24"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1768-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1768-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1767-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1767-12-21"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1767-06-24"/>
+                    <placeName ref="http://www.geonames.org/3083271">Thorn</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1767-02-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1767-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1766-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1766-12-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1766-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1768-06-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1766-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1765-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1765-06-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#g352e3d9-065b-4628-8861-ac5844c0479d" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118805193">Samuel Thomas Soemmerring</persName>
+                    <date when="1761-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117452343">Johann Thomas Soemmerring</persName>
+                    <persName>Regine Soemmerring</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

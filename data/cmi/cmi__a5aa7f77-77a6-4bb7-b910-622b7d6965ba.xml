@@ -1,0 +1,2579 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata of the correspondence between Fanny Lewald(-Stahr) and Adolf Stahr
+               1850-1852</title>
+            <editor>Frederike Neuber <email>neuber@bbaw.de</email>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</ref>
+            </publisher>
+            <idno type="url">https://zenodo.org/record/4697404/files/lewald-stahr-v3-1850.xml</idno>
+            <date when="2021-04-05"/>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0/">This file is licensed
+                  under the terms of the Creative Commons Licence CC BY 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="print" xml:id="a5aa7f77-77a6-4bb7-b910-622b7d6965ba">Ein Leben auf dem
+               Papier: Fanny Lewald und Adolf Stahr; der Briefwechsel 1846 bis 1852 / hrsg. und
+               kommentiert von Gabriele Schneider und Renate Sternagel. Bd. 3 (1850-52). Bielefeld
+               2017.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="368">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1849-12-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="210">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date notBefore="1849-12-29" notAfter="1850-01-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="369">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-01-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="370">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-01-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="371">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-01-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="212">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-01-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="213">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-01-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="372">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-01-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="214">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-01-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="373">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-01-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="215">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-02-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="374">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-02-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="216">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-02-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="375">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-02-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="376">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-02-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="377">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-02-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="378">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-02-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="220">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="379">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-03-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="221">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2944387">Bremen</placeName>
+               <date when="1850-03-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="380">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-03-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="222">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="381">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-03-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="382">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-03-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="223">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-03-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="383">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-03-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="224">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-04-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="384">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-04-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="385">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-04-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="386">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/6553047">Aachen</placeName>
+               <date when="1850-05-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="226">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2944387">Bremen</placeName>
+               <date when="1850-05-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="387">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-05-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="227">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-05-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="388">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-05-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="228">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-05-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="389">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="229">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-06-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="390">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-06-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="230">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-06-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="391">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-06-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="392">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-06-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="231">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-06-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="393">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-06-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="232">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-06-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="394">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-06-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="233">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-06-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="395">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-06-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="396">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-07-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="397">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-07-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="234">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-07-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="398">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-07-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="235">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-07-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="399">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-07-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="400">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-07-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="401">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-07-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="402">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-07-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="403">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2650225">Edinburg</placeName>
+               <date when="1850-08-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="404">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2650225">Edinburg</placeName>
+               <date when="1850-07-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="405">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2650225">Edinburg</placeName>
+               <date when="1850-08-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="239">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
+               <date when="1850-08-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="406">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2648579">Glasgow</placeName>
+               <date when="1850-08-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="240">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+               <date when="1850-08-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="407">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643123">Manchester</placeName>
+               <date when="1850-08-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="241">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+               <date when="1850-08-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="242">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+               <date when="1850-08-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="409">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643123">Manchester</placeName>
+               <date when="1850-08-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="243">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+               <date when="1850-08-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="410">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643123">Manchester</placeName>
+               <date when="1850-08-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="244">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+               <date when="1850-08-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="411">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1850-09-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="412">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2945024">Braunschweig</placeName>
+               <date when="1850-11-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="413">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-11-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="245">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-11-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="246">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-11-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="414">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-11-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="247">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-11-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="415">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-11-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="248">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-11-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="416">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-11-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="249">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-11-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="417">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-11-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="250">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-12-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="418">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-12-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="251">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-12-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="252">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-12-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="419">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-12-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="253">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-12-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="420">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-12-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="255">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-12-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="421">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1850-12-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="256">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1850-12-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="422">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date from="1850-12-01" to="1850-12-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="423">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date from="1850-12-01" to="1850-12-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="257">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2944387">Bremen</placeName>
+               <date when="1850-12-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="258">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2944387">Bremen</placeName>
+               <date when="1851-01-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="424">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-01-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="425">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-01-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="259">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2944387">Bremen</placeName>
+               <date when="1851-01-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="426">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-01-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="260">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-01-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="427">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-01-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="o.Nr.">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-01-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="428">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-01-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="261">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-01-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="262">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-01-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="429">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-01-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="430">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-02-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="263">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-01-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="431">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-02-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="264">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-02-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="432">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-02-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="265">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-02-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="433">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-02-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="266">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-02-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="434">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-02-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="267">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-02-28 "/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="435">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-03-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="436">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-03-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="268">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-03-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="268a">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-03-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="437">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-03-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="269">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-03-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="438">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-03-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="270">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-03-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="271">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-03-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="439">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-03-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="272">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <date when="1851-03-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="440">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-03-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="273">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-03-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="441">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-04-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="274">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-04-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="442">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2823049">Nischwitz</placeName>
+               <date when="1851-04-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="443">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2823049">Nischwitz</placeName>
+               <date when="1851-04-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="275">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-04-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="444">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2823049">Nischwitz</placeName>
+               <date when="1851-04-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="445">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2823049">Nischwitz</placeName>
+               <date notBefore="1851-04-20" notAfter="1851-04-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="276">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-04-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="446">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2823049">Nischwitz</placeName>
+               <date when="1851-04-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="447">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2823049">Nischwitz</placeName>
+               <date when="1851-04-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="448">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+               <date when="1851-04-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="449">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+               <date when="1851-05-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="277">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-05-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="450">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+               <date when="1851-05-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="451">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="278">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-05-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="452">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="279">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-05-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="453">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-08-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="281">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="http://www.geonames.org/2911522">Halle</placeName>
+               <date when="1851-08-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="454">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-08-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="283">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-09-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="284">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-09-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="455">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-09-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="457">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-09-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="458">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-09-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="459">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-09-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="288">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-09-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="462">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-09-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="291">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-10-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="463">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-10-07"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="292">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-10-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="466">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="295">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-10-27"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="470">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-10-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="296">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-10-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="471">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-10-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="472">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-10-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="297">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-11-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="473">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-11-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="298">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-11-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="299">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-11-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="474">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-11-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="475">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-11-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="300">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-11-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="476">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-11-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="302">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-11-14"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="477">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-11-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="304">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-11-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="478">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-11-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="305">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-11-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="479">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-11-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="480">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-11-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="306">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-11-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="482">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-12-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="483">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-12-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="308">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-12-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="484">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-12-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="309">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-12-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="310">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-12-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="301">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-12-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="486">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-12-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="311">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-12-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="487">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-12-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="488">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-12-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="489">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1851-12-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="312">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-12-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="490">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2805597">Wurzen</placeName>
+               <date when="1851-12-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="313">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1851-12-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="491">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1851-12-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="513">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-03-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="325">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1852-03-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="514">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-03-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="326">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1852-03-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="515">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-01-31"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="327">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1852-04-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="516">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="328">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1852-04-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="329">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1852-04-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="517">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="330">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+               <date when="1852-04-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="518">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="519">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-11"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="331">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2944387">Bremen</placeName>
+               <date when="1852-04-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="519a">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="332">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2944387">Bremen</placeName>
+               <date when="1852-04-15"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="333">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2944387">Bremen</placeName>
+               <date when="1852-04-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="520">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="521">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-18"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="334">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-04-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="522">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="335">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-04-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="523">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="336">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-04-24"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="524">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="525">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="337">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-04-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="526">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-04-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="527">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-03"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="338">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-05-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="528">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-04"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="339">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-05-06"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="529">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-09"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="340">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-05-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="530">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-12"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="341">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-05-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="531">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="532">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="342">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-05-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="533">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-19"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="534">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="343">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-05-20"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="535">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-22"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="537">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-26"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="345">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-05-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="346">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-05-29"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="538">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-05-28"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="347">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-06-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="539">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-06-02"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="348">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
+               <date when="1852-06-05"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="349">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-06-10"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="350">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-06-13"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="351">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-06-16"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="544">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-06-17"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="546">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <date when="1852-06-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="352">
+            <correspAction type="sent">
+               <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
+               <placeName ref="https://www.geonames.org/2895044">Jena</placeName>
+               <date when="1852-06-23"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

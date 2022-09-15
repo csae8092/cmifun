@@ -1,0 +1,1889 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt - Heinrich Berghaus</title>
+                <editor>Philipp Linß<email>philipp.linss@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2019-06-20T17:53:38.764-02:00"/>
+                <idno type="url">https://correspsearch.net/storage/Humboldt-Berghaus.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online" xml:id="v0e42ba5-4197-4158-a8df-b1468fa11d46">Briefwechsel Alexander von Humboldt's mit Heinrich Berghaus : aus den Jahren 1825 bis 1858. Bd. 1 von 3 Bde. Hermann Costenoble:  Leipzig 1863. <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10620862-1">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10620862-1</ref>
+                </bibl>
+                <bibl type="online" xml:id="ua3d6814-1578-481c-8bf2-8552c65097bf">Briefwechsel Alexander von Humboldt's mit Heinrich Berghaus : aus den Jahren 1825 bis 1858. Bd. 2 von 3 Bde. Hermann Costenoble:  Jena 1869. <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11344365-1">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11344365-1</ref>
+                </bibl>
+                <bibl type="online" xml:id="d8495d9a-7d0a-408c-8197-b67df12bd5fa">Briefwechsel Alexander von Humboldt's mit Heinrich Berghaus : aus den Jahren 1825 bis 1858. Bd. 3 von 3 Bde. Hermann Costenoble:  Jena 1869. <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11344366-7">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11344366-7</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00017.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1825-06-29"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/116940336">Karl Friedrich Vollrath Hoffmann</persName>
+                    <date when="1825-07-21"/>
+                    <placeName ref="http://www.geonames.org/2825297">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00021.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1825-07-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1825-07-08"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00024.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1825-07-05"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1825-07-29"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00031.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1825-08-16"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="5" ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00034.html">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="6" ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00064.html">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/11860130X">Carl Ritter</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1825-12-23"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00066.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-08-31"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1825-09-08"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00068.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1825-08-27"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00070.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-06-18"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1826-06-25"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00071.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-08-14"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1826-08-20"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00077.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-08-30"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1826-09-06"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00078.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-10-18"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1826-08-24"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00093.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1826-11-14"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1826-11-18"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00128.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1826-12-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00132.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1826-12-15"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00133.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1827-12-20"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1827-12-20"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00135.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-02-06"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00138.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1828-02-19"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00174.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1828-03-08"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00176.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1828-05-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00196.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1828-06-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00197.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1828-06-24"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="23" ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00201.html">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1828-06-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1828-06-29"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00207.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="23 I">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/122142923">Don Felipe Bauzá</persName>
+                    <date when="1827-02-13"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117123544">Jabbo Oltmanns</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="24" ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00224.html">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1828-11-25"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00264.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1830-05-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00267.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1830-04-01"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00269.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1830-04-19"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00272.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1830-04-20"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00276.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1830-05-04"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00278.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1830-06-25"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1831-07-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00278.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1830-05-13"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00282.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1832-07-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1832-07-07"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00284.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Carl Wilhelm Berghaus#</persName>
+                    <date when="1832-08-29"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00285.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1833-01-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00291.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1833-01-17"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00293.html" source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Carl Wilhelm Berghaus</persName>
+                    <date when="1833-01-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="36 (a)" ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00294.html">
+                <correspAction type="sent">
+                    <persName>W. Hillhouse</persName>
+                    <date when="1831-01-01"/>
+                    <placeName>Demerav</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#v0e42ba5-4197-4158-a8df-b1468fa11d46" key="36 (b)" ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10620862_00296.html">
+                <correspAction type="sent">
+                    <persName>Bruguières</persName>
+                    <date when="1831-08-17"/>
+                    <placeName ref="http://www.geonames.org/2975758">Saumur</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00014.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-02-06"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00014.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-02-22"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00016.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-02-23"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00017.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-03-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00023.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-03-15"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00023.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1833-05-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-05-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00027.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="6a">
+                <correspAction type="sent">
+                    <persName>Krusenstern</persName>
+                    <date from="1833-04-08" to="1833-04-20"/>
+                    <placeName ref="http://www.geonames.org/498817">St. Petersburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00027.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-05-24"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00028.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-06-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00028.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-07-02"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00029.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-07-04"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00030.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-07-18"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00031.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-07-18"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00031.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-07-21"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00054.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-12-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00055.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-12-13"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00056.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-12-20"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="17" ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00058.html">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-12-28"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00059.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1834-03-25"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00060.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-06-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1834-06-07"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00064.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1834-06-08"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00067.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-09-29"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00075.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="21 (a)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117123544">Jabbo Oltmanns</persName>
+                    <date when="1828-12-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00102.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1834-10-09"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00104.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1834-10-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00105.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1834-12-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00106.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1835-01-10"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00115.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1835-02-04"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00116.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1835-05-11"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00149.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1835-05-25"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00151.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1835-05-28"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00152.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date notAfter="1835-12-31" notBefore="1835-01-01"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00154.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-12-31"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00156.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="32 (a)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Letronne</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00156.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-02-02"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00160.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-02-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00168.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-03-02"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00169.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-03-12"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00172.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-03-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00173.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-04-01"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00174.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-05-18"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00174.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-05-26"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00176.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-08-22"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00179.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00192.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="41 (a)">
+                <correspAction type="sent">
+                    <persName>H.T Colebrooke</persName>
+                    <date when="1825-01-18"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00201.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1836-09-21"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00202.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-01-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1837-01-24"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00208.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date notAfter="1837-01-31" notBefore="1837-01-20"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00210.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1837-02-15"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1837-02-17"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00215.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1837-05-04"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00216.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1837-05-07"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00217.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date notAfter="1837-05-31" notBefore="1837-05-01"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00227.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date notAfter="1837-09-30" notBefore="1837-09-01"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00267.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1837-10-23"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00270.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date notAfter="1838-12-31" notBefore="1838-01-01"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00315.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1845-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1845-10-26"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00314.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1845-07-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00313.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1844-10-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00312.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1842-07-31"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00298.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1841-03-13"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00297.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1841-03-10"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00297.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1840-12-07"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00295.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1840-02-21"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00294.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1840-01-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1840-01-30"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344365_00289.html" source="#ua3d6814-1578-481c-8bf2-8552c65097bf" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1839-06-02"/>
+                </correspAction>
+            </correspDesc>
+            
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00017.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="1">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-08"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00043.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="2">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-09-25"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00048.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="3">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-10-17"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00054.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="4">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-10-31"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00065.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="5">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-11-02"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00068.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="6">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-11-02"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00078.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="7">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1833-11-09"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00079.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="8">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-11-15"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00080.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="9">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-11-23"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00080.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="10">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-11-26"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00081.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="11">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-02-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-02-07"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00082.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="12">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-03-04"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00083.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="13">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date cert="low" when="1848-03-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1848-03-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00090.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="14">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-03-31"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00092.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="15">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-04-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00094.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="16">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-05-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-05-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00096.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="17">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-06-15"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00099.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="18">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458" evidence="conjecture">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-06-16"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00100.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="19">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1834-06-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-06-26"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00102.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="20">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-06-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00105.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="21">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-07-25"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00105.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="22">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-07-28"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00117.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="23">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-12-08"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00118.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="24">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-12-18"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00128.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="25">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-12-14"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00128.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="26">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-12-16"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00131.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="27">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1849-12-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1849-12-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00149.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="28">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-01-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-01-16"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00150.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="29">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-02-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-02-08"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00155.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="30">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-05-07"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-05-08"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00156.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="31">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-05-31"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00157.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="32">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-07-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00157.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="33">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-07-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-07-10"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00158.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="34">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-08-28"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00159.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="35">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-09-23"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00159.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="36">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-10-08"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00161.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-10-09"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00162.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="38">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-10-20"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-10-20"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00163.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="39">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-11-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00192.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="40">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-11-06"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00193.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="41">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1836-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-11-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00193.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="42">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1851-04-01"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00197.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="43">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-06-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1851-06-12"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00198.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="44">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-06-19"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1851-06-19"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00200.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="45">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1851-09-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1851-09-06"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00211.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="46">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1850-02-03"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1850-02-04"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00216.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="47">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-03-25"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00217.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="48">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-04-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-04-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00220.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="49">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-01-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00230.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="50">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-01-04"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00235.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="51">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-01-17"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-01-17"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00331.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="61">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1845-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-06-21"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00330.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="60">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-05-29"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00330.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="59">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-05-25"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00328.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="58">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-11-29"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00284.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="57">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1853-03-24"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00267.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="56">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-06-06"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00244.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="55">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-04-05"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00244.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="54">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1852-02-03"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00243.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="53">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-02-03"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00243.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="52">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-01-22"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00334.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="62">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-07-09"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00336.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="63">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1853-07-31"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00338.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="64">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1853-09-04"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00340.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="65">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1853-02-13"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00341.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="66">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date notAfter="1854-12" notBefore="1854-01"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00343.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="67">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1855-01-18"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00343.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="68">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1855-01-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00349.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="69">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1855-07-17"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00350.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="70">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1855-07-27"/>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11344366.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="3 (a)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Jos. D. Hooker</persName>
+                    <date when="1848-08-09"/>
+                    <placeName>Dorjeling Sikim Himalyah</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00055.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="4 (a)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                    <date when="1848-10-31"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Jos. D. Hooker</persName>
+                    <placeName>Dorjeling Sikim Himalyah</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="16 (a)" ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00096.html">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/46874997">William Hooker</persName>
+                    <date when="1849-04-16"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00097.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="17 (a)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Jos. D. Hooker</persName>
+                    <date when="1849-04-15"/>
+                    <placeName>Dorjeling Sikim Himalya</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="17 (b)" ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00097.html">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/46874997">William Hooker</persName>
+                    <date when="1849-06-11"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00106.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="22 (a)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Jos. D. Hooker</persName>
+                    <date when="1849-04-26"/>
+                    <placeName>Dorjeling Sikim Himalya</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00107.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="22 (b)">
+                <correspAction type="sent">
+                    <persName>W. H. Hodgson</persName>
+                    <date when="1849-04-18"/>
+                    <placeName>Dorjeling</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00112.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="22 (c)">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/46874997">William Hooker</persName>
+                    <date when="1849-09-27"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00114.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="22 (d)">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/46874997">William Hooker</persName>
+                    <date when="1849-10-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00165.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="39 1.">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116161175">Christoph Heinrich Friedrich Bialloblotzky</persName>
+                    <placeName ref="http://www.geonames.org/2855243">Pattensen</placeName>
+                    <date when="1848-07-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/117583448">Charles T. Beke</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00179.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="37 6.">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/117583448">Charles T. Beke</persName>
+                    <date when="1850-01-21"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00185.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="37 7.">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116161175">Christoph Heinrich Friedrich Bialloblotzky</persName>
+                    <date when="1850-07-17"/>
+                    <placeName ref="http://www.geonames.org/276781">Beyrout</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <persName ref="http://d-nb.info/gnd/116984465">Zeune</persName>
+                    <persName ref="http://viaf.org/viaf/22441278">Alexander K. Johnston</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2650225">Edinburgh</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00194.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="42 (a)">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/46874997">William Hooker</persName>
+                    <date when="1851-02-20"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00202.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="45 (a)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Jos. D. Hooker</persName>
+                    <date when="1851-08-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00203.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="45 (b)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1851-09-21"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/46874997">William Hooker</persName>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="45 (c)" ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00204.html">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/46874997">William Hooker</persName>
+                    <date when="1851-09-24"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00204.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="45 (d)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118554700">Jos. D. Hooker</persName>
+                    <date when="1851-09-27"/>
+                    <placeName ref="http://www.geonames.org/2643743">London</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11344366.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="55 (a)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118509470">Heinrich Berghaus</persName>
+                    <date when="1852-06-21"/>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11344366_00331.html" source="#d8495d9a-7d0a-408c-8197-b67df12bd5fa" key="61 (a)">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/116828714">Andreas Karl Theodor Budberg</persName>
+                    <date when="1853-06-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118554700">Alexander von Humboldt</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

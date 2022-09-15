@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Goethe in Wielands Briefwechsel (BW) – Band 17</title>
+                <editor>Robert Charlier<email>charlier@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <!-- Template for a TEI XML file according to the Correspondence Metadata Interchange (CMI) format -->
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (Berlin-Brandenburg Academy of Sciences and Humanities)</ref>
+                </publisher>
+                <idno type="url">https://correspsearch.net/storage/wieland17.xml</idno>
+                <date when="2017-05-31"/>
+                <availability>
+                    <!-- The CC BY 4.0 license is mandatory -->
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="WIELAND17" type="print" subtype="part">Wielands Briefwechsel. Siebzehnter Band (Januar 1806 – September 1809). Erster und zweiter Teil. Bearbeitet von Siegried Scheibe. Berlin 2001 bzw. 2003</bibl>
+                <!-- Gesamt-ISBN BW: [978-]3-05-000880-6; ISBN BW17.1: [978-]3-05-003591-9; ISBN BW17.2: [978-]3-05-003771-7 -->
+                <!-- Datei ist UNKOLLATONIERT -->
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+        <correspDesc source="#WIELAND17" key="12">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1806-01-18"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118770489">Christian August Vulpius</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="21">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118695916">Georg Joachim Göschen</persName>
+                <placeName ref="http://www.geonames.org/2879139">Leipzig</placeName>
+                <date when="1806-02"/>
+                <!-- Zur Datierung (BW17.1,35:) "Anfang Februar 1806" vgl. Komm. BW17.2,27 -->
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="25">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1806-02-06"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+        </correspDesc>        
+        <correspDesc source="#WIELAND17" key="28">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/116600217">Heinrich Geßner</persName>
+                <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                <date when="1806-02-18"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="52">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118849794">Prinz August von Sachsen-Gotha und Altenburg</persName>
+                <placeName ref="http://www.geonames.org/2918752">Gotha</placeName>
+                <date when="1806-04-07"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="58">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1806-04-23"/>
+                <!-- zur Datierung der (undatierten) Briefhandschrift vgl. Komm. BW17.2,62 -->
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118649485">Anna Amalia von Sachsen-Weimar und Eisenach</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+        </correspDesc>    
+        <correspDesc source="#WIELAND17" key="89">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1806-08-17"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/117313165">Adolph Friedrich Karl Streckfuß</persName>
+                <placeName ref="http://www.geonames.org/2804922">Zeitz</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="125">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1806-11-05"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118777505">Karl Ludwig von Knebel</persName>
+                <placeName ref="http://www.geonames.org/2895044">Jena</placeName>
+            </correspAction>
+        </correspDesc>    
+        <correspDesc source="#WIELAND17" key="266">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1807-11-27"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118807218">Ludwig Friedrich August Wieland</persName>
+                <placeName ref="http://www.geonames.org/2761369" cert="high">Wien</placeName>
+                <!-- zur Erschließung des Empfangsortes vgl. BW17.1,278, Brief-Nr [260] vom Sohn an den Vater vom 11. November 1807 -->
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="312">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1808-03-25"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118807218">Ludwig Friedrich August Wieland</persName>
+                <placeName ref="http://www.geonames.org/2761369" cert="high">Wien</placeName>
+                <!-- vgl. BW17.1,305, Brief-Nr. [294] vom Sohn an den Vater, datiert "Wien, vor 19. Februar 1808" -->
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="327">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1808-04-22"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118685899">Johannes Daniel Falk</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+        </correspDesc>    
+        <correspDesc source="#WIELAND17" key="349">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1808-05-31"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="*362">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482" cert="medium">Weimar</placeName>
+                <date when="1808-06-16" cert="medium"/>
+                <!-- zur Erschließung des Briefdatums bzw. der Unsicherheit der Ortsangabe vgl. Komm. BW17.2,282 -->
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/116450223">Joseph Friedrich von Retzer</persName>
+                <!--  merkwürdigerweise auch abweichende GND-Nr. zu offenbar identischer Person nachweisbar: http://d-nb.info/gnd/1089540574 -->
+                <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="365">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date from="1808-06-30" to="1808-07-01"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="369">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date from="1808-07-12" to="1808-07-15"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/1089584571">Elisabeth Charlotte Ferdinande zu Solms-Laubach</persName>
+                <placeName ref="http://www.geonames.org/2818042">Utphe</placeName>
+            </correspAction>
+        </correspDesc>    
+        <correspDesc source="#WIELAND17" key="381">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date from="1808-07-26" to="1808-07-29"/>
+                <!-- zum Datum ante quem vgl. Komm. BW17.2,302 -->
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/1089584571">Elisabeth Charlotte Ferdinande zu Solms-Laubach</persName>
+                <placeName ref="http://www.geonames.org/2818042">Utphe</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="387">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date from="1808-08-01" to="1808-08-03"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/1089584571">Elisabeth Charlotte Ferdinande zu Solms-Laubach</persName>
+                <placeName ref="http://www.geonames.org/2818042">Utphe</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="395">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date from="1808-08-13" to="1808-08-22"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/117462411">Volrath Friedrich Karl Ludwig zu Solms-Rödelheim</persName>
+                <placeName ref="http://www.geonames.org/2846092" cert="high">Rödelheim</placeName>
+            </correspAction>
+        </correspDesc> 
+        <correspDesc source="#WIELAND17" key="426">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1808-11"/>
+                <!-- zur Datierung auf (evtl. bereits Anfang) November 1808 vgl. Komm. BW17.2,352 -->
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="440">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1808-11-24"/>
+                <!-- zur (eindeutigen) Tagesdatierung vgl. Komm. BW17.2,361 -->
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/117462411">Volrath Friedrich Karl Ludwig zu Solms-Rödelheim</persName>
+                <placeName ref="http://www.geonames.org/2846092" cert="high">Rödelheim</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="446">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date from="1808-12-03" to="1808-12-16"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118599410">Karl Leonhard Reinhold</persName>
+                <placeName ref="http://www.geonames.org/2891122">Kiel</placeName>
+            </correspAction>
+        </correspDesc>    
+        <correspDesc source="#WIELAND17" key="449">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/1089715242">Herzog Karl August von Sachsen-Weimar und Eisenach</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1808-12-06"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <!-- weitere Adressaten: Johann Wolfgang von Goethe; Johann Christian Starck sowie Georg Wilhelm Vogel; zum Sachzusammenhang vgl. Komm. BW17.2,372 -->
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date notBefore="1808-12-22"/>
+                <!-- vgl. Komm. 17.2,372 "Zum Text" -->
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="450">
+          <correspAction type="sent">
+              <persName ref="http://d-nb.info/gnd/1089715242">Herzog Karl August von Sachsen-Weimar und Eisenach</persName>
+              <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+              <date when="1808-12-07"/>
+          </correspAction>
+          <correspAction type="received">
+              <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+              <!-- weitere Adressaten: J. W. v. Goethe; J. Chr. Starck sowie G. W. Vogel; vgl. zu Brief-Nr. 449 (es handelt sich um ein Postscriptum) -->
+              <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+          </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="457">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date from="1808-12-31" to="1809-01-02"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/1089584571">Elisabeth Charlotte Ferdinande zu Solms-Laubach</persName>
+                <placeName ref="http://www.geonames.org/2818042">Utphe</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="471">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1809-01-25"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+            </correspAction>
+        </correspDesc>    
+        <correspDesc source="#WIELAND17" key="491">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118599410">Karl Leonhard Reinhold</persName>
+                <placeName ref="http://www.geonames.org/2891122">Kiel</placeName>
+                <date when="1809-03-16"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="509">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1809-04-07"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/1089584571">Elisabeth Charlotte Ferdinande zu Solms-Laubach</persName>
+                <placeName ref="http://www.geonames.org/2818042">Utphe</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="519">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date from="1809-04-25" to="1809-05-04"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118824775">Karl August Böttiger</persName>
+                <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="530">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date from="1809-05-21" to="1809-05-26"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/117462411">Volrath Friedrich Karl Ludwig zu Solms-Rödelheim</persName>
+                <placeName ref="http://www.geonames.org/2846092">Rödelheim</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="580">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1809-09-18"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/116599995">Charlotte Wilhelmine Geßner</persName>
+                <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+            </correspAction>
+        </correspDesc>
+        <correspDesc source="#WIELAND17" key="*583">
+            <correspAction type="sent">
+                <persName ref="http://d-nb.info/gnd/118632477">Christoph Martin Wieland</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+                <date when="1809-09-27"/>
+                <!-- zur Datierung vgl. Komm. BW17.2,503 -->
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="http://d-nb.info/gnd/118550675">Henriette Karoline Friederike von Heygendorf</persName>
+                <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+            </correspAction>
+        </correspDesc>                  
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

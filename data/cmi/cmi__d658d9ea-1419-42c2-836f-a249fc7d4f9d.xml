@@ -1,0 +1,1423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-cmif-file">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Karl Barth Gesamtausgabe: Index der Briefe</title>
+        <editor>Andreas Kränzle <email>kraenzle@k-r.ch</email></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://karlbarth.unibas.ch/de/">Karl Barth-Archiv</ref>
+        </publisher>
+        <idno type="url">https://meta.karl-barth.ch/download/kbga-cmif.xml</idno>
+        <date when="2022-06-16"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="online" xml:id="d658d9ea-1419-42c2-836f-a249fc7d4f9d">Karl Barth-Gesamtausgabe, hrsg. im Auftrag der Karl Barth-Stiftung von H. Stoevesandt ✝ / H.-A. Drewes / P. Zocher, Zürich 1971ff. (Digitale Edition: Basel 2022ff.) , <ref target="https://kbga.karl-barth.ch">https://kbga.karl-barth.ch</ref></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1003" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1911-06-11"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+          <placeName ref="https://www.geonames.org/2660646">Genf</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1004" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1922-04-09"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+          <placeName ref="https://www.geonames.org/2918632">Göttingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1005" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1922-04-14"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+          <placeName ref="https://www.geonames.org/2918632">Göttingen</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1006" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1922-05-25"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+          <placeName ref="https://www.geonames.org/2918632">Göttingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1007" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1922-07-31"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1008" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1922-08-08"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+          <placeName ref="https://www.geonames.org/2660130">Klosters</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1009" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1922-09-10"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+          <placeName ref="https://www.geonames.org/2658518">Stäfa</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1010" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1922-10-25"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1011" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1922-12-31"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1012" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1923-07-08"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1013" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1923-07-16"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1014" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1923-10-09"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1015" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1923-10-31"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1016" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1923-11-03"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1017" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-01-08"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1018" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-01-09"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1019" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-04-15"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1020" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-04-18"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1021" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-04-25"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1022" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-07-04"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1023" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-07-15"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1024" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-07-18"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1025" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-07-28"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1026" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-09-20"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1027" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-09-25"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1028" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-01-24"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1029" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-01-26"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1030" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-02-03"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1031" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-04-10"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1032" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-04-21"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1033" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-07-19"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1034" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-07-29"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1035" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-08-11"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1036" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-08-22"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1037" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-09-23"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1038" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-09-25"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1039" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-10-19"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1040" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-10-26"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+          <placeName ref="https://www.geonames.org/2867543">Münster</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1041" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-12-03"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1042" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-12-10"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1043" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-12-24"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1044" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-12-29"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1045" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1926-12-10"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1046" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1927-01-06"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1047" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1927-04-21"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1048" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1927-04-28"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1049" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1927-05-01"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1050" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1927-05-26"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1051" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1927-07-20"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1052" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1927-07-24"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1053" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1927-11-27"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1054" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1928-05-24"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1055" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1928-05-26"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1056" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1928-06-08"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1057" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1928-06-12"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1058" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1928-06-24"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1059" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1928-07-22"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1060" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1928-07-24"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1061" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1928-12-09"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1062" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1929-03-07"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1063" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1929-11-14"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1064" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1929-11-23"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1065" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1929-11-25"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1066" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-02-03"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1067" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-02-05"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1068" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-02-16"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1069" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-02-17"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1070" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-07-14"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1071" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-08-09"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1072" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-09-27"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1073" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-09-30"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1074" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-10-02"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1075" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-10-03"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1076" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-05-27"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1077" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-06-14"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1078" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-06-20"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+          <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1079" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-10-18"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1080" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-10-18"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1081" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-10-20"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1082" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-10-25"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1083" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1933-07-13"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1084" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1933-11-13"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1085" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1933-11-14"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1086" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1933-11-17"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1087" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-02-24"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1088" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-02-27"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1089" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-04-04"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2809346">Wiesbaden</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1090" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-05-06"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1091" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-07-07"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1092" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-07-10"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1093" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-07-13"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1094" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-11-27"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1095" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-12-03"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1096" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-12-26"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1097" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1935-03-29"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2650225">Edinburgh</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1098" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1935-03-31"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1099" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1935-12-10"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1100" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1935-12-22"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1101" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1937-03-14"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1102" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1950-04-08"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1103" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1950-11-09"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1104" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1952-04-25"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1105" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1952-11-11"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1106" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1952-12-24"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1107" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1959-12-18"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1108" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1961-01-03"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1109" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1963-12-28"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1110" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1966-05-09"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1111" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-01-05"/>
+          <persName ref="http://d-nb.info/gnd/118614061">Friedrich Siegmund-Schultze</persName>
+          <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1112" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1923-12-22"/>
+          <persName ref="http://d-nb.info/gnd/119274515">Alfred Rahlfs</persName>
+          <persName>Theologische Fakultät der Universität Göttingen</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1113" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1923-12-31"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+          <placeName ref="https://www.geonames.org/2918632">Göttingen</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/119274515">Rahlfs, Alfred</persName>
+          <persName>Theologische Fakultät der Universität Göttingen</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1114" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1924-07-15"/>
+          <persName>O. Urbach</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1115" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-06-21"/>
+          <persName ref="http://d-nb.info/gnd/172359457">Rudolf Schlunck</persName>
+          <placeName ref="https://www.geonames.org/2872028">Melsungen</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1117" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1925-08-06"/>
+          <persName ref="http://d-nb.info/gnd/130011169">Johannes Müller</persName>
+          <placeName ref="https://www.geonames.org/2930870">Schloß Elmau</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1118" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1927-11-29"/>
+          <persName>Wolfgang Friedrich</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1119" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1928-07-16"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118540394">Gogarten, Friedrich</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1120" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1928-07-21"/>
+          <persName ref="http://d-nb.info/gnd/118540394">Friedrich Gogarten</persName>
+          <placeName ref="http://api.geonames.org/get?geonameId=2935728&amp;style=json">Dorndorf</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1121" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1929-11-28"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/35255-X">Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
+          <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1122" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1929-11-28"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/35255-X">Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
+          <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1123" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-07-20"/>
+          <persName ref="https://d-nb.info/gnd/118516175/about/lds.rdf">Emil Brunner</persName>
+          <placeName ref="https://www.geonames.org/2657896">Zürich</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1124" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-09-29"/>
+          <persName>Erna Schlier</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1125" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-10-03"/>
+          <persName ref="http://d-nb.info/gnd/118608231">Heinrich Schlier</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1126" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-10-07"/>
+          <persName ref="http://d-nb.info/gnd/118724703">Gerhard Krüger</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1127" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1930-11-16"/>
+          <persName ref="https://d-nb.info/gnd/118748645">Hans Freiherr von Soden</persName>
+          <persName ref="https://d-nb.info/gnd/118748645">Hans Freiherr von Soden</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/18616-8">Evangelische Landeskirche in Nassau</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1129" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-01-24"/>
+          <persName ref="https://d-nb.info/gnd/2024473-3">Theologische Fakultät der Universität Marburg</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Schmidt, Hans</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1130" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-01-24"/>
+          <persName ref="https://d-nb.info/gnd/36150-1">Evangelisch-Theologische Fakultät Bonn</persName>
+          <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/2024473-3">Theologische Fakultät der Universität Marburg</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1131" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-01-28"/>
+          <persName ref="https://d-nb.info/gnd/36150-1">Evangelisch-Theologische Fakultät Bonn</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Theologische Fachschaft in Marburg</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1132" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1931-06-19"/>
+          <persName>Friedrich Wilhelm Schmidt</persName>
+          <placeName ref="https://www.geonames.org/2911522">Halle/Saale</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1133" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-06-21"/>
+          <persName ref="http://d-nb.info/gnd/11880698X">Ernst Wolf</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1134" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-06-25"/>
+          <persName ref="https://d-nb.info/gnd/118748645">Hans Freiherr von Soden</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Kittel, Gerhard</persName>
+          <placeName ref="https://www.geonames.org/2820860">Tübingen</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1135" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-06-29"/>
+          <persName ref="http://d-nb.info/gnd/11880698X">Ernst Wolf</persName>
+          <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1136" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1934-11-26"/>
+          <persName ref="http://d-nb.info/gnd/11880698X">Ernst Wolf</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/118517406">Bultmann, Rudolf</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1137" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1947-05-07"/>
+          <persName ref="http://d-nb.info/gnd/118674862">Hans Bruns</persName>
+          <placeName ref="https://www.geonames.org/2873759">Marburg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118635646">Wurm, Theophil</persName>
+          <persName ref="https://d-nb.info/gnd/2031836-4">Rat der Evangelischen Kirche in Deutschland</persName>
+          <placeName ref="https://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1138" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1947-05-20"/>
+          <persName ref="http://d-nb.info/gnd/118635646">Theophil Wurm</persName>
+          <persName ref="https://d-nb.info/gnd/2031836-4">Rat der Evangelischen Kirche in Deutschland</persName>
+          <placeName ref="https://www.geonames.org/6558188">Bromerhof/Isnyberg</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+          <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1139" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1947-05-23"/>
+          <persName ref="http://d-nb.info/gnd/118650696">Hans Christian Asmussen</persName>
+          <placeName ref="https://www.geonames.org/2835482">Schwäbisch Gmünd</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+          <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1140" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1947-05-29"/>
+          <persName ref="http://d-nb.info/gnd/118506803">Karl Barth</persName>
+          <placeName ref="https://www.geonames.org/2946447">Bonn</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118635646">Wurm, Theophil</persName>
+          <placeName ref="https://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1141" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1947-06-01"/>
+          <persName ref="http://d-nb.info/gnd/118635646">Theophil Wurm</persName>
+          <placeName ref="https://www.geonames.org/2825297">Stuttgart</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="http://d-nb.info/gnd/118506803">Barth, Karl</persName>
+        </correspAction>
+      </correspDesc>
+      <correspDesc ref="https://kbga.karl-barth.ch/texts/1143" source="#d658d9ea-1419-42c2-836f-a249fc7d4f9d">
+        <correspAction type="sent">
+          <date when="1951-00-00"/>
+          <persName ref="https://d-nb.info/gnd/118517406">Rudolf Bultmann</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://d-nb.info/gnd/2024473-3">Theologische Fakultät der Universität Marburg</persName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>
