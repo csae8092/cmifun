@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="./static/css/style.css">
+    
+<script src="https://unpkg.com/deck.gl@^8.8.0/dist.min.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.13.0/mapbox-gl.js"></script>
+
+
+    <title>Absendeorte</title>
+    </head>
+
+    <body>
+    <div>
+      <nav class="navbar navbar-expand-lg bg-light p-3">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Über das Projekt</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Visualisierungen
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="towers.html">Orte (Sender)</a></li>
+            <li><a class="dropdown-item" href="arcs.html">Korrespondenzen (nach Jahren)</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+    
+      
+
+<div>
+  <div id="control-panel">
+    <div>
+      <label>Radius</label>
+      <input id="radius" type="range" min="100" max="15000" step="10" value="3500"></input>
+      <span id="radius-value"></span>
+    </div>
+    <div>
+      <label>ElevationSale</label>
+      <input id="elevationScale" type="range" min="0" max="100" step="1" value="50"></input>
+      <span id="elevationScale-value"></span>
+    </div>
+  </div>
+  <div id="filter-panel">
+    <div>
+      <label>
+        Absendeorte
+      </label>
+      <input type="checkbox" id="sender-vis" checked></input>
+    </div>
+    <div>
+      <label>
+        Empfangsorte
+      </label>
+      <input type="checkbox" id="receiver-vis" checked></input>
+    </div>
+  </div>
+  <div id="viscontainer"></div>
+</div>
+<script src="static/js/towers.js"></script>
+
+      
+      <div id="footer" class="py-3 my-4 border-top bg-light">
+  <div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4" style="text-align: center;">
+      <span>
+        <a href="https://github.com/csae8092/cmifun">
+          <i class="bi bi-github"></i>
+        </a>
+      </span>
+    </div>
+    <div class="col-md-4"></div>
+  </div>
+</div>
+      </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    
+    
+  </body>
+
+</html>
