@@ -29,6 +29,7 @@ for i, row in tqdm(df.iterrows(), total=len(df)):
     item['from'] = {
         "name": row['place_sender_name'],
         "name_sender": row['sender_name'],
+        "cor_title": row['cor_title'],
         "year": row['year'],
         "coordinates": [
             row['long_x'],
