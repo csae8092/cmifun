@@ -128,16 +128,3 @@ for x in tqdm(sorted(files), total=len(files)):
 
 df = pd.DataFrame(data)
 df.to_csv(CMI_MD_FILE, index=False, compression='zip')
-place_ids = set(list(df.place_sender_ref.unique()) + list(df.place_receiver_ref.unique()))
-places = []
-unique_places = set()
-for x in place_ids:
-    item = {
-        "orig_ref": x,
-        "norm_ref": get_normalized_uri(x)
-    }
-    unique_places.add(item["norm_ref"])
-    places.append(item)
-
-# place_ids = set(list(df.place_sender_ref.unique()) + list(df.place_receiver_ref.unique()))
-# person_ids = set(list(df.sender_ref.unique()) + list(df.receiver_ref.unique()))

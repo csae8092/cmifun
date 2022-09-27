@@ -1,0 +1,2757 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- Generated from table of letters with csv2cmi 2.1.0 as webservice at https://cmif.saw-leipzig.de-->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="title-d5f6-ac97-d3fce1b279">Friedrich Wilhelm
+                    IV. und Carl Wilhelm Saegert</title>
+                <editor>Marthe Küster<email>mkuester@bbaw.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+                <idno type="url">https://correspsearch.net/storage/friedrich_wilhelm_IV-saegert.xml</idno>
+                <date when="2022-09-22T12:53:08.018875"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="hybrid" xml:id="c2cab367-d0aa-4ab0-b72e-2fe17c5206cb">Der König und sein Beichtvater. Friedrich Wilhelm
+                    IV. und Carl Wilhelm Saegert. Briefwechsel 1848 bis 1856. Hg. v.
+                    Winfried Baumgart. Berlin: Duncker u. Humblot, 2016. (= Deutsche Geschichtsquellen des 19. und 20.
+                    Jahrhunderts, Bd. 72.) URL: <ref target="https://doi.org/10.3790/978-3-428-55044-9">https://doi.org/10.3790/978-3-428-55044-9</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="1" xml:id="letter-fb2e-356a-916b5728fd">
+                <correspAction xml:id="sender-58a4-9c0e-e201345cdf" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1848-11-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d59e-0a1e-587069f423" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="2" xml:id="letter-109a-108c-2c4609b8e5">
+                <correspAction xml:id="sender-d7e3-9260-c5160a4fb3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1848-11-29"/>
+                </correspAction>
+                <correspAction xml:id="addressee-625b-dc0e-61a9e238db" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="3" xml:id="letter-015b-b365-4d52f97e18">
+                <correspAction xml:id="sender-d90c-47a6-957f382aec" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1848-12-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2df5-cfe4-460287da5e" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="4" xml:id="letter-7bcf-e9a5-da3b476c9e">
+                <correspAction xml:id="sender-da92-2654-972d4ac583" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1849-01-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9f4e-dc17-0c4198e5fb" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="5" xml:id="letter-b634-f4d0-f6a1de0928">
+                <correspAction xml:id="sender-bd51-0eba-9803b5e1fa" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1849-01-07" notAfter="1849-01-08">[7./8. Januar 1849]</date>
+                </correspAction>
+                <correspAction xml:id="addressee-53f8-ba80-40e2cb7df5" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="6" xml:id="letter-a59c-8e49-1f3764e5c0">
+                <correspAction xml:id="sender-6ea3-640e-014c36ab8e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1849-02-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-026c-249d-72a58d6fe0" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="7" xml:id="letter-198b-0257-2d0a5f63c7">
+                <correspAction xml:id="sender-9a87-9da8-e0f8b1c9ad" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1849-02-26" notAfter="1849-02-27">[26./27. Februar 1849]</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c76d-86ab-ca258df97b" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="8" xml:id="letter-0453-3ad4-d0ac4218e3">
+                <correspAction xml:id="sender-36c2-3564-40f57b9a68" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1849-02-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-17c8-12be-dc58ef90a6" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="9" xml:id="letter-c263-c70e-cf45b238d7">
+                <correspAction xml:id="sender-c612-8c3f-b7296ad18f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1849-03-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-92be-8c74-329fe6b51a" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="10" xml:id="letter-b978-80cb-e162439a5d">
+                <correspAction xml:id="sender-96ba-b3e4-37dce26984" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1849-03-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-df38-029a-f7a802ebc4" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="11" xml:id="letter-5ac2-05d2-7ecb4d5028">
+                <correspAction xml:id="sender-1e28-7ab2-609ce2b73d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1849-04-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2ba8-20a5-eca6db4390" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="12" xml:id="letter-da42-eba5-c251807f96">
+                <correspAction xml:id="sender-d03a-368a-e7983bcd46" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1849-04-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1573-a5b1-947ab2c610" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="13" xml:id="letter-d817-541a-412a95c06b">
+                <correspAction xml:id="sender-4f57-a2c0-d957a3c2be" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1849-06-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-043b-32cf-a243678db1" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="14" xml:id="letter-fac9-043f-2415e9d873">
+                <correspAction xml:id="sender-9fc7-1d82-8a3190725c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1849-06-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d10e-a98b-ac04d9be13" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="15" xml:id="letter-eadf-75c6-6850f923da">
+                <correspAction xml:id="sender-4867-9263-da6feb9253" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1849-06-13" notAfter="1849-06-14">13./14. Juni 1849</date>
+                </correspAction>
+                <correspAction xml:id="addressee-0935-b73a-32ec89f750" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="16" xml:id="letter-0c56-9a4f-9f287db456">
+                <correspAction xml:id="sender-d230-e519-1b4f0e835d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1849-06-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b823-2a83-c01d7a9bfe" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="17" xml:id="letter-0e93-6c3b-273504cdfb">
+                <correspAction xml:id="sender-7319-1b35-4c8af073e6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1849-07-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f265-e4f6-af32c9eb48" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="18" xml:id="letter-605e-7a14-2cd61a40fb">
+                <correspAction xml:id="sender-bd34-91a6-05fe7a23c9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1849-08-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9b5a-eb03-b6a37c2fe9" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="19" xml:id="letter-2f95-02c4-24e0b73d69">
+                <correspAction xml:id="sender-ad45-c483-0c75f3aedb" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1849-09-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-db2a-2f18-9ef1c74d80" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="20" xml:id="letter-e174-4352-c38da276f4">
+                <correspAction xml:id="sender-ec40-c965-c5386140fd" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1849-11-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3d21-ac90-e0af6c7923" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="21" xml:id="letter-afb4-804c-d20fb786c5">
+                <correspAction xml:id="sender-7a29-3df4-6df19408ea" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1849-11-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-538e-6384-30b12f6a59" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="22" xml:id="letter-da03-f761-7ecb256a8f">
+                <correspAction xml:id="sender-8f64-9ce5-ec86013275" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1849-12-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8f4e-c315-024bdea3c8" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="23" xml:id="letter-5f7a-bd85-d502af1eb7">
+                <correspAction xml:id="sender-415c-d692-42590ebda6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1849-12-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7bcf-e31d-cb9f714d8e" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="24" xml:id="letter-fd10-074d-7829cf14db">
+                <correspAction xml:id="sender-19de-3501-af1354d20e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1849-12-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d649-68fd-a637412cf5" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="25" xml:id="letter-c2bf-ca84-813dac0e56">
+                <correspAction xml:id="sender-5da1-3719-e9b3f64801" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1849-12-30" notAfter="1849-12-31">30./31. Dezember 1849</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1b23-5c89-756a3fe29d" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="26" xml:id="letter-cb60-0a68-067e8492bf">
+                <correspAction xml:id="sender-dc47-8bea-cba13e62d0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1849-12-31"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a09e-6a73-896ad0b53c" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="27" xml:id="letter-d34e-8712-7ec5fb392d">
+                <correspAction xml:id="sender-27ba-cbd4-5a0bc36948" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-01-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7bfd-9bca-9c5a3b2681" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="28" xml:id="letter-86b3-d28f-a7c3de9256">
+                <correspAction xml:id="sender-c315-ecd6-a30b514826" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-01-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-496d-62de-120486bfca" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="29" xml:id="letter-ac47-a7f4-30d7a5e19b">
+                <correspAction xml:id="sender-c2e3-6fbe-bf79d513c4" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-01-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-29f1-4eca-5fa391b8c2" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="30" xml:id="letter-3b58-8adb-0dcef3a847">
+                <correspAction xml:id="sender-dab5-072b-1d82e9a063" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-01-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c914-85b9-fd125e8cb7" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="31" xml:id="letter-37e9-54e7-56172e8fc3">
+                <correspAction xml:id="sender-7309-3fa7-1596ad0c24" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1850-01-15"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6807-965e-7df5ca6819" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="32" xml:id="letter-16f0-7506-a7cb29e65f">
+                <correspAction xml:id="sender-f8a5-621e-b74f10c2ad" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-01-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2791-e647-bd79fea1c0" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="33" xml:id="letter-0b71-8097-c03b89f421">
+                <correspAction xml:id="sender-6452-718c-47816ce3af" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1850-01-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5ed1-c297-9fd0a5c214" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="34" xml:id="letter-5bde-f0b4-b2de59f418">
+                <correspAction xml:id="sender-c19d-51b8-236db90a54" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-01-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0aec-bd4a-58e2941a7c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="35" xml:id="letter-0286-ace7-612b709fd4">
+                <correspAction xml:id="sender-49ec-2985-cf09457a2b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1850-01-16" notAfter="1850-01-17">16./17. Januar 1850</date>
+                </correspAction>
+                <correspAction xml:id="addressee-c6db-b763-89073ad5c2" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="36" xml:id="letter-c86b-f2c7-a470fd92b5">
+                <correspAction xml:id="sender-bd6e-695e-be4fd96723" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-01-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b2e9-0b69-56a0fde83c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="37" xml:id="letter-6da2-a4cb-7bf92a6051">
+                <correspAction xml:id="sender-538d-1d2e-7d96054128" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-01-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-bed0-8302-c25b8a91d3" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="38" xml:id="letter-6d78-8b42-a3b71c082f">
+                <correspAction xml:id="sender-2cef-4d7c-e5674f218a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-01-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ce9a-5d36-456f37be2c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="39" xml:id="letter-9af2-b3ad-ad0c3fe491">
+                <correspAction xml:id="sender-eba4-9f1e-dfb042ae18" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1850-01-25"/>
+                </correspAction>
+                <correspAction xml:id="addressee-cf0e-e8b3-59f3aec46b" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="40" xml:id="letter-f632-a92c-61bc4af903">
+                <correspAction xml:id="sender-d786-e9ba-3189a746cd" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1850-01-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-51f0-2cea-d9ef3401b2" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="41" xml:id="letter-3162-ef48-b648ae7159">
+                <correspAction xml:id="sender-4ce0-ec27-0f6b2eda38" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-01-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-08ea-f953-8fa6cbe09d" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="42" xml:id="letter-f428-7dae-03259f61c7">
+                <correspAction xml:id="sender-64af-74b1-629780feb4" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-01-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-91ad-591c-bc845f21e3" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="43" xml:id="letter-96df-58e9-9cd7e608f4">
+                <correspAction xml:id="sender-fb12-902d-4ae9c702b6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1850-01-28" notAfter="1850-01-29">28./29. Januar 1850</date>
+                </correspAction>
+                <correspAction xml:id="addressee-321c-216e-fa0592b378" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="44" xml:id="letter-b4c7-1097-3d025b1e7f">
+                <correspAction xml:id="sender-5731-e491-5431bc2ef6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-01-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-509d-c736-90b8a34de7" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="45" xml:id="letter-670f-ea98-f1d53a790e">
+                <correspAction xml:id="sender-e7b4-0dfc-908b5ec4fa" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-01-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-762b-26a4-65de2183c9" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="46" xml:id="letter-feb1-1b9c-4382c9a05e">
+                <correspAction xml:id="sender-63b4-5e6b-0bf659c71a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-01-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a9d6-6b51-823fcd07b5" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="47" xml:id="letter-58c4-b83d-ae37f461c8">
+                <correspAction xml:id="sender-5f6a-697c-f6d82eb45a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6944092">Bellevue</placeName>
+                    <date when="1850-01-31"/>
+                </correspAction>
+                <correspAction xml:id="addressee-acb3-c5ea-52cb16493e" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="48" xml:id="letter-e4bc-8b1a-8d943baf7c">
+                <correspAction xml:id="sender-92e8-7d5b-af9806cb27" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-01-31"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2eb0-ca21-f3d2518094" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="49" xml:id="letter-10a5-94b1-1bdc723fe8">
+                <correspAction xml:id="sender-25fa-1b7e-60cb5e2d89" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1850-02-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e46a-f40d-a9342e51fd" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="50" xml:id="letter-bc75-62da-08157b4d63">
+                <correspAction xml:id="sender-983a-80fa-46f1b37058" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-03-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6385-6f7a-46ae8093dc" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="51" xml:id="letter-d03a-2d96-17403a65cb">
+                <correspAction xml:id="sender-e09f-63a0-bac938e7fd" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1850-03-03" notAfter="1850-03-04">3./4. März 1850</date>
+                </correspAction>
+                <correspAction xml:id="addressee-05c9-f86a-d1f029ac87" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="52" xml:id="letter-d613-04f3-9d267a5384">
+                <correspAction xml:id="sender-03c9-35c8-281eab493f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-05-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c148-7469-9e1a42c6fd" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="53" xml:id="letter-b05a-0af7-21be308af4">
+                <correspAction xml:id="sender-2675-9bd2-27df603c85" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-05-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b724-bc20-3f6b5207ec" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="54" xml:id="letter-a981-fa1d-62ecba4d70">
+                <correspAction xml:id="sender-7b68-8714-23780ae6c5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-07-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2ab4-e1f7-6ac9f0b45d" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="55" xml:id="letter-a467-47ef-8cb014e759">
+                <correspAction xml:id="sender-31eb-50e4-174e82359c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date>21./22. Juli 1850</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cf20-a327-1c23756a9f" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="56" xml:id="letter-2c4e-29f5-5bfe3a6782">
+                <correspAction xml:id="sender-3e1d-05b8-107649e8d3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-11-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7b2f-aec8-b90451ef82" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="57" xml:id="letter-db29-0795-84c52db903">
+                <correspAction xml:id="sender-f9d0-2ce4-d3f0187429" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1850-11-06" notAfter="1850-11-07">6./7. November 1850</date>
+                </correspAction>
+                <correspAction xml:id="addressee-598e-d307-97bf4631da" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="58" xml:id="letter-890c-0184-284a59c7d1">
+                <correspAction xml:id="sender-e08c-7145-e528340ab9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-11-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6e70-5901-a732fb0419" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="59" xml:id="letter-62ca-7c08-6afb7d048e">
+                <correspAction xml:id="sender-9abe-8924-80d93c14be" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-11-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ae69-de8b-d21ec5f478" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="60" xml:id="letter-aefd-96a3-7920be5df1">
+                <correspAction xml:id="sender-4c3f-8b71-b6dc71f590" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-11-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a50b-5e78-054a1879cf" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="61" xml:id="letter-2ea0-9ef7-0e89a423fd">
+                <correspAction xml:id="sender-2709-56b2-412a69bec8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-11-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7feb-6c80-4a1efd358c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="62" xml:id="letter-170c-3d85-18cf9d753a">
+                <correspAction xml:id="sender-325b-51b7-9af053217d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-11-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9018-10a9-b70596fd2c" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="63" xml:id="letter-d259-89e2-70ca293e56">
+                <correspAction xml:id="sender-08ca-9301-9364ad1bf8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-11-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1804-fa7e-03c8fa947d" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="64" xml:id="letter-a1e6-6b2d-fbd78125ea">
+                <correspAction xml:id="sender-e246-0d97-2b4310f5a6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1850-11-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b7e1-4ad0-2fc169a875" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="65" xml:id="letter-2e74-27d9-5a3be9f6d1">
+                <correspAction xml:id="sender-0b73-fd14-520d8ca6b1" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1850-11-22" notAfter="1850-11-23">22./23. November 1850</date>
+                </correspAction>
+                <correspAction xml:id="addressee-165c-c50b-a0ce168b23" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="66" xml:id="letter-de34-0ca9-0784bef512">
+                <correspAction xml:id="sender-8bd5-fa84-1dfb4e6027" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1850-11-25"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3d60-5f30-9b82c67f41" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="67" xml:id="letter-aeb1-f351-abc0e58179">
+                <correspAction xml:id="sender-cd0b-1f2a-fe6a0bd912" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1850-12-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9a6d-13ed-2f70be5ad6" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="68" xml:id="letter-c3d9-428c-b12e856f30">
+                <correspAction xml:id="sender-38f6-6af2-c30924afb6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1850-12-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-95da-1e7c-1cd7b026ef" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="69" xml:id="letter-ae67-2d8b-9e8a62c130">
+                <correspAction xml:id="sender-bc91-b3f5-0f4e5692b7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1850-12-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d176-3ced-376d4285ba" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="70" xml:id="letter-1f07-14cd-817b360eaf">
+                <correspAction xml:id="sender-627a-530f-4c826ba135" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1851-01-01"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4d12-85c3-c94a6b05d2" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="71" xml:id="letter-fa08-3be2-5d3cf69a40">
+                <correspAction xml:id="sender-7be3-c28f-b4d90a5678" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-01-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-30e2-d28e-af870e9314" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="72" xml:id="letter-dc90-c0e1-589f3d4721">
+                <correspAction xml:id="sender-710e-c716-c7f24689bd" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1851-01-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-be93-2a1f-ab8d15c30f" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="73" xml:id="letter-96fe-39d6-d695e7fb41">
+                <correspAction xml:id="sender-d58f-8215-f5eacb3481" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-02-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-efd1-d80a-4d56908e7a" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="74" xml:id="letter-b2e6-cd98-8f0267be15">
+                <correspAction xml:id="sender-c27e-d432-ba42f65c01" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1851-02-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9f03-f61d-3908a41fbd" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="75" xml:id="letter-2dba-70df-0eadb18253">
+                <correspAction xml:id="sender-ed5f-192a-1df93ba205" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-02-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-207a-2493-9ca7486513" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="76" xml:id="letter-d197-7a3e-cb542607e9">
+                <correspAction xml:id="sender-7f8d-0f86-c836159de7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-02-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5ce2-bd21-24c1b769f8" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="77" xml:id="letter-68d0-5146-8fc0192a56">
+                <correspAction xml:id="sender-504a-a8cd-b5ef897d14" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-02-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-45f8-b7c5-6d2591074c" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="78" xml:id="letter-e061-19bf-5b31e7fc24">
+                <correspAction xml:id="sender-368f-e248-4b5382ad76" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-02-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-04b9-f31d-183c64ed95" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="79" xml:id="letter-065e-3d92-f039cbae65">
+                <correspAction xml:id="sender-7e04-2593-a4068bf97e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-02-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ab93-43dc-2190bda67c" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="80" xml:id="letter-2a4d-b3c8-716f5c3b8a">
+                <correspAction xml:id="sender-18f2-4f37-e7461f5382" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-03-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2e46-4c9e-bc6e259147" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="81" xml:id="letter-3829-5c3f-0354987e1f">
+                <correspAction xml:id="sender-237a-78ed-359f260dae" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-03-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ba7d-589a-d4ca8795e0" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="82" xml:id="letter-98c2-da41-be068d4952">
+                <correspAction xml:id="sender-63b4-32bc-dc90426a85" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-03-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e3b5-f76e-ba5e397480" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="83" xml:id="letter-d74c-ca0d-3905b2da76">
+                <correspAction xml:id="sender-a196-25ca-3f801dc276" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1851-03-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-930b-2145-09783e46d1" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="84" xml:id="letter-f63e-6f97-bd14053c26">
+                <correspAction xml:id="sender-f216-81a0-913cb68e75" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-03-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a7bf-45a6-0bd618f3ae" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="85" xml:id="letter-b13d-7f85-75e2f809cd">
+                <correspAction xml:id="sender-e8c2-f2e8-09ebfc54a1" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-04-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f80b-52fe-d9b014cf53" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="86" xml:id="letter-510d-24a9-de85b43021">
+                <correspAction xml:id="sender-ef71-6241-ce5f428ad9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-04-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9f70-cfa1-4c85d27ba9" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="87" xml:id="letter-d236-eb94-b2c7a8de06">
+                <correspAction xml:id="sender-0d58-5f41-0a358c4e17" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1851-05-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8b45-31d9-e268b1acf0" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="88" xml:id="letter-f16a-b016-6bfca42d19">
+                <correspAction xml:id="sender-85b2-8fcb-fda917e085" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-05-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-57b4-c509-23c9876d4e" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="89" xml:id="letter-3c8b-712f-b41d5c2e86">
+                <correspAction xml:id="sender-eab3-e0cf-de85fb4371" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-06-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d4c7-dac5-15b73a682c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="90" xml:id="letter-3157-bd13-b79801da3f">
+                <correspAction xml:id="sender-2604-e914-4872ce1ba3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1851-06-02" notAfter="1851-06-03">2./3. Juni 1851</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f6e1-3fed-94fcea6713" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="91" xml:id="letter-974f-287c-3649eb258f">
+                <correspAction xml:id="sender-8106-87bc-8fe1c30962" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-06-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9ef8-6e15-78b4ef1d32" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="92" xml:id="letter-8017-84bd-7c8ed21f60">
+                <correspAction xml:id="sender-ab47-649f-d5706fa3e8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1851-06-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-65e3-7f56-1ad2068cfe" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="93" xml:id="letter-a8cb-b496-f8e90a51d2">
+                <correspAction xml:id="sender-d07b-84a2-d695a8c402" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-10-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2dca-ac84-4c3a9210bf" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="94" xml:id="letter-405d-8a52-4a6bd21e98">
+                <correspAction xml:id="sender-92f3-cda2-d35a9c0672" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1851-11-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7230-2d49-0a95c1be8f" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="95" xml:id="letter-ce93-ab5c-2a7c1d5f48">
+                <correspAction xml:id="sender-d6e8-f4d3-480a3dfb9c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1851-11-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4930-d085-f9210db84e" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="96" xml:id="letter-18c9-6b40-c74a928bde">
+                <correspAction xml:id="sender-bec6-1346-f456e82ac3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-11-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-dc73-dbf6-d9bca50e48" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="97" xml:id="letter-9d03-19fe-0d736589c2">
+                <correspAction xml:id="sender-1be0-e204-41f28a0dc9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1851-11-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-801b-694e-ac2d5e7984" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="98" xml:id="letter-842d-4efc-b3067195fe">
+                <correspAction xml:id="sender-54c1-54c8-1f8bcde634" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1851-11-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-17c3-f362-ab1832c5de" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="99" xml:id="letter-8a61-aedf-e8f064173a">
+                <correspAction xml:id="sender-7954-f724-0eb71983f2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-11-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f8e7-5a9b-abc7d2fe40" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="100" xml:id="letter-9fb4-3de6-52147968ad">
+                <correspAction xml:id="sender-2067-f30d-f23675be08" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1851-11-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-692e-d5bf-4bef1a0938" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="101" xml:id="letter-65a4-ac23-c81b7e6f0a">
+                <correspAction xml:id="sender-0f41-e5a1-b2ca306519" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6944092">Bellevue</placeName>
+                    <date when="1851-11-24"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a041-8a7b-9682741c5f" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="102" xml:id="letter-4abd-f367-108ef95b4a">
+                <correspAction xml:id="sender-df0b-10d6-f42389d5c1" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1851-12-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b3cf-38cf-3c5b6289a4" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="103" xml:id="letter-5a94-71ac-c0f21b5d94">
+                <correspAction xml:id="sender-c945-b645-79516ac38f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-12-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6457-1cda-1e4f70d236" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="104" xml:id="letter-936d-4782-b975d10ec3">
+                <correspAction xml:id="sender-e35b-05db-3817e06cbd" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-12-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2e18-ace9-0fc8576ea2" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="105" xml:id="letter-2196-4b8d-36cfe271da">
+                <correspAction xml:id="sender-576c-1c2f-15dcef496a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1851-12-24"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6a39-c8f1-cf1d0b347e" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="106" xml:id="letter-537f-fa7e-82a9cde710">
+                <correspAction xml:id="sender-2a01-607b-f843b9a107" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1852-01-01"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8ac4-6485-3d7afb5e02" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="107" xml:id="letter-25ea-c26f-8760cea5fb">
+                <correspAction xml:id="sender-0351-9b5e-fc58a19e36" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-01-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b71d-92b7-0b92c754f1" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="108" xml:id="letter-cf32-5ab0-095a8427b6">
+                <correspAction xml:id="sender-ad7c-eba3-1a4e83b672" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1852-01-15" notAfter="1852-01-16">15./16. Januar 1852</date>
+                </correspAction>
+                <correspAction xml:id="addressee-cd47-e729-6dce984570" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="109" xml:id="letter-3e87-f0cd-30fd17e2c4">
+                <correspAction xml:id="sender-716f-8c6a-52416d07bc" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1852-01-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c048-56db-ca9b871e0d" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="110" xml:id="letter-4315-96fa-3257a0cb4e">
+                <correspAction xml:id="sender-31e2-af24-a21d9e4735" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-01-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6257-17c6-02ec91345d" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="111" xml:id="letter-04c9-c9b7-f3a29b4c5e">
+                <correspAction xml:id="sender-d98e-17db-8d5429be1a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1852-01-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-741a-7aeb-c86a310e7d" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="112" xml:id="letter-534a-f50e-0a8c945e6f">
+                <correspAction xml:id="sender-5b8f-490e-257d4ba3e1" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6944092">Bellevue</placeName>
+                    <date when="1852-01-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-97fc-c548-c501b7f2d9" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="113" xml:id="letter-18e3-a8f9-b4aedf2609">
+                <correspAction xml:id="sender-ad20-81fa-d20e34768f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-02-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-903a-571a-4c6291f5bd" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="114" xml:id="letter-3c8d-82e9-ba32edf905">
+                <correspAction xml:id="sender-9f65-7048-970e8524b3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-02-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-bea2-0c4e-4e210b8dc6" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="115" xml:id="letter-47a2-c2f3-1bc6279ef5">
+                <correspAction xml:id="sender-f2b5-097e-8543e61720" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1852-02-07" notAfter="1852-02-08">7./8. Februar 1852</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ae2d-473e-7682b5fc34" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="116" xml:id="letter-e2fd-4905-3076a85bfd">
+                <correspAction xml:id="sender-481b-03be-4569eb80d7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-02-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a275-0fc6-b40c53de92" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="117" xml:id="letter-2d46-6102-1285cd3b76">
+                <correspAction xml:id="sender-92e0-d931-a9e76d4805" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1852-02-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f4b9-0864-ed17c245fb" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="118" xml:id="letter-2a0e-6e29-f5be718346">
+                <correspAction xml:id="sender-e7a9-8907-15e27ac468" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1852-02-20" notAfter="1852-02-21">20./21. Februar 1852</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9fea-83ef-4e239b60da" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="119" xml:id="letter-9de2-e6c9-3a10f64d7c">
+                <correspAction xml:id="sender-35fe-580d-e62375fa8b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-02-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4a59-5684-47a1fd2093" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="120" xml:id="letter-8f1b-b4a8-c146b73de8">
+                <correspAction xml:id="sender-e7f1-b485-1607b5c98f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-03-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a406-d34a-48f93c67a1" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="121" xml:id="letter-ed2a-3af1-afc3b4852e">
+                <correspAction xml:id="sender-7cb3-f9bc-10fe964d72" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1852-03-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6b70-4fc1-2c631d5948" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="122" xml:id="letter-7cd1-5e7c-16e8df34a5">
+                <correspAction xml:id="sender-4d37-dc05-4dac12836f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1852-03-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-12da-caf4-01e63c879d" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="123" xml:id="letter-7b02-5e9a-ad9308e714">
+                <correspAction xml:id="sender-61ec-6d7a-d423bfe795" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1852-03-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ef13-ceb2-f01cb684ae" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="124" xml:id="letter-1a7f-f534-518e20d6af">
+                <correspAction xml:id="sender-d6a8-1fba-5f172b893a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-03-15"/>
+                </correspAction>
+                <correspAction xml:id="addressee-126a-76c3-81ef065dc9" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="125" xml:id="letter-c413-d720-97b83452e0">
+                <correspAction xml:id="sender-f360-28e6-d180af3529" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1852-03-15" notAfter="1852-03-16">15./16. März 1852</date>
+                </correspAction>
+                <correspAction xml:id="addressee-16de-72e6-5ed84397fa" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="126" xml:id="letter-cad5-927c-fc3928e7ba">
+                <correspAction xml:id="sender-f275-bf9c-6bf1a4293d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1852-03-17"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c2bd-f61c-d26318ceb5" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="127" xml:id="letter-9f32-1e95-27903bda18">
+                <correspAction xml:id="sender-5c3e-a2d0-a1cfd04593" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1852-03-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-31c0-7fa5-305e986df1" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="128" xml:id="letter-b2f5-749c-095ed2cf74">
+                <correspAction xml:id="sender-31d8-985f-9350a4f6bc" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-03-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7c68-736c-342e1fba86" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="129" xml:id="letter-035b-6759-8bd032fe76">
+                <correspAction xml:id="sender-429c-2851-f8ce4a0925" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1852-03-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5f80-f3bc-0153dec28b" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="130" xml:id="letter-da81-261f-ce5310a984">
+                <correspAction xml:id="sender-8ba0-60b7-2548c671ab" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1852-03-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f18c-c6f2-5204fc1da6" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="131" xml:id="letter-0cb7-e7bf-54296e0cba">
+                <correspAction xml:id="sender-3eaf-d6e7-36451fcdbe" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1852-03-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-12ca-f2a5-7fc81345eb" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="132" xml:id="letter-136d-d74a-63adf92b71">
+                <correspAction xml:id="sender-9dfc-7adc-d53c4e81bf" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-04-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f61a-76e5-032c9ed6f1" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="133" xml:id="letter-e290-219e-c203f6b94d">
+                <correspAction xml:id="sender-cfd4-0f75-4d783b01ec" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-04-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-dc73-6342-b69c7f51d4" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="134" xml:id="letter-7491-4c1d-79d84f1e6c">
+                <correspAction xml:id="sender-5e86-4d78-e081d65237" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1852-04-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c958-54ef-e45321fabd" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="135" xml:id="letter-128a-a768-a51c236dbe">
+                <correspAction xml:id="sender-57b6-bf95-723a40fb68" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1852-04-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3ed4-ed1c-2b091fec73" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="136" xml:id="letter-97a0-ef46-1c675a0bd3">
+                <correspAction xml:id="sender-2b08-2ac9-41ae2635b7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-04-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6b0f-facb-279cde4081" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="137" xml:id="letter-be9d-7345-d9cf45eb31">
+                <correspAction xml:id="sender-a97e-95ae-b1dc9450ef" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-04-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3721-dab4-15d9e68a3c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="138" xml:id="letter-b71d-1632-e42d0f91ba">
+                <correspAction xml:id="sender-4cb8-6da7-7afde4108b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-04-29"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5264-10d8-f86e13270a" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="139" xml:id="letter-312d-715d-f4ac6908e2">
+                <correspAction xml:id="sender-d72c-69d4-406b53e7f8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1852-04-29" notAfter="1852-04-30">29./30. April 1852</date>
+                </correspAction>
+                <correspAction xml:id="addressee-d0e9-80ea-86fe01c79d" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="140" xml:id="letter-5ab8-cba2-3754a8b620">
+                <correspAction xml:id="sender-0df3-620e-84fb3951a0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-05-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5986-d05f-82c613b759" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="141" xml:id="letter-37a5-3941-605e4ac3b8">
+                <correspAction xml:id="sender-d5e3-b623-5ea67db08f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-05-09"/>
+                </correspAction>
+                <correspAction xml:id="addressee-793a-69f3-abe85d73cf" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="142" xml:id="letter-0ade-eda9-daef82c9b3">
+                <correspAction xml:id="sender-b497-9fb0-b643ae8cd5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-05-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9c1e-d463-e6d1309a5f" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="143" xml:id="letter-5bfc-362d-e5b209ad73">
+                <correspAction xml:id="sender-a08b-2c35-207e89b416" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1852-05-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-dbc5-b2af-0cd17eb86a" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="144" xml:id="letter-b705-8b6f-4ed2769c0b">
+                <correspAction xml:id="sender-8951-f1a3-945fad8107" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-05-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c78e-0653-7905ac3614" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="145" xml:id="letter-b3ad-d329-7de609b583">
+                <correspAction xml:id="sender-6174-b178-8305a1c67d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-07-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-034c-36fb-c3952fa4d0" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="146" xml:id="letter-a5ce-ac74-3f607c8a14">
+                <correspAction xml:id="sender-bcae-b71c-ed1a2b90fc" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1852-07-03" notAfter="1852-07-04">3./4. Juli 1852</date>
+                </correspAction>
+                <correspAction xml:id="addressee-93b6-da90-96305e2bad" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="147" xml:id="letter-fe47-e7b6-4f1ac9b0e8">
+                <correspAction xml:id="sender-f5a2-d5e2-ed4a796f03" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1852-11-15"/>
+                </correspAction>
+                <correspAction xml:id="addressee-35e6-b789-bd9ae58276" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="148" xml:id="letter-ba83-7b1d-028c163efa">
+                <correspAction xml:id="sender-8bda-a3c0-7f8ba95e4c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6944092">Bellevue</placeName>
+                    <date when="1852-11-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9715-b130-d0f986135b" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="149" xml:id="letter-5ec0-8dae-9fa8740c26">
+                <correspAction xml:id="sender-fabc-0139-2fab830176" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1852-12-01"/>
+                </correspAction>
+                <correspAction xml:id="addressee-fb13-ae29-df1b7302ec" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="150" xml:id="letter-5a30-a7f4-49e86a23c7">
+                <correspAction xml:id="sender-f063-3db8-0f9c324ad1" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1852-12-01" notAfter="1852-12-02">1./2. Dezember 1852</date>
+                </correspAction>
+                <correspAction xml:id="addressee-462d-d074-bae1c2f58d" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="151" xml:id="letter-21b7-9f78-0fa13e7c96">
+                <correspAction xml:id="sender-05fd-de05-94ad08527f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1852-12-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e261-d750-984c613bae" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="152" xml:id="letter-4da2-2cef-598216ca30">
+                <correspAction xml:id="sender-75b8-90b8-3715dae28f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-02-15"/>
+                </correspAction>
+                <correspAction xml:id="addressee-92c4-a6ed-17089fc342" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="153" xml:id="letter-17cf-4c09-a431e90c8d">
+                <correspAction xml:id="sender-be45-9fa3-af4591eb68" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-04-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2bf8-8f64-3ba2cfe6d9" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="154" xml:id="letter-6cde-adcb-456c2890d3">
+                <correspAction xml:id="sender-6012-acf2-4c1e8f9053" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1853-11-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-bf9d-342c-ef1543d627" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="155" xml:id="letter-d450-18da-e47ad89f12">
+                <correspAction xml:id="sender-a18f-9862-28f6b4cd0e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1853-12-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5bd8-50c2-24b79dae1c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="156" xml:id="letter-3756-0a7d-3271ef6cab">
+                <correspAction xml:id="sender-1c63-357e-0f5269ad43" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-01-17"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9418-c2b6-6d37f49081" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="157" xml:id="letter-5acd-f07e-15e843abc9">
+                <correspAction xml:id="sender-96df-469e-47f193acbe" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-01-25"/>
+                </correspAction>
+                <correspAction xml:id="addressee-03d8-6529-65d0e7c934" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="158" xml:id="letter-9504-8f04-23abfe785c">
+                <correspAction xml:id="sender-c46b-0cfa-49c72ad50e" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1854-01-25" notAfter="1854-01-26">25./26. Januar 1854</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ad32-fbc4-b81a50f7dc" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="159" xml:id="letter-94e3-f158-5f6d90c381">
+                <correspAction xml:id="sender-8f2d-3de5-ad9e403f52" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-02-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b8da-4c17-32469a1ec5" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="160" xml:id="letter-c918-0264-6bca083429">
+                <correspAction xml:id="sender-8b1f-d45b-0e3a157fb6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-02-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1e3f-d1b3-fe543d7026" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="161" xml:id="letter-8a29-2e48-c37420fd61">
+                <correspAction xml:id="sender-e9c5-560f-30628abc91" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-02-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-47e1-8475-253046e1fd" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="162" xml:id="letter-fc8a-26de-543ef67d18">
+                <correspAction xml:id="sender-6194-86b7-d27a4b6519" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-02-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-96ec-d9ca-e6bf3d4a89" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="163" xml:id="letter-b02a-bf37-bd1a2f6850">
+                <correspAction xml:id="sender-b091-6245-d90e25fa4c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-30b1-96b0-814b279d03" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="164" xml:id="letter-9fc6-efa7-f8709d61ba">
+                <correspAction xml:id="sender-a625-fb42-7fe61c480d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8f12-07d5-0234e9c867" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="165" xml:id="letter-d29b-6b3f-b3246c059f">
+                <correspAction xml:id="sender-85cd-5670-2d3fc01b57" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5d0a-c374-81e24a6f90" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="166" xml:id="letter-b695-8c69-fcdb9a1206">
+                <correspAction xml:id="sender-327c-4126-9f14c60b73" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0bd7-0b93-89dc517ef0" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="167" xml:id="letter-3a5e-e145-8bd97c351a">
+                <correspAction xml:id="sender-8695-7038-32c786d0ae" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1854-03-04" notAfter="1854-03-05">4./5. März 1854</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ca38-5d4c-794fa3ebc6" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="168" xml:id="letter-2049-65a7-19e86274da">
+                <correspAction xml:id="sender-83eb-91d6-387eab5902" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ef91-ca61-5a6cb43de9" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="169" xml:id="letter-6915-e420-d794208a6e">
+                <correspAction xml:id="sender-65eb-c820-6cb0a92f73" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3bdc-c364-1cdf930b8a" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="170" xml:id="letter-0235-26ed-2d6f05c918">
+                <correspAction xml:id="sender-1b4f-b295-b0c14379a6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1395-be18-b53ae8d149" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="171" xml:id="letter-d972-9a1b-4bc03fa2e6">
+                <correspAction xml:id="sender-c2ef-326d-751c0e42f8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b892-fbc0-3a1e62d48b" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="172" xml:id="letter-82ed-a8fe-a16e48b9cd">
+                <correspAction xml:id="sender-14a5-7dbf-ed2b1ca459" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6307-be02-6f74a51c02" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="173" xml:id="letter-be80-efd4-76fdb0a421">
+                <correspAction xml:id="sender-7c0e-7043-f8c204361d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7493-ec8a-fed84690a1" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="174" xml:id="letter-6ce9-a954-059e34f6d7">
+                <correspAction xml:id="sender-f703-9f01-8473d610ef" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ea39-f89e-41be683ad7" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="175" xml:id="letter-04a9-14d3-690ab384ec">
+                <correspAction xml:id="sender-80cb-f08c-abe6384df2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3194-6e17-690147cdb5" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="176" xml:id="letter-839e-8602-807126cd9e">
+                <correspAction xml:id="sender-3d24-2e7d-c082df159b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-bc5d-ef40-b4ecad5837" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="177" xml:id="letter-391d-037c-9c175ea4df">
+                <correspAction xml:id="sender-670a-b051-8715f6e4cb" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8509-f069-4ea1bc5278" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="178" xml:id="letter-c879-5fa2-8ced72145a">
+                <correspAction xml:id="sender-5dfe-a9cf-403621e87f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-09"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ac91-e73b-95df27e60a" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="179" xml:id="letter-38f7-d562-17c93af580">
+                <correspAction xml:id="sender-1f03-6acb-2834ac9706" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1854-03-17"/>
+                </correspAction>
+                <correspAction xml:id="addressee-cd3b-c36a-34ae659db7" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="180" xml:id="letter-5863-74a6-1a7e90423d">
+                <correspAction xml:id="sender-c23e-f731-269d731e8f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4703-8a2d-b4e29f761d" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="181" xml:id="letter-fb9a-a863-103f97a862">
+                <correspAction xml:id="sender-e17d-8cda-65e92f4d0b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-03-29"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ca8b-cb2d-b814f5de0c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="182" xml:id="letter-841b-b1f5-f6d91452ac">
+                <correspAction xml:id="sender-3c20-c0b7-8d13fb67e0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1854-04-01"/>
+                </correspAction>
+                <correspAction xml:id="addressee-86bd-a6c3-96517bc3d2" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="183" xml:id="letter-2fce-e9bf-e03fa965db">
+                <correspAction xml:id="sender-a7fb-a9e1-36e54f8129" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-04-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0f58-cf9b-679de43b0a" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="184" xml:id="letter-6c24-865e-3b04e86521">
+                <correspAction xml:id="sender-c524-9153-5c47de01a2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1854-04-06" notAfter="1854-04-07">6./7. April 1854</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1c62-bd0a-234e61db79" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="185" xml:id="letter-f93c-2197-96bed28371">
+                <correspAction xml:id="sender-06d9-0c6f-ef89c2bd15" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1854-04-06" notAfter="1854-04-07">6./7. April 1854</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5bf7-d6e9-e53fc62719" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="186" xml:id="letter-f0ae-1f5a-4df3186b79">
+                <correspAction xml:id="sender-bdf7-9573-179b568cda" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1854-04-12" notAfter="1854-04-13">12./13. April 1854</date>
+                </correspAction>
+                <correspAction xml:id="addressee-950f-a3d6-d35ab18947" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="187" xml:id="letter-b47a-0f79-710fbe935d">
+                <correspAction xml:id="sender-c349-e65f-0179cf6d48" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-05-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e8fb-a2c7-a897d3f54c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="188" xml:id="letter-7d96-e693-26f3bd518a">
+                <correspAction xml:id="sender-08d7-eb53-8275ecdf30" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-05-09"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e2a6-9f3e-53f7b2d908" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="189" xml:id="letter-b6e2-48d0-542c6f18ed">
+                <correspAction xml:id="sender-e82d-f3d1-7cb9e130ad" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1854-07-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c8b6-176e-291fed86b3" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="190" xml:id="letter-3964-21da-8e1f5bda43">
+                <correspAction xml:id="sender-a234-1af0-05abe92dc8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1854-08-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a9f6-6049-b2e105d83a" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="191" xml:id="letter-dcb4-e826-160f7e9dcb">
+                <correspAction xml:id="sender-e279-c9b3-6ad7e0c945" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-08-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b8fa-4109-dfb27a8c4e" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="192" xml:id="letter-a792-98b2-36ba174d0f">
+                <correspAction xml:id="sender-7f19-c4b8-ed06f14a39" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1854-10-31" notAfter="1854-11-01">31. Oktober/1. November
+                        1854</date>
+                </correspAction>
+                <correspAction xml:id="addressee-8ab9-a24d-cb16a0d9e8" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="193" xml:id="letter-16ea-3182-2149bf7538">
+                <correspAction xml:id="sender-2a4c-240f-304ab691e7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1854-11-09"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a217-02a7-3feab976c5" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="194" xml:id="letter-761f-a0fc-cfbde72804">
+                <correspAction xml:id="sender-de41-638a-9e04761fd2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1854-12-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-ba80-4a3b-d5e6a938f2" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="195" xml:id="letter-de13-6935-9ef35c6472">
+                <correspAction xml:id="sender-3aef-5b2e-a27819e45b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-12-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-64f7-1f20-d7938e0a2c" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="196" xml:id="letter-6cef-04f2-36120a984c">
+                <correspAction xml:id="sender-847c-9514-d0e437152a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1854-12-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0297-2c89-97a0bc13d6" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="197" xml:id="letter-47bf-409d-f2a0b8d5e7">
+                <correspAction xml:id="sender-e9bc-245c-fe04bc1832" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-12-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-31df-05ab-608fd4c2ba" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="198" xml:id="letter-574c-d74b-73a89f50de">
+                <correspAction xml:id="sender-f2c8-864d-be0d127f3a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-12-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9e8f-c26b-52a0c47def" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="199" xml:id="letter-fd17-3186-a7dfc9b431">
+                <correspAction xml:id="sender-b237-7b04-6d074a2e3c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1854-12-11" notAfter="1854-12-12">11./12. Dezember 1854</date>
+                </correspAction>
+                <correspAction xml:id="addressee-9562-29fc-cf1725306e" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="200" xml:id="letter-3861-7c40-c3f6097b25">
+                <correspAction xml:id="sender-24cb-7c1e-5473869a10" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1854-12-12"/>
+                </correspAction>
+                <correspAction xml:id="addressee-905a-4c79-3b4efa5109" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="201" xml:id="letter-39f5-f594-2f603b759c">
+                <correspAction xml:id="sender-6028-487f-de39c76f24" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-12-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f176-761a-da1ec72389" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="202" xml:id="letter-5962-75e8-6b5fec21a8">
+                <correspAction xml:id="sender-9283-1af4-18bc52afd0" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1854-12-13" notAfter="1854-12-14">13./14. Dezember 1854</date>
+                </correspAction>
+                <correspAction xml:id="addressee-f0ad-1034-15470bcdf6" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="203" xml:id="letter-f480-02e5-f43c0eb12a">
+                <correspAction xml:id="sender-6780-8951-0e9ac3b7f5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1854-12-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2167-f0ba-a89bf34d6c" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="204" xml:id="letter-60b1-a1f3-5017f3c962">
+                <correspAction xml:id="sender-5f83-95e4-16743f8cd9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1854-12-28"/>
+                </correspAction>
+                <correspAction xml:id="addressee-136e-7619-c26d45f87b" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="205" xml:id="letter-1962-0461-f21b8ed76c">
+                <correspAction xml:id="sender-2e48-ed0f-db5814f906" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1854-12-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f51c-c97d-a2458d6103" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="206" xml:id="letter-e0df-d326-9fe2d7810a">
+                <correspAction xml:id="sender-279c-a36e-7598cf6420" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1854-12-30" notAfter="1854-12-31">30./31. Dezember 1854</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6297-cd82-178e203fda" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="207" xml:id="letter-1974-8093-4cab1350d8">
+                <correspAction xml:id="sender-a34d-604b-c687132db5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1855-01-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-0a1b-e15a-e8bdc04731" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="208" xml:id="letter-af3d-29c5-e5af7361dc">
+                <correspAction xml:id="sender-58b6-94b1-b3a97fe2c6" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-01-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f349-68b1-45ef1cbd03" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="209" xml:id="letter-92ba-09b5-eac342b589">
+                <correspAction xml:id="sender-71d0-a2df-462ce1ab0f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-01-04"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f9be-c1a3-a148c97b60" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="210" xml:id="letter-53fa-5139-f163728ad5">
+                <correspAction xml:id="sender-3d28-62cb-5cba80e317" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1855-01-04" notAfter="1855-01-05">4./5. Januar 1855</date>
+                </correspAction>
+                <correspAction xml:id="addressee-68b2-36c9-b2f064918a" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="211" xml:id="letter-3c5e-c9eb-6c314bd80a">
+                <correspAction xml:id="sender-06bc-25cf-94d6f782a3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1855-01-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a703-e396-fc9807e4a1" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="212" xml:id="letter-9b58-cf0a-a84d17c536">
+                <correspAction xml:id="sender-8c7f-714d-90173bdf2a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-01-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e047-fc0b-e4f80c7adb" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="213" xml:id="letter-c153-a68c-07658fd492">
+                <correspAction xml:id="sender-29a0-321b-57eba120df" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1855-01-06" notAfter="1855-01-07">6./7. Januar 1855</date>
+                </correspAction>
+                <correspAction xml:id="addressee-1243-2a04-a59ce184fb" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="214" xml:id="letter-419c-c138-e084263cfb">
+                <correspAction xml:id="sender-c763-daf8-741b3ad290" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1855-01-09"/>
+                </correspAction>
+                <correspAction xml:id="addressee-28b5-479e-6a0d4b9738" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="215" xml:id="letter-1906-78e5-4812b7f9ec">
+                <correspAction xml:id="sender-c7e4-104b-e9f3dc756a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6944092">Bellevue</placeName>
+                    <date when="1855-01-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9fc4-085d-810dfea76c" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="216" xml:id="letter-f795-7cfd-64a5130dc8">
+                <correspAction xml:id="sender-98b6-b168-b9f72d0e86" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6944092">Bellevue</placeName>
+                    <date when="1855-01-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f5c6-87fa-9f0ebca461" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="217" xml:id="letter-c126-3608-b734e18296">
+                <correspAction xml:id="sender-a1e4-bf6c-6e04b8dc92" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-01-17"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c246-cd06-2e954db37f" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="218" xml:id="letter-5614-a780-76f0adec93">
+                <correspAction xml:id="sender-d3b4-e321-a2e9d43b67" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-01-17"/>
+                </correspAction>
+                <correspAction xml:id="addressee-78da-e1dc-6234d50eba" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="219" xml:id="letter-92b4-d972-7b04dec916">
+                <correspAction xml:id="sender-7e28-7ad5-890c1bf427" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1855-01-17"/>
+                </correspAction>
+                <correspAction xml:id="addressee-eb56-af86-d5a21ec4b3" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="220" xml:id="letter-ad85-f05e-641392bafe">
+                <correspAction xml:id="sender-1f37-3b57-5d8cb064e7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1855-01-17" notAfter="1855-01-18">17./18. Januar 1855</date>
+                </correspAction>
+                <correspAction xml:id="addressee-6d8a-5624-164ecab902" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="221" xml:id="letter-c1f0-d7c1-b17429830c">
+                <correspAction xml:id="sender-2067-b37c-50efc34d27" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1855-01-17" notAfter="1855-01-18">17./18. Januar 1855</date>
+                </correspAction>
+                <correspAction xml:id="addressee-60f9-15c2-e6d09f3b1a" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="222" xml:id="letter-9f42-f8c6-12567c4e0d">
+                <correspAction xml:id="sender-d2e1-7ca8-51d9c6e7b8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-01-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4c51-e087-c15db4e2a9" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="223" xml:id="letter-d2ab-9f27-3fe7145b08">
+                <correspAction xml:id="sender-a16e-9c24-9d57ab281c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-01-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2e5c-32d6-819e7560f4" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="224" xml:id="letter-034a-b134-bec8a97054">
+                <correspAction xml:id="sender-efc4-1d8b-c89b6d17ae" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-01-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-64c1-1395-89b03a4edf" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="225" xml:id="letter-754c-521c-321ef08b9d">
+                <correspAction xml:id="sender-8cd2-3096-5c714bfd90" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1855-01-20"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f265-4baf-2fea7b1084" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="226" xml:id="letter-b587-fa18-745d2693e1">
+                <correspAction xml:id="sender-6185-d7a2-3fa96e4572" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1855-01-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9eca-2418-d91f532e40" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="227" xml:id="letter-9701-0815-5e9bc08312">
+                <correspAction xml:id="sender-9dfb-b423-64f3ba70e9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1855-01-29"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5326-8e04-cdbf04791e" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="228" xml:id="letter-76fc-e6b7-367e50c48d">
+                <correspAction xml:id="sender-8640-ac69-3edb8514a7" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1855-02-05" notAfter="1855-02-06">5./6. Februar 1855</date>
+                </correspAction>
+                <correspAction xml:id="addressee-2d01-1293-31d5c97f0b" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="229" xml:id="letter-5e7b-2d4f-409bcf5d27">
+                <correspAction xml:id="sender-1b58-9d83-49decaf63b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-02-13"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2c3b-b6f2-45e632a8b7" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="230" xml:id="letter-0831-154e-42c9061da8">
+                <correspAction xml:id="sender-1047-8562-8f290ca157" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1855-02-15"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2dc3-7903-b43d2f67c0" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="231" xml:id="letter-2365-27bd-95d06e18cb">
+                <correspAction xml:id="sender-4235-65e1-68a39f1be5" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1855-02-20" notAfter="1855-02-21">20./21. Februar 1855</date>
+                </correspAction>
+                <correspAction xml:id="addressee-5cea-fb90-2d548a6f17" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="232" xml:id="letter-fc50-3fd1-3b6a407fc5">
+                <correspAction xml:id="sender-dac9-c90e-cde6f451b2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-02-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d60e-abc3-cf7960e28a" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="233" xml:id="letter-0427-f4b3-1e2c78b65d">
+                <correspAction xml:id="sender-09f7-db20-40267bdfae" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-02-27"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d7be-3d25-ce53db6897" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="234" xml:id="letter-0148-c9a7-9fbc15d284">
+                <correspAction xml:id="sender-031b-a4d6-5e209d68b3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-03-01"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1abc-67f4-c65bdf7918" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="235" xml:id="letter-9528-b63a-bd3f1269a7">
+                <correspAction xml:id="sender-6cef-e4ad-40fcd3e591" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-03-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-7310-fa92-39f1576aeb" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="236" xml:id="letter-c04a-047f-c249d106f5">
+                <correspAction xml:id="sender-c236-1c97-219c0fe583" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-03-02"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a87e-d632-287d695e34" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="237" xml:id="letter-04ec-b3ef-af0826b4d5">
+                <correspAction xml:id="sender-fea4-6a98-b84951370f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-03-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-8f5d-afe5-e6ab4093d2" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="238" xml:id="letter-9a3c-f382-17fa604cbd">
+                <correspAction xml:id="sender-c0ea-1bf4-5827c90f31" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1855-03-03"/>
+                </correspAction>
+                <correspAction xml:id="addressee-58e3-0256-8710f5e26c" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="239" xml:id="letter-ab91-6b45-394df1b0e5">
+                <correspAction xml:id="sender-d3c0-572d-c6f804bd2a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1855-03-05"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9a47-b0ac-e76c3d50b9" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="240" xml:id="letter-ba3f-3981-01ab6857f2">
+                <correspAction xml:id="sender-a1bd-f2b7-1394f2e07a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-03-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-62b0-8750-c8d9aef315" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="241" xml:id="letter-4b27-1258-95f6e1cd82">
+                <correspAction xml:id="sender-516d-b5ae-adf21054e3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1855-03-06" notAfter="1855-03-07">6./7. März 1855</date>
+                </correspAction>
+                <correspAction xml:id="addressee-60be-3265-80f934a7e2" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="242" xml:id="letter-608c-97db-f4a9156dc2">
+                <correspAction xml:id="sender-637f-36f1-6810c5abe2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-03-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-cf5d-f1cd-35a7bcf180" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="243" xml:id="letter-7431-be7d-8d25c16af4">
+                <correspAction xml:id="sender-41c3-b07f-c2957a603d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1855-03-25"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6ac3-5189-e7925c8a10" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="244" xml:id="letter-2637-0ba6-1f9b65a72c">
+                <correspAction xml:id="sender-9e7d-3c41-fc52e4b079" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2852458">Potsdam</placeName>
+                    <date when="1855-04-18"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3fc1-4809-1f39657eb8" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="245" xml:id="letter-a6b5-42e9-60845c1b2e">
+                <correspAction xml:id="sender-8907-4a65-bc961d0248" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-04-19"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4726-fe18-f189bd3527" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="246" xml:id="letter-16ae-ae57-ed4289b6f3">
+                <correspAction xml:id="sender-0ed7-352c-5e402637bc" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1855-04-22"/>
+                </correspAction>
+                <correspAction xml:id="addressee-04dc-1b78-0237a891be" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="247" xml:id="letter-9d47-d7a6-54cd231b09">
+                <correspAction xml:id="sender-efab-04ae-60a832954c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1855-04-23" notAfter="1855-04-24">23./24. April 1855</date>
+                </correspAction>
+                <correspAction xml:id="addressee-e50f-2643-a1fcd978b3" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="248" xml:id="letter-65cb-851d-06bd57a98c">
+                <correspAction xml:id="sender-30a5-26ed-e935c7fbda" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1855-05-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6f9a-1684-a206e84bc7" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="249" xml:id="letter-f508-3cb7-34ecfa7b58">
+                <correspAction xml:id="sender-8013-ed3a-9cd36fb841" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1855-05-29"/>
+                </correspAction>
+                <correspAction xml:id="addressee-9a13-0d2a-23f9d68cb5" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="250" xml:id="letter-db56-49e6-d0738c2695">
+                <correspAction xml:id="sender-a3eb-312b-eba073894f" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1855-06-06"/>
+                </correspAction>
+                <correspAction xml:id="addressee-3a68-6e7c-1f80eb3cd9" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="251" xml:id="letter-734e-29f4-f46739bc2a">
+                <correspAction xml:id="sender-cb9a-9ae7-b39617feca" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>Erdmannsdorf</placeName>
+                    <date when="1855-08-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-4321-6d3b-731dca8654" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="252" xml:id="letter-5014-294c-29dceb34a5">
+                <correspAction xml:id="sender-08a6-a5c2-5d9f13604c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1855-09-07"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b5d4-19fb-2b15960da4" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="253" xml:id="letter-b3fa-f3e9-6a15894cf7">
+                <correspAction xml:id="sender-87ed-b5a1-1db67a2843" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-09-08"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f045-c40a-957a2c36f8" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="254" xml:id="letter-ed1b-e720-14586fc7b3">
+                <correspAction xml:id="sender-9514-9fe3-a1985f47b3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1855-09-10"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2fb9-6aed-802bc4a159" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="255" xml:id="letter-f072-a7cd-6a24589ecf">
+                <correspAction xml:id="sender-7546-e3d6-8eb09763dc" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-09-11"/>
+                </correspAction>
+                <correspAction xml:id="addressee-54fb-431f-d13b756048" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="256" xml:id="letter-23a1-38df-53cda02614">
+                <correspAction xml:id="sender-5ba7-0e54-a932b18f64" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1855-09-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-1f74-b154-84eb6c9a72" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="257" xml:id="letter-da2c-16ca-fd23065719">
+                <correspAction xml:id="sender-2eb3-e476-351f76d02b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-09-16"/>
+                </correspAction>
+                <correspAction xml:id="addressee-80d9-ad3f-6743e5b9ca" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="258" xml:id="letter-2806-e560-c1b7390f4d">
+                <correspAction xml:id="sender-bde1-1f5e-fc8a4e721d" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-10-14"/>
+                </correspAction>
+                <correspAction xml:id="addressee-e37a-f291-4ae8db63cf" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="259" xml:id="letter-8a71-e701-4c70deaf23">
+                <correspAction xml:id="sender-9407-8cb3-7af5e3c642" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date when="1855-10-15"/>
+                </correspAction>
+                <correspAction xml:id="addressee-5a90-ab8e-f6e12c7904" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="260" xml:id="letter-c6eb-641c-15ea3027b8">
+                <correspAction xml:id="sender-a4d9-d1c7-3f906dec75" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/6295638">Sanssouci</placeName>
+                    <date when="1855-10-24"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6938-fcb6-ea80271dcf" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="261" xml:id="letter-2f7e-58df-9cfde58472">
+                <correspAction xml:id="sender-f4b5-192a-c673ab5098" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-10-26"/>
+                </correspAction>
+                <correspAction xml:id="addressee-6e32-58b2-e1a07b2459" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="262" xml:id="letter-05fb-987e-7cd18ba5e9">
+                <correspAction xml:id="sender-a3bf-ca89-f6d9124a8c" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1855-10-26" notAfter="1855-10-27">26./27. Oktober 1855</date>
+                </correspAction>
+                <correspAction xml:id="addressee-ad49-4615-c751302edf" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="263" xml:id="letter-c3d5-374e-fa07e6819c">
+                <correspAction xml:id="sender-c913-a120-a926078e31" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-11-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-d9b4-9816-d356704b91" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="264" xml:id="letter-7e09-92c5-d479c8b5f6">
+                <correspAction xml:id="sender-9edc-f451-9d4f68e215" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-11-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-2609-f2e8-fb74e12986" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="265" xml:id="letter-f84a-45c0-8460f19ec2">
+                <correspAction xml:id="sender-4ca2-2d6f-135ecaf29b" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName>o.O.</placeName>
+                    <date notBefore="1855-11-23" notAfter="1855-11-24">23./24. November 1855</date>
+                </correspAction>
+                <correspAction xml:id="addressee-7c83-1039-16892b4dc5" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="266" xml:id="letter-2ea0-38ba-5e761fd380">
+                <correspAction xml:id="sender-b5fe-1b9a-a65b91f723" type="sent">
+                    <persName>Ernst Richard von Schöning</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1855-12-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-f5ca-8ade-983d4c0a17" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="267" xml:id="letter-e731-ea05-276b04ef51">
+                <correspAction xml:id="sender-19a2-983b-d9f5c487e3" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-12-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-dc74-12d0-e648f9cbd2" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="268" xml:id="letter-ab31-862f-dae670b2c8">
+                <correspAction xml:id="sender-d280-f1b4-e349c1fd8a" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                    <date when="1855-12-30"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a847-5b83-2cb31507a9" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="269" xml:id="letter-6db7-cf39-e7863c4b9d">
+                <correspAction xml:id="sender-20ec-0843-ed5608f3b9" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1855-12-31"/>
+                </correspAction>
+                <correspAction xml:id="addressee-b25c-e6b0-48e50facb3" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="270" xml:id="letter-c7b5-b2a1-35bf467290">
+                <correspAction xml:id="sender-7042-24d5-2f3c6a95d4" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1856-01-21"/>
+                </correspAction>
+                <correspAction xml:id="addressee-c321-d0fe-48c7bdefa1" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="271" xml:id="letter-dea3-8de6-8ae76fb320">
+                <correspAction xml:id="sender-296d-2c3d-ae6cb480f2" type="sent">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1856-01-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a136-1382-a51082d6c9" type="received">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c2cab367-d0aa-4ab0-b72e-2fe17c5206cb" key="272" xml:id="letter-72a3-43e7-a981e2f57d">
+                <correspAction xml:id="sender-e059-dbfc-10b25cf3d8" type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535994">Friedrich Wilhelm IV.</persName>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                    <date when="1856-01-23"/>
+                </correspAction>
+                <correspAction xml:id="addressee-a7e5-bac9-5ed49b8c1a" type="received">
+                    <persName ref="http://d-nb.info/gnd/141376139">Carl Wilhelm Saegert</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
